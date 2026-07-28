@@ -1,0 +1,714 @@
+{
+  "demo": true,
+  "generatedAt": "2026-07-28T01:15:47.418Z",
+  "snapshotDate": "2026-07-28",
+  "snapshotsAvailable": 30,
+  "raidWeekendsAvailable": 4,
+  "warsArchived": 7,
+  "config": {
+    "DONATION_TARGET_30D": 400,
+    "RAID_WEEKEND_WINDOW": 4,
+    "CLAN_WEIGHTS": {
+      "donations": 0.4,
+      "raids": 0.35,
+      "contributions": 0.25
+    },
+    "RAID_SPLIT": {
+      "participation": 0.7,
+      "efficiency": 0.3
+    },
+    "WAR_ATTACK_WINDOW": 10,
+    "WAR_WEIGHTS": {
+      "reliability": 0.6,
+      "performance": 0.4
+    },
+    "CONFIDENCE_ATTACKS": 8,
+    "NEUTRAL_SCORE": 50,
+    "PERFECT_ATTACK_POINTS": 4,
+    "TH_MULT_PER_LEVEL": 0.3,
+    "TH_MULT_MIN": 0.4,
+    "TH_MULT_MAX": 1.8,
+    "MISS_PENALTY": -3,
+    "GRACE_DAYS": 14,
+    "MIN_WAR_ATTACKS": 4
+  },
+  "members": [
+    {
+      "tag": "#DEMO001",
+      "name": "Ikena",
+      "role": "leader",
+      "th": 16,
+      "firstSeen": "2025-12-30",
+      "daysPresent": 210,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 5,
+      "warsTotal": 7,
+      "clan": {
+        "total": 100,
+        "pillars": {
+          "donations": 100,
+          "raids": 100,
+          "contributions": 100
+        },
+        "tier": "Legendary"
+      },
+      "war": {
+        "total": 100,
+        "status": null,
+        "cap": null,
+        "pillars": {
+          "reliability": 100,
+          "performance": 100
+        },
+        "available": 10,
+        "used": 10,
+        "misses": 0,
+        "tier": "Legendary"
+      }
+    },
+    {
+      "tag": "#DEMO005",
+      "name": "dark angel",
+      "role": "member",
+      "th": 16,
+      "firstSeen": "2026-03-22",
+      "daysPresent": 128,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 5,
+      "warsTotal": 7,
+      "clan": {
+        "total": 97.3,
+        "pillars": {
+          "donations": 100,
+          "raids": 98,
+          "contributions": 92
+        },
+        "tier": "Legendary"
+      },
+      "war": {
+        "total": 99.6,
+        "status": null,
+        "cap": null,
+        "pillars": {
+          "reliability": 100,
+          "performance": 99
+        },
+        "available": 10,
+        "used": 10,
+        "misses": 0,
+        "tier": "Legendary"
+      }
+    },
+    {
+      "tag": "#DEMO002",
+      "name": "DaHairyVeer2",
+      "role": "coLeader",
+      "th": 17,
+      "firstSeen": "2026-01-29",
+      "daysPresent": 180,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 5,
+      "warsTotal": 7,
+      "clan": {
+        "total": 96.7,
+        "pillars": {
+          "donations": 100,
+          "raids": 97,
+          "contributions": 92
+        },
+        "tier": "Legendary"
+      },
+      "war": {
+        "total": 100,
+        "status": null,
+        "cap": null,
+        "pillars": {
+          "reliability": 100,
+          "performance": 100
+        },
+        "available": 10,
+        "used": 10,
+        "misses": 0,
+        "tier": "Legendary"
+      }
+    },
+    {
+      "tag": "#DEMO014",
+      "name": "Didetz",
+      "role": "member",
+      "th": 15,
+      "firstSeen": "2026-06-19",
+      "daysPresent": 39,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 5,
+      "warsTotal": 7,
+      "clan": {
+        "total": 96.3,
+        "pillars": {
+          "donations": 100,
+          "raids": 92,
+          "contributions": 97
+        },
+        "tier": "Legendary"
+      },
+      "war": {
+        "total": 100,
+        "status": null,
+        "cap": null,
+        "pillars": {
+          "reliability": 100,
+          "performance": 100
+        },
+        "available": 10,
+        "used": 10,
+        "misses": 0,
+        "tier": "Legendary"
+      }
+    },
+    {
+      "tag": "#DEMO008",
+      "name": "FazeTibbles",
+      "role": "member",
+      "th": 15,
+      "firstSeen": "2026-05-01",
+      "daysPresent": 88,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 5,
+      "warsTotal": 7,
+      "clan": {
+        "total": 96.2,
+        "pillars": {
+          "donations": 100,
+          "raids": 94,
+          "contributions": 93
+        },
+        "tier": "Legendary"
+      },
+      "war": {
+        "total": 88,
+        "status": null,
+        "cap": "Rare",
+        "pillars": {
+          "reliability": 80,
+          "performance": 100
+        },
+        "available": 10,
+        "used": 8,
+        "misses": 2,
+        "tier": "Rare"
+      }
+    },
+    {
+      "tag": "#DEMO003",
+      "name": "jadav m",
+      "role": "coLeader",
+      "th": 16,
+      "firstSeen": "2026-02-22",
+      "daysPresent": 156,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 5,
+      "warsTotal": 7,
+      "clan": {
+        "total": 95.2,
+        "pillars": {
+          "donations": 100,
+          "raids": 96,
+          "contributions": 86
+        },
+        "tier": "Legendary"
+      },
+      "war": {
+        "total": 88.8,
+        "status": null,
+        "cap": null,
+        "pillars": {
+          "reliability": 100,
+          "performance": 72
+        },
+        "available": 10,
+        "used": 10,
+        "misses": 0,
+        "tier": "Legendary"
+      }
+    },
+    {
+      "tag": "#DEMO004",
+      "name": "thegodlynoob",
+      "role": "member",
+      "th": 15,
+      "firstSeen": "2026-03-08",
+      "daysPresent": 142,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 5,
+      "warsTotal": 7,
+      "clan": {
+        "total": 93.6,
+        "pillars": {
+          "donations": 100,
+          "raids": 89,
+          "contributions": 90
+        },
+        "tier": "Legendary"
+      },
+      "war": {
+        "total": 87.6,
+        "status": null,
+        "cap": null,
+        "pillars": {
+          "reliability": 100,
+          "performance": 69
+        },
+        "available": 10,
+        "used": 10,
+        "misses": 0,
+        "tier": "Legendary"
+      }
+    },
+    {
+      "tag": "#DEMO006",
+      "name": "LegitN00b98",
+      "role": "member",
+      "th": 14,
+      "firstSeen": "2026-03-31",
+      "daysPresent": 119,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 5,
+      "warsTotal": 7,
+      "clan": {
+        "total": 91.2,
+        "pillars": {
+          "donations": 100,
+          "raids": 84,
+          "contributions": 88
+        },
+        "tier": "Legendary"
+      },
+      "war": {
+        "total": 87.1,
+        "status": null,
+        "cap": null,
+        "pillars": {
+          "reliability": 100,
+          "performance": 68
+        },
+        "available": 10,
+        "used": 10,
+        "misses": 0,
+        "tier": "Legendary"
+      }
+    },
+    {
+      "tag": "#DEMO012",
+      "name": "elf00",
+      "role": "member",
+      "th": 14,
+      "firstSeen": "2026-05-31",
+      "daysPresent": 58,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 5,
+      "warsTotal": 7,
+      "clan": {
+        "total": 89.7,
+        "pillars": {
+          "donations": 100,
+          "raids": 79,
+          "contributions": 88
+        },
+        "tier": "Legendary"
+      },
+      "war": {
+        "total": 68.2,
+        "status": null,
+        "cap": "Uncommon",
+        "pillars": {
+          "reliability": 70,
+          "performance": 66
+        },
+        "available": 10,
+        "used": 7,
+        "misses": 3,
+        "tier": "Uncommon"
+      }
+    },
+    {
+      "tag": "#DEMO017",
+      "name": "Bennett",
+      "role": "member",
+      "th": 11,
+      "firstSeen": "2026-07-06",
+      "daysPresent": 22,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 2,
+      "warsTotal": 7,
+      "clan": {
+        "total": 84.4,
+        "pillars": {
+          "donations": 89,
+          "raids": 74,
+          "contributions": 93
+        },
+        "tier": "Epic"
+      },
+      "war": {
+        "total": 73.2,
+        "status": null,
+        "cap": null,
+        "pillars": {
+          "reliability": 75,
+          "performance": 71
+        },
+        "available": 4,
+        "used": 4,
+        "misses": 0,
+        "tier": "Epic"
+      }
+    },
+    {
+      "tag": "#DEMO007",
+      "name": "Coleman7575",
+      "role": "member",
+      "th": 17,
+      "firstSeen": "2026-04-22",
+      "daysPresent": 97,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 5,
+      "warsTotal": 7,
+      "clan": {
+        "total": 83.8,
+        "pillars": {
+          "donations": 100,
+          "raids": 100,
+          "contributions": 35
+        },
+        "tier": "Epic"
+      },
+      "war": {
+        "total": 76,
+        "status": null,
+        "cap": "Rare",
+        "pillars": {
+          "reliability": 100,
+          "performance": 40
+        },
+        "available": 10,
+        "used": 10,
+        "misses": 0,
+        "tier": "Rare"
+      }
+    },
+    {
+      "tag": "#DEMO009",
+      "name": "spy angel",
+      "role": "member",
+      "th": 13,
+      "firstSeen": "2026-05-13",
+      "daysPresent": 76,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 4,
+      "warsTotal": 7,
+      "clan": {
+        "total": 83.8,
+        "pillars": {
+          "donations": 95,
+          "raids": 65,
+          "contributions": 92
+        },
+        "tier": "Epic"
+      },
+      "war": {
+        "total": 86.8,
+        "status": null,
+        "cap": null,
+        "pillars": {
+          "reliability": 100,
+          "performance": 67
+        },
+        "available": 8,
+        "used": 8,
+        "misses": 0,
+        "tier": "Legendary"
+      }
+    },
+    {
+      "tag": "#DEMO018",
+      "name": "Julio",
+      "role": "member",
+      "th": 13,
+      "firstSeen": "2026-07-10",
+      "daysPresent": 18,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 2,
+      "warsTotal": 7,
+      "clan": {
+        "total": 81,
+        "pillars": {
+          "donations": 79,
+          "raids": 74,
+          "contributions": 94
+        },
+        "tier": "Epic"
+      },
+      "war": {
+        "total": 85,
+        "status": null,
+        "cap": null,
+        "pillars": {
+          "reliability": 75,
+          "performance": 100
+        },
+        "available": 4,
+        "used": 4,
+        "misses": 0,
+        "tier": "Legendary"
+      }
+    },
+    {
+      "tag": "#DEMO010",
+      "name": "mustafa",
+      "role": "member",
+      "th": 12,
+      "firstSeen": "2026-05-18",
+      "daysPresent": 71,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 4,
+      "warsTotal": 7,
+      "clan": {
+        "total": 80.9,
+        "pillars": {
+          "donations": 73,
+          "raids": 79,
+          "contributions": 96
+        },
+        "tier": "Epic"
+      },
+      "war": {
+        "total": 100,
+        "status": null,
+        "cap": null,
+        "pillars": {
+          "reliability": 100,
+          "performance": 100
+        },
+        "available": 8,
+        "used": 8,
+        "misses": 0,
+        "tier": "Legendary"
+      }
+    },
+    {
+      "tag": "#DEMO015",
+      "name": "RedDawn",
+      "role": "member",
+      "th": 12,
+      "firstSeen": "2026-06-27",
+      "daysPresent": 31,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 0,
+      "warsTotal": 7,
+      "clan": {
+        "total": 80.5,
+        "pillars": {
+          "donations": 85,
+          "raids": 71,
+          "contributions": 86
+        },
+        "tier": "Epic"
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#DEMO011",
+      "name": "Tres",
+      "role": "member",
+      "th": 16,
+      "firstSeen": "2026-05-25",
+      "daysPresent": 64,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 5,
+      "warsTotal": 7,
+      "clan": {
+        "total": 53.3,
+        "pillars": {
+          "donations": 100,
+          "raids": 0,
+          "contributions": null
+        },
+        "tier": "Uncommon"
+      },
+      "war": {
+        "total": 99.4,
+        "status": null,
+        "cap": null,
+        "pillars": {
+          "reliability": 100,
+          "performance": 99
+        },
+        "available": 10,
+        "used": 10,
+        "misses": 0,
+        "tier": "Legendary"
+      }
+    },
+    {
+      "tag": "#DEMO013",
+      "name": "Gray",
+      "role": "member",
+      "th": 13,
+      "firstSeen": "2026-06-14",
+      "daysPresent": 44,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 3,
+      "warsTotal": 7,
+      "clan": {
+        "total": 38.7,
+        "pillars": {
+          "donations": 38,
+          "raids": 25,
+          "contributions": 60
+        },
+        "tier": "Common"
+      },
+      "war": {
+        "total": 67.3,
+        "status": null,
+        "cap": "Rare",
+        "pillars": {
+          "reliability": 88,
+          "performance": 37
+        },
+        "available": 6,
+        "used": 6,
+        "misses": 0,
+        "tier": "Rare"
+      }
+    },
+    {
+      "tag": "#DEMO016",
+      "name": "Kaz",
+      "role": "member",
+      "th": 16,
+      "firstSeen": "2026-07-01",
+      "daysPresent": 27,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 5,
+      "warsTotal": 7,
+      "clan": {
+        "total": 25.8,
+        "pillars": {
+          "donations": 17,
+          "raids": 23,
+          "contributions": 44
+        },
+        "tier": "Common"
+      },
+      "war": {
+        "total": 26.2,
+        "status": null,
+        "cap": "Uncommon",
+        "pillars": {
+          "reliability": 40,
+          "performance": 6
+        },
+        "available": 10,
+        "used": 4,
+        "misses": 6,
+        "tier": "Common"
+      }
+    },
+    {
+      "tag": "#DEMO019",
+      "name": "Mia",
+      "role": "member",
+      "th": 10,
+      "firstSeen": "2026-07-19",
+      "daysPresent": 9,
+      "inGrace": true,
+      "gracePeriodEndsIn": 5,
+      "warsJoined": 1,
+      "warsTotal": 7,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 79,
+          "raids": 76,
+          "contributions": 93
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 2,
+        "used": 2,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#DEMO020",
+      "name": "Chris",
+      "role": "member",
+      "th": 12,
+      "firstSeen": "2026-07-25",
+      "daysPresent": 3,
+      "inGrace": true,
+      "gracePeriodEndsIn": 11,
+      "warsJoined": 0,
+      "warsTotal": 7,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 100,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    }
+  ]
+}

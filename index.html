@@ -3,18 +3,22 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Clan USA — CWL leaderboard</title>
+<title>Clan USA — member scores</title>
 <style>
   :root {
     --bg: #0f1115;
     --card: #171a21;
+    --card-2: #1d212a;
     --border: #2a2d36;
     --text: #e8e8ea;
     --text-secondary: #9a9ba5;
-    --gold: #eab308;
-    --silver: #94a3b8;
-    --bronze: #c2733a;
     --danger: #ef4444;
+
+    --legendary: #EF9F27;
+    --epic: #8981E0;
+    --rare: #4A93DE;
+    --uncommon: #7FB03A;
+    --common: #888780;
   }
   * { box-sizing: border-box; }
   body {
@@ -22,246 +26,367 @@
     color: var(--text);
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
     margin: 0;
-    padding: 24px 16px 60px;
+    padding: 24px 16px 80px;
+    -webkit-font-smoothing: antialiased;
   }
-  .wrap { max-width: 800px; margin: 0 auto; }
+  .wrap { max-width: 840px; margin: 0 auto; }
+
   h1 { font-size: 22px; font-weight: 600; margin: 0 0 4px; }
-  .subtitle { color: var(--text-secondary); font-size: 13px; margin: 0 0 24px; }
-  .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px,1fr)); gap: 12px; margin-bottom: 24px; }
-  .stat-card { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 14px 16px; }
-  .stat-label { font-size: 12px; color: var(--text-secondary); margin: 0; }
-  .stat-value { font-size: 22px; font-weight: 600; margin: 4px 0 0; }
+  .subtitle { color: var(--text-secondary); font-size: 13px; margin: 0 0 18px; }
+
+  nav { display: flex; gap: 6px; margin-bottom: 22px; }
+  nav a {
+    font-size: 13px; text-decoration: none; color: var(--text-secondary);
+    padding: 6px 14px; border-radius: 8px; border: 1px solid var(--border);
+  }
+  nav a:hover { background: var(--card); color: var(--text); }
+  nav a.active { background: var(--card); color: var(--text); border-color: #3a3e49; }
+
+  select {
+    background: var(--card); color: var(--text); border: 1px solid var(--border);
+    border-radius: 8px; padding: 9px 12px; font-size: 14px; width: 100%;
+    font-family: inherit;
+  }
+  label.pick { display: block; font-size: 12px; color: var(--text-secondary); margin: 0 0 6px; }
+
+  .cards { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 18px 0 0; }
+  @media (max-width: 620px) { .cards { grid-template-columns: 1fr; } }
+
+  .score-card { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 16px 18px; }
+  .score-head { display: flex; align-items: baseline; justify-content: space-between; gap: 8px; }
+  .score-label { font-size: 13px; color: var(--text-secondary); }
+  .score-value { font-size: 28px; font-weight: 600; margin: 2px 0 16px; letter-spacing: -0.5px; }
+  .score-value.none { font-size: 18px; color: var(--text-secondary); font-weight: 400; }
+
+  .badge {
+    font-size: 12px; font-weight: 600; padding: 3px 11px; border-radius: 6px;
+    white-space: nowrap;
+  }
+  .b-legendary { background: rgba(239,159,39,0.16); color: var(--legendary); }
+  .b-epic      { background: rgba(137,129,224,0.16); color: var(--epic); }
+  .b-rare      { background: rgba(74,147,222,0.16); color: var(--rare); }
+  .b-uncommon  { background: rgba(127,176,58,0.16); color: var(--uncommon); }
+  .b-common    { background: rgba(136,135,128,0.18); color: var(--common); }
+  .b-none      { background: rgba(136,135,128,0.14); color: var(--text-secondary); }
+
+  .pillars { display: grid; grid-template-columns: auto minmax(0,1fr) 30px; gap: 8px 10px; align-items: center; font-size: 13px; }
+  .pillars .pname { color: var(--text-secondary); white-space: nowrap; }
+  .bar { background: #0f1115; border-radius: 3px; height: 7px; display: block; overflow: hidden; }
+  .bar > span { display: block; height: 100%; border-radius: 3px; }
+  .pval { text-align: right; font-variant-numeric: tabular-nums; }
+
+  .card-foot {
+    border-top: 1px solid var(--border); margin-top: 14px; padding-top: 12px;
+    font-size: 13px; color: var(--text-secondary);
+  }
+  .card-foot strong { color: var(--text); font-weight: 600; }
+
+  h2 { font-size: 16px; font-weight: 600; margin: 34px 0 10px; }
+
   table { width: 100%; border-collapse: collapse; font-size: 14px; }
-  th { text-align: left; padding: 10px 8px; color: var(--text-secondary); font-weight: 500; font-size: 12px; border-bottom: 1px solid var(--border); }
+  th {
+    text-align: left; padding: 9px 8px; color: var(--text-secondary);
+    font-weight: 500; font-size: 12px; border-bottom: 1px solid var(--border);
+    white-space: nowrap;
+  }
   td { padding: 10px 8px; border-bottom: 1px solid var(--border); }
   th.num, td.num { text-align: right; }
-  .medal { padding: 2px 10px; border-radius: 6px; font-size: 12px; font-weight: 600; }
-  .medal-gold { background: rgba(234,179,8,0.15); color: var(--gold); }
-  .medal-silver { background: rgba(148,163,184,0.15); color: var(--silver); }
-  .medal-bronze { background: rgba(194,115,58,0.15); color: var(--bronze); }
-  .miss { color: var(--danger); }
-  .pending { color: #eab308; }
-  .updated { color: var(--text-secondary); font-size: 12px; margin-top: 24px; text-align: center; }
-  .error { background: rgba(239,68,68,0.1); border: 1px solid var(--danger); color: var(--danger); padding: 12px 16px; border-radius: 8px; font-size: 13px; }
-  .info-card { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 16px 18px; margin-bottom: 24px; }
-  .info-card h2 { font-size: 15px; margin: 0 0 10px; }
-  .info-card p { font-size: 13px; color: var(--text-secondary); margin: 0 0 8px; line-height: 1.6; }
-  .formula { background: rgba(255,255,255,0.05); border-radius: 6px; padding: 8px 12px; font-family: monospace; font-size: 12px; margin: 6px 0 10px; color: var(--text); }
-  .medal-key { display: flex; gap: 16px; flex-wrap: wrap; margin-top: 8px; }
-  .medal-key span { display: flex; align-items: center; gap: 6px; font-size: 12px; color: var(--text-secondary); }
-  .round-section { margin-top: 32px; }
-  .round-section h2 { font-size: 16px; margin: 0 0 4px; }
-  .round-section .round-sub { font-size: 12px; color: var(--text-secondary); margin: 0 0 12px; }
-  .toggle-rounds { background: transparent; border: 1px solid var(--border); color: var(--text); border-radius: 8px; padding: 6px 14px; font-size: 13px; cursor: pointer; margin-top: 20px; }
-  .toggle-rounds:hover { background: var(--card); }
+  tr.me td { background: rgba(137,129,224,0.07); }
+  .mobile-label { display: none; color: var(--text-secondary); }
+
+  @media (max-width: 620px) {
+    .mobile-label { display: inline; }
+    table thead { display: none; }
+    table, tbody, tr, td { display: block; width: 100%; }
+    tr { border-bottom: 1px solid var(--border); padding: 10px 0; }
+    td { border: none; padding: 2px 0; }
+    td.name-cell { font-size: 15px; font-weight: 500; margin-bottom: 4px; }
+    td.mobile-line { font-size: 13px; color: var(--text-secondary); }
+    td.num { text-align: left; }
+    td.hide-mobile { display: none; }
+  }
+
+  details {
+    background: var(--card); border: 1px solid var(--border);
+    border-radius: 12px; padding: 14px 18px; margin-top: 30px;
+  }
+  summary { cursor: pointer; font-size: 14px; font-weight: 500; }
+  details p { font-size: 13px; color: var(--text-secondary); line-height: 1.65; margin: 10px 0; }
+  details code {
+    background: rgba(255,255,255,0.06); border-radius: 4px; padding: 1px 6px;
+    font-size: 12px; color: var(--text);
+  }
+  .tier-key { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; }
+
+  .notice {
+    background: rgba(255,255,255,0.03); border: 1px solid var(--border);
+    border-radius: 10px; padding: 12px 16px; font-size: 13px;
+    color: var(--text-secondary); margin-top: 16px;
+  }
+  .error {
+    background: rgba(239,68,68,0.1); border: 1px solid var(--danger);
+    color: var(--danger); padding: 12px 16px; border-radius: 8px; font-size: 13px;
+  }
+  .updated { color: var(--text-secondary); font-size: 12px; margin-top: 30px; text-align: center; }
 </style>
 </head>
 <body>
 <div class="wrap">
-  <h1>Clan USA — CWL leaderboard</h1>
-  <p class="subtitle" id="round-info">Loading...</p>
+  <h1>Clan USA</h1>
+  <p class="subtitle" id="subtitle">Loading...</p>
 
-  <div class="info-card">
-    <h2>How points and medals work</h2>
-    <p>Each attack is scored using stars, destruction percent, and a Town Hall gap adjustment so hitting up in TH is worth more than farming a lower TH.</p>
-    <div class="formula">points = (stars + destruction% / 100) &times; TH-gap multiplier</div>
-    <div class="formula">TH-gap multiplier = 1 + 0.3 &times; (defender TH &minus; attacker TH), clamped between 0.4 and 1.8</div>
-    <p>A missed attack is a flat <strong style="color: var(--danger);">&minus;3</strong> points, no matter the Town Hall matchup.</p>
-    <p>Example: a 3-star, 100% destruction attack against an equal Town Hall = (3 + 1.00) &times; 1.0 = <strong>4.0 points</strong>. That's the benchmark for a textbook-perfect attack.</p>
-    <p>Medals are awarded based on <strong>average points per attack</strong> across the whole CWL, not the raw total, so it stays fair regardless of how many rounds have happened:</p>
-    <div class="medal-key">
-      <span><span class="medal medal-gold">Gold</span> avg &ge; 4.0</span>
-      <span><span class="medal medal-silver">Silver</span> avg 2.8&ndash;3.9</span>
-      <span><span class="medal medal-bronze">Bronze</span> avg 1.5&ndash;2.7</span>
-      <span>&mdash; below 1.5, or missed attacks bring your average down</span>
-    </div>
-    <p style="margin-top:10px;">While a round is still open, anyone who hasn't attacked yet shows as <span class="pending" style="font-weight:600;">Not yet attacked</span> rather than a miss — it only counts against someone once that round's war has actually ended.</p>
-  </div>
-
-  <div class="stats">
-    <div class="stat-card">
-      <p class="stat-label">Members tracked</p>
-      <p class="stat-value" id="stat-members">-</p>
-    </div>
-    <div class="stat-card">
-      <p class="stat-label">Total attacks</p>
-      <p class="stat-value" id="stat-attacks">-</p>
-    </div>
-    <div class="stat-card">
-      <p class="stat-label">Total misses</p>
-      <p class="stat-value" id="stat-misses">-</p>
-    </div>
-  </div>
+  <nav>
+    <a href="./index.html" class="active">Members</a>
+    <a href="./cwl.html">CWL</a>
+  </nav>
 
   <div id="content">
-    <table>
-      <thead>
-        <tr>
-          <th>#</th>
-          <th>Name</th>
-          <th class="num">Attacks</th>
-          <th class="num">Misses</th>
-          <th class="num">Total pts</th>
-          <th class="num">Avg/attack</th>
-          <th class="num">Medal</th>
-        </tr>
-      </thead>
-      <tbody id="leaderboard-body"></tbody>
-    </table>
-  </div>
+    <label class="pick" for="member-select">Find yourself</label>
+    <select id="member-select"><option>Loading...</option></select>
 
-  <div class="round-section" id="rounds-container"></div>
+    <div class="cards" id="cards"></div>
+
+    <h2>Everyone</h2>
+    <div id="table-wrap"></div>
+
+    <details>
+      <summary>How scoring works</summary>
+
+      <p><strong>Two separate scores.</strong> Clan score is about contribution and is the basis for staying in the clan. War score is about war only and affects whether you get picked for the next war. They are independent: not warring does not hurt your clan score, and a great war record does not cover for contributing nothing.</p>
+
+      <div class="tier-key">
+        <span class="badge b-legendary">Legendary 85+</span>
+        <span class="badge b-epic">Epic 70 to 84</span>
+        <span class="badge b-rare">Rare 55 to 69</span>
+        <span class="badge b-uncommon">Uncommon 40 to 54</span>
+        <span class="badge b-common">Common below 40</span>
+      </div>
+
+      <p>Tiers are fixed targets, not a ranking. Everyone can be Legendary at the same time. Nobody drops because someone else improved.</p>
+
+      <p><strong>Clan score</strong> = 40% donations, 35% raids, 25% capital contributions.<br>
+      Donations counts troops given only, never what you receive. Raids is attacks used out of attacks available across recent weekends. Capital contributions is gold given compared to gold you looted, so it measures whether you spend what you earn rather than how much you raid.</p>
+
+      <p><strong>War score</strong> = 60% reliability, 40% performance.<br>
+      Reliability is attacks used out of attacks you were rostered for. Performance scores each attack as
+      <code>(stars + destruction/100) &times; TH multiplier</code>, where the multiplier is
+      <code>1 + 0.3 &times; (defender TH &minus; attacker TH)</code>, capped between 0.4 and 1.8.</p>
+
+      <p>That means a perfect 3-star at 100% against an equal Town Hall is worth 4.0 points, the benchmark. Attacking up is worth more, and farming a much lower Town Hall is worth much less, so clearing easy bases will not carry your score.</p>
+
+      <p><strong>Caps.</strong> Two or more misses in your last 10 rostered attacks caps your war tier at Rare. Three or more caps it at Uncommon. A performance score under 50, which is the consistent-farming range, also caps at Rare regardless of how reliable you are.</p>
+
+      <p><strong>New members</strong> are not scored for the first 14 days. Pillars still show so you can see data accumulating, but no tier is assigned until there is enough history to be fair about it.</p>
+    </details>
+  </div>
 
   <p class="updated" id="updated-at"></p>
 </div>
 
 <script>
-function clamp(x, lo, hi) { return Math.max(lo, Math.min(hi, x)); }
+const TIERS = [
+  { name: 'Legendary', min: 85, cls: 'b-legendary', color: '#EF9F27' },
+  { name: 'Epic',      min: 70, cls: 'b-epic',      color: '#8981E0' },
+  { name: 'Rare',      min: 55, cls: 'b-rare',      color: '#4A93DE' },
+  { name: 'Uncommon',  min: 40, cls: 'b-uncommon',  color: '#7FB03A' },
+  { name: 'Common',    min: 0,  cls: 'b-common',    color: '#888780' },
+];
 
-function computeAttackPoints(a) {
-  if (a.pending) return 0;
-  if (a.missed) return -3;
-  if (a.dth === null || a.dth === undefined) return a.stars + a.dest / 100;
-  const mult = clamp(1 + 0.3 * (a.dth - a.ath), 0.4, 1.8);
-  return (a.stars + a.dest / 100) * mult;
+function tierByName(name) {
+  return TIERS.find(t => t.name === name) || null;
+}
+function tierByScore(score) {
+  if (score === null || score === undefined) return null;
+  return TIERS.find(t => score >= t.min) || TIERS[TIERS.length - 1];
+}
+function badge(tierName, fallbackText) {
+  const t = tierByName(tierName);
+  if (!t) return '<span class="badge b-none">' + (fallbackText || 'New') + '</span>';
+  return '<span class="badge ' + t.cls + '">' + t.name + '</span>';
+}
+function esc(s) {
+  return String(s == null ? '' : s).replace(/[&<>"]/g, c =>
+    ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 }
 
-function medalFor(avg) {
-  if (avg >= 4.0) return { label: 'Gold', cls: 'medal-gold' };
-  if (avg >= 2.8) return { label: 'Silver', cls: 'medal-silver' };
-  if (avg >= 1.5) return { label: 'Bronze', cls: 'medal-bronze' };
-  return { label: '\u2014', cls: '' };
+let DATA = null;
+
+function pillarRow(label, value) {
+  if (value === null || value === undefined) {
+    return '<span class="pname">' + label + '</span>' +
+           '<span class="bar"></span>' +
+           '<span class="pval" style="color:var(--text-secondary)">n/a</span>';
+  }
+  const color = tierByScore(value).color;
+  return '<span class="pname">' + label + '</span>' +
+         '<span class="bar"><span style="width:' + Math.max(2, value) + '%;background:' + color + '"></span></span>' +
+         '<span class="pval">' + value + '</span>';
+}
+
+function renderCards(m) {
+  const cards = document.getElementById('cards');
+  if (!m) { cards.innerHTML = ''; return; }
+
+  const clanTotal = m.clan.total;
+  const warTotal = m.war.total;
+
+  const clanColor = tierByName(m.clan.tier)?.color || 'var(--text)';
+  const warColor = tierByName(m.war.tier)?.color || 'var(--text)';
+
+  const clanValue = clanTotal === null
+    ? '<div class="score-value none">' + (m.inGrace ? 'Scoring starts in ' + m.gracePeriodEndsIn + ' days' : 'Not enough data') + '</div>'
+    : '<div class="score-value" style="color:' + clanColor + '">' + clanTotal + '</div>';
+
+  let warValue;
+  if (warTotal === null && m.war.status === 'New' && !m.inGrace) {
+    warValue = '<div class="score-value none">Not enough war history</div>';
+  } else if (warTotal === null) {
+    warValue = '<div class="score-value none">' + (m.inGrace ? 'Scoring starts in ' + m.gracePeriodEndsIn + ' days' : 'Not warring') + '</div>';
+  } else {
+    warValue = '<div class="score-value" style="color:' + warColor + '">' + warTotal + '</div>';
+  }
+
+  const missText = m.war.misses > 0
+    ? ' · <span style="color:var(--danger)">' + m.war.misses + ' missed</span>'
+    : '';
+
+  cards.innerHTML =
+    '<div class="score-card">' +
+      '<div class="score-head"><span class="score-label">Clan score</span>' +
+        badge(m.clan.tier, m.inGrace ? 'New' : '—') + '</div>' +
+      clanValue +
+      '<div class="pillars">' +
+        pillarRow('Donations', m.clan.pillars.donations) +
+        pillarRow('Raids', m.clan.pillars.raids) +
+        pillarRow('Capital', m.clan.pillars.contributions) +
+      '</div>' +
+      '<div class="card-foot">Joined <strong>' + m.warsJoined + ' of ' + m.warsTotal + '</strong> wars</div>' +
+    '</div>' +
+
+    '<div class="score-card">' +
+      '<div class="score-head"><span class="score-label">War score</span>' +
+        badge(m.war.tier, m.inGrace ? 'New' : (m.war.status || '—')) + '</div>' +
+      warValue +
+      '<div class="pillars">' +
+        pillarRow('Reliability', m.war.pillars.reliability) +
+        pillarRow('Performance', m.war.pillars.performance) +
+      '</div>' +
+      '<div class="card-foot">Used <strong>' + m.war.used + ' of ' + m.war.available + '</strong> attacks' + missText + '</div>' +
+    '</div>';
+}
+
+function scoreCell(total, tierName, inGrace, fallback) {
+  if (total === null || total === undefined) {
+    return '<span style="color:var(--text-secondary)">' + (inGrace ? 'New' : (fallback || '—')) + '</span>';
+  }
+  const t = tierByName(tierName);
+  const color = t ? t.color : 'var(--text)';
+  return '<span style="color:' + color + ';font-weight:600">' + total + '</span>';
+}
+
+function renderTable(selectedTag) {
+  const rows = DATA.members.slice().sort((a, b) => {
+    const av = a.clan.total === null ? -1 : a.clan.total;
+    const bv = b.clan.total === null ? -1 : b.clan.total;
+    return bv - av;
+  });
+
+  let html = '<table><thead><tr>' +
+    '<th>Name</th><th class="num">TH</th>' +
+    '<th class="num">Clan</th>' +
+    '<th class="num">War</th>' +
+    '<th class="num">Attacks</th>' +
+    '</tr></thead><tbody>';
+
+  for (const m of rows) {
+    const isMe = m.tag === selectedTag;
+    const clanCell = scoreCell(m.clan.total, m.clan.tier, m.inGrace, '—');
+    const warCell = scoreCell(m.war.total, m.war.tier, m.inGrace, m.war.status || '—');
+    const missText = m.war.misses > 0
+      ? ' <span style="color:var(--danger)">(' + m.war.misses + ' missed)</span>' : '';
+
+    html += '<tr' + (isMe ? ' class="me"' : '') + '>' +
+      '<td class="name-cell">' + esc(m.name) + '</td>' +
+      '<td class="num hide-mobile">' + (m.th ?? '—') + '</td>' +
+      '<td class="num mobile-line"><span class="mobile-label">Clan </span>' + clanCell + '</td>' +
+      '<td class="num mobile-line"><span class="mobile-label">War </span>' + warCell + '</td>' +
+      '<td class="num mobile-line">' + m.war.used + '/' + m.war.available + ' attacks' + missText + '</td>' +
+      '</tr>';
+  }
+  html += '</tbody></table>';
+  document.getElementById('table-wrap').innerHTML = html;
+}
+
+function selectMember(tag) {
+  const m = DATA.members.find(x => x.tag === tag) || null;
+  renderCards(m);
+  renderTable(tag);
+  try { if (tag) localStorage.setItem('clanusa-me', tag); } catch (e) {}
 }
 
 async function load() {
+  const isDemo = new URLSearchParams(location.search).get('demo') === '1';
+  const file = isDemo ? './scores.demo.json' : './scores.json';
+
   let data;
   try {
-    const res = await fetch('./data.json', { cache: 'no-store' });
-    if (!res.ok) throw new Error('data.json not found (status ' + res.status + ')');
+    const res = await fetch(file, { cache: 'no-store' });
+    if (!res.ok) throw new Error(file + ' not found (status ' + res.status + ')');
     data = await res.json();
   } catch (e) {
     document.getElementById('content').innerHTML =
-      '<div class="error">Could not load data.json yet. This usually means the GitHub Action hasn\'t run for the first time. Trigger it manually from the Actions tab, or wait for the next scheduled run.<br><br>Details: ' + e.message + '</div>';
-    document.getElementById('round-info').textContent = '';
+      '<div class="error">Could not load ' + esc(file) + '. ' +
+      (isDemo
+        ? 'Run <code>node scripts/make-demo.mjs</code> to generate it.'
+        : 'This usually means the collector has not run yet. Trigger the Action manually from the Actions tab, or run <code>node scripts/collect.mjs</code> then <code>node scripts/score.mjs</code> locally.') +
+      '<br><br>Details: ' + esc(e.message) + '</div>';
+    document.getElementById('subtitle').textContent = '';
     return;
   }
 
-  const attacks = data.attacks || [];
-  const byName = {};
-  let totalMisses = 0;
+  DATA = data;
 
-  attacks.forEach(a => {
-    if (a.pending) return; // hasn't had their attack window close yet - doesn't count either way
-    if (!byName[a.name]) byName[a.name] = { points: 0, attacks: 0, misses: 0 };
-    const pts = computeAttackPoints(a);
-    byName[a.name].points += pts;
-    if (a.missed) { byName[a.name].misses += 1; totalMisses += 1; }
-    else byName[a.name].attacks += 1;
-  });
-
-  const rows = Object.entries(byName).map(([name, d]) => {
-    const totalActions = d.attacks + d.misses;
-    const avg = totalActions > 0 ? d.points / totalActions : 0;
-    return { name, ...d, avg };
-  }).sort((a, b) => b.avg - a.avg);
-
-  document.getElementById('stat-members').textContent = rows.length;
-  document.getElementById('stat-attacks').textContent = attacks.filter(a => !a.missed && !a.pending).length;
-  document.getElementById('stat-misses').textContent = totalMisses;
-
-  const maxRound = attacks.reduce((m, a) => Math.max(m, a.round || 0), 0);
-  document.getElementById('round-info').textContent = maxRound > 0
-    ? 'Through round ' + maxRound + ' of 7'
-    : 'No attacks logged yet';
-
-  const tbody = document.getElementById('leaderboard-body');
-  tbody.innerHTML = '';
-  rows.forEach((r, i) => {
-    const m = medalFor(r.avg);
-    const tr = document.createElement('tr');
-    tr.innerHTML =
-      '<td>' + (i + 1) + '</td>' +
-      '<td>' + r.name + '</td>' +
-      '<td class="num">' + r.attacks + '</td>' +
-      '<td class="num ' + (r.misses > 0 ? 'miss' : '') + '">' + r.misses + '</td>' +
-      '<td class="num">' + r.points.toFixed(2) + '</td>' +
-      '<td class="num">' + r.avg.toFixed(2) + '</td>' +
-      '<td class="num">' + (m.label !== '\u2014' ? '<span class="medal ' + m.cls + '">' + m.label + '</span>' : '\u2014') + '</td>';
-    tbody.appendChild(tr);
-  });
-
-  if (data.fetchedAt) {
-    const d = new Date(data.fetchedAt);
-    document.getElementById('updated-at').textContent = 'Last updated ' + d.toLocaleString();
+  if (data.demo) {
+    const b = document.createElement('div');
+    b.className = 'notice';
+    b.style.cssText = 'margin:0 0 16px;border-color:#8981E0;color:#8981E0';
+    b.innerHTML = 'Demo mode. These are made up members for previewing the layout. ' +
+      '<a href="./index.html" style="color:inherit">Switch to real data</a>';
+    document.getElementById('content').prepend(b);
   }
 
-  renderRounds(attacks);
-}
+  if (!data.members || data.members.length === 0) {
+    document.getElementById('content').innerHTML =
+      '<div class="notice">No members scored yet. The collector needs at least one snapshot. ' +
+      'If it just ran for the first time, everyone will be inside the 14 day grace period.</div>';
+    document.getElementById('subtitle').textContent = '';
+    return;
+  }
 
-function renderRounds(attacks) {
-  const container = document.getElementById('rounds-container');
-  container.innerHTML = '';
-  if (attacks.length === 0) return;
+  const inGrace = data.members.filter(m => m.inGrace).length;
+  document.getElementById('subtitle').textContent =
+    data.members.length + ' members · ' + data.warsArchived + ' wars tracked · ' +
+    data.raidWeekendsAvailable + ' raid weekends' +
+    (inGrace > 0 ? ' · ' + inGrace + ' in grace period' : '');
 
-  const rounds = {};
-  attacks.forEach(a => {
-    if (!rounds[a.round]) rounds[a.round] = [];
-    rounds[a.round].push(a);
-  });
+  const sel = document.getElementById('member-select');
+  const sorted = data.members.slice().sort((a, b) => a.name.localeCompare(b.name));
+  sel.innerHTML = '<option value="">Select your name...</option>' +
+    sorted.map(m => '<option value="' + esc(m.tag) + '">' + esc(m.name) + '</option>').join('');
 
-  const roundNumbers = Object.keys(rounds).map(Number).sort((a, b) => b - a);
+  let saved = null;
+  try { saved = localStorage.getItem('clanusa-me'); } catch (e) {}
+  if (saved && data.members.some(m => m.tag === saved)) {
+    sel.value = saved;
+  }
 
-  roundNumbers.forEach(rn => {
-    const list = rounds[rn].slice().sort((a, b) => computeAttackPoints(b) - computeAttackPoints(a));
-    const wrap = document.createElement('div');
-    wrap.style.marginBottom = '28px';
+  sel.addEventListener('change', () => selectMember(sel.value));
+  selectMember(sel.value);
 
-    const heading = document.createElement('h2');
-    heading.textContent = 'Round ' + rn;
-    wrap.appendChild(heading);
-
-    const table = document.createElement('table');
-    table.innerHTML =
-      '<thead><tr>' +
-      '<th>Name</th>' +
-      '<th class="num">Attacker TH</th>' +
-      '<th class="num">Defender TH</th>' +
-      '<th class="num">Stars</th>' +
-      '<th class="num">Dest%</th>' +
-      '<th class="num">Points</th>' +
-      '</tr></thead><tbody></tbody>';
-    const tbody = table.querySelector('tbody');
-
-    list.forEach(a => {
-      const pts = computeAttackPoints(a);
-      const tr = document.createElement('tr');
-      let starsCell, destCell, ptsCell;
-      if (a.pending) {
-        starsCell = '<span class="pending">Not yet attacked</span>';
-        destCell = '\u2014';
-        ptsCell = '\u2014';
-      } else if (a.missed) {
-        starsCell = '<span class="miss">Missed</span>';
-        destCell = '\u2014';
-        ptsCell = pts.toFixed(2);
-      } else {
-        starsCell = a.stars;
-        destCell = a.dest;
-        ptsCell = pts.toFixed(2);
-      }
-      tr.innerHTML =
-        '<td>' + a.name + '</td>' +
-        '<td class="num">' + a.ath + '</td>' +
-        '<td class="num">' + (a.dth !== null && a.dth !== undefined ? a.dth : '\u2014') + '</td>' +
-        '<td class="num">' + starsCell + '</td>' +
-        '<td class="num">' + destCell + '</td>' +
-        '<td class="num" style="font-weight:600;">' + ptsCell + '</td>';
-      tbody.appendChild(tr);
-    });
-
-    wrap.appendChild(table);
-    container.appendChild(wrap);
-  });
+  if (data.generatedAt) {
+    document.getElementById('updated-at').textContent =
+      'Last updated ' + new Date(data.generatedAt).toLocaleString();
+  }
 }
 
 load();

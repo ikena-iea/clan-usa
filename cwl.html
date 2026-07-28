@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Clan USA — CWL leaderboard</title>
+<style>
+  :root {
+    --bg: #0f1115;
+    --card: #171a21;
+    --border: #2a2d36;
+    --text: #e8e8ea;
+    --text-secondary: #9a9ba5;
+    --gold: #eab308;
+    --silver: #94a3b8;
+    --bronze: #c2733a;
+    --danger: #ef4444;
+  }
+  * { box-sizing: border-box; }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    margin: 0;
+    padding: 24px 16px 60px;
+  }
+  .wrap { max-width: 800px; margin: 0 auto; }
+  h1 { font-size: 22px; font-weight: 600; margin: 0 0 4px; }
+  .subtitle { color: var(--text-secondary); font-size: 13px; margin: 0 0 24px; }
+  .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px,1fr)); gap: 12px; margin-bottom: 24px; }
+  .stat-card { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 14px 16px; }
+  .stat-label { font-size: 12px; color: var(--text-secondary); margin: 0; }
+  .stat-value { font-size: 22px; font-weight: 600; margin: 4px 0 0; }
+  table { width: 100%; border-collapse: collapse; font-size: 14px; }
+  th { text-align: left; padding: 10px 8px; color: var(--text-secondary); font-weight: 500; font-size: 12px; border-bottom: 1px solid var(--border); }
+  td { padding: 10px 8px; border-bottom: 1px solid var(--border); }
+  th.num, td.num { text-align: right; }
+  .medal { padding: 2px 10px; border-radius: 6px; font-size: 12px; font-weight: 600; }
+  .medal-gold { background: rgba(234,179,8,0.15); color: var(--gold); }
+  .medal-silver { background: rgba(148,163,184,0.15); color: var(--silver); }
+  .medal-bronze { background: rgba(194,115,58,0.15); color: var(--bronze); }
+  .miss { color: var(--danger); }
+  .pending { color: #eab308; }
+  nav { display: flex; gap: 6px; margin-bottom: 22px; }
+  nav a {
+    font-size: 13px; text-decoration: none; color: var(--text-secondary);
+    padding: 6px 14px; border-radius: 8px; border: 1px solid var(--border);
+  }
+  nav a:hover { background: var(--card); color: var(--text); }
+  nav a.active { background: var(--card); color: var(--text); border-color: #3a3e49; }
+  .updated { color: var(--text-secondary); font-size: 12px; margin-top: 24px; text-align: center; }
+  .error { background: rgba(239,68,68,0.1); border: 1px solid var(--danger); color: var(--danger); padding: 12px 16px; border-radius: 8px; font-size: 13px; }
+  .info-card { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 16px 18px; margin-bottom: 24px; }
+  .info-card h2 { font-size: 15px; margin: 0 0 10px; }
+  .info-card p { font-size: 13px; color: var(--text-secondary); margin: 0 0 8px; line-height: 1.6; }
+  .formula { background: rgba(255,255,255,0.05); border-radius: 6px; padding: 8px 12px; font-family: monospace; font-size: 12px; margin: 6px 0 10px; color: var(--text); }
+  .medal-key { display: flex; gap: 16px; flex-wrap: wrap; margin-top: 8px; }
+  .medal-key span { display: flex; align-items: center; gap: 6px; font-size: 12px; color: var(--text-secondary); }
+  .round-section { margin-top: 32px; }
+  .round-section h2 { font-size: 16px; margin: 0 0 4px; }
+  .round-section .round-sub { font-size: 12px; color: var(--text-secondary); margin: 0 0 12px; }
+  .toggle-rounds { background: transparent; border: 1px solid var(--border); color: var(--text); border-radius: 8px; padding: 6px 14px; font-size: 13px; cursor: pointer; margin-top: 20px; }
+  .toggle-rounds:hover { background: var(--card); }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Clan USA — CWL leaderboard</h1>
+  <p class="subtitle" id="round-info">Loading...</p>
+
+  <nav>
+    <a href="./index.html">Members</a>
+    <a href="./cwl.html" class="active">CWL</a>
+  </nav>
+
+  <div class="info-card">
+    <h2>How points and medals work</h2>
+    <p>Each attack is scored using stars, destruction percent, and a Town Hall gap adjustment so hitting up in TH is worth more than farming a lower TH.</p>
+    <div class="formula">points = (stars + destruction% / 100) &times; TH-gap multiplier</div>
+    <div class="formula">TH-gap multiplier = 1 + 0.3 &times; (defender TH &minus; attacker TH), clamped between 0.4 and 1.8</div>
+    <p>A missed attack is a flat <strong style="color: var(--danger);">&minus;3</strong> points, no matter the Town Hall matchup.</p>
+    <p>Example: a 3-star, 100% destruction attack against an equal Town Hall = (3 + 1.00) &times; 1.0 = <strong>4.0 points</strong>. That's the benchmark for a textbook-perfect attack.</p>
+    <p>Medals are awarded based on <strong>average points per attack</strong> across the whole CWL, not the raw total, so it stays fair regardless of how many rounds have happened:</p>
+    <div class="medal-key">
+      <span><span class="medal medal-gold">Gold</span> avg &ge; 4.0</span>
+      <span><span class="medal medal-silver">Silver</span> avg 2.8&ndash;3.9</span>
+      <span><span class="medal medal-bronze">Bronze</span> avg 1.5&ndash;2.7</span>
+      <span>&mdash; below 1.5, or missed attacks bring your average down</span>
+    </div>
+    <p style="margin-top:10px;">While a round is still open, anyone who hasn't attacked yet shows as <span class="pending" style="font-weight:600;">Not yet attacked</span> rather than a miss — it only counts against someone once that round's war has actually ended.</p>
+  </div>
+
+  <div class="stats">
+    <div class="stat-card">
+      <p class="stat-label">Members tracked</p>
+      <p class="stat-value" id="stat-members">-</p>
+    </div>
+    <div class="stat-card">
+      <p class="stat-label">Total attacks</p>
+      <p class="stat-value" id="stat-attacks">-</p>
+    </div>
+    <div class="stat-card">
+      <p class="stat-label">Total misses</p>
+      <p class="stat-value" id="stat-misses">-</p>
+    </div>
+  </div>
+
+  <div id="content">
+    <table>
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>Name</th>
+          <th class="num">Attacks</th>
+          <th class="num">Misses</th>
+          <th class="num">Total pts</th>
+          <th class="num">Avg/attack</th>
+          <th class="num">Medal</th>
+        </tr>
+      </thead>
+      <tbody id="leaderboard-body"></tbody>
+    </table>
+  </div>
+
+  <div class="round-section" id="rounds-container"></div>
+
+  <p class="updated" id="updated-at"></p>
+</div>
+
+<script>
+function clamp(x, lo, hi) { return Math.max(lo, Math.min(hi, x)); }
+
+function computeAttackPoints(a) {
+  if (a.pending) return 0;
+  if (a.missed) return -3;
+  if (a.dth === null || a.dth === undefined) return a.stars + a.dest / 100;
+  const mult = clamp(1 + 0.3 * (a.dth - a.ath), 0.4, 1.8);
+  return (a.stars + a.dest / 100) * mult;
+}
+
+function medalFor(avg) {
+  if (avg >= 4.0) return { label: 'Gold', cls: 'medal-gold' };
+  if (avg >= 2.8) return { label: 'Silver', cls: 'medal-silver' };
+  if (avg >= 1.5) return { label: 'Bronze', cls: 'medal-bronze' };
+  return { label: '\u2014', cls: '' };
+}
+
+async function load() {
+  let data;
+  try {
+    const res = await fetch('./data.json', { cache: 'no-store' });
+    if (!res.ok) throw new Error('data.json not found (status ' + res.status + ')');
+    data = await res.json();
+  } catch (e) {
+    document.getElementById('content').innerHTML =
+      '<div class="error">Could not load data.json yet. This usually means the GitHub Action hasn\'t run for the first time. Trigger it manually from the Actions tab, or wait for the next scheduled run.<br><br>Details: ' + e.message + '</div>';
+    document.getElementById('round-info').textContent = '';
+    return;
+  }
+
+  const attacks = data.attacks || [];
+  const byName = {};
+  let totalMisses = 0;
+
+  attacks.forEach(a => {
+    if (a.pending) return; // hasn't had their attack window close yet - doesn't count either way
+    if (!byName[a.name]) byName[a.name] = { points: 0, attacks: 0, misses: 0 };
+    const pts = computeAttackPoints(a);
+    byName[a.name].points += pts;
+    if (a.missed) { byName[a.name].misses += 1; totalMisses += 1; }
+    else byName[a.name].attacks += 1;
+  });
+
+  const rows = Object.entries(byName).map(([name, d]) => {
+    const totalActions = d.attacks + d.misses;
+    const avg = totalActions > 0 ? d.points / totalActions : 0;
+    return { name, ...d, avg };
+  }).sort((a, b) => b.avg - a.avg);
+
+  document.getElementById('stat-members').textContent = rows.length;
+  document.getElementById('stat-attacks').textContent = attacks.filter(a => !a.missed && !a.pending).length;
+  document.getElementById('stat-misses').textContent = totalMisses;
+
+  const maxRound = attacks.reduce((m, a) => Math.max(m, a.round || 0), 0);
+  document.getElementById('round-info').textContent = maxRound > 0
+    ? 'Through round ' + maxRound + ' of 7'
+    : 'No attacks logged yet';
+
+  const tbody = document.getElementById('leaderboard-body');
+  tbody.innerHTML = '';
+  rows.forEach((r, i) => {
+    const m = medalFor(r.avg);
+    const tr = document.createElement('tr');
+    tr.innerHTML =
+      '<td>' + (i + 1) + '</td>' +
+      '<td>' + r.name + '</td>' +
+      '<td class="num">' + r.attacks + '</td>' +
+      '<td class="num ' + (r.misses > 0 ? 'miss' : '') + '">' + r.misses + '</td>' +
+      '<td class="num">' + r.points.toFixed(2) + '</td>' +
+      '<td class="num">' + r.avg.toFixed(2) + '</td>' +
+      '<td class="num">' + (m.label !== '\u2014' ? '<span class="medal ' + m.cls + '">' + m.label + '</span>' : '\u2014') + '</td>';
+    tbody.appendChild(tr);
+  });
+
+  if (data.fetchedAt) {
+    const d = new Date(data.fetchedAt);
+    document.getElementById('updated-at').textContent = 'Last updated ' + d.toLocaleString();
+  }
+
+  renderRounds(attacks);
+}
+
+function renderRounds(attacks) {
+  const container = document.getElementById('rounds-container');
+  container.innerHTML = '';
+  if (attacks.length === 0) return;
+
+  const rounds = {};
+  attacks.forEach(a => {
+    if (!rounds[a.round]) rounds[a.round] = [];
+    rounds[a.round].push(a);
+  });
+
+  const roundNumbers = Object.keys(rounds).map(Number).sort((a, b) => b - a);
+
+  roundNumbers.forEach(rn => {
+    const list = rounds[rn].slice().sort((a, b) => computeAttackPoints(b) - computeAttackPoints(a));
+    const wrap = document.createElement('div');
+    wrap.style.marginBottom = '28px';
+
+    const heading = document.createElement('h2');
+    heading.textContent = 'Round ' + rn;
+    wrap.appendChild(heading);
+
+    const table = document.createElement('table');
+    table.innerHTML =
+      '<thead><tr>' +
+      '<th>Name</th>' +
+      '<th class="num">Attacker TH</th>' +
+      '<th class="num">Defender TH</th>' +
+      '<th class="num">Stars</th>' +
+      '<th class="num">Dest%</th>' +
+      '<th class="num">Points</th>' +
+      '</tr></thead><tbody></tbody>';
+    const tbody = table.querySelector('tbody');
+
+    list.forEach(a => {
+      const pts = computeAttackPoints(a);
+      const tr = document.createElement('tr');
+      let starsCell, destCell, ptsCell;
+      if (a.pending) {
+        starsCell = '<span class="pending">Not yet attacked</span>';
+        destCell = '\u2014';
+        ptsCell = '\u2014';
+      } else if (a.missed) {
+        starsCell = '<span class="miss">Missed</span>';
+        destCell = '\u2014';
+        ptsCell = pts.toFixed(2);
+      } else {
+        starsCell = a.stars;
+        destCell = a.dest;
+        ptsCell = pts.toFixed(2);
+      }
+      tr.innerHTML =
+        '<td>' + a.name + '</td>' +
+        '<td class="num">' + a.ath + '</td>' +
+        '<td class="num">' + (a.dth !== null && a.dth !== undefined ? a.dth : '\u2014') + '</td>' +
+        '<td class="num">' + starsCell + '</td>' +
+        '<td class="num">' + destCell + '</td>' +
+        '<td class="num" style="font-weight:600;">' + ptsCell + '</td>';
+      tbody.appendChild(tr);
+    });
+
+    wrap.appendChild(table);
+    container.appendChild(wrap);
+  });
+}
+
+load();
+</script>
+</body>
+</html>

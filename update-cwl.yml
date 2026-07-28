@@ -1,0 +1,49 @@
+name: Update CWL data
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cwl-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch current CWL
+        env:
+          COC_API_TOKEN: ${{ secrets.COC_API_TOKEN }}
+          CLAN_TAG: ${{ secrets.CLAN_TAG }}
+        run: node scripts/fetch-cwl.mjs
+
+      - name: Collect history
+        env:
+          COC_API_TOKEN: ${{ secrets.COC_API_TOKEN }}
+          CLAN_TAG: ${{ secrets.CLAN_TAG }}
+        run: node scripts/collect.mjs
+
+      - name: Compute scores
+        run: node scripts/score.mjs
+
+      - name: Commit changes
+        run: |
+          git config user.name "cwl-bot"
+          git config user.email "actions@github.com"
+          git add data.json scores.json history/
+          git diff --cached --quiet || git commit -m "Update clan data"
+          git pull --rebase --autostash || true
+          git push
