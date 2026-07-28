@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T19:44:27.297Z",
+  "generatedAt": "2026-07-28T21:15:46.890Z",
   "snapshotDate": "2026-07-28",
   "snapshotsAvailable": 1,
   "raidWeekendsAvailable": 4,
@@ -366,7 +366,7 @@
       "tag": "#QJLL90YR9",
       "name": "shsuhwshha",
       "role": "member",
-      "th": 14,
+      "th": 15,
       "firstSeen": "2026-07-28",
       "daysPresent": 1,
       "inGrace": true,
@@ -1122,39 +1122,6 @@
       }
     },
     {
-      "tag": "#GVJRQQJYU",
-      "name": "Sir Ron Ron",
-      "role": "member",
-      "th": 10,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 1,
-      "inGrace": true,
-      "gracePeriodEndsIn": 13,
-      "warsJoined": 0,
-      "warsTotal": 2,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
       "tag": "#R2RR9UJ8V",
       "name": "X4FSHIN",
       "role": "member",
@@ -1183,6 +1150,39 @@
         },
         "available": 2,
         "used": 2,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#GVJRQQJYU",
+      "name": "Sir Ron Ron",
+      "role": "member",
+      "th": 10,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 2,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
         "misses": 0,
         "tier": null
       }
