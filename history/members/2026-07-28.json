@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "capturedAt": "2026-07-28T12:03:13.550Z",
+  "capturedAt": "2026-07-28T15:27:34.873Z",
   "clanLevel": 6,
   "memberCount": 49,
   "members": [
@@ -9,9 +9,9 @@
       "name": "BAMBANG ID",
       "role": "admin",
       "th": 17,
-      "expLevel": 176,
-      "trophies": 8,
-      "donations": 797,
+      "expLevel": 177,
+      "trophies": 87,
+      "donations": 874,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -55,19 +55,19 @@
       "th": 15,
       "expLevel": 147,
       "trophies": 0,
-      "donations": 880,
+      "donations": 910,
       "donationsReceived": 332,
       "capitalContributions": 0
     },
     {
       "tag": "#R8P2LPQ9",
       "name": "MW☢️ARCHITECT 2",
-      "role": "member",
+      "role": "admin",
       "th": 15,
-      "expLevel": 170,
+      "expLevel": 171,
       "trophies": 136,
       "donations": 66,
-      "donationsReceived": 0,
+      "donationsReceived": 77,
       "capitalContributions": 0
     },
     {
@@ -87,7 +87,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 122,
-      "trophies": 0,
+      "trophies": 16,
       "donations": 499,
       "donationsReceived": 432,
       "capitalContributions": 0
@@ -99,7 +99,7 @@
       "th": 13,
       "expLevel": 103,
       "trophies": 40,
-      "donations": 1045,
+      "donations": 1100,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -122,7 +122,7 @@
       "expLevel": 73,
       "trophies": 106,
       "donations": 55,
-      "donationsReceived": 369,
+      "donationsReceived": 389,
       "capitalContributions": 0
     },
     {
@@ -152,7 +152,7 @@
       "name": "DaHairyVeer2",
       "role": "admin",
       "th": 12,
-      "expLevel": 98,
+      "expLevel": 99,
       "trophies": 30,
       "donations": 422,
       "donationsReceived": 869,
@@ -186,7 +186,7 @@
       "role": "admin",
       "th": 10,
       "expLevel": 82,
-      "trophies": 124,
+      "trophies": 186,
       "donations": 160,
       "donationsReceived": 199,
       "capitalContributions": 0
@@ -210,7 +210,7 @@
       "expLevel": 92,
       "trophies": 29,
       "donations": 0,
-      "donationsReceived": 238,
+      "donationsReceived": 268,
       "capitalContributions": 0
     },
     {
@@ -285,9 +285,9 @@
       "role": "member",
       "th": 11,
       "expLevel": 84,
-      "trophies": 125,
+      "trophies": 154,
       "donations": 0,
-      "donationsReceived": 132,
+      "donationsReceived": 167,
       "capitalContributions": 0
     },
     {
@@ -449,7 +449,7 @@
       "name": "IDONTKNOW",
       "role": "admin",
       "th": 11,
-      "expLevel": 78,
+      "expLevel": 79,
       "trophies": 0,
       "donations": 83,
       "donationsReceived": 97,

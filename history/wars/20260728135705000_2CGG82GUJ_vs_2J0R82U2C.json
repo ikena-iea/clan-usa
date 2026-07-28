@@ -1,0 +1,87 @@
+{
+  "id": "20260728135705000_2CGG82GUJ_vs_2J0R82U2C",
+  "source": "regular",
+  "state": "warEnded",
+  "endTime": "20260728T141705.000Z",
+  "teamSize": 2,
+  "attacksPerMember": 2,
+  "opponent": {
+    "tag": "#2J0R82U2C",
+    "name": "lion!"
+  },
+  "result": {
+    "ourStars": 0,
+    "theirStars": 0,
+    "ourDestruction": 0,
+    "theirDestruction": 0
+  },
+  "roster": [
+    {
+      "tag": "#GGUJJGQUV",
+      "name": "Jaz",
+      "th": 9,
+      "mapPosition": 2
+    },
+    {
+      "tag": "#R8J082Y0J",
+      "name": "arroz",
+      "th": 9,
+      "mapPosition": 1
+    }
+  ],
+  "attacks": [
+    {
+      "attackerTag": "#GGUJJGQUV",
+      "attackerName": "Jaz",
+      "attackerTH": 9,
+      "defenderTH": null,
+      "stars": 0,
+      "dest": 0,
+      "starsGained": 0,
+      "destGained": 0,
+      "order": null,
+      "missed": true,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#GGUJJGQUV",
+      "attackerName": "Jaz",
+      "attackerTH": 9,
+      "defenderTH": null,
+      "stars": 0,
+      "dest": 0,
+      "starsGained": 0,
+      "destGained": 0,
+      "order": null,
+      "missed": true,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#R8J082Y0J",
+      "attackerName": "arroz",
+      "attackerTH": 9,
+      "defenderTH": null,
+      "stars": 0,
+      "dest": 0,
+      "starsGained": 0,
+      "destGained": 0,
+      "order": null,
+      "missed": true,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#R8J082Y0J",
+      "attackerName": "arroz",
+      "attackerTH": 9,
+      "defenderTH": null,
+      "stars": 0,
+      "dest": 0,
+      "starsGained": 0,
+      "destGained": 0,
+      "order": null,
+      "missed": true,
+      "source": "regular"
+    }
+  ],
+  "archivedAt": "2026-07-28T15:27:35.001Z"
+}
