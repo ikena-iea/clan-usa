@@ -94,6 +94,26 @@
   tr.me td { background: rgba(137,129,224,0.07); }
   .mobile-label { display: none; color: var(--text-secondary); }
 
+  tbody tr { cursor: pointer; }
+  tbody tr:hover td { background: rgba(255,255,255,0.035); }
+  tr.me:hover td { background: rgba(137,129,224,0.11); }
+  tr.me td:first-child { box-shadow: inset 2px 0 0 var(--epic); }
+
+  .pick-hint { font-size: 12px; color: var(--text-secondary); margin: 0 0 10px; }
+
+  .empty-cards {
+    background: var(--card); border: 1px dashed var(--border);
+    border-radius: 12px; padding: 22px 18px; text-align: center;
+    font-size: 14px; color: var(--text-secondary); margin: 0 0 4px;
+  }
+
+  .clear-pick {
+    background: transparent; border: 1px solid var(--border); color: var(--text-secondary);
+    border-radius: 7px; padding: 4px 11px; font-size: 12px; cursor: pointer;
+    font-family: inherit;
+  }
+  .clear-pick:hover { background: var(--card); color: var(--text); }
+
   @media (max-width: 620px) {
     .mobile-label { display: inline; }
     table thead { display: none; }
@@ -141,12 +161,10 @@
   </nav>
 
   <div id="content">
-    <label class="pick" for="member-select">Find yourself</label>
-    <select id="member-select"><option>Loading...</option></select>
+    <div id="cards"></div>
 
-    <div class="cards" id="cards"></div>
-
-    <h2>Everyone</h2>
+    <h2 id="everyone-heading">Everyone</h2>
+    <p class="pick-hint" id="pick-hint">Tap your name to pin your cards to the top.</p>
     <div id="table-wrap"></div>
 
     <details>
@@ -225,7 +243,13 @@ function pillarRow(label, value) {
 
 function renderCards(m) {
   const cards = document.getElementById('cards');
-  if (!m) { cards.innerHTML = ''; return; }
+  if (!m) {
+    cards.className = '';
+    cards.innerHTML =
+      '<div class="empty-cards">Tap your name in the list below to see your scores here.</div>';
+    return;
+  }
+  cards.className = 'cards';
 
   const clanTotal = m.clan.total;
   const warTotal = m.war.total;
@@ -251,6 +275,11 @@ function renderCards(m) {
     : '';
 
   cards.innerHTML =
+    '<div style="grid-column:1/-1;display:flex;align-items:baseline;justify-content:space-between;gap:10px;margin-bottom:-2px">' +
+      '<span style="font-size:17px;font-weight:600">' + esc(m.name) + '</span>' +
+      '<button class="clear-pick" id="clear-pick">Not me</button>' +
+    '</div>' +
+
     '<div class="score-card">' +
       '<div class="score-head"><span class="score-label">Clan score</span>' +
         badge(m.clan.tier, m.inGrace ? 'New' : '—') + '</div>' +
@@ -305,7 +334,7 @@ function renderTable(selectedTag) {
     const missText = m.war.misses > 0
       ? ' <span style="color:var(--danger)">(' + m.war.misses + ' missed)</span>' : '';
 
-    html += '<tr' + (isMe ? ' class="me"' : '') + '>' +
+    html += '<tr' + (isMe ? ' class="me"' : '') + ' data-tag="' + esc(m.tag) + '">' +
       '<td class="name-cell">' + esc(m.name) + '</td>' +
       '<td class="num hide-mobile">' + (m.th ?? '—') + '</td>' +
       '<td class="num mobile-line"><span class="mobile-label">Clan </span>' + clanCell + '</td>' +
@@ -314,14 +343,43 @@ function renderTable(selectedTag) {
       '</tr>';
   }
   html += '</tbody></table>';
-  document.getElementById('table-wrap').innerHTML = html;
+  const wrap = document.getElementById('table-wrap');
+  wrap.innerHTML = html;
+
+  wrap.querySelectorAll('tbody tr').forEach(tr => {
+    tr.addEventListener('click', () => {
+      const tag = tr.dataset.tag;
+      // tapping the already-selected row deselects
+      selectMember(tag === selectedTag ? null : tag, true);
+    });
+  });
 }
 
-function selectMember(tag) {
-  const m = DATA.members.find(x => x.tag === tag) || null;
+function scrollToCards() {
+  const cards = document.getElementById('cards');
+  const top = cards.getBoundingClientRect().top;
+  if (top < 0 || top > window.innerHeight * 0.5) {
+    cards.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+}
+
+function selectMember(tag, scroll) {
+  const m = tag ? DATA.members.find(x => x.tag === tag) || null : null;
   renderCards(m);
-  renderTable(tag);
-  try { if (tag) localStorage.setItem('clanusa-me', tag); } catch (e) {}
+  renderTable(m ? tag : null);
+
+  const hint = document.getElementById('pick-hint');
+  if (hint) hint.style.display = m ? 'none' : '';
+
+  const clearBtn = document.getElementById('clear-pick');
+  if (clearBtn) clearBtn.addEventListener('click', () => selectMember(null, false));
+
+  try {
+    if (tag) localStorage.setItem('clanusa-me', tag);
+    else localStorage.removeItem('clanusa-me');
+  } catch (e) {}
+
+  if (m && scroll) scrollToCards();
 }
 
 async function load() {
@@ -369,19 +427,11 @@ async function load() {
     data.raidWeekendsAvailable + ' raid weekends' +
     (inGrace > 0 ? ' · ' + inGrace + ' in grace period' : '');
 
-  const sel = document.getElementById('member-select');
-  const sorted = data.members.slice().sort((a, b) => a.name.localeCompare(b.name));
-  sel.innerHTML = '<option value="">Select your name...</option>' +
-    sorted.map(m => '<option value="' + esc(m.tag) + '">' + esc(m.name) + '</option>').join('');
-
   let saved = null;
   try { saved = localStorage.getItem('clanusa-me'); } catch (e) {}
-  if (saved && data.members.some(m => m.tag === saved)) {
-    sel.value = saved;
-  }
+  const valid = saved && data.members.some(m => m.tag === saved) ? saved : null;
 
-  sel.addEventListener('change', () => selectMember(sel.value));
-  selectMember(sel.value);
+  selectMember(valid, false);
 
   if (data.generatedAt) {
     document.getElementById('updated-at').textContent =
