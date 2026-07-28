@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "capturedAt": "2026-07-28T21:15:45.999Z",
+  "capturedAt": "2026-07-28T23:08:53.907Z",
   "clanLevel": 6,
   "memberCount": 50,
   "members": [
@@ -76,7 +76,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 70,
-      "trophies": 0,
+      "trophies": 3,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -86,7 +86,7 @@
       "name": "elf00",
       "role": "admin",
       "th": 13,
-      "expLevel": 122,
+      "expLevel": 123,
       "trophies": 16,
       "donations": 499,
       "donationsReceived": 432,
@@ -164,9 +164,9 @@
       "role": "admin",
       "th": 12,
       "expLevel": 99,
-      "trophies": 98,
+      "trophies": 138,
       "donations": 422,
-      "donationsReceived": 935,
+      "donationsReceived": 936,
       "capitalContributions": 0
     },
     {
@@ -208,9 +208,20 @@
       "role": "admin",
       "th": 12,
       "expLevel": 67,
-      "trophies": 63,
+      "trophies": 115,
       "donations": 388,
       "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#YYY2RCCR2",
+      "name": "Horus",
+      "role": "admin",
+      "th": 11,
+      "expLevel": 92,
+      "trophies": 57,
+      "donations": 0,
+      "donationsReceived": 268,
       "capitalContributions": 0
     },
     {
@@ -222,17 +233,6 @@
       "trophies": 40,
       "donations": 127,
       "donationsReceived": 195,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#YYY2RCCR2",
-      "name": "Horus",
-      "role": "admin",
-      "th": 11,
-      "expLevel": 92,
-      "trophies": 29,
-      "donations": 0,
-      "donationsReceived": 268,
       "capitalContributions": 0
     },
     {
@@ -484,7 +484,7 @@
       "th": 18,
       "expLevel": 254,
       "trophies": 0,
-      "donations": 1016,
+      "donations": 1017,
       "donationsReceived": 286,
       "capitalContributions": 0
     },
