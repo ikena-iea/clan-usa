@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "capturedAt": "2026-07-28T06:34:52.520Z",
+  "capturedAt": "2026-07-28T09:41:33.603Z",
   "clanLevel": 6,
   "memberCount": 49,
   "members": [
@@ -62,12 +62,12 @@
     {
       "tag": "#R8P2LPQ9",
       "name": "MW☢️ARCHITECT 2",
-      "role": "admin",
-      "th": 14,
+      "role": "member",
+      "th": 15,
       "expLevel": 170,
-      "trophies": 40,
-      "donations": 165,
-      "donationsReceived": 284,
+      "trophies": 80,
+      "donations": 0,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -129,10 +129,10 @@
       "tag": "#R8PJY0U0J",
       "name": "Didetz",
       "role": "leader",
-      "th": 13,
-      "expLevel": 95,
+      "th": 14,
+      "expLevel": 96,
       "trophies": 0,
-      "donations": 102,
+      "donations": 168,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -285,9 +285,9 @@
       "role": "member",
       "th": 11,
       "expLevel": 84,
-      "trophies": 57,
+      "trophies": 125,
       "donations": 0,
-      "donationsReceived": 0,
+      "donationsReceived": 66,
       "capitalContributions": 0
     },
     {
@@ -296,7 +296,7 @@
       "role": "admin",
       "th": 11,
       "expLevel": 101,
-      "trophies": 25,
+      "trophies": 37,
       "donations": 0,
       "donationsReceived": 67,
       "capitalContributions": 0
@@ -339,7 +339,7 @@
       "name": "jadav m",
       "role": "admin",
       "th": 11,
-      "expLevel": 70,
+      "expLevel": 71,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 806,
