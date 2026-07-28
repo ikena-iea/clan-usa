@@ -1,8 +1,8 @@
 {
   "date": "2026-07-28",
-  "capturedAt": "2026-07-28T15:27:34.873Z",
+  "capturedAt": "2026-07-28T17:42:12.857Z",
   "clanLevel": 6,
-  "memberCount": 49,
+  "memberCount": 50,
   "members": [
     {
       "tag": "#QRRV0R98R",
@@ -67,7 +67,7 @@
       "expLevel": 171,
       "trophies": 136,
       "donations": 66,
-      "donationsReceived": 77,
+      "donationsReceived": 78,
       "capitalContributions": 0
     },
     {
@@ -148,12 +148,23 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#P28JU228P",
+      "name": "$TØNER §IVA",
+      "role": "member",
+      "th": 13,
+      "expLevel": 142,
+      "trophies": 64,
+      "donations": 0,
+      "donationsReceived": 72,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#GYVPLJRRL",
       "name": "DaHairyVeer2",
       "role": "admin",
       "th": 12,
       "expLevel": 99,
-      "trophies": 30,
+      "trophies": 98,
       "donations": 422,
       "donationsReceived": 869,
       "capitalContributions": 0
@@ -174,8 +185,8 @@
       "name": "LegitN00b98",
       "role": "admin",
       "th": 11,
-      "expLevel": 83,
-      "trophies": 13,
+      "expLevel": 84,
+      "trophies": 53,
       "donations": 321,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -189,6 +200,17 @@
       "trophies": 186,
       "donations": 160,
       "donationsReceived": 199,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#QVPQ8G2VQ",
+      "name": "your mom",
+      "role": "admin",
+      "th": 12,
+      "expLevel": 67,
+      "trophies": 63,
+      "donations": 388,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -211,17 +233,6 @@
       "trophies": 29,
       "donations": 0,
       "donationsReceived": 268,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#QVPQ8G2VQ",
-      "name": "your mom",
-      "role": "admin",
-      "th": 12,
-      "expLevel": 67,
-      "trophies": 11,
-      "donations": 316,
-      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -285,9 +296,9 @@
       "role": "member",
       "th": 11,
       "expLevel": 84,
-      "trophies": 154,
+      "trophies": 234,
       "donations": 0,
-      "donationsReceived": 167,
+      "donationsReceived": 203,
       "capitalContributions": 0
     },
     {
@@ -361,8 +372,8 @@
       "name": "Sir Ron Ron",
       "role": "member",
       "th": 10,
-      "expLevel": 65,
-      "trophies": 235,
+      "expLevel": 66,
+      "trophies": 262,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -373,7 +384,7 @@
       "role": "member",
       "th": 10,
       "expLevel": 75,
-      "trophies": 0,
+      "trophies": 40,
       "donations": 80,
       "donationsReceived": 265,
       "capitalContributions": 0
@@ -418,7 +429,7 @@
       "th": 9,
       "expLevel": 54,
       "trophies": 0,
-      "donations": 0,
+      "donations": 55,
       "donationsReceived": 62,
       "capitalContributions": 0
     },
@@ -515,7 +526,7 @@
       "name": "sjd_emd",
       "role": "admin",
       "th": 13,
-      "expLevel": 95,
+      "expLevel": 96,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 732,
@@ -539,8 +550,8 @@
       "th": 18,
       "expLevel": 238,
       "trophies": 0,
-      "donations": 388,
-      "donationsReceived": 400,
+      "donations": 425,
+      "donationsReceived": 455,
       "capitalContributions": 0
     }
   ]
