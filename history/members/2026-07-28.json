@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "capturedAt": "2026-07-28T03:24:44.959Z",
+  "capturedAt": "2026-07-28T06:34:52.520Z",
   "clanLevel": 6,
   "memberCount": 49,
   "members": [
@@ -99,7 +99,7 @@
       "th": 13,
       "expLevel": 103,
       "trophies": 40,
-      "donations": 998,
+      "donations": 1045,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -120,9 +120,9 @@
       "role": "member",
       "th": 14,
       "expLevel": 73,
-      "trophies": 36,
-      "donations": 0,
-      "donationsReceived": 186,
+      "trophies": 106,
+      "donations": 55,
+      "donationsReceived": 369,
       "capitalContributions": 0
     },
     {
@@ -154,8 +154,19 @@
       "th": 12,
       "expLevel": 98,
       "trophies": 30,
-      "donations": 338,
-      "donationsReceived": 838,
+      "donations": 422,
+      "donationsReceived": 869,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#PJ22QYY22",
+      "name": "thegodlynoob",
+      "role": "admin",
+      "th": 10,
+      "expLevel": 76,
+      "trophies": 49,
+      "donations": 0,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -165,19 +176,41 @@
       "th": 11,
       "expLevel": 83,
       "trophies": 13,
-      "donations": 279,
+      "donations": 321,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
-      "tag": "#PJ22QYY22",
-      "name": "thegodlynoob",
+      "tag": "#GYC8Q2R20",
+      "name": "lucky",
       "role": "admin",
       "th": 10,
-      "expLevel": 76,
-      "trophies": 0,
+      "expLevel": 82,
+      "trophies": 124,
+      "donations": 160,
+      "donationsReceived": 199,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#GLUJVJGGV",
+      "name": "allis",
+      "role": "admin",
+      "th": 10,
+      "expLevel": 82,
+      "trophies": 40,
+      "donations": 127,
+      "donationsReceived": 195,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#YYY2RCCR2",
+      "name": "Horus",
+      "role": "admin",
+      "th": 11,
+      "expLevel": 92,
+      "trophies": 29,
       "donations": 0,
-      "donationsReceived": 0,
+      "donationsReceived": 201,
       "capitalContributions": 0
     },
     {
@@ -203,17 +236,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#YYY2RCCR2",
-      "name": "Horus",
-      "role": "admin",
-      "th": 11,
-      "expLevel": 91,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 201,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#QV08GJJQV",
       "name": "knuxyngYiudjdh",
       "role": "admin",
@@ -222,17 +244,6 @@
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 66,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GYC8Q2R20",
-      "name": "lucky",
-      "role": "admin",
-      "th": 10,
-      "expLevel": 82,
-      "trophies": 0,
-      "donations": 160,
-      "donationsReceived": 199,
       "capitalContributions": 0
     },
     {
@@ -269,25 +280,25 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#GLUJVJGGV",
-      "name": "allis",
-      "role": "admin",
-      "th": 10,
-      "expLevel": 82,
-      "trophies": 0,
-      "donations": 127,
-      "donationsReceived": 195,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#GPPUPY8LR",
       "name": "ABDULLAH",
       "role": "member",
       "th": 11,
       "expLevel": 84,
-      "trophies": 17,
+      "trophies": 57,
       "donations": 0,
       "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#G0GCJYLG",
+      "name": "smcude",
+      "role": "admin",
+      "th": 11,
+      "expLevel": 101,
+      "trophies": 25,
+      "donations": 0,
+      "donationsReceived": 67,
       "capitalContributions": 0
     },
     {
@@ -302,23 +313,12 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#G0GCJYLG",
-      "name": "smcude",
-      "role": "admin",
-      "th": 11,
-      "expLevel": 101,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 67,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#GGQ80JRJ0",
       "name": "hartymate",
       "role": "member",
       "th": 11,
       "expLevel": 80,
-      "trophies": 11,
+      "trophies": 51,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -372,7 +372,7 @@
       "name": "X4FSHIN",
       "role": "member",
       "th": 10,
-      "expLevel": 74,
+      "expLevel": 75,
       "trophies": 0,
       "donations": 80,
       "donationsReceived": 265,
@@ -473,7 +473,7 @@
       "th": 18,
       "expLevel": 254,
       "trophies": 0,
-      "donations": 1010,
+      "donations": 1016,
       "donationsReceived": 286,
       "capitalContributions": 0
     },
@@ -504,7 +504,7 @@
       "name": "King .",
       "role": "member",
       "th": 11,
-      "expLevel": 46,
+      "expLevel": 47,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -539,8 +539,8 @@
       "th": 18,
       "expLevel": 238,
       "trophies": 0,
-      "donations": 353,
-      "donationsReceived": 345,
+      "donations": 388,
+      "donationsReceived": 400,
       "capitalContributions": 0
     }
   ]
