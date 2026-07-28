@@ -1,0 +1,147 @@
+{
+  "id": "20260727070000000",
+  "startTime": "20260724T070000.000Z",
+  "endTime": "20260727T070000.000Z",
+  "offensiveReward": 89,
+  "defensiveReward": 0,
+  "clanMedianLootPerAttack": 1561,
+  "members": [
+    {
+      "tag": "#GPLRVGLGJ",
+      "name": "elf00",
+      "attacksUsed": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "looted": 2710
+    },
+    {
+      "tag": "#PJ22QYY22",
+      "name": "thegodlynoob",
+      "attacksUsed": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "looted": 10936
+    },
+    {
+      "tag": "#Q8QPY2L2",
+      "name": "Aaron",
+      "attacksUsed": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "looted": 8257
+    },
+    {
+      "tag": "#9G8RGQV9V",
+      "name": "MD SOBUJ",
+      "attacksUsed": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "looted": 11028
+    },
+    {
+      "tag": "#GYC8Q2R20",
+      "name": "lucky",
+      "attacksUsed": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "looted": 10461
+    },
+    {
+      "tag": "#GVV89RJYQ",
+      "name": "DevilIguana",
+      "attacksUsed": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "looted": 9450
+    },
+    {
+      "tag": "#R292L228Q",
+      "name": "Ikena",
+      "attacksUsed": 5,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "looted": 6760
+    },
+    {
+      "tag": "#GGUJJGQUV",
+      "name": "Jaz",
+      "attacksUsed": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "looted": 10801
+    },
+    {
+      "tag": "#YYCR2YRRJ",
+      "name": "Aswath stark",
+      "attacksUsed": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "looted": 9368
+    },
+    {
+      "tag": "#88LVJLGY0",
+      "name": "¥¥Eagle claw¥¥",
+      "attacksUsed": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "looted": 9124
+    },
+    {
+      "tag": "#GYVPLJRRL",
+      "name": "DaHairyVeer2",
+      "attacksUsed": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "looted": 12503
+    },
+    {
+      "tag": "#R2RR9UJ8V",
+      "name": "X4FSHIN",
+      "attacksUsed": 5,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "looted": 7605
+    },
+    {
+      "tag": "#R8GPLGRVQ",
+      "name": "LegitN00b98",
+      "attacksUsed": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "looted": 8402
+    },
+    {
+      "tag": "#R8PJY0U0J",
+      "name": "Didetz",
+      "attacksUsed": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "looted": 1400
+    },
+    {
+      "tag": "#GUG292C2C",
+      "name": "Vicheka",
+      "attacksUsed": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "looted": 11136
+    },
+    {
+      "tag": "#R8P2LPQ9",
+      "name": "MW☢️ARCHITECT 2",
+      "attacksUsed": 5,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "looted": 7776
+    },
+    {
+      "tag": "#GLUJVJGGV",
+      "name": "allis",
+      "attacksUsed": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "looted": 8984
+    }
+  ],
+  "archivedAt": "2026-07-28T01:45:14.349Z"
+}
