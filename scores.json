@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T17:22:49.102Z",
+  "generatedAt": "2026-07-29T19:35:57.666Z",
   "snapshotDate": "2026-07-29",
   "snapshotsAvailable": 2,
   "raidWeekendsAvailable": 4,
@@ -693,39 +693,6 @@
       }
     },
     {
-      "tag": "#YYY2RCCR2",
-      "name": "Horus",
-      "role": "admin",
-      "th": 11,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 1,
-      "inGrace": true,
-      "gracePeriodEndsIn": 13,
-      "warsJoined": 0,
-      "warsTotal": 2,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
       "tag": "#GLUJVJGGV",
       "name": "allis",
       "role": "admin",
@@ -755,6 +722,39 @@
         "available": 2,
         "used": 1,
         "misses": 1,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#YYY2RCCR2",
+      "name": "Horus",
+      "role": "admin",
+      "th": 11,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 2,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
         "tier": null
       }
     },
@@ -1091,7 +1091,7 @@
     {
       "tag": "#R2RR9UJ8V",
       "name": "X4FSHIN",
-      "role": "member",
+      "role": "admin",
       "th": 10,
       "firstSeen": "2026-07-28",
       "daysPresent": 1,

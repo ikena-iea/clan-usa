@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "capturedAt": "2026-07-29T17:22:48.495Z",
+  "capturedAt": "2026-07-29T19:35:57.061Z",
   "clanLevel": 6,
   "memberCount": 49,
   "members": [
@@ -21,7 +21,7 @@
       "role": "admin",
       "th": 17,
       "expLevel": 191,
-      "trophies": 160,
+      "trophies": 176,
       "donations": 391,
       "donationsReceived": 197,
       "capitalContributions": 0
@@ -98,8 +98,8 @@
       "role": "coLeader",
       "th": 13,
       "expLevel": 104,
-      "trophies": 40,
-      "donations": 1196,
+      "trophies": 391,
+      "donations": 1320,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -143,7 +143,7 @@
       "th": 11,
       "expLevel": 121,
       "trophies": 189,
-      "donations": 1011,
+      "donations": 1012,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -177,7 +177,7 @@
       "expLevel": 100,
       "trophies": 230,
       "donations": 422,
-      "donationsReceived": 1038,
+      "donationsReceived": 1039,
       "capitalContributions": 0
     },
     {
@@ -225,6 +225,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GLUJVJGGV",
+      "name": "allis",
+      "role": "admin",
+      "th": 10,
+      "expLevel": 82,
+      "trophies": 80,
+      "donations": 127,
+      "donationsReceived": 195,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#YYY2RCCR2",
       "name": "Horus",
       "role": "admin",
@@ -233,17 +244,6 @@
       "trophies": 57,
       "donations": 0,
       "donationsReceived": 268,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GLUJVJGGV",
-      "name": "allis",
-      "role": "admin",
-      "th": 10,
-      "expLevel": 82,
-      "trophies": 40,
-      "donations": 127,
-      "donationsReceived": 195,
       "capitalContributions": 0
     },
     {
@@ -342,7 +342,7 @@
       "expLevel": 71,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 806,
+      "donationsReceived": 872,
       "capitalContributions": 0
     },
     {
@@ -359,7 +359,7 @@
     {
       "tag": "#R2RR9UJ8V",
       "name": "X4FSHIN",
-      "role": "member",
+      "role": "admin",
       "th": 10,
       "expLevel": 75,
       "trophies": 320,
@@ -473,8 +473,8 @@
       "th": 18,
       "expLevel": 254,
       "trophies": 0,
-      "donations": 1047,
-      "donationsReceived": 286,
+      "donations": 1048,
+      "donationsReceived": 345,
       "capitalContributions": 0
     },
     {
