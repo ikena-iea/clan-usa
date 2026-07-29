@@ -1,8 +1,8 @@
 {
   "date": "2026-07-29",
-  "capturedAt": "2026-07-29T15:13:19.505Z",
+  "capturedAt": "2026-07-29T17:22:48.495Z",
   "clanLevel": 6,
-  "memberCount": 48,
+  "memberCount": 49,
   "members": [
     {
       "tag": "#QRRV0R98R",
@@ -65,7 +65,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 171,
-      "trophies": 245,
+      "trophies": 273,
       "donations": 117,
       "donationsReceived": 78,
       "capitalContributions": 0
@@ -99,7 +99,7 @@
       "th": 13,
       "expLevel": 104,
       "trophies": 40,
-      "donations": 1160,
+      "donations": 1196,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -159,14 +159,25 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#G80PQRPUV",
+      "name": "sammy2720",
+      "role": "member",
+      "th": 13,
+      "expLevel": 82,
+      "trophies": 38,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#GYVPLJRRL",
       "name": "DaHairyVeer2",
       "role": "admin",
       "th": 12,
-      "expLevel": 99,
-      "trophies": 164,
+      "expLevel": 100,
+      "trophies": 230,
       "donations": 422,
-      "donationsReceived": 1002,
+      "donationsReceived": 1038,
       "capitalContributions": 0
     },
     {
@@ -285,7 +296,7 @@
       "role": "admin",
       "th": 11,
       "expLevel": 101,
-      "trophies": 37,
+      "trophies": 77,
       "donations": 0,
       "donationsReceived": 67,
       "capitalContributions": 0
@@ -346,6 +357,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#R2RR9UJ8V",
+      "name": "X4FSHIN",
+      "role": "member",
+      "th": 10,
+      "expLevel": 75,
+      "trophies": 320,
+      "donations": 80,
+      "donationsReceived": 265,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#GVJRQQJYU",
       "name": "Sir Ron Ron",
       "role": "member",
@@ -354,17 +376,6 @@
       "trophies": 291,
       "donations": 0,
       "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#R2RR9UJ8V",
-      "name": "X4FSHIN",
-      "role": "member",
-      "th": 10,
-      "expLevel": 75,
-      "trophies": 280,
-      "donations": 80,
-      "donationsReceived": 265,
       "capitalContributions": 0
     },
     {
