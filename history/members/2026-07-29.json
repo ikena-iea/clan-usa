@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "capturedAt": "2026-07-29T06:39:58.207Z",
+  "capturedAt": "2026-07-29T09:44:52.945Z",
   "clanLevel": 6,
   "memberCount": 50,
   "members": [
@@ -65,7 +65,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 171,
-      "trophies": 177,
+      "trophies": 205,
       "donations": 66,
       "donationsReceived": 78,
       "capitalContributions": 0
@@ -97,9 +97,9 @@
       "name": "Ikena",
       "role": "coLeader",
       "th": 13,
-      "expLevel": 103,
+      "expLevel": 104,
       "trophies": 40,
-      "donations": 1155,
+      "donations": 1160,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -119,10 +119,10 @@
       "name": "shsuhwshha",
       "role": "member",
       "th": 15,
-      "expLevel": 73,
+      "expLevel": 74,
       "trophies": 106,
-      "donations": 55,
-      "donationsReceived": 389,
+      "donations": 127,
+      "donationsReceived": 637,
       "capitalContributions": 0
     },
     {
@@ -143,7 +143,7 @@
       "th": 11,
       "expLevel": 121,
       "trophies": 189,
-      "donations": 845,
+      "donations": 1011,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -329,7 +329,7 @@
       "role": "member",
       "th": 11,
       "expLevel": 80,
-      "trophies": 51,
+      "trophies": 80,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -395,7 +395,7 @@
       "role": "admin",
       "th": 10,
       "expLevel": 54,
-      "trophies": 37,
+      "trophies": 68,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -529,7 +529,7 @@
       "expLevel": 96,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 732,
+      "donationsReceived": 804,
       "capitalContributions": 0
     },
     {
@@ -550,7 +550,7 @@
       "th": 18,
       "expLevel": 238,
       "trophies": 0,
-      "donations": 425,
+      "donations": 502,
       "donationsReceived": 455,
       "capitalContributions": 0
     }
