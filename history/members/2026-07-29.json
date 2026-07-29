@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "capturedAt": "2026-07-29T09:44:52.945Z",
+  "capturedAt": "2026-07-29T12:08:25.641Z",
   "clanLevel": 6,
   "memberCount": 50,
   "members": [
@@ -10,7 +10,7 @@
       "role": "admin",
       "th": 17,
       "expLevel": 177,
-      "trophies": 87,
+      "trophies": 111,
       "donations": 874,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -54,8 +54,8 @@
       "role": "admin",
       "th": 15,
       "expLevel": 147,
-      "trophies": 0,
-      "donations": 910,
+      "trophies": 68,
+      "donations": 957,
       "donationsReceived": 332,
       "capitalContributions": 0
     },
@@ -66,7 +66,7 @@
       "th": 15,
       "expLevel": 171,
       "trophies": 205,
-      "donations": 66,
+      "donations": 71,
       "donationsReceived": 78,
       "capitalContributions": 0
     },
@@ -122,7 +122,7 @@
       "expLevel": 74,
       "trophies": 106,
       "donations": 127,
-      "donationsReceived": 637,
+      "donationsReceived": 689,
       "capitalContributions": 0
     },
     {
@@ -153,7 +153,7 @@
       "role": "member",
       "th": 13,
       "expLevel": 142,
-      "trophies": 64,
+      "trophies": 104,
       "donations": 0,
       "donationsReceived": 72,
       "capitalContributions": 0
@@ -164,7 +164,7 @@
       "role": "admin",
       "th": 12,
       "expLevel": 99,
-      "trophies": 138,
+      "trophies": 164,
       "donations": 422,
       "donationsReceived": 967,
       "capitalContributions": 0
@@ -296,7 +296,7 @@
       "role": "member",
       "th": 11,
       "expLevel": 84,
-      "trophies": 262,
+      "trophies": 275,
       "donations": 0,
       "donationsReceived": 203,
       "capitalContributions": 0
@@ -368,6 +368,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GVJRQQJYU",
+      "name": "Sir Ron Ron",
+      "role": "member",
+      "th": 10,
+      "expLevel": 66,
+      "trophies": 291,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#R2RR9UJ8V",
       "name": "X4FSHIN",
       "role": "member",
@@ -376,17 +387,6 @@
       "trophies": 280,
       "donations": 80,
       "donationsReceived": 265,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GVJRQQJYU",
-      "name": "Sir Ron Ron",
-      "role": "member",
-      "th": 10,
-      "expLevel": 66,
-      "trophies": 262,
-      "donations": 0,
-      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -405,7 +405,7 @@
       "name": "dark angel",
       "role": "admin",
       "th": 10,
-      "expLevel": 64,
+      "expLevel": 65,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -471,7 +471,7 @@
       "name": "100 days",
       "role": "coLeader",
       "th": 7,
-      "expLevel": 29,
+      "expLevel": 30,
       "trophies": 0,
       "donations": 103,
       "donationsReceived": 50,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T09:44:53.497Z",
+  "generatedAt": "2026-07-29T12:08:26.137Z",
   "snapshotDate": "2026-07-29",
   "snapshotsAvailable": 2,
   "raidWeekendsAvailable": 4,
@@ -178,7 +178,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 0,
+          "donations": 100,
           "raids": null,
           "contributions": null
         },
@@ -211,7 +211,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 0,
+          "donations": 38,
           "raids": 88,
           "contributions": 0
         },
@@ -1122,39 +1122,6 @@
       }
     },
     {
-      "tag": "#R2RR9UJ8V",
-      "name": "X4FSHIN",
-      "role": "member",
-      "th": 10,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 1,
-      "inGrace": true,
-      "gracePeriodEndsIn": 13,
-      "warsJoined": 1,
-      "warsTotal": 2,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": 99,
-          "contributions": 0
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 2,
-        "used": 2,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
       "tag": "#GVJRQQJYU",
       "name": "Sir Ron Ron",
       "role": "member",
@@ -1183,6 +1150,39 @@
         },
         "available": 0,
         "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#R2RR9UJ8V",
+      "name": "X4FSHIN",
+      "role": "member",
+      "th": 10,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 1,
+      "warsTotal": 2,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": 99,
+          "contributions": 0
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 2,
+        "used": 2,
         "misses": 0,
         "tier": null
       }
