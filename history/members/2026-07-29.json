@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "capturedAt": "2026-07-29T03:26:14.066Z",
+  "capturedAt": "2026-07-29T06:39:58.207Z",
   "clanLevel": 6,
   "memberCount": 50,
   "members": [
@@ -65,7 +65,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 171,
-      "trophies": 165,
+      "trophies": 177,
       "donations": 66,
       "donationsReceived": 78,
       "capitalContributions": 0
@@ -166,7 +166,7 @@
       "expLevel": 99,
       "trophies": 138,
       "donations": 422,
-      "donationsReceived": 936,
+      "donationsReceived": 967,
       "capitalContributions": 0
     },
     {
@@ -196,7 +196,7 @@
       "name": "lucky",
       "role": "admin",
       "th": 10,
-      "expLevel": 82,
+      "expLevel": 83,
       "trophies": 186,
       "donations": 160,
       "donationsReceived": 199,
@@ -416,7 +416,7 @@
       "name": "Jaz",
       "role": "admin",
       "th": 9,
-      "expLevel": 52,
+      "expLevel": 53,
       "trophies": 0,
       "donations": 21,
       "donationsReceived": 108,
@@ -462,7 +462,7 @@
       "th": 11,
       "expLevel": 79,
       "trophies": 0,
-      "donations": 83,
+      "donations": 84,
       "donationsReceived": 97,
       "capitalContributions": 0
     },
@@ -484,7 +484,7 @@
       "th": 18,
       "expLevel": 254,
       "trophies": 0,
-      "donations": 1017,
+      "donations": 1047,
       "donationsReceived": 286,
       "capitalContributions": 0
     },
