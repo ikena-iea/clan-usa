@@ -1,8 +1,8 @@
 {
   "date": "2026-07-29",
-  "capturedAt": "2026-07-29T12:08:25.641Z",
+  "capturedAt": "2026-07-29T15:13:19.505Z",
   "clanLevel": 6,
-  "memberCount": 50,
+  "memberCount": 48,
   "members": [
     {
       "tag": "#QRRV0R98R",
@@ -10,8 +10,8 @@
       "role": "admin",
       "th": 17,
       "expLevel": 177,
-      "trophies": 111,
-      "donations": 874,
+      "trophies": 221,
+      "donations": 940,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -21,8 +21,8 @@
       "role": "admin",
       "th": 17,
       "expLevel": 191,
-      "trophies": 0,
-      "donations": 356,
+      "trophies": 160,
+      "donations": 391,
       "donationsReceived": 197,
       "capitalContributions": 0
     },
@@ -65,8 +65,8 @@
       "role": "admin",
       "th": 15,
       "expLevel": 171,
-      "trophies": 205,
-      "donations": 71,
+      "trophies": 245,
+      "donations": 117,
       "donationsReceived": 78,
       "capitalContributions": 0
     },
@@ -87,7 +87,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 123,
-      "trophies": 16,
+      "trophies": 113,
       "donations": 499,
       "donationsReceived": 432,
       "capitalContributions": 0
@@ -166,7 +166,7 @@
       "expLevel": 99,
       "trophies": 164,
       "donations": 422,
-      "donationsReceived": 967,
+      "donationsReceived": 1002,
       "capitalContributions": 0
     },
     {
@@ -175,7 +175,7 @@
       "role": "admin",
       "th": 10,
       "expLevel": 76,
-      "trophies": 89,
+      "trophies": 129,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -277,28 +277,6 @@
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GUG292C2C",
-      "name": "Vicheka",
-      "role": "member",
-      "th": 10,
-      "expLevel": 75,
-      "trophies": 0,
-      "donations": 42,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GPPUPY8LR",
-      "name": "ABDULLAH",
-      "role": "member",
-      "th": 11,
-      "expLevel": 84,
-      "trophies": 275,
-      "donations": 0,
-      "donationsReceived": 203,
       "capitalContributions": 0
     },
     {

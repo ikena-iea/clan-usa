@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T12:08:26.137Z",
+  "generatedAt": "2026-07-29T15:13:20.071Z",
   "snapshotDate": "2026-07-29",
   "snapshotsAvailable": 2,
   "raidWeekendsAvailable": 4,
@@ -46,7 +46,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 0,
+          "donations": 100,
           "raids": null,
           "contributions": null
         },
@@ -79,7 +79,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 0,
+          "donations": 100,
           "raids": 100,
           "contributions": 0
         },
@@ -211,7 +211,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 38,
+          "donations": 100,
           "raids": 88,
           "contributions": 0
         },
@@ -829,72 +829,6 @@
       "name": "Ruattela4",
       "role": "member",
       "th": 12,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 1,
-      "inGrace": true,
-      "gracePeriodEndsIn": 13,
-      "warsJoined": 0,
-      "warsTotal": 2,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#GUG292C2C",
-      "name": "Vicheka",
-      "role": "member",
-      "th": 10,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 1,
-      "inGrace": true,
-      "gracePeriodEndsIn": 13,
-      "warsJoined": 1,
-      "warsTotal": 2,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": 100,
-          "contributions": 0
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 2,
-        "used": 2,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#GPPUPY8LR",
-      "name": "ABDULLAH",
-      "role": "member",
-      "th": 11,
       "firstSeen": "2026-07-28",
       "daysPresent": 1,
       "inGrace": true,
