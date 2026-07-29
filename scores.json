@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T19:35:57.666Z",
+  "generatedAt": "2026-07-29T21:05:20.495Z",
   "snapshotDate": "2026-07-29",
   "snapshotsAvailable": 2,
   "raidWeekendsAvailable": 4,
@@ -464,7 +464,7 @@
     {
       "tag": "#P28JU228P",
       "name": "$TØNER §IVA",
-      "role": "member",
+      "role": "admin",
       "th": 13,
       "firstSeen": "2026-07-28",
       "daysPresent": 1,
@@ -497,7 +497,7 @@
     {
       "tag": "#G80PQRPUV",
       "name": "sammy2720",
-      "role": "member",
+      "role": "admin",
       "th": 13,
       "firstSeen": "2026-07-29",
       "daysPresent": 1,
@@ -673,7 +673,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 0,
+          "donations": 83,
           "raids": null,
           "contributions": null
         },
@@ -792,39 +792,6 @@
       }
     },
     {
-      "tag": "#2P0Q9R0P9",
-      "name": "rafy",
-      "role": "admin",
-      "th": 12,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 1,
-      "inGrace": true,
-      "gracePeriodEndsIn": 13,
-      "warsJoined": 1,
-      "warsTotal": 2,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 2,
-        "used": 0,
-        "misses": 2,
-        "tier": null
-      }
-    },
-    {
       "tag": "#GVV89RJYQ",
       "name": "DevilIguana",
       "role": "coLeader",
@@ -854,39 +821,6 @@
         "available": 2,
         "used": 1,
         "misses": 1,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#GP0J02Y02",
-      "name": "Ruattela4",
-      "role": "member",
-      "th": 12,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 1,
-      "inGrace": true,
-      "gracePeriodEndsIn": 13,
-      "warsJoined": 0,
-      "warsTotal": 2,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
         "tier": null
       }
     },
@@ -924,42 +858,9 @@
       }
     },
     {
-      "tag": "#LQJLCJY0U",
-      "name": "A.A8118",
-      "role": "admin",
-      "th": 11,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 1,
-      "inGrace": true,
-      "gracePeriodEndsIn": 13,
-      "warsJoined": 1,
-      "warsTotal": 2,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 2,
-        "used": 0,
-        "misses": 2,
-        "tier": null
-      }
-    },
-    {
       "tag": "#GGQ80JRJ0",
       "name": "hartymate",
-      "role": "member",
+      "role": "admin",
       "th": 11,
       "firstSeen": "2026-07-28",
       "daysPresent": 1,
@@ -992,7 +893,7 @@
     {
       "tag": "#R8C9Y802G",
       "name": "limon jr",
-      "role": "member",
+      "role": "admin",
       "th": 11,
       "firstSeen": "2026-07-28",
       "daysPresent": 1,
@@ -1124,7 +1025,7 @@
     {
       "tag": "#GVJRQQJYU",
       "name": "Sir Ron Ron",
-      "role": "member",
+      "role": "admin",
       "th": 10,
       "firstSeen": "2026-07-28",
       "daysPresent": 1,
@@ -1284,39 +1185,6 @@
         },
         "available": 4,
         "used": 2,
-        "misses": 2,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#GP0Q82R8J",
-      "name": "userrrt29493493",
-      "role": "member",
-      "th": 8,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 1,
-      "inGrace": true,
-      "gracePeriodEndsIn": 13,
-      "warsJoined": 1,
-      "warsTotal": 2,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 2,
-        "used": 0,
         "misses": 2,
         "tier": null
       }
@@ -1557,39 +1425,6 @@
       "name": "sjd_emd",
       "role": "admin",
       "th": 13,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 1,
-      "inGrace": true,
-      "gracePeriodEndsIn": 13,
-      "warsJoined": 1,
-      "warsTotal": 2,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 2,
-        "used": 0,
-        "misses": 2,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#QVUVGVVU8",
-      "name": "Bryar",
-      "role": "admin",
-      "th": 10,
       "firstSeen": "2026-07-28",
       "daysPresent": 1,
       "inGrace": true,

@@ -1,8 +1,8 @@
 {
   "date": "2026-07-29",
-  "capturedAt": "2026-07-29T19:35:57.061Z",
+  "capturedAt": "2026-07-29T21:05:20.090Z",
   "clanLevel": 6,
-  "memberCount": 49,
+  "memberCount": 44,
   "members": [
     {
       "tag": "#QRRV0R98R",
@@ -10,7 +10,7 @@
       "role": "admin",
       "th": 17,
       "expLevel": 177,
-      "trophies": 221,
+      "trophies": 236,
       "donations": 940,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -55,7 +55,7 @@
       "th": 15,
       "expLevel": 147,
       "trophies": 68,
-      "donations": 957,
+      "donations": 982,
       "donationsReceived": 332,
       "capitalContributions": 0
     },
@@ -99,7 +99,7 @@
       "th": 13,
       "expLevel": 104,
       "trophies": 391,
-      "donations": 1320,
+      "donations": 1351,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -150,7 +150,7 @@
     {
       "tag": "#P28JU228P",
       "name": "$TØNER §IVA",
-      "role": "member",
+      "role": "admin",
       "th": 13,
       "expLevel": 142,
       "trophies": 104,
@@ -161,7 +161,7 @@
     {
       "tag": "#G80PQRPUV",
       "name": "sammy2720",
-      "role": "member",
+      "role": "admin",
       "th": 13,
       "expLevel": 82,
       "trophies": 38,
@@ -175,9 +175,9 @@
       "role": "admin",
       "th": 12,
       "expLevel": 100,
-      "trophies": 230,
+      "trophies": 257,
       "donations": 422,
-      "donationsReceived": 1039,
+      "donationsReceived": 1075,
       "capitalContributions": 0
     },
     {
@@ -220,7 +220,7 @@
       "th": 12,
       "expLevel": 67,
       "trophies": 115,
-      "donations": 388,
+      "donations": 399,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -258,17 +258,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#2P0Q9R0P9",
-      "name": "rafy",
-      "role": "admin",
-      "th": 12,
-      "expLevel": 99,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#GVV89RJYQ",
       "name": "DevilIguana",
       "role": "coLeader",
@@ -276,17 +265,6 @@
       "expLevel": 90,
       "trophies": 0,
       "donations": 39,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GP0J02Y02",
-      "name": "Ruattela4",
-      "role": "member",
-      "th": 12,
-      "expLevel": 84,
-      "trophies": 0,
-      "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -302,22 +280,11 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#LQJLCJY0U",
-      "name": "A.A8118",
-      "role": "admin",
-      "th": 11,
-      "expLevel": 101,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#GGQ80JRJ0",
       "name": "hartymate",
-      "role": "member",
+      "role": "admin",
       "th": 11,
-      "expLevel": 80,
+      "expLevel": 81,
       "trophies": 80,
       "donations": 0,
       "donationsReceived": 0,
@@ -326,7 +293,7 @@
     {
       "tag": "#R8C9Y802G",
       "name": "limon jr",
-      "role": "member",
+      "role": "admin",
       "th": 11,
       "expLevel": 59,
       "trophies": 0,
@@ -370,7 +337,7 @@
     {
       "tag": "#GVJRQQJYU",
       "name": "Sir Ron Ron",
-      "role": "member",
+      "role": "admin",
       "th": 10,
       "expLevel": 66,
       "trophies": 291,
@@ -419,18 +386,7 @@
       "expLevel": 54,
       "trophies": 0,
       "donations": 55,
-      "donationsReceived": 62,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GP0Q82R8J",
-      "name": "userrrt29493493",
-      "role": "member",
-      "th": 8,
-      "expLevel": 43,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 51,
+      "donationsReceived": 93,
       "capitalContributions": 0
     },
     {
@@ -519,17 +475,6 @@
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 804,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#QVUVGVVU8",
-      "name": "Bryar",
-      "role": "admin",
-      "th": 10,
-      "expLevel": 55,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
