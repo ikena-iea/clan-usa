@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T18:23:16.886Z",
+  "generatedAt": "2026-07-30T20:20:08.996Z",
   "snapshotDate": "2026-07-30",
   "snapshotsAvailable": 3,
   "raidWeekendsAvailable": 4,
@@ -566,6 +566,39 @@
         },
         "available": 4,
         "used": 4,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#QPPVJPG22",
+      "name": "Krikrino",
+      "role": "member",
+      "th": 12,
+      "firstSeen": "2026-07-30",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 3,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
         "misses": 0,
         "tier": null
       }

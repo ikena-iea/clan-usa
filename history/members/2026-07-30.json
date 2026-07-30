@@ -1,8 +1,8 @@
 {
   "date": "2026-07-30",
-  "capturedAt": "2026-07-30T18:23:16.113Z",
+  "capturedAt": "2026-07-30T20:20:08.361Z",
   "clanLevel": 6,
-  "memberCount": 43,
+  "memberCount": 44,
   "members": [
     {
       "tag": "#QRRV0R98R",
@@ -55,7 +55,7 @@
       "th": 15,
       "expLevel": 147,
       "trophies": 98,
-      "donations": 982,
+      "donations": 1007,
       "donationsReceived": 379,
       "capitalContributions": 0
     },
@@ -99,7 +99,7 @@
       "th": 13,
       "expLevel": 104,
       "trophies": 391,
-      "donations": 1454,
+      "donations": 1573,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -164,9 +164,9 @@
       "role": "admin",
       "th": 13,
       "expLevel": 82,
-      "trophies": 38,
+      "trophies": 78,
       "donations": 0,
-      "donationsReceived": 0,
+      "donationsReceived": 72,
       "capitalContributions": 0
     },
     {
@@ -178,6 +178,17 @@
       "trophies": 297,
       "donations": 423,
       "donationsReceived": 1076,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#QPPVJPG22",
+      "name": "Krikrino",
+      "role": "member",
+      "th": 12,
+      "expLevel": 120,
+      "trophies": 158,
+      "donations": 0,
+      "donationsReceived": 72,
       "capitalContributions": 0
     },
     {
