@@ -1,6 +1,6 @@
 {
   "date": "2026-07-30",
-  "capturedAt": "2026-07-30T20:20:08.361Z",
+  "capturedAt": "2026-07-30T22:14:00.135Z",
   "clanLevel": 6,
   "memberCount": 44,
   "members": [
@@ -33,7 +33,7 @@
       "th": 17,
       "expLevel": 244,
       "trophies": 0,
-      "donations": 527,
+      "donations": 544,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -54,7 +54,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 147,
-      "trophies": 98,
+      "trophies": 127,
       "donations": 1007,
       "donationsReceived": 379,
       "capitalContributions": 0
@@ -99,7 +99,7 @@
       "th": 13,
       "expLevel": 104,
       "trophies": 391,
-      "donations": 1573,
+      "donations": 1711,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -121,7 +121,7 @@
       "th": 15,
       "expLevel": 74,
       "trophies": 106,
-      "donations": 182,
+      "donations": 237,
       "donationsReceived": 825,
       "capitalContributions": 0
     },
@@ -166,7 +166,7 @@
       "expLevel": 82,
       "trophies": 78,
       "donations": 0,
-      "donationsReceived": 72,
+      "donationsReceived": 144,
       "capitalContributions": 0
     },
     {
@@ -177,7 +177,7 @@
       "expLevel": 101,
       "trophies": 297,
       "donations": 423,
-      "donationsReceived": 1076,
+      "donationsReceived": 1142,
       "capitalContributions": 0
     },
     {
@@ -188,7 +188,7 @@
       "expLevel": 120,
       "trophies": 158,
       "donations": 0,
-      "donationsReceived": 72,
+      "donationsReceived": 144,
       "capitalContributions": 0
     },
     {
@@ -240,8 +240,8 @@
       "name": "allis",
       "role": "admin",
       "th": 10,
-      "expLevel": 82,
-      "trophies": 80,
+      "expLevel": 83,
+      "trophies": 90,
       "donations": 127,
       "donationsReceived": 195,
       "capitalContributions": 0
@@ -273,7 +273,7 @@
       "name": "DevilIguana",
       "role": "coLeader",
       "th": 12,
-      "expLevel": 90,
+      "expLevel": 91,
       "trophies": 0,
       "donations": 39,
       "donationsReceived": 0,
