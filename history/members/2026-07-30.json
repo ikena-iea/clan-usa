@@ -1,8 +1,8 @@
 {
   "date": "2026-07-30",
-  "capturedAt": "2026-07-30T03:14:10.726Z",
+  "capturedAt": "2026-07-30T06:35:12.626Z",
   "clanLevel": 6,
-  "memberCount": 44,
+  "memberCount": 43,
   "members": [
     {
       "tag": "#QRRV0R98R",
@@ -54,7 +54,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 147,
-      "trophies": 68,
+      "trophies": 98,
       "donations": 982,
       "donationsReceived": 334,
       "capitalContributions": 0
@@ -99,7 +99,7 @@
       "th": 13,
       "expLevel": 104,
       "trophies": 391,
-      "donations": 1407,
+      "donations": 1454,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -121,8 +121,8 @@
       "th": 15,
       "expLevel": 74,
       "trophies": 106,
-      "donations": 127,
-      "donationsReceived": 689,
+      "donations": 182,
+      "donationsReceived": 778,
       "capitalContributions": 0
     },
     {
@@ -143,7 +143,7 @@
       "th": 11,
       "expLevel": 121,
       "trophies": 212,
-      "donations": 1012,
+      "donations": 1054,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -177,7 +177,18 @@
       "expLevel": 100,
       "trophies": 257,
       "donations": 423,
-      "donationsReceived": 1075,
+      "donationsReceived": 1076,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#R8GPLGRVQ",
+      "name": "LegitN00b98",
+      "role": "admin",
+      "th": 11,
+      "expLevel": 84,
+      "trophies": 149,
+      "donations": 321,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -188,17 +199,6 @@
       "expLevel": 76,
       "trophies": 129,
       "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#R8GPLGRVQ",
-      "name": "LegitN00b98",
-      "role": "admin",
-      "th": 11,
-      "expLevel": 84,
-      "trophies": 121,
-      "donations": 321,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -266,17 +266,6 @@
       "trophies": 0,
       "donations": 39,
       "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#G0GCJYLG",
-      "name": "smcude",
-      "role": "admin",
-      "th": 11,
-      "expLevel": 101,
-      "trophies": 77,
-      "donations": 0,
-      "donationsReceived": 67,
       "capitalContributions": 0
     },
     {
@@ -429,8 +418,8 @@
       "th": 18,
       "expLevel": 254,
       "trophies": 0,
-      "donations": 1048,
-      "donationsReceived": 345,
+      "donations": 1049,
+      "donationsReceived": 400,
       "capitalContributions": 0
     },
     {

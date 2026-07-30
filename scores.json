@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T03:14:11.264Z",
+  "generatedAt": "2026-07-30T06:35:13.083Z",
   "snapshotDate": "2026-07-30",
   "snapshotsAvailable": 3,
   "raidWeekendsAvailable": 4,
@@ -561,10 +561,10 @@
       }
     },
     {
-      "tag": "#PJ22QYY22",
-      "name": "thegodlynoob",
+      "tag": "#R8GPLGRVQ",
+      "name": "LegitN00b98",
       "role": "admin",
-      "th": 10,
+      "th": 11,
       "firstSeen": "2026-07-28",
       "daysPresent": 2,
       "inGrace": true,
@@ -575,7 +575,7 @@
         "total": null,
         "pillars": {
           "donations": 0,
-          "raids": 100,
+          "raids": 97,
           "contributions": 0
         },
         "tier": null
@@ -594,10 +594,10 @@
       }
     },
     {
-      "tag": "#R8GPLGRVQ",
-      "name": "LegitN00b98",
+      "tag": "#PJ22QYY22",
+      "name": "thegodlynoob",
       "role": "admin",
-      "th": 11,
+      "th": 10,
       "firstSeen": "2026-07-28",
       "daysPresent": 2,
       "inGrace": true,
@@ -608,7 +608,7 @@
         "total": null,
         "pillars": {
           "donations": 0,
-          "raids": 97,
+          "raids": 100,
           "contributions": 0
         },
         "tier": null
@@ -808,39 +808,6 @@
           "donations": 0,
           "raids": 100,
           "contributions": 0
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 2,
-        "used": 1,
-        "misses": 1,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#G0GCJYLG",
-      "name": "smcude",
-      "role": "admin",
-      "th": 11,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 2,
-      "inGrace": true,
-      "gracePeriodEndsIn": 12,
-      "warsJoined": 1,
-      "warsTotal": 2,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "contributions": null
         },
         "tier": null
       },
