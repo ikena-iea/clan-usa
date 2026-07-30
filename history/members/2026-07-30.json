@@ -1,6 +1,6 @@
 {
   "date": "2026-07-30",
-  "capturedAt": "2026-07-30T11:57:08.278Z",
+  "capturedAt": "2026-07-30T14:25:50.164Z",
   "clanLevel": 6,
   "memberCount": 43,
   "members": [
@@ -10,7 +10,7 @@
       "role": "admin",
       "th": 17,
       "expLevel": 177,
-      "trophies": 236,
+      "trophies": 256,
       "donations": 940,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -21,7 +21,7 @@
       "role": "admin",
       "th": 17,
       "expLevel": 191,
-      "trophies": 338,
+      "trophies": 418,
       "donations": 391,
       "donationsReceived": 197,
       "capitalContributions": 0
@@ -218,7 +218,7 @@
       "name": "your mom",
       "role": "admin",
       "th": 12,
-      "expLevel": 67,
+      "expLevel": 68,
       "trophies": 115,
       "donations": 399,
       "donationsReceived": 0,
@@ -274,7 +274,7 @@
       "role": "admin",
       "th": 11,
       "expLevel": 81,
-      "trophies": 80,
+      "trophies": 255,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -328,7 +328,7 @@
       "name": "Sir Ron Ron",
       "role": "admin",
       "th": 10,
-      "expLevel": 66,
+      "expLevel": 67,
       "trophies": 291,
       "donations": 0,
       "donationsReceived": 0,
@@ -427,7 +427,7 @@
       "name": "Lakers",
       "role": "coLeader",
       "th": 12,
-      "expLevel": 84,
+      "expLevel": 85,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
