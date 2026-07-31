@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "capturedAt": "2026-07-31T00:11:05.172Z",
+  "capturedAt": "2026-07-31T04:30:00.280Z",
   "clanLevel": 6,
   "memberCount": 43,
   "members": [
@@ -21,7 +21,7 @@
       "role": "admin",
       "th": 17,
       "expLevel": 191,
-      "trophies": 418,
+      "trophies": 434,
       "donations": 391,
       "donationsReceived": 197,
       "capitalContributions": 0
@@ -67,7 +67,7 @@
       "expLevel": 171,
       "trophies": 285,
       "donations": 200,
-      "donationsReceived": 81,
+      "donationsReceived": 85,
       "capitalContributions": 0
     },
     {
@@ -155,7 +155,7 @@
       "expLevel": 82,
       "trophies": 78,
       "donations": 0,
-      "donationsReceived": 176,
+      "donationsReceived": 178,
       "capitalContributions": 0
     },
     {
@@ -195,8 +195,8 @@
       "tag": "#PJ22QYY22",
       "name": "thegodlynoob",
       "role": "admin",
-      "th": 10,
-      "expLevel": 76,
+      "th": 11,
+      "expLevel": 77,
       "trophies": 129,
       "donations": 0,
       "donationsReceived": 0,
@@ -350,7 +350,7 @@
       "name": "dark angel",
       "role": "admin",
       "th": 10,
-      "expLevel": 65,
+      "expLevel": 66,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -473,7 +473,7 @@
       "th": 18,
       "expLevel": 238,
       "trophies": 0,
-      "donations": 504,
+      "donations": 510,
       "donationsReceived": 569,
       "capitalContributions": 0
     }

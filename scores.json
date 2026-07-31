@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T00:11:06.000Z",
+  "generatedAt": "2026-07-31T04:30:00.832Z",
   "snapshotDate": "2026-07-31",
   "snapshotsAvailable": 4,
   "raidWeekendsAvailable": 4,
@@ -607,7 +607,7 @@
       "tag": "#PJ22QYY22",
       "name": "thegodlynoob",
       "role": "admin",
-      "th": 10,
+      "th": 11,
       "firstSeen": "2026-07-28",
       "daysPresent": 3,
       "inGrace": true,
