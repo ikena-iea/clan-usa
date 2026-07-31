@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T13:02:23.271Z",
+  "generatedAt": "2026-07-31T16:05:12.559Z",
   "snapshotDate": "2026-07-31",
   "snapshotsAvailable": 4,
   "raidWeekendsAvailable": 4,
@@ -265,6 +265,39 @@
         "available": 2,
         "used": 0,
         "misses": 2,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#2QJYQ20UG",
+      "name": "Lucifer分",
+      "role": "member",
+      "th": 15,
+      "firstSeen": "2026-07-31",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 3,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
         "tier": null
       }
     },

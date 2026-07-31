@@ -1,8 +1,8 @@
 {
   "date": "2026-07-31",
-  "capturedAt": "2026-07-31T13:02:22.825Z",
+  "capturedAt": "2026-07-31T16:05:12.111Z",
   "clanLevel": 6,
-  "memberCount": 43,
+  "memberCount": 44,
   "members": [
     {
       "tag": "#QRRV0R98R",
@@ -21,9 +21,9 @@
       "role": "admin",
       "th": 17,
       "expLevel": 191,
-      "trophies": 434,
+      "trophies": 452,
       "donations": 391,
-      "donationsReceived": 197,
+      "donationsReceived": 200,
       "capitalContributions": 0
     },
     {
@@ -65,7 +65,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 171,
-      "trophies": 285,
+      "trophies": 300,
       "donations": 200,
       "donationsReceived": 85,
       "capitalContributions": 0
@@ -77,6 +77,17 @@
       "th": 15,
       "expLevel": 70,
       "trophies": 3,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#2QJYQ20UG",
+      "name": "Lucifer分",
+      "role": "member",
+      "th": 15,
+      "expLevel": 177,
+      "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -98,8 +109,8 @@
       "role": "coLeader",
       "th": 13,
       "expLevel": 105,
-      "trophies": 391,
-      "donations": 1802,
+      "trophies": 417,
+      "donations": 1805,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -318,7 +329,7 @@
       "role": "admin",
       "th": 10,
       "expLevel": 75,
-      "trophies": 320,
+      "trophies": 360,
       "donations": 80,
       "donationsReceived": 265,
       "capitalContributions": 0
