@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "capturedAt": "2026-07-31T04:30:00.280Z",
+  "capturedAt": "2026-07-31T07:57:03.547Z",
   "clanLevel": 6,
   "memberCount": 43,
   "members": [
@@ -54,7 +54,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 147,
-      "trophies": 127,
+      "trophies": 139,
       "donations": 1007,
       "donationsReceived": 379,
       "capitalContributions": 0
@@ -87,7 +87,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 123,
-      "trophies": 113,
+      "trophies": 132,
       "donations": 499,
       "donationsReceived": 432,
       "capitalContributions": 0
@@ -97,9 +97,9 @@
       "name": "Ikena",
       "role": "coLeader",
       "th": 13,
-      "expLevel": 104,
+      "expLevel": 105,
       "trophies": 391,
-      "donations": 1711,
+      "donations": 1777,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -274,7 +274,7 @@
       "role": "admin",
       "th": 11,
       "expLevel": 81,
-      "trophies": 255,
+      "trophies": 284,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -295,10 +295,10 @@
       "name": "jadav m",
       "role": "admin",
       "th": 11,
-      "expLevel": 71,
+      "expLevel": 72,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 872,
+      "donationsReceived": 938,
       "capitalContributions": 0
     },
     {
@@ -361,7 +361,7 @@
       "name": "Jaz",
       "role": "admin",
       "th": 9,
-      "expLevel": 53,
+      "expLevel": 54,
       "trophies": 0,
       "donations": 21,
       "donationsReceived": 108,
@@ -405,9 +405,9 @@
       "name": "100 days",
       "role": "coLeader",
       "th": 7,
-      "expLevel": 30,
+      "expLevel": 31,
       "trophies": 0,
-      "donations": 103,
+      "donations": 158,
       "donationsReceived": 50,
       "capitalContributions": 0
     },
@@ -474,7 +474,7 @@
       "expLevel": 238,
       "trophies": 0,
       "donations": 510,
-      "donationsReceived": 569,
+      "donationsReceived": 624,
       "capitalContributions": 0
     }
   ]
