@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "capturedAt": "2026-08-01T00:07:17.743Z",
+  "capturedAt": "2026-08-01T04:26:40.991Z",
   "clanLevel": 6,
   "memberCount": 45,
   "members": [
@@ -65,9 +65,9 @@
       "role": "admin",
       "th": 15,
       "expLevel": 171,
-      "trophies": 300,
+      "trophies": 330,
       "donations": 200,
-      "donationsReceived": 133,
+      "donationsReceived": 134,
       "capitalContributions": 0
     },
     {
@@ -350,7 +350,7 @@
       "name": "Sir Ron Ron",
       "role": "admin",
       "th": 10,
-      "expLevel": 67,
+      "expLevel": 68,
       "trophies": 291,
       "donations": 0,
       "donationsReceived": 0,
@@ -419,7 +419,7 @@
       "expLevel": 80,
       "trophies": 0,
       "donations": 84,
-      "donationsReceived": 133,
+      "donationsReceived": 163,
       "capitalContributions": 0
     },
     {
@@ -440,7 +440,7 @@
       "th": 18,
       "expLevel": 254,
       "trophies": 0,
-      "donations": 1094,
+      "donations": 1169,
       "donationsReceived": 400,
       "capitalContributions": 0
     },
@@ -462,8 +462,8 @@
       "th": 18,
       "expLevel": 215,
       "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 48,
+      "donations": 1,
+      "donationsReceived": 93,
       "capitalContributions": 0
     },
     {
