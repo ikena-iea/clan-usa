@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T20:12:56.723Z",
+  "generatedAt": "2026-08-01T22:02:25.254Z",
   "snapshotDate": "2026-08-01",
   "snapshotsAvailable": 5,
   "raidWeekendsAvailable": 4,
@@ -103,7 +103,7 @@
     {
       "tag": "#YRQJPR0Y9",
       "name": "cary",
-      "role": "member",
+      "role": "admin",
       "th": 18,
       "firstSeen": "2026-08-01",
       "daysPresent": 1,
@@ -304,7 +304,7 @@
     {
       "tag": "#2QJYQ20UG",
       "name": "Lucifer分",
-      "role": "member",
+      "role": "admin",
       "th": 15,
       "firstSeen": "2026-07-31",
       "daysPresent": 1,
@@ -605,7 +605,7 @@
     {
       "tag": "#QPPVJPG22",
       "name": "Krikrino",
-      "role": "member",
+      "role": "admin",
       "th": 12,
       "firstSeen": "2026-07-30",
       "daysPresent": 2,
@@ -1406,7 +1406,7 @@
     {
       "tag": "#PGQVCVYPJ",
       "name": "ben",
-      "role": "member",
+      "role": "admin",
       "th": 18,
       "firstSeen": "2026-07-28",
       "daysPresent": 4,

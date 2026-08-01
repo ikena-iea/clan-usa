@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "capturedAt": "2026-08-01T20:12:56.307Z",
+  "capturedAt": "2026-08-01T22:02:24.618Z",
   "clanLevel": 6,
   "memberCount": 45,
   "members": [
@@ -29,7 +29,7 @@
     {
       "tag": "#YRQJPR0Y9",
       "name": "cary",
-      "role": "member",
+      "role": "admin",
       "th": 18,
       "expLevel": 250,
       "trophies": 0,
@@ -76,9 +76,9 @@
       "role": "admin",
       "th": 15,
       "expLevel": 171,
-      "trophies": 330,
+      "trophies": 344,
       "donations": 270,
-      "donationsReceived": 221,
+      "donationsReceived": 239,
       "capitalContributions": 0
     },
     {
@@ -95,7 +95,7 @@
     {
       "tag": "#2QJYQ20UG",
       "name": "Lucifer分",
-      "role": "member",
+      "role": "admin",
       "th": 15,
       "expLevel": 177,
       "trophies": 0,
@@ -186,7 +186,7 @@
       "role": "admin",
       "th": 12,
       "expLevel": 102,
-      "trophies": 297,
+      "trophies": 309,
       "donations": 429,
       "donationsReceived": 1143,
       "capitalContributions": 0
@@ -194,7 +194,7 @@
     {
       "tag": "#QPPVJPG22",
       "name": "Krikrino",
-      "role": "member",
+      "role": "admin",
       "th": 12,
       "expLevel": 121,
       "trophies": 185,
@@ -458,7 +458,7 @@
     {
       "tag": "#PGQVCVYPJ",
       "name": "ben",
-      "role": "member",
+      "role": "admin",
       "th": 18,
       "expLevel": 215,
       "trophies": 0,
