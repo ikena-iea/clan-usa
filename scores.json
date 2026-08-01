@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T14:38:11.955Z",
+  "generatedAt": "2026-08-01T16:07:04.001Z",
   "snapshotDate": "2026-08-01",
   "snapshotsAvailable": 5,
   "raidWeekendsAvailable": 4,
@@ -96,6 +96,39 @@
         },
         "available": 4,
         "used": 4,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#YRQJPR0Y9",
+      "name": "cary",
+      "role": "member",
+      "th": 18,
+      "firstSeen": "2026-08-01",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 3,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
         "misses": 0,
         "tier": null
       }
@@ -718,7 +751,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 21,
+          "donations": 98,
           "raids": null,
           "contributions": null
         },
