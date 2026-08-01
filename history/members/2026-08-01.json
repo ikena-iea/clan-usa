@@ -1,8 +1,8 @@
 {
   "date": "2026-08-01",
-  "capturedAt": "2026-08-01T04:26:40.991Z",
+  "capturedAt": "2026-08-01T07:32:53.948Z",
   "clanLevel": 6,
-  "memberCount": 45,
+  "memberCount": 44,
   "members": [
     {
       "tag": "#QRRV0R98R",
@@ -39,8 +39,8 @@
     },
     {
       "tag": "#LCVCL0LU0",
-      "name": "Toespeanut",
-      "role": "admin",
+      "name": "Limeranch",
+      "role": "coLeader",
       "th": 17,
       "expLevel": 148,
       "trophies": 0,
@@ -53,7 +53,7 @@
       "name": "mustafa",
       "role": "admin",
       "th": 15,
-      "expLevel": 147,
+      "expLevel": 148,
       "trophies": 161,
       "donations": 1047,
       "donationsReceived": 415,
@@ -126,17 +126,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#QJLL90YR9",
-      "name": "shsuhwshha",
-      "role": "member",
-      "th": 15,
-      "expLevel": 74,
-      "trophies": 106,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#R8PJY0U0J",
       "name": "Didetz",
       "role": "leader",
@@ -185,10 +174,10 @@
       "name": "DaHairyVeer2",
       "role": "admin",
       "th": 12,
-      "expLevel": 101,
+      "expLevel": 102,
       "trophies": 297,
       "donations": 429,
-      "donationsReceived": 1142,
+      "donationsReceived": 1143,
       "capitalContributions": 0
     },
     {
@@ -295,7 +284,7 @@
       "name": "hartymate",
       "role": "admin",
       "th": 11,
-      "expLevel": 81,
+      "expLevel": 82,
       "trophies": 284,
       "donations": 0,
       "donationsReceived": 0,
@@ -341,7 +330,7 @@
       "th": 10,
       "expLevel": 76,
       "trophies": 360,
-      "donations": 80,
+      "donations": 81,
       "donationsReceived": 265,
       "capitalContributions": 0
     },
@@ -429,7 +418,7 @@
       "th": 7,
       "expLevel": 31,
       "trophies": 0,
-      "donations": 164,
+      "donations": 179,
       "donationsReceived": 50,
       "capitalContributions": 0
     },
@@ -482,7 +471,7 @@
       "name": "sjd_emd",
       "role": "admin",
       "th": 13,
-      "expLevel": 96,
+      "expLevel": 97,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 804,

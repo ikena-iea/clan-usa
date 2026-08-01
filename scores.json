@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T04:26:41.568Z",
+  "generatedAt": "2026-08-01T07:32:54.415Z",
   "snapshotDate": "2026-08-01",
   "snapshotsAvailable": 5,
   "raidWeekendsAvailable": 4,
@@ -136,8 +136,8 @@
     },
     {
       "tag": "#LCVCL0LU0",
-      "name": "Toespeanut",
-      "role": "admin",
+      "name": "Limeranch",
+      "role": "coLeader",
       "th": 17,
       "firstSeen": "2026-07-28",
       "daysPresent": 4,
@@ -399,40 +399,6 @@
         "available": 2,
         "used": 1,
         "misses": 1,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#QJLL90YR9",
-      "name": "shsuhwshha",
-      "role": "member",
-      "th": 15,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 4,
-      "inGrace": true,
-      "gracePeriodEndsIn": 10,
-      "warsJoined": 2,
-      "warsTotal": 3,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 100,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": null,
-        "cap": "Rare",
-        "pillars": {
-          "reliability": 75,
-          "performance": 23
-        },
-        "available": 4,
-        "used": 4,
-        "misses": 0,
         "tier": null
       }
     },
@@ -1050,7 +1016,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 0,
+          "donations": 2,
           "raids": 99,
           "contributions": 0
         },
