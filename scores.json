@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T12:06:52.257Z",
+  "generatedAt": "2026-08-01T14:38:11.955Z",
   "snapshotDate": "2026-08-01",
   "snapshotsAvailable": 5,
   "raidWeekendsAvailable": 4,
@@ -239,7 +239,7 @@
       "tag": "#R22GJ29UV",
       "name": "HowardX",
       "role": "admin",
-      "th": 15,
+      "th": 16,
       "firstSeen": "2026-07-28",
       "daysPresent": 4,
       "inGrace": true,
@@ -1384,7 +1384,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 2,
+          "donations": 100,
           "raids": null,
           "contributions": null
         },

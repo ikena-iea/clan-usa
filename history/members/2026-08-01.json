@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "capturedAt": "2026-08-01T12:06:51.670Z",
+  "capturedAt": "2026-08-01T14:38:11.599Z",
   "clanLevel": 6,
   "memberCount": 44,
   "members": [
@@ -54,7 +54,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 148,
-      "trophies": 161,
+      "trophies": 169,
       "donations": 1047,
       "donationsReceived": 415,
       "capitalContributions": 0
@@ -66,7 +66,7 @@
       "th": 15,
       "expLevel": 171,
       "trophies": 330,
-      "donations": 200,
+      "donations": 255,
       "donationsReceived": 134,
       "capitalContributions": 0
     },
@@ -74,7 +74,7 @@
       "tag": "#R22GJ29UV",
       "name": "HowardX",
       "role": "admin",
-      "th": 15,
+      "th": 16,
       "expLevel": 71,
       "trophies": 3,
       "donations": 0,
@@ -185,7 +185,7 @@
       "name": "Krikrino",
       "role": "member",
       "th": 12,
-      "expLevel": 120,
+      "expLevel": 121,
       "trophies": 185,
       "donations": 0,
       "donationsReceived": 144,
@@ -221,7 +221,7 @@
       "expLevel": 84,
       "trophies": 186,
       "donations": 160,
-      "donationsReceived": 199,
+      "donationsReceived": 265,
       "capitalContributions": 0
     },
     {
@@ -451,7 +451,7 @@
       "th": 18,
       "expLevel": 215,
       "trophies": 0,
-      "donations": 1,
+      "donations": 67,
       "donationsReceived": 93,
       "capitalContributions": 0
     },
@@ -485,7 +485,7 @@
       "expLevel": 238,
       "trophies": 0,
       "donations": 510,
-      "donationsReceived": 624,
+      "donationsReceived": 679,
       "capitalContributions": 0
     }
   ]
