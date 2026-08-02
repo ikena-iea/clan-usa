@@ -1,6 +1,6 @@
 {
   "date": "2026-08-02",
-  "capturedAt": "2026-08-02T16:07:49.061Z",
+  "capturedAt": "2026-08-02T20:14:37.401Z",
   "clanLevel": 6,
   "memberCount": 46,
   "members": [
@@ -44,7 +44,7 @@
       "th": 17,
       "expLevel": 244,
       "trophies": 0,
-      "donations": 661,
+      "donations": 707,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -144,7 +144,7 @@
       "expLevel": 75,
       "trophies": 106,
       "donations": 1,
-      "donationsReceived": 211,
+      "donationsReceived": 256,
       "capitalContributions": 0
     },
     {
@@ -230,7 +230,7 @@
       "role": "admin",
       "th": 11,
       "expLevel": 77,
-      "trophies": 129,
+      "trophies": 143,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -240,10 +240,10 @@
       "name": "lucky",
       "role": "admin",
       "th": 11,
-      "expLevel": 84,
+      "expLevel": 85,
       "trophies": 186,
       "donations": 160,
-      "donationsReceived": 331,
+      "donationsReceived": 332,
       "capitalContributions": 0
     },
     {
@@ -349,7 +349,7 @@
       "tag": "#R2RR9UJ8V",
       "name": "X4FSHIN",
       "role": "admin",
-      "th": 10,
+      "th": 11,
       "expLevel": 76,
       "trophies": 360,
       "donations": 81,

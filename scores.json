@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T16:07:49.825Z",
+  "generatedAt": "2026-08-02T20:14:37.986Z",
   "snapshotDate": "2026-08-02",
   "snapshotsAvailable": 6,
   "raidWeekendsAvailable": 4,
@@ -1077,7 +1077,7 @@
       "tag": "#R2RR9UJ8V",
       "name": "X4FSHIN",
       "role": "admin",
-      "th": 10,
+      "th": 11,
       "firstSeen": "2026-07-28",
       "daysPresent": 5,
       "inGrace": true,
