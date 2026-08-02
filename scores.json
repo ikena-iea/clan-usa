@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T04:29:43.389Z",
+  "generatedAt": "2026-08-02T07:36:51.406Z",
   "snapshotDate": "2026-08-02",
   "snapshotsAvailable": 6,
   "raidWeekendsAvailable": 4,
@@ -432,6 +432,40 @@
         "available": 2,
         "used": 1,
         "misses": 1,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#QJLL90YR9",
+      "name": "shsuhwshha",
+      "role": "member",
+      "th": 15,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 5,
+      "inGrace": true,
+      "gracePeriodEndsIn": 9,
+      "warsJoined": 2,
+      "warsTotal": 3,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 100,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": null,
+        "cap": "Rare",
+        "pillars": {
+          "reliability": 75,
+          "performance": 23
+        },
+        "available": 4,
+        "used": 4,
+        "misses": 0,
         "tier": null
       }
     },
@@ -883,7 +917,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 0,
+          "donations": 3,
           "raids": 100,
           "contributions": 0
         },
