@@ -1,6 +1,6 @@
 {
   "date": "2026-08-02",
-  "capturedAt": "2026-08-02T07:36:50.793Z",
+  "capturedAt": "2026-08-02T10:04:45.755Z",
   "clanLevel": 6,
   "memberCount": 46,
   "members": [
@@ -121,7 +121,7 @@
       "th": 13,
       "expLevel": 105,
       "trophies": 417,
-      "donations": 1912,
+      "donations": 1958,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -144,7 +144,7 @@
       "expLevel": 75,
       "trophies": 106,
       "donations": 1,
-      "donationsReceived": 120,
+      "donationsReceived": 206,
       "capitalContributions": 0
     },
     {
@@ -203,6 +203,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#R8GPLGRVQ",
+      "name": "LegitN00b98",
+      "role": "admin",
+      "th": 11,
+      "expLevel": 84,
+      "trophies": 297,
+      "donations": 487,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#QPPVJPG22",
       "name": "Krikrino",
       "role": "admin",
@@ -211,17 +222,6 @@
       "trophies": 185,
       "donations": 0,
       "donationsReceived": 144,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#R8GPLGRVQ",
-      "name": "LegitN00b98",
-      "role": "admin",
-      "th": 11,
-      "expLevel": 84,
-      "trophies": 178,
-      "donations": 353,
-      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -331,7 +331,7 @@
       "expLevel": 73,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 938,
+      "donationsReceived": 975,
       "capitalContributions": 0
     },
     {
@@ -452,7 +452,7 @@
       "expLevel": 254,
       "trophies": 0,
       "donations": 1273,
-      "donationsReceived": 458,
+      "donationsReceived": 515,
       "capitalContributions": 0
     },
     {
