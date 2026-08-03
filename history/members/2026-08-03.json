@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "capturedAt": "2026-08-03T17:59:15.313Z",
+  "capturedAt": "2026-08-03T19:51:28.489Z",
   "clanLevel": 6,
   "memberCount": 40,
   "members": [
@@ -98,7 +98,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 123,
-      "trophies": 0,
+      "trophies": 16,
       "donations": 499,
       "donationsReceived": 509,
       "capitalContributions": 0
@@ -339,7 +339,7 @@
       "name": "arroz",
       "role": "admin",
       "th": 9,
-      "expLevel": 55,
+      "expLevel": 56,
       "trophies": 0,
       "donations": 55,
       "donationsReceived": 93,
