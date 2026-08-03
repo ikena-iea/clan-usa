@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "capturedAt": "2026-08-03T00:05:01.746Z",
+  "capturedAt": "2026-08-03T04:36:49.645Z",
   "clanLevel": 6,
   "memberCount": 46,
   "members": [
@@ -77,8 +77,8 @@
       "th": 15,
       "expLevel": 171,
       "trophies": 395,
-      "donations": 305,
-      "donationsReceived": 344,
+      "donations": 306,
+      "donationsReceived": 351,
       "capitalContributions": 0
     },
     {
@@ -111,7 +111,7 @@
       "expLevel": 123,
       "trophies": 269,
       "donations": 499,
-      "donationsReceived": 469,
+      "donationsReceived": 509,
       "capitalContributions": 0
     },
     {
@@ -229,7 +229,7 @@
       "name": "thegodlynoob",
       "role": "admin",
       "th": 11,
-      "expLevel": 77,
+      "expLevel": 78,
       "trophies": 143,
       "donations": 0,
       "donationsReceived": 0,
@@ -506,8 +506,8 @@
       "th": 18,
       "expLevel": 238,
       "trophies": 0,
-      "donations": 510,
-      "donationsReceived": 679,
+      "donations": 557,
+      "donationsReceived": 738,
       "capitalContributions": 0
     }
   ]
