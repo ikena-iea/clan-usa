@@ -1,8 +1,8 @@
 {
   "date": "2026-08-03",
-  "capturedAt": "2026-08-03T12:33:30.192Z",
+  "capturedAt": "2026-08-03T15:49:02.852Z",
   "clanLevel": 6,
-  "memberCount": 42,
+  "memberCount": 40,
   "members": [
     {
       "tag": "#QRRV0R98R",
@@ -78,7 +78,7 @@
       "expLevel": 171,
       "trophies": 0,
       "donations": 306,
-      "donationsReceived": 427,
+      "donationsReceived": 510,
       "capitalContributions": 0
     },
     {
@@ -251,7 +251,7 @@
       "name": "DevilIguana",
       "role": "coLeader",
       "th": 12,
-      "expLevel": 91,
+      "expLevel": 92,
       "trophies": 0,
       "donations": 41,
       "donationsReceived": 0,
@@ -302,17 +302,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#GVJRQQJYU",
-      "name": "Sir Ron Ron",
-      "role": "admin",
-      "th": 10,
-      "expLevel": 68,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#GU8GQYQGQ",
       "name": "koko",
       "role": "admin",
@@ -329,17 +318,6 @@
       "role": "admin",
       "th": 10,
       "expLevel": 54,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GC9U2PC0J",
-      "name": "dark angel",
-      "role": "admin",
-      "th": 10,
-      "expLevel": 66,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -407,7 +385,7 @@
       "th": 18,
       "expLevel": 254,
       "trophies": 0,
-      "donations": 1321,
+      "donations": 1404,
       "donationsReceived": 515,
       "capitalContributions": 0
     },

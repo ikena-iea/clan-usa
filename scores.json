@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T12:33:31.248Z",
+  "generatedAt": "2026-08-03T15:49:04.242Z",
   "snapshotDate": "2026-08-03",
   "snapshotsAvailable": 7,
   "raidWeekendsAvailable": 4,
@@ -940,40 +940,6 @@
       }
     },
     {
-      "tag": "#GVJRQQJYU",
-      "name": "Sir Ron Ron",
-      "role": "admin",
-      "th": 10,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 6,
-      "inGrace": true,
-      "gracePeriodEndsIn": 8,
-      "warsJoined": 2,
-      "warsTotal": 4,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": null,
-        "cap": null,
-        "pillars": {
-          "reliability": 75,
-          "performance": 90
-        },
-        "available": 4,
-        "used": 4,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
       "tag": "#GU8GQYQGQ",
       "name": "koko",
       "role": "admin",
@@ -1036,40 +1002,6 @@
         },
         "available": 2,
         "used": 2,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#GC9U2PC0J",
-      "name": "dark angel",
-      "role": "admin",
-      "th": 10,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 6,
-      "inGrace": true,
-      "gracePeriodEndsIn": 8,
-      "warsJoined": 2,
-      "warsTotal": 4,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": null,
-        "cap": "Rare",
-        "pillars": {
-          "reliability": 75,
-          "performance": 26
-        },
-        "available": 4,
-        "used": 4,
         "misses": 0,
         "tier": null
       }
