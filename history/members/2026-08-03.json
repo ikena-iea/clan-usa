@@ -1,8 +1,8 @@
 {
   "date": "2026-08-03",
-  "capturedAt": "2026-08-03T04:36:49.645Z",
+  "capturedAt": "2026-08-03T08:36:26.519Z",
   "clanLevel": 6,
-  "memberCount": 46,
+  "memberCount": 43,
   "members": [
     {
       "tag": "#QRRV0R98R",
@@ -10,7 +10,7 @@
       "role": "admin",
       "th": 17,
       "expLevel": 177,
-      "trophies": 279,
+      "trophies": 0,
       "donations": 988,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -21,7 +21,7 @@
       "role": "admin",
       "th": 17,
       "expLevel": 191,
-      "trophies": 464,
+      "trophies": 0,
       "donations": 391,
       "donationsReceived": 200,
       "capitalContributions": 0
@@ -33,7 +33,7 @@
       "th": 18,
       "expLevel": 250,
       "trophies": 0,
-      "donations": 53,
+      "donations": 129,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -65,20 +65,9 @@
       "role": "admin",
       "th": 15,
       "expLevel": 148,
-      "trophies": 241,
+      "trophies": 0,
       "donations": 1048,
       "donationsReceived": 415,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#R8P2LPQ9",
-      "name": "MW☢️ARCHITECT 2",
-      "role": "admin",
-      "th": 15,
-      "expLevel": 171,
-      "trophies": 395,
-      "donations": 306,
-      "donationsReceived": 351,
       "capitalContributions": 0
     },
     {
@@ -87,9 +76,20 @@
       "role": "admin",
       "th": 16,
       "expLevel": 72,
-      "trophies": 11,
+      "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#R8P2LPQ9",
+      "name": "MW☢️ARCHITECT 2",
+      "role": "admin",
+      "th": 15,
+      "expLevel": 171,
+      "trophies": 0,
+      "donations": 306,
+      "donationsReceived": 427,
       "capitalContributions": 0
     },
     {
@@ -109,7 +109,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 123,
-      "trophies": 269,
+      "trophies": 0,
       "donations": 499,
       "donationsReceived": 509,
       "capitalContributions": 0
@@ -120,7 +120,7 @@
       "role": "coLeader",
       "th": 13,
       "expLevel": 105,
-      "trophies": 428,
+      "trophies": 0,
       "donations": 1958,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -137,17 +137,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#QJLL90YR9",
-      "name": "shsuhwshha",
-      "role": "member",
-      "th": 15,
-      "expLevel": 75,
-      "trophies": 106,
-      "donations": 1,
-      "donationsReceived": 256,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#R8PJY0U0J",
       "name": "Didetz",
       "role": "leader",
@@ -159,23 +148,12 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#YYCR2YRRJ",
-      "name": "Aswath stark",
-      "role": "admin",
-      "th": 11,
-      "expLevel": 121,
-      "trophies": 239,
-      "donations": 1179,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#P28JU228P",
       "name": "$TØNER §IVA",
       "role": "admin",
       "th": 13,
       "expLevel": 142,
-      "trophies": 127,
+      "trophies": 0,
       "donations": 0,
       "donationsReceived": 72,
       "capitalContributions": 0
@@ -186,9 +164,20 @@
       "role": "admin",
       "th": 13,
       "expLevel": 82,
-      "trophies": 78,
+      "trophies": 0,
       "donations": 0,
       "donationsReceived": 294,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#YYCR2YRRJ",
+      "name": "Aswath stark",
+      "role": "admin",
+      "th": 11,
+      "expLevel": 121,
+      "trophies": 0,
+      "donations": 1179,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -197,20 +186,9 @@
       "role": "admin",
       "th": 12,
       "expLevel": 102,
-      "trophies": 309,
+      "trophies": 0,
       "donations": 429,
       "donationsReceived": 1145,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#R8GPLGRVQ",
-      "name": "LegitN00b98",
-      "role": "admin",
-      "th": 11,
-      "expLevel": 85,
-      "trophies": 297,
-      "donations": 487,
-      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -219,9 +197,20 @@
       "role": "admin",
       "th": 12,
       "expLevel": 121,
-      "trophies": 185,
+      "trophies": 0,
       "donations": 0,
       "donationsReceived": 144,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#R8GPLGRVQ",
+      "name": "LegitN00b98",
+      "role": "admin",
+      "th": 11,
+      "expLevel": 85,
+      "trophies": 0,
+      "donations": 487,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -230,20 +219,9 @@
       "role": "admin",
       "th": 11,
       "expLevel": 78,
-      "trophies": 143,
+      "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GYC8Q2R20",
-      "name": "lucky",
-      "role": "admin",
-      "th": 11,
-      "expLevel": 85,
-      "trophies": 186,
-      "donations": 160,
-      "donationsReceived": 332,
       "capitalContributions": 0
     },
     {
@@ -252,31 +230,9 @@
       "role": "admin",
       "th": 12,
       "expLevel": 70,
-      "trophies": 115,
+      "trophies": 0,
       "donations": 440,
       "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GLUJVJGGV",
-      "name": "allis",
-      "role": "admin",
-      "th": 10,
-      "expLevel": 83,
-      "trophies": 107,
-      "donations": 127,
-      "donationsReceived": 195,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#YYY2RCCR2",
-      "name": "Horus",
-      "role": "admin",
-      "th": 11,
-      "expLevel": 92,
-      "trophies": 57,
-      "donations": 0,
-      "donationsReceived": 268,
       "capitalContributions": 0
     },
     {
@@ -285,9 +241,20 @@
       "role": "admin",
       "th": 12,
       "expLevel": 59,
-      "trophies": 8,
+      "trophies": 0,
       "donations": 0,
       "donationsReceived": 66,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#GYC8Q2R20",
+      "name": "lucky",
+      "role": "admin",
+      "th": 11,
+      "expLevel": 85,
+      "trophies": 0,
+      "donations": 160,
+      "donationsReceived": 332,
       "capitalContributions": 0
     },
     {
@@ -302,25 +269,25 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GLUJVJGGV",
+      "name": "allis",
+      "role": "admin",
+      "th": 10,
+      "expLevel": 83,
+      "trophies": 0,
+      "donations": 127,
+      "donationsReceived": 195,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#GGQ80JRJ0",
       "name": "hartymate",
       "role": "admin",
       "th": 11,
       "expLevel": 82,
-      "trophies": 284,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#R8C9Y802G",
-      "name": "limon jr",
-      "role": "admin",
-      "th": 11,
-      "expLevel": 59,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 1019,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -335,6 +302,28 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#R2RR9UJ8V",
+      "name": "X4FSHIN",
+      "role": "admin",
+      "th": 11,
+      "expLevel": 77,
+      "trophies": 0,
+      "donations": 81,
+      "donationsReceived": 265,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#GVJRQQJYU",
+      "name": "Sir Ron Ron",
+      "role": "admin",
+      "th": 10,
+      "expLevel": 68,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#GU8GQYQGQ",
       "name": "koko",
       "role": "admin",
@@ -346,34 +335,12 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#R2RR9UJ8V",
-      "name": "X4FSHIN",
-      "role": "admin",
-      "th": 11,
-      "expLevel": 76,
-      "trophies": 360,
-      "donations": 81,
-      "donationsReceived": 265,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GVJRQQJYU",
-      "name": "Sir Ron Ron",
-      "role": "admin",
-      "th": 10,
-      "expLevel": 68,
-      "trophies": 331,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#R0R2LULYV",
       "name": "nash",
       "role": "admin",
       "th": 10,
       "expLevel": 54,
-      "trophies": 80,
+      "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -394,7 +361,7 @@
       "name": "Jaz",
       "role": "admin",
       "th": 9,
-      "expLevel": 54,
+      "expLevel": 55,
       "trophies": 0,
       "donations": 21,
       "donationsReceived": 108,
@@ -438,7 +405,7 @@
       "name": "100 days",
       "role": "coLeader",
       "th": 7,
-      "expLevel": 31,
+      "expLevel": 32,
       "trophies": 0,
       "donations": 179,
       "donationsReceived": 50,
