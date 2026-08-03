@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "capturedAt": "2026-08-03T15:49:02.852Z",
+  "capturedAt": "2026-08-03T17:59:15.313Z",
   "clanLevel": 6,
   "memberCount": 40,
   "members": [
@@ -78,7 +78,7 @@
       "expLevel": 171,
       "trophies": 0,
       "donations": 306,
-      "donationsReceived": 510,
+      "donationsReceived": 517,
       "capitalContributions": 0
     },
     {
@@ -165,7 +165,7 @@
       "th": 11,
       "expLevel": 121,
       "trophies": 0,
-      "donations": 1179,
+      "donations": 1180,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -297,7 +297,7 @@
       "th": 11,
       "expLevel": 77,
       "trophies": 0,
-      "donations": 81,
+      "donations": 139,
       "donationsReceived": 265,
       "capitalContributions": 0
     },
@@ -440,8 +440,8 @@
       "th": 18,
       "expLevel": 238,
       "trophies": 0,
-      "donations": 624,
-      "donationsReceived": 793,
+      "donations": 631,
+      "donationsReceived": 852,
       "capitalContributions": 0
     }
   ]
