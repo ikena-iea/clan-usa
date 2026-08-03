@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T08:36:27.684Z",
+  "generatedAt": "2026-08-03T12:33:31.248Z",
   "snapshotDate": "2026-08-03",
   "snapshotsAvailable": 7,
   "raidWeekendsAvailable": 4,
@@ -63,40 +63,6 @@
         "available": 6,
         "used": 3,
         "misses": 3,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#9G8RGQV9V",
-      "name": "MD SOBUJ",
-      "role": "admin",
-      "th": 17,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 6,
-      "inGrace": true,
-      "gracePeriodEndsIn": 8,
-      "warsJoined": 3,
-      "warsTotal": 4,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 44,
-          "raids": 95,
-          "contributions": 0
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": null,
-        "cap": null,
-        "pillars": {
-          "reliability": 88,
-          "performance": 78
-        },
-        "available": 6,
-        "used": 6,
-        "misses": 0,
         "tier": null
       }
     },

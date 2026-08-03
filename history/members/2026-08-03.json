@@ -1,8 +1,8 @@
 {
   "date": "2026-08-03",
-  "capturedAt": "2026-08-03T08:36:26.519Z",
+  "capturedAt": "2026-08-03T12:33:30.192Z",
   "clanLevel": 6,
-  "memberCount": 43,
+  "memberCount": 42,
   "members": [
     {
       "tag": "#QRRV0R98R",
@@ -13,17 +13,6 @@
       "trophies": 0,
       "donations": 988,
       "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#9G8RGQV9V",
-      "name": "MD SOBUJ",
-      "role": "admin",
-      "th": 17,
-      "expLevel": 191,
-      "trophies": 0,
-      "donations": 391,
-      "donationsReceived": 200,
       "capitalContributions": 0
     },
     {
@@ -119,9 +108,9 @@
       "name": "Ikena",
       "role": "coLeader",
       "th": 13,
-      "expLevel": 105,
+      "expLevel": 106,
       "trophies": 0,
-      "donations": 1958,
+      "donations": 2013,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -298,7 +287,7 @@
       "expLevel": 73,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 1005,
+      "donationsReceived": 1072,
       "capitalContributions": 0
     },
     {
@@ -473,8 +462,8 @@
       "th": 18,
       "expLevel": 238,
       "trophies": 0,
-      "donations": 557,
-      "donationsReceived": 738,
+      "donations": 624,
+      "donationsReceived": 793,
       "capitalContributions": 0
     }
   ]
