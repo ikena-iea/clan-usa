@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T03:27:32.747Z",
+  "generatedAt": "2026-08-04T06:35:31.059Z",
   "snapshotDate": "2026-08-04",
   "snapshotsAvailable": 8,
   "raidWeekendsAvailable": 4,
@@ -571,39 +571,6 @@
       }
     },
     {
-      "tag": "#QPPVJPG22",
-      "name": "Krikrino",
-      "role": "admin",
-      "th": 12,
-      "firstSeen": "2026-07-30",
-      "daysPresent": 5,
-      "inGrace": true,
-      "gracePeriodEndsIn": 9,
-      "warsJoined": 0,
-      "warsTotal": 4,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
       "tag": "#R8GPLGRVQ",
       "name": "LegitN00b98",
       "role": "admin",
@@ -633,6 +600,39 @@
         },
         "available": 6,
         "used": 6,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#QPPVJPG22",
+      "name": "Krikrino",
+      "role": "admin",
+      "th": 12,
+      "firstSeen": "2026-07-30",
+      "daysPresent": 5,
+      "inGrace": true,
+      "gracePeriodEndsIn": 9,
+      "warsJoined": 0,
+      "warsTotal": 4,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
         "misses": 0,
         "tier": null
       }
@@ -668,6 +668,40 @@
         "available": 4,
         "used": 2,
         "misses": 2,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#GYC8Q2R20",
+      "name": "lucky",
+      "role": "admin",
+      "th": 11,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 7,
+      "inGrace": true,
+      "gracePeriodEndsIn": 7,
+      "warsJoined": 3,
+      "warsTotal": 4,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": 100,
+          "contributions": 0
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": null,
+        "cap": null,
+        "pillars": {
+          "reliability": 88,
+          "performance": 98
+        },
+        "available": 6,
+        "used": 6,
+        "misses": 0,
         "tier": null
       }
     },
@@ -734,40 +768,6 @@
         "available": 2,
         "used": 0,
         "misses": 2,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#GYC8Q2R20",
-      "name": "lucky",
-      "role": "admin",
-      "th": 11,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 7,
-      "inGrace": true,
-      "gracePeriodEndsIn": 7,
-      "warsJoined": 3,
-      "warsTotal": 4,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": 100,
-          "contributions": 0
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": null,
-        "cap": null,
-        "pillars": {
-          "reliability": 88,
-          "performance": 98
-        },
-        "available": 6,
-        "used": 6,
-        "misses": 0,
         "tier": null
       }
     },
@@ -872,6 +872,40 @@
       }
     },
     {
+      "tag": "#GU8GQYQGQ",
+      "name": "koko",
+      "role": "admin",
+      "th": 10,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 7,
+      "inGrace": true,
+      "gracePeriodEndsIn": 7,
+      "warsJoined": 2,
+      "warsTotal": 4,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": null,
+        "cap": "Rare",
+        "pillars": {
+          "reliability": 50,
+          "performance": 51
+        },
+        "available": 4,
+        "used": 2,
+        "misses": 2,
+        "tier": null
+      }
+    },
+    {
       "tag": "#R9R2RV892",
       "name": "jadav m",
       "role": "admin",
@@ -932,40 +966,6 @@
         "pillars": {
           "reliability": 50,
           "performance": 79
-        },
-        "available": 4,
-        "used": 2,
-        "misses": 2,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#GU8GQYQGQ",
-      "name": "koko",
-      "role": "admin",
-      "th": 10,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 7,
-      "inGrace": true,
-      "gracePeriodEndsIn": 7,
-      "warsJoined": 2,
-      "warsTotal": 4,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": null,
-        "cap": "Rare",
-        "pillars": {
-          "reliability": 50,
-          "performance": 51
         },
         "available": 4,
         "used": 2,
