@@ -1,8 +1,8 @@
 {
   "date": "2026-08-04",
-  "capturedAt": "2026-08-04T19:48:40.626Z",
+  "capturedAt": "2026-08-04T21:20:33.147Z",
   "clanLevel": 6,
-  "memberCount": 42,
+  "memberCount": 44,
   "members": [
     {
       "tag": "#QRRV0R98R",
@@ -54,7 +54,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 148,
-      "trophies": 55,
+      "trophies": 81,
       "donations": 1106,
       "donationsReceived": 415,
       "capitalContributions": 0
@@ -93,6 +93,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#R292L228Q",
+      "name": "Ikena",
+      "role": "coLeader",
+      "th": 13,
+      "expLevel": 107,
+      "trophies": 333,
+      "donations": 2079,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#QLV80QQCY",
       "name": "THE ROCK",
       "role": "member",
@@ -112,17 +123,6 @@
       "trophies": 16,
       "donations": 499,
       "donationsReceived": 509,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#R292L228Q",
-      "name": "Ikena",
-      "role": "coLeader",
-      "th": 13,
-      "expLevel": 106,
-      "trophies": 0,
-      "donations": 2079,
-      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -181,6 +181,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#QGY2PULJ0",
+      "name": "leo",
+      "role": "member",
+      "th": 13,
+      "expLevel": 110,
+      "trophies": 140,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#QV08GJJQV",
       "name": "knuxyngYiudjdh",
       "role": "admin",
@@ -189,6 +200,17 @@
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 66,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#GCRRUUP82",
+      "name": "dennis jiang",
+      "role": "member",
+      "th": 13,
+      "expLevel": 52,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {

@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-08-03",
-  "fetchedAt": "2026-08-04T19:48:40.354Z",
+  "fetchedAt": "2026-08-04T21:20:31.740Z",
   "attacks": [
     {
       "round": 1,
@@ -96,11 +96,11 @@
       "name": "thegodlynoob",
       "tag": "#PJ22QYY22",
       "ath": 11,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 11,
+      "stars": 2,
+      "dest": 80,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 1,
@@ -184,11 +184,11 @@
       "name": "Ikena",
       "tag": "#R292L228Q",
       "ath": 13,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 12,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 1,
