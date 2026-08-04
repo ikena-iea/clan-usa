@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T17:57:21.737Z",
+  "generatedAt": "2026-08-04T19:48:41.918Z",
   "snapshotDate": "2026-08-04",
   "snapshotsAvailable": 8,
   "raidWeekendsAvailable": 4,
@@ -302,6 +302,39 @@
       }
     },
     {
+      "tag": "#QLV80QQCY",
+      "name": "THE ROCK",
+      "role": "member",
+      "th": 14,
+      "firstSeen": "2026-08-04",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 4,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#GPLRVGLGJ",
       "name": "elf00",
       "role": "admin",
@@ -532,39 +565,6 @@
         },
         "available": 4,
         "used": 4,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#LY99JY8QG",
-      "name": "⛈️DIGVIJAY⛈️",
-      "role": "member",
-      "th": 13,
-      "firstSeen": "2026-08-04",
-      "daysPresent": 1,
-      "inGrace": true,
-      "gracePeriodEndsIn": 13,
-      "warsJoined": 0,
-      "warsTotal": 4,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
         "misses": 0,
         "tier": null
       }

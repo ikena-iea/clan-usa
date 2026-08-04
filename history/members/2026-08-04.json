@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "capturedAt": "2026-08-04T17:57:20.458Z",
+  "capturedAt": "2026-08-04T19:48:40.626Z",
   "clanLevel": 6,
   "memberCount": 42,
   "members": [
@@ -54,7 +54,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 148,
-      "trophies": 29,
+      "trophies": 55,
       "donations": 1106,
       "donationsReceived": 415,
       "capitalContributions": 0
@@ -88,6 +88,17 @@
       "th": 15,
       "expLevel": 177,
       "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#QLV80QQCY",
+      "name": "THE ROCK",
+      "role": "member",
+      "th": 14,
+      "expLevel": 145,
+      "trophies": 43,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -166,17 +177,6 @@
       "expLevel": 121,
       "trophies": 0,
       "donations": 1180,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#LY99JY8QG",
-      "name": "⛈️DIGVIJAY⛈️",
-      "role": "member",
-      "th": 13,
-      "expLevel": 155,
-      "trophies": 380,
-      "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
