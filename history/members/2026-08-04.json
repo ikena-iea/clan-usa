@@ -1,8 +1,8 @@
 {
   "date": "2026-08-04",
-  "capturedAt": "2026-08-04T09:43:58.321Z",
+  "capturedAt": "2026-08-04T12:07:23.092Z",
   "clanLevel": 6,
-  "memberCount": 40,
+  "memberCount": 42,
   "members": [
     {
       "tag": "#QRRV0R98R",
@@ -10,7 +10,7 @@
       "role": "admin",
       "th": 17,
       "expLevel": 177,
-      "trophies": 0,
+      "trophies": 38,
       "donations": 988,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -54,7 +54,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 148,
-      "trophies": 0,
+      "trophies": 29,
       "donations": 1048,
       "donationsReceived": 415,
       "capitalContributions": 0
@@ -76,7 +76,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 171,
-      "trophies": 0,
+      "trophies": 25,
       "donations": 306,
       "donationsReceived": 676,
       "capitalContributions": 0
@@ -170,6 +170,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#LY99JY8QG",
+      "name": "⛈️DIGVIJAY⛈️",
+      "role": "member",
+      "th": 13,
+      "expLevel": 155,
+      "trophies": 350,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#GYVPLJRRL",
       "name": "DaHairyVeer2",
       "role": "admin",
@@ -219,7 +230,7 @@
       "role": "admin",
       "th": 11,
       "expLevel": 85,
-      "trophies": 284,
+      "trophies": 311,
       "donations": 160,
       "donationsReceived": 332,
       "capitalContributions": 0
@@ -280,6 +291,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#R2RR9UJ8V",
+      "name": "X4FSHIN",
+      "role": "admin",
+      "th": 11,
+      "expLevel": 77,
+      "trophies": 59,
+      "donations": 139,
+      "donationsReceived": 265,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#GU8GQYQGQ",
       "name": "koko",
       "role": "admin",
@@ -288,17 +310,6 @@
       "trophies": 26,
       "donations": 0,
       "donationsReceived": 234,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#R2RR9UJ8V",
-      "name": "X4FSHIN",
-      "role": "admin",
-      "th": 11,
-      "expLevel": 77,
-      "trophies": 19,
-      "donations": 139,
-      "donationsReceived": 265,
       "capitalContributions": 0
     },
     {
@@ -354,6 +365,17 @@
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 232,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#8YCGUCLRL",
+      "name": "georgs",
+      "role": "member",
+      "th": 13,
+      "expLevel": 139,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
