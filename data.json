@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-08-03",
-  "fetchedAt": "2026-08-04T21:20:31.740Z",
+  "fetchedAt": "2026-08-04T23:10:22.396Z",
   "attacks": [
     {
       "round": 1,
@@ -151,11 +151,11 @@
       "name": "HowardX",
       "tag": "#R22GJ29UV",
       "ath": 16,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 12,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 1,
