@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T06:35:31.059Z",
+  "generatedAt": "2026-08-04T09:43:59.755Z",
   "snapshotDate": "2026-08-04",
   "snapshotsAvailable": 8,
   "raidWeekendsAvailable": 4,
@@ -100,40 +100,6 @@
       }
     },
     {
-      "tag": "#88LVJLGY0",
-      "name": "¥¥Eagle claw¥¥",
-      "role": "admin",
-      "th": 17,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 7,
-      "inGrace": true,
-      "gracePeriodEndsIn": 7,
-      "warsJoined": 3,
-      "warsTotal": 4,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 100,
-          "raids": 100,
-          "contributions": 0
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": null,
-        "cap": "Rare",
-        "pillars": {
-          "reliability": 62,
-          "performance": 63
-        },
-        "available": 6,
-        "used": 4,
-        "misses": 2,
-        "tier": null
-      }
-    },
-    {
       "tag": "#LCVCL0LU0",
       "name": "Limeranch",
       "role": "coLeader",
@@ -164,6 +130,40 @@
         "available": 4,
         "used": 0,
         "misses": 4,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#88LVJLGY0",
+      "name": "¥¥Eagle claw¥¥",
+      "role": "admin",
+      "th": 17,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 7,
+      "inGrace": true,
+      "gracePeriodEndsIn": 7,
+      "warsJoined": 3,
+      "warsTotal": 4,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 100,
+          "raids": 100,
+          "contributions": 0
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": null,
+        "cap": "Rare",
+        "pillars": {
+          "reliability": 62,
+          "performance": 63
+        },
+        "available": 6,
+        "used": 4,
+        "misses": 2,
         "tier": null
       }
     },
@@ -906,40 +906,6 @@
       }
     },
     {
-      "tag": "#R9R2RV892",
-      "name": "jadav m",
-      "role": "admin",
-      "th": 11,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 7,
-      "inGrace": true,
-      "gracePeriodEndsIn": 7,
-      "warsJoined": 3,
-      "warsTotal": 4,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": null,
-        "cap": null,
-        "pillars": {
-          "reliability": 88,
-          "performance": 60
-        },
-        "available": 6,
-        "used": 6,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
       "tag": "#R2RR9UJ8V",
       "name": "X4FSHIN",
       "role": "admin",
@@ -970,6 +936,40 @@
         "available": 4,
         "used": 2,
         "misses": 2,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#R9R2RV892",
+      "name": "jadav m",
+      "role": "admin",
+      "th": 11,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 7,
+      "inGrace": true,
+      "gracePeriodEndsIn": 7,
+      "warsJoined": 3,
+      "warsTotal": 4,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": null,
+        "cap": null,
+        "pillars": {
+          "reliability": 88,
+          "performance": 60
+        },
+        "available": 6,
+        "used": 6,
+        "misses": 0,
         "tier": null
       }
     },
