@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-08-03",
-  "fetchedAt": "2026-08-05T12:04:55.558Z",
+  "fetchedAt": "2026-08-05T15:21:17.198Z",
   "attacks": [
     {
       "round": 1,
@@ -360,11 +360,11 @@
       "name": "嘻哈侠88",
       "tag": "#LJRJ2UJU2",
       "ath": 18,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 10,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 2,
@@ -415,22 +415,22 @@
       "name": "BAMBANG ID",
       "tag": "#QRRV0R98R",
       "ath": 17,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 11,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 2,
       "name": "thegodlynoob",
       "tag": "#PJ22QYY22",
       "ath": 11,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 10,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 2,
@@ -448,11 +448,11 @@
       "name": "Aaron",
       "tag": "#Q8QPY2L2",
       "ath": 18,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 11,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 2,
@@ -536,11 +536,11 @@
       "name": "Lakers",
       "tag": "#R00YJ900G",
       "ath": 12,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 11,
+      "stars": 2,
+      "dest": 87,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 2,
@@ -558,22 +558,22 @@
       "name": "¥¥Eagle claw¥¥",
       "tag": "#88LVJLGY0",
       "ath": 17,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 10,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 2,
       "name": "DaHairyVeer2",
       "tag": "#GYVPLJRRL",
       "ath": 12,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 11,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 2,
@@ -602,22 +602,22 @@
       "name": "ARKO",
       "tag": "#Y28CPV2PV",
       "ath": 14,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 10,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 2,
       "name": "X4FSHIN",
       "tag": "#R2RR9UJ8V",
       "ath": 11,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 11,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 2,
