@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "capturedAt": "2026-08-05T17:49:24.251Z",
+  "capturedAt": "2026-08-05T19:46:39.773Z",
   "clanLevel": 6,
   "memberCount": 44,
   "members": [
@@ -109,7 +109,7 @@
       "role": "member",
       "th": 14,
       "expLevel": 145,
-      "trophies": 96,
+      "trophies": 208,
       "donations": 67,
       "donationsReceived": 48,
       "capitalContributions": 0
@@ -181,6 +181,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GYVPLJRRL",
+      "name": "DaHairyVeer2",
+      "role": "admin",
+      "th": 12,
+      "expLevel": 103,
+      "trophies": 28,
+      "donations": 429,
+      "donationsReceived": 1148,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#QV08GJJQV",
       "name": "knuxyngYiudjdh",
       "role": "admin",
@@ -211,17 +222,6 @@
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GYVPLJRRL",
-      "name": "DaHairyVeer2",
-      "role": "admin",
-      "th": 12,
-      "expLevel": 103,
-      "trophies": 0,
-      "donations": 429,
-      "donationsReceived": 1148,
       "capitalContributions": 0
     },
     {
@@ -362,7 +362,7 @@
       "role": "admin",
       "th": 9,
       "expLevel": 55,
-      "trophies": 0,
+      "trophies": 40,
       "donations": 36,
       "donationsReceived": 108,
       "capitalContributions": 0

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T17:49:26.092Z",
+  "generatedAt": "2026-08-05T19:46:41.430Z",
   "snapshotDate": "2026-08-05",
   "snapshotsAvailable": 9,
   "raidWeekendsAvailable": 4,
@@ -570,6 +570,40 @@
       }
     },
     {
+      "tag": "#GYVPLJRRL",
+      "name": "DaHairyVeer2",
+      "role": "admin",
+      "th": 12,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 8,
+      "inGrace": true,
+      "gracePeriodEndsIn": 6,
+      "warsJoined": 4,
+      "warsTotal": 5,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 7,
+          "raids": 100,
+          "contributions": 0
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": null,
+        "cap": null,
+        "pillars": {
+          "reliability": 94,
+          "performance": 80
+        },
+        "available": 7,
+        "used": 7,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#QV08GJJQV",
       "name": "knuxyngYiudjdh",
       "role": "admin",
@@ -664,40 +698,6 @@
         },
         "available": 0,
         "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#GYVPLJRRL",
-      "name": "DaHairyVeer2",
-      "role": "admin",
-      "th": 12,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 8,
-      "inGrace": true,
-      "gracePeriodEndsIn": 6,
-      "warsJoined": 4,
-      "warsTotal": 5,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 7,
-          "raids": 100,
-          "contributions": 0
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": null,
-        "cap": null,
-        "pillars": {
-          "reliability": 94,
-          "performance": 80
-        },
-        "available": 7,
-        "used": 7,
         "misses": 0,
         "tier": null
       }
