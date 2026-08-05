@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-08-03",
-  "fetchedAt": "2026-08-05T03:22:23.819Z",
+  "fetchedAt": "2026-08-05T06:35:55.959Z",
   "attacks": [
     {
       "round": 1,
@@ -239,11 +239,11 @@
       "name": "DaHairyVeer2",
       "tag": "#GYVPLJRRL",
       "ath": 12,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 11,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 1,
@@ -294,11 +294,11 @@
       "name": "LegitN00b98",
       "tag": "#R8GPLGRVQ",
       "ath": 11,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 11,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 1,

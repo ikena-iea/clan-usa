@@ -1,8 +1,8 @@
 {
   "date": "2026-08-05",
-  "capturedAt": "2026-08-05T03:22:24.072Z",
+  "capturedAt": "2026-08-05T06:35:56.380Z",
   "clanLevel": 6,
-  "memberCount": 44,
+  "memberCount": 45,
   "members": [
     {
       "tag": "#QRRV0R98R",
@@ -22,7 +22,7 @@
       "th": 18,
       "expLevel": 250,
       "trophies": 0,
-      "donations": 544,
+      "donations": 598,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -109,9 +109,9 @@
       "role": "member",
       "th": 14,
       "expLevel": 145,
-      "trophies": 43,
+      "trophies": 69,
       "donations": 0,
-      "donationsReceived": 15,
+      "donationsReceived": 48,
       "capitalContributions": 0
     },
     {
@@ -148,6 +148,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#YYCR2YRRJ",
+      "name": "Aswath stark",
+      "role": "admin",
+      "th": 11,
+      "expLevel": 121,
+      "trophies": 77,
+      "donations": 1190,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#P28JU228P",
       "name": "$TØNER §IVA",
       "role": "admin",
@@ -170,17 +181,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#YYCR2YRRJ",
-      "name": "Aswath stark",
-      "role": "admin",
-      "th": 11,
-      "expLevel": 121,
-      "trophies": 0,
-      "donations": 1180,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#QGY2PULJ0",
       "name": "leo",
       "role": "member",
@@ -188,7 +188,7 @@
       "expLevel": 110,
       "trophies": 140,
       "donations": 0,
-      "donationsReceived": 72,
+      "donationsReceived": 97,
       "capitalContributions": 0
     },
     {
@@ -200,6 +200,17 @@
       "trophies": 0,
       "donations": 15,
       "donationsReceived": 66,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#GVCJ9R0Q8",
+      "name": "Mr.PiCkLe",
+      "role": "member",
+      "th": 13,
+      "expLevel": 96,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 36,
       "capitalContributions": 0
     },
     {
@@ -230,8 +241,8 @@
       "role": "admin",
       "th": 11,
       "expLevel": 85,
-      "trophies": 18,
-      "donations": 542,
+      "trophies": 50,
+      "donations": 572,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -405,7 +416,7 @@
       "name": "IDONTKNOW",
       "role": "admin",
       "th": 11,
-      "expLevel": 80,
+      "expLevel": 81,
       "trophies": 0,
       "donations": 109,
       "donationsReceived": 229,
