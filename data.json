@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-08-03",
-  "fetchedAt": "2026-08-05T21:20:19.099Z",
+  "fetchedAt": "2026-08-05T23:09:38.729Z",
   "attacks": [
     {
       "round": 1,
@@ -624,11 +624,11 @@
       "name": "LegitN00b98",
       "tag": "#R8GPLGRVQ",
       "ath": 11,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 10,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 2,
