@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-08-03",
-  "fetchedAt": "2026-08-04T23:10:22.396Z",
+  "fetchedAt": "2026-08-05T03:22:23.819Z",
   "attacks": [
     {
       "round": 1,
@@ -261,11 +261,11 @@
       "name": "ben",
       "tag": "#PGQVCVYPJ",
       "ath": 18,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 12,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 1,
