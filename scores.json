@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T09:42:19.581Z",
+  "generatedAt": "2026-08-05T12:04:57.520Z",
   "snapshotDate": "2026-08-05",
   "snapshotsAvailable": 9,
   "raidWeekendsAvailable": 4,
@@ -566,39 +566,6 @@
         "available": 2,
         "used": 0,
         "misses": 2,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#QGY2PULJ0",
-      "name": "leo",
-      "role": "member",
-      "th": 13,
-      "firstSeen": "2026-08-04",
-      "daysPresent": 1,
-      "inGrace": true,
-      "gracePeriodEndsIn": 13,
-      "warsJoined": 0,
-      "warsTotal": 5,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
         "tier": null
       }
     },
@@ -1207,6 +1174,39 @@
       }
     },
     {
+      "tag": "#R2JRVJG0U",
+      "name": "100 days",
+      "role": "coLeader",
+      "th": 7,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 8,
+      "inGrace": true,
+      "gracePeriodEndsIn": 6,
+      "warsJoined": 1,
+      "warsTotal": 5,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 71,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 2,
+        "used": 2,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#LJRJ2UJU2",
       "name": "嘻哈侠88",
       "role": "admin",
@@ -1303,39 +1303,6 @@
         "available": 3,
         "used": 1,
         "misses": 2,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#R2JRVJG0U",
-      "name": "100 days",
-      "role": "coLeader",
-      "th": 7,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 8,
-      "inGrace": true,
-      "gracePeriodEndsIn": 6,
-      "warsJoined": 1,
-      "warsTotal": 5,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 71,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 2,
-        "used": 2,
-        "misses": 0,
         "tier": null
       }
     },

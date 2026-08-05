@@ -1,8 +1,8 @@
 {
   "date": "2026-08-05",
-  "capturedAt": "2026-08-05T09:42:17.627Z",
+  "capturedAt": "2026-08-05T12:04:55.810Z",
   "clanLevel": 6,
-  "memberCount": 45,
+  "memberCount": 44,
   "members": [
     {
       "tag": "#QRRV0R98R",
@@ -20,9 +20,9 @@
       "name": "cary",
       "role": "admin",
       "th": 18,
-      "expLevel": 250,
+      "expLevel": 251,
       "trophies": 0,
-      "donations": 598,
+      "donations": 679,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -32,9 +32,9 @@
       "role": "coLeader",
       "th": 17,
       "expLevel": 148,
-      "trophies": 10,
+      "trophies": 22,
       "donations": 236,
-      "donationsReceived": 58,
+      "donationsReceived": 176,
       "capitalContributions": 0
     },
     {
@@ -76,9 +76,9 @@
       "role": "admin",
       "th": 15,
       "expLevel": 171,
-      "trophies": 185,
-      "donations": 376,
-      "donationsReceived": 676,
+      "trophies": 211,
+      "donations": 436,
+      "donationsReceived": 759,
       "capitalContributions": 0
     },
     {
@@ -99,7 +99,7 @@
       "th": 13,
       "expLevel": 107,
       "trophies": 333,
-      "donations": 2079,
+      "donations": 2169,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -181,17 +181,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#QGY2PULJ0",
-      "name": "leo",
-      "role": "member",
-      "th": 13,
-      "expLevel": 110,
-      "trophies": 140,
-      "donations": 0,
-      "donationsReceived": 112,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#QV08GJJQV",
       "name": "knuxyngYiudjdh",
       "role": "admin",
@@ -210,7 +199,7 @@
       "expLevel": 96,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 36,
+      "donationsReceived": 66,
       "capitalContributions": 0
     },
     {
@@ -390,6 +379,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#R2JRVJG0U",
+      "name": "100 days",
+      "role": "coLeader",
+      "th": 7,
+      "expLevel": 32,
+      "trophies": 64,
+      "donations": 179,
+      "donationsReceived": 50,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#LJRJ2UJU2",
       "name": "嘻哈侠88",
       "role": "admin",
@@ -423,17 +423,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#R2JRVJG0U",
-      "name": "100 days",
-      "role": "coLeader",
-      "th": 7,
-      "expLevel": 32,
-      "trophies": 0,
-      "donations": 179,
-      "donationsReceived": 50,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#Q8QPY2L2",
       "name": "Aaron",
       "role": "admin",
@@ -449,7 +438,7 @@
       "name": "Lakers",
       "role": "coLeader",
       "th": 12,
-      "expLevel": 85,
+      "expLevel": 86,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
