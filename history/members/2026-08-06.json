@@ -1,8 +1,8 @@
 {
   "date": "2026-08-06",
-  "capturedAt": "2026-08-06T06:39:18.345Z",
+  "capturedAt": "2026-08-06T09:45:29.715Z",
   "clanLevel": 6,
-  "memberCount": 44,
+  "memberCount": 45,
   "members": [
     {
       "tag": "#QRRV0R98R",
@@ -71,6 +71,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GCPY2VGVU",
+      "name": "NBmeitei",
+      "role": "member",
+      "th": 15,
+      "expLevel": 151,
+      "trophies": 477,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#R8P2LPQ9",
       "name": "MW☢️ARCHITECT 2",
       "role": "admin",
@@ -97,7 +108,7 @@
       "name": "Ikena",
       "role": "coLeader",
       "th": 13,
-      "expLevel": 107,
+      "expLevel": 108,
       "trophies": 333,
       "donations": 2282,
       "donationsReceived": 0,
@@ -154,7 +165,7 @@
       "th": 11,
       "expLevel": 121,
       "trophies": 77,
-      "donations": 1190,
+      "donations": 1245,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -307,7 +318,7 @@
       "role": "admin",
       "th": 11,
       "expLevel": 83,
-      "trophies": 97,
+      "trophies": 109,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -430,7 +441,7 @@
       "expLevel": 254,
       "trophies": 0,
       "donations": 1436,
-      "donationsReceived": 630,
+      "donationsReceived": 685,
       "capitalContributions": 0
     },
     {
