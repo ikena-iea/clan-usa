@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-08-03",
-  "fetchedAt": "2026-08-06T09:45:29.410Z",
+  "fetchedAt": "2026-08-06T12:07:50.577Z",
   "attacks": [
     {
       "round": 1,
@@ -668,22 +668,22 @@
       "name": "Limeranch",
       "tag": "#LCVCL0LU0",
       "ath": 17,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 10,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
       "name": "cary",
       "tag": "#YRQJPR0Y9",
       "ath": 18,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 14,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
@@ -756,11 +756,11 @@
       "name": "thegodlynoob",
       "tag": "#PJ22QYY22",
       "ath": 11,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 10,
+      "stars": 1,
+      "dest": 86,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
@@ -844,11 +844,11 @@
       "name": "Ikena",
       "tag": "#R292L228Q",
       "ath": 13,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 10,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
