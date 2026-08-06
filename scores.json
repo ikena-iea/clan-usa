@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T12:07:54.785Z",
+  "generatedAt": "2026-08-06T15:22:11.694Z",
   "snapshotDate": "2026-08-06",
   "snapshotsAvailable": 10,
   "raidWeekendsAvailable": 4,
@@ -534,6 +534,39 @@
         },
         "available": 6,
         "used": 6,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#R0V0828RR",
+      "name": "speed",
+      "role": "member",
+      "th": 12,
+      "firstSeen": "2026-08-06",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 6,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
         "misses": 0,
         "tier": null
       }

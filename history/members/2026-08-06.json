@@ -1,8 +1,8 @@
 {
   "date": "2026-08-06",
-  "capturedAt": "2026-08-06T12:07:50.882Z",
+  "capturedAt": "2026-08-06T15:22:07.735Z",
   "clanLevel": 6,
-  "memberCount": 45,
+  "memberCount": 46,
   "members": [
     {
       "tag": "#QRRV0R98R",
@@ -170,6 +170,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#R0V0828RR",
+      "name": "speed",
+      "role": "member",
+      "th": 12,
+      "expLevel": 105,
+      "trophies": 50,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#P28JU228P",
       "name": "$TØNER §IVA",
       "role": "admin",
@@ -185,7 +196,7 @@
       "name": "sammy2720",
       "role": "admin",
       "th": 13,
-      "expLevel": 82,
+      "expLevel": 83,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 294,
@@ -263,7 +274,7 @@
       "role": "admin",
       "th": 11,
       "expLevel": 79,
-      "trophies": 228,
+      "trophies": 236,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -329,7 +340,7 @@
       "role": "admin",
       "th": 11,
       "expLevel": 77,
-      "trophies": 271,
+      "trophies": 299,
       "donations": 139,
       "donationsReceived": 265,
       "capitalContributions": 0
