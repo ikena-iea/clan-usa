@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T03:25:44.862Z",
+  "generatedAt": "2026-08-06T06:39:20.498Z",
   "snapshotDate": "2026-08-06",
   "snapshotsAvailable": 10,
   "raidWeekendsAvailable": 4,
@@ -650,7 +650,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 0,
+          "donations": 100,
           "raids": null,
           "contributions": null
         },
@@ -838,6 +838,39 @@
       }
     },
     {
+      "tag": "#GLUJVJGGV",
+      "name": "allis",
+      "role": "admin",
+      "th": 10,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 9,
+      "inGrace": true,
+      "gracePeriodEndsIn": 5,
+      "warsJoined": 1,
+      "warsTotal": 5,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": 96,
+          "contributions": 0
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 2,
+        "used": 1,
+        "misses": 1,
+        "tier": null
+      }
+    },
+    {
       "tag": "#QVPQ8G2VQ",
       "name": "your mom",
       "role": "admin",
@@ -899,39 +932,6 @@
         },
         "available": 3,
         "used": 2,
-        "misses": 1,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#GLUJVJGGV",
-      "name": "allis",
-      "role": "admin",
-      "th": 10,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 9,
-      "inGrace": true,
-      "gracePeriodEndsIn": 5,
-      "warsJoined": 1,
-      "warsTotal": 5,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": 96,
-          "contributions": 0
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 2,
-        "used": 1,
         "misses": 1,
         "tier": null
       }
