@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-08-03",
-  "fetchedAt": "2026-08-06T15:22:07.384Z",
+  "fetchedAt": "2026-08-07T00:10:18.966Z",
   "attacks": [
     {
       "round": 1,
@@ -701,11 +701,11 @@
       "name": "your mom",
       "tag": "#QVPQ8G2VQ",
       "ath": 12,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 10,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
@@ -723,11 +723,11 @@
       "name": "IDONTKNOW",
       "tag": "#GPC8J2YLY",
       "ath": 11,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 9,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
@@ -855,11 +855,11 @@
       "name": "hartymate",
       "tag": "#GGQ80JRJ0",
       "ath": 11,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 10,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
@@ -910,11 +910,11 @@
       "name": "jadav m",
       "tag": "#R9R2RV892",
       "ath": 11,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 10,
+      "stars": 1,
+      "dest": 76,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
@@ -943,22 +943,22 @@
       "name": "X4FSHIN",
       "tag": "#R2RR9UJ8V",
       "ath": 11,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 10,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
       "name": "LegitN00b98",
       "tag": "#R8GPLGRVQ",
       "ath": 11,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 9,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
