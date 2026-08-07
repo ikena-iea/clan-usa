@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-08-03",
-  "fetchedAt": "2026-08-07T07:36:14.751Z",
+  "fetchedAt": "2026-08-07T09:12:30.281Z",
   "attacks": [
     {
       "round": 1,
@@ -737,8 +737,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 3,
@@ -748,8 +748,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 3,
@@ -770,8 +770,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 3,
@@ -792,19 +792,19 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 3,
       "name": "mustafa",
       "tag": "#GQUQV0PJV",
       "ath": 15,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 10,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
@@ -814,8 +814,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 3,
@@ -869,8 +869,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 3,
@@ -935,8 +935,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 3,
@@ -968,8 +968,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 3,
@@ -992,6 +992,336 @@
       "dest": 100,
       "missed": false,
       "pending": false
+    },
+    {
+      "round": 4,
+      "name": "Limeranch",
+      "tag": "#LCVCL0LU0",
+      "ath": 17,
+      "dth": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 4,
+      "name": "cary",
+      "tag": "#YRQJPR0Y9",
+      "ath": 18,
+      "dth": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 4,
+      "name": "嘻哈侠88",
+      "tag": "#LJRJ2UJU2",
+      "ath": 18,
+      "dth": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 4,
+      "name": "your mom",
+      "tag": "#QVPQ8G2VQ",
+      "ath": 12,
+      "dth": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 4,
+      "name": "elf00",
+      "tag": "#GPLRVGLGJ",
+      "ath": 13,
+      "dth": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 4,
+      "name": "IDONTKNOW",
+      "tag": "#GPC8J2YLY",
+      "ath": 11,
+      "dth": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 4,
+      "name": "knuxyngYiudjdh",
+      "tag": "#QV08GJJQV",
+      "ath": 13,
+      "dth": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 4,
+      "name": "BAMBANG ID",
+      "tag": "#QRRV0R98R",
+      "ath": 17,
+      "dth": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 4,
+      "name": "thegodlynoob",
+      "tag": "#PJ22QYY22",
+      "ath": 11,
+      "dth": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 4,
+      "name": "Krikrino",
+      "tag": "#QPPVJPG22",
+      "ath": 12,
+      "dth": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 4,
+      "name": "Aaron",
+      "tag": "#Q8QPY2L2",
+      "ath": 18,
+      "dth": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 4,
+      "name": "MD SOBUJ",
+      "tag": "#9G8RGQV9V",
+      "ath": 17,
+      "dth": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 4,
+      "name": "mustafa",
+      "tag": "#GQUQV0PJV",
+      "ath": 15,
+      "dth": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 4,
+      "name": "HowardX",
+      "tag": "#R22GJ29UV",
+      "ath": 16,
+      "dth": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 4,
+      "name": "lucky",
+      "tag": "#GYC8Q2R20",
+      "ath": 11,
+      "dth": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 4,
+      "name": "DevilIguana",
+      "tag": "#GVV89RJYQ",
+      "ath": 12,
+      "dth": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 4,
+      "name": "Ikena",
+      "tag": "#R292L228Q",
+      "ath": 13,
+      "dth": 12,
+      "stars": 3,
+      "dest": 100,
+      "missed": false,
+      "pending": false
+    },
+    {
+      "round": 4,
+      "name": "hartymate",
+      "tag": "#GGQ80JRJ0",
+      "ath": 11,
+      "dth": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 4,
+      "name": "Lakers",
+      "tag": "#R00YJ900G",
+      "ath": 12,
+      "dth": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 4,
+      "name": "Aswath stark",
+      "tag": "#YYCR2YRRJ",
+      "ath": 11,
+      "dth": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 4,
+      "name": "¥¥Eagle claw¥¥",
+      "tag": "#88LVJLGY0",
+      "ath": 17,
+      "dth": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 4,
+      "name": "DaHairyVeer2",
+      "tag": "#GYVPLJRRL",
+      "ath": 12,
+      "dth": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 4,
+      "name": "jadav m",
+      "tag": "#R9R2RV892",
+      "ath": 11,
+      "dth": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 4,
+      "name": "ben",
+      "tag": "#PGQVCVYPJ",
+      "ath": 18,
+      "dth": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 4,
+      "name": "ARKO",
+      "tag": "#Y28CPV2PV",
+      "ath": 14,
+      "dth": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 4,
+      "name": "X4FSHIN",
+      "tag": "#R2RR9UJ8V",
+      "ath": 11,
+      "dth": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 4,
+      "name": "LegitN00b98",
+      "tag": "#R8GPLGRVQ",
+      "ath": 11,
+      "dth": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 4,
+      "name": "sjd_emd",
+      "tag": "#QC2U9L9P9",
+      "ath": 13,
+      "dth": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 4,
+      "name": "Didetz",
+      "tag": "#R8PJY0U0J",
+      "ath": 14,
+      "dth": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 4,
+      "name": "MW☢️ARCHITECT 2",
+      "tag": "#R8P2LPQ9",
+      "ath": 15,
+      "dth": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
     }
   ]
 }

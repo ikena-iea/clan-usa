@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "capturedAt": "2026-08-07T07:36:15.015Z",
+  "capturedAt": "2026-08-07T09:12:30.545Z",
   "clanLevel": 6,
   "memberCount": 49,
   "members": [
@@ -55,7 +55,7 @@
       "th": 17,
       "expLevel": 244,
       "trophies": 0,
-      "donations": 810,
+      "donations": 840,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -126,6 +126,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GPLRVGLGJ",
+      "name": "elf00",
+      "role": "admin",
+      "th": 13,
+      "expLevel": 123,
+      "trophies": 265,
+      "donations": 547,
+      "donationsReceived": 586,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#QLV80QQCY",
       "name": "THE ROCK",
       "role": "member",
@@ -134,17 +145,6 @@
       "trophies": 227,
       "donations": 67,
       "donationsReceived": 96,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GPLRVGLGJ",
-      "name": "elf00",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 123,
-      "trophies": 164,
-      "donations": 547,
-      "donationsReceived": 586,
       "capitalContributions": 0
     },
     {
@@ -318,7 +318,7 @@
       "role": "admin",
       "th": 11,
       "expLevel": 86,
-      "trophies": 338,
+      "trophies": 366,
       "donations": 161,
       "donationsReceived": 332,
       "capitalContributions": 0
@@ -529,7 +529,7 @@
       "expLevel": 98,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 928,
+      "donationsReceived": 958,
       "capitalContributions": 0
     },
     {
