@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-08-03",
-  "fetchedAt": "2026-08-07T09:12:30.281Z",
+  "fetchedAt": "2026-08-07T11:00:07.761Z",
   "attacks": [
     {
       "round": 1,
@@ -1042,11 +1042,11 @@
       "name": "elf00",
       "tag": "#GPLRVGLGJ",
       "ath": 13,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 12,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 4,
@@ -1108,11 +1108,11 @@
       "name": "Aaron",
       "tag": "#Q8QPY2L2",
       "ath": 18,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 17,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 4,
@@ -1185,11 +1185,11 @@
       "name": "hartymate",
       "tag": "#GGQ80JRJ0",
       "ath": 11,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 11,
+      "stars": 2,
+      "dest": 85,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 4,
@@ -1207,11 +1207,11 @@
       "name": "Aswath stark",
       "tag": "#YYCR2YRRJ",
       "ath": 11,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 11,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 4,
@@ -1306,22 +1306,22 @@
       "name": "Didetz",
       "tag": "#R8PJY0U0J",
       "ath": 14,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 13,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 4,
       "name": "MW☢️ARCHITECT 2",
       "tag": "#R8P2LPQ9",
       "ath": 15,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 13,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     }
   ]
 }

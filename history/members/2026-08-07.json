@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "capturedAt": "2026-08-07T09:12:30.545Z",
+  "capturedAt": "2026-08-07T11:00:08.052Z",
   "clanLevel": 6,
   "memberCount": 49,
   "members": [
@@ -43,7 +43,7 @@
       "role": "coLeader",
       "th": 17,
       "expLevel": 148,
-      "trophies": 119,
+      "trophies": 139,
       "donations": 236,
       "donationsReceived": 179,
       "capitalContributions": 0
@@ -130,8 +130,8 @@
       "name": "elf00",
       "role": "admin",
       "th": 13,
-      "expLevel": 123,
-      "trophies": 265,
+      "expLevel": 124,
+      "trophies": 320,
       "donations": 547,
       "donationsReceived": 586,
       "capitalContributions": 0
@@ -187,7 +187,7 @@
       "th": 11,
       "expLevel": 121,
       "trophies": 136,
-      "donations": 1360,
+      "donations": 1462,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -485,7 +485,7 @@
       "expLevel": 255,
       "trophies": 0,
       "donations": 1513,
-      "donationsReceived": 685,
+      "donationsReceived": 742,
       "capitalContributions": 0
     },
     {
@@ -529,7 +529,7 @@
       "expLevel": 98,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 958,
+      "donationsReceived": 1033,
       "capitalContributions": 0
     },
     {
