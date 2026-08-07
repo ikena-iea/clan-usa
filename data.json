@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-08-03",
-  "fetchedAt": "2026-08-07T17:00:11.820Z",
+  "fetchedAt": "2026-08-07T17:57:32.277Z",
   "attacks": [
     {
       "round": 1,
@@ -1273,11 +1273,11 @@
       "name": "X4FSHIN",
       "tag": "#R2RR9UJ8V",
       "ath": 11,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 11,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 4,
