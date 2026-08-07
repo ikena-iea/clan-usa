@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T22:46:30.562Z",
+  "generatedAt": "2026-08-07T23:40:30.645Z",
   "snapshotDate": "2026-08-07",
   "snapshotsAvailable": 11,
   "raidWeekendsAvailable": 4,
@@ -618,7 +618,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 0,
+          "donations": 100,
           "raids": null,
           "contributions": null
         },
@@ -1660,6 +1660,39 @@
         "total": null,
         "pillars": {
           "donations": 100,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#GU9RJL9R0",
+      "name": "jimmy",
+      "role": "member",
+      "th": 12,
+      "firstSeen": "2026-08-07",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 7,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
           "raids": null,
           "contributions": null
         },
