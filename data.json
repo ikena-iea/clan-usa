@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-08-03",
-  "fetchedAt": "2026-08-07T15:01:22.742Z",
+  "fetchedAt": "2026-08-07T17:00:11.820Z",
   "attacks": [
     {
       "round": 1,
@@ -1053,11 +1053,11 @@
       "name": "IDONTKNOW",
       "tag": "#GPC8J2YLY",
       "ath": 11,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 10,
+      "stars": 1,
+      "dest": 60,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 4,
@@ -1075,11 +1075,11 @@
       "name": "BAMBANG ID",
       "tag": "#QRRV0R98R",
       "ath": 17,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 15,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 4,
@@ -1130,11 +1130,11 @@
       "name": "mustafa",
       "tag": "#GQUQV0PJV",
       "ath": 15,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 12,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 4,
@@ -1240,11 +1240,11 @@
       "name": "jadav m",
       "tag": "#R9R2RV892",
       "ath": 11,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 10,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 4,
@@ -1262,11 +1262,11 @@
       "name": "ARKO",
       "tag": "#Y28CPV2PV",
       "ath": 14,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 12,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 4,
