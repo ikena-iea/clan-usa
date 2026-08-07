@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-08-03",
-  "fetchedAt": "2026-08-07T03:55:18.487Z",
+  "fetchedAt": "2026-08-07T05:46:39.638Z",
   "attacks": [
     {
       "round": 1,
@@ -833,11 +833,11 @@
       "name": "DevilIguana",
       "tag": "#GVV89RJYQ",
       "ath": 12,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 10,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
@@ -899,11 +899,11 @@
       "name": "DaHairyVeer2",
       "tag": "#GYVPLJRRL",
       "ath": 12,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 10,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
