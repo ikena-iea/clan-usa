@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-08-03",
-  "fetchedAt": "2026-08-07T00:10:18.966Z",
+  "fetchedAt": "2026-08-07T03:55:18.487Z",
   "attacks": [
     {
       "round": 1,
@@ -690,11 +690,11 @@
       "name": "嘻哈侠88",
       "tag": "#LJRJ2UJU2",
       "ath": 18,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 10,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
@@ -976,11 +976,11 @@
       "name": "Didetz",
       "tag": "#R8PJY0U0J",
       "ath": 14,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 10,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,

@@ -1,8 +1,8 @@
 {
   "date": "2026-08-07",
-  "capturedAt": "2026-08-07T00:10:19.272Z",
+  "capturedAt": "2026-08-07T03:55:18.974Z",
   "clanLevel": 6,
-  "memberCount": 48,
+  "memberCount": 49,
   "members": [
     {
       "tag": "#QRRV0R98R",
@@ -148,6 +148,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GGRR02GLG",
+      "name": "jude",
+      "role": "member",
+      "th": 13,
+      "expLevel": 107,
+      "trophies": 71,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#Y28CPV2PV",
       "name": "ARKO",
       "role": "admin",
@@ -186,7 +197,7 @@
       "role": "member",
       "th": 12,
       "expLevel": 105,
-      "trophies": 50,
+      "trophies": 67,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -351,7 +362,7 @@
       "role": "admin",
       "th": 11,
       "expLevel": 83,
-      "trophies": 168,
+      "trophies": 198,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
