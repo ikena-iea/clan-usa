@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-08-03",
-  "fetchedAt": "2026-08-08T17:37:28.309Z",
+  "fetchedAt": "2026-08-08T18:50:27.839Z",
   "attacks": [
     {
       "round": 1,
@@ -1339,11 +1339,11 @@
       "name": "cary",
       "tag": "#YRQJPR0Y9",
       "ath": 18,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 10,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
