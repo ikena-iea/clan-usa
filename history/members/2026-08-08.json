@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "capturedAt": "2026-08-08T07:05:02.301Z",
+  "capturedAt": "2026-08-08T08:52:12.098Z",
   "clanLevel": 6,
   "memberCount": 50,
   "members": [
@@ -230,7 +230,7 @@
       "role": "admin",
       "th": 12,
       "expLevel": 104,
-      "trophies": 28,
+      "trophies": 41,
       "donations": 429,
       "donationsReceived": 1148,
       "capitalContributions": 0
@@ -416,7 +416,7 @@
       "name": "Jaz",
       "role": "admin",
       "th": 9,
-      "expLevel": 55,
+      "expLevel": 56,
       "trophies": 40,
       "donations": 36,
       "donationsReceived": 108,
