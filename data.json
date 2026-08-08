@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-08-03",
-  "fetchedAt": "2026-08-08T21:38:03.512Z",
+  "fetchedAt": "2026-08-08T22:37:24.422Z",
   "attacks": [
     {
       "round": 1,
@@ -1515,11 +1515,11 @@
       "name": "hartymate",
       "tag": "#GGQ80JRJ0",
       "ath": 11,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 9,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
