@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-08-03",
-  "fetchedAt": "2026-08-08T13:04:29.313Z",
+  "fetchedAt": "2026-08-08T14:39:00.536Z",
   "attacks": [
     {
       "round": 1,
@@ -1570,11 +1570,11 @@
       "name": "jadav m",
       "tag": "#R9R2RV892",
       "ath": 11,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 10,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
