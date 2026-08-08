@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T11:36:02.087Z",
+  "generatedAt": "2026-08-08T13:04:36.483Z",
   "snapshotDate": "2026-08-08",
   "snapshotsAvailable": 12,
   "raidWeekendsAvailable": 4,
@@ -103,7 +103,7 @@
     {
       "tag": "#G2G8R9RPC",
       "name": "gangster1000000",
-      "role": "member",
+      "role": "admin",
       "th": 15,
       "firstSeen": "2026-08-07",
       "daysPresent": 1,
@@ -272,7 +272,7 @@
     {
       "tag": "#GCPY2VGVU",
       "name": "NBmeitei",
-      "role": "member",
+      "role": "admin",
       "th": 15,
       "firstSeen": "2026-08-06",
       "daysPresent": 2,
@@ -473,7 +473,7 @@
     {
       "tag": "#GGRR02GLG",
       "name": "jude",
-      "role": "member",
+      "role": "admin",
       "th": 13,
       "firstSeen": "2026-08-07",
       "daysPresent": 1,
@@ -608,7 +608,7 @@
     {
       "tag": "#R0V0828RR",
       "name": "speed",
-      "role": "member",
+      "role": "admin",
       "th": 12,
       "firstSeen": "2026-08-06",
       "daysPresent": 2,
@@ -808,7 +808,7 @@
     {
       "tag": "#QV9QYJ09G",
       "name": "Gobinath.N",
-      "role": "member",
+      "role": "admin",
       "th": 13,
       "firstSeen": "2026-08-07",
       "daysPresent": 1,
@@ -1684,7 +1684,7 @@
     {
       "tag": "#GU9RJL9R0",
       "name": "jimmy",
-      "role": "member",
+      "role": "admin",
       "th": 12,
       "firstSeen": "2026-08-07",
       "daysPresent": 1,

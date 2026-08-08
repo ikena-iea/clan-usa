@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "capturedAt": "2026-08-08T11:35:55.691Z",
+  "capturedAt": "2026-08-08T13:04:30.369Z",
   "clanLevel": 6,
   "memberCount": 50,
   "members": [
@@ -29,7 +29,7 @@
     {
       "tag": "#G2G8R9RPC",
       "name": "gangster1000000",
-      "role": "member",
+      "role": "admin",
       "th": 15,
       "expLevel": 168,
       "trophies": 248,
@@ -84,7 +84,7 @@
     {
       "tag": "#GCPY2VGVU",
       "name": "NBmeitei",
-      "role": "member",
+      "role": "admin",
       "th": 15,
       "expLevel": 152,
       "trophies": 477,
@@ -150,7 +150,7 @@
     {
       "tag": "#GGRR02GLG",
       "name": "jude",
-      "role": "member",
+      "role": "admin",
       "th": 13,
       "expLevel": 107,
       "trophies": 71,
@@ -194,7 +194,7 @@
     {
       "tag": "#R0V0828RR",
       "name": "speed",
-      "role": "member",
+      "role": "admin",
       "th": 12,
       "expLevel": 105,
       "trophies": 67,
@@ -260,7 +260,7 @@
     {
       "tag": "#QV9QYJ09G",
       "name": "Gobinath.N",
-      "role": "member",
+      "role": "admin",
       "th": 13,
       "expLevel": 113,
       "trophies": 0,
@@ -546,9 +546,9 @@
     {
       "tag": "#GU9RJL9R0",
       "name": "jimmy",
-      "role": "member",
+      "role": "admin",
       "th": 12,
-      "expLevel": 102,
+      "expLevel": 103,
       "trophies": 0,
       "donations": 1,
       "donationsReceived": 0,
