@@ -1,6 +1,6 @@
 {
   "date": "2026-08-09",
-  "capturedAt": "2026-08-09T17:38:09.350Z",
+  "capturedAt": "2026-08-09T18:52:34.755Z",
   "clanLevel": 6,
   "memberCount": 46,
   "members": [
@@ -208,7 +208,7 @@
       "role": "admin",
       "th": 12,
       "expLevel": 105,
-      "trophies": 67,
+      "trophies": 71,
       "donations": 66,
       "donationsReceived": 42,
       "capitalContributions": 0
@@ -262,7 +262,7 @@
       "name": "dennis jiang",
       "role": "member",
       "th": 13,
-      "expLevel": 54,
+      "expLevel": 55,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -302,6 +302,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#QVPQ8G2VQ",
+      "name": "your mom",
+      "role": "admin",
+      "th": 12,
+      "expLevel": 72,
+      "trophies": 118,
+      "donations": 485,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#GLUJVJGGV",
       "name": "allis",
       "role": "admin",
@@ -310,17 +321,6 @@
       "trophies": 97,
       "donations": 127,
       "donationsReceived": 261,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#QVPQ8G2VQ",
-      "name": "your mom",
-      "role": "admin",
-      "th": 12,
-      "expLevel": 72,
-      "trophies": 78,
-      "donations": 485,
-      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -340,7 +340,7 @@
       "role": "admin",
       "th": 11,
       "expLevel": 84,
-      "trophies": 322,
+      "trophies": 351,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
