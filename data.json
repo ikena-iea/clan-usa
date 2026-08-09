@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-08-03",
-  "fetchedAt": "2026-08-09T15:39:14.516Z",
+  "fetchedAt": "2026-08-09T16:45:40.900Z",
   "attacks": [
     {
       "round": 1,
@@ -1823,11 +1823,11 @@
       "name": "DevilIguana",
       "tag": "#GVV89RJYQ",
       "ath": 12,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 11,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,
@@ -1867,11 +1867,11 @@
       "name": "Aswath stark",
       "tag": "#YYCR2YRRJ",
       "ath": 11,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 11,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,
