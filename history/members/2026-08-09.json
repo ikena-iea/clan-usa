@@ -1,6 +1,6 @@
 {
   "date": "2026-08-09",
-  "capturedAt": "2026-08-09T09:49:22.722Z",
+  "capturedAt": "2026-08-09T10:42:42.215Z",
   "clanLevel": 6,
   "memberCount": 46,
   "members": [
@@ -10,7 +10,7 @@
       "role": "admin",
       "th": 17,
       "expLevel": 177,
-      "trophies": 146,
+      "trophies": 161,
       "donations": 1006,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -31,10 +31,10 @@
       "name": "gangster1000000",
       "role": "admin",
       "th": 15,
-      "expLevel": 168,
+      "expLevel": 169,
       "trophies": 248,
-      "donations": 0,
-      "donationsReceived": 133,
+      "donations": 23,
+      "donationsReceived": 135,
       "capitalContributions": 0
     },
     {
@@ -42,8 +42,8 @@
       "name": "Limeranch",
       "role": "coLeader",
       "th": 17,
-      "expLevel": 148,
-      "trophies": 139,
+      "expLevel": 149,
+      "trophies": 151,
       "donations": 236,
       "donationsReceived": 179,
       "capitalContributions": 0
@@ -100,7 +100,7 @@
       "expLevel": 172,
       "trophies": 406,
       "donations": 468,
-      "donationsReceived": 950,
+      "donationsReceived": 973,
       "capitalContributions": 0
     },
     {
@@ -352,7 +352,7 @@
       "th": 11,
       "expLevel": 78,
       "trophies": 299,
-      "donations": 139,
+      "donations": 141,
       "donationsReceived": 265,
       "capitalContributions": 0
     },
