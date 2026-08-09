@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-08-03",
-  "fetchedAt": "2026-08-09T16:45:40.900Z",
+  "fetchedAt": "2026-08-09T17:38:09.092Z",
   "attacks": [
     {
       "round": 1,
@@ -1713,11 +1713,11 @@
       "name": "IDONTKNOW",
       "tag": "#GPC8J2YLY",
       "ath": 11,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 10,
+      "stars": 2,
+      "dest": 80,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,
