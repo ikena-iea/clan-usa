@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T04:24:19.051Z",
+  "generatedAt": "2026-08-09T05:52:23.278Z",
   "snapshotDate": "2026-08-09",
   "snapshotsAvailable": 13,
   "raidWeekendsAvailable": 4,
@@ -551,7 +551,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 33,
+          "donations": 68,
           "raids": 70,
           "contributions": 0
         },
@@ -620,39 +620,6 @@
         "total": null,
         "pillars": {
           "donations": 100,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#P28JU228P",
-      "name": "$TØNER §IVA",
-      "role": "admin",
-      "th": 13,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 12,
-      "inGrace": true,
-      "gracePeriodEndsIn": 2,
-      "warsJoined": 0,
-      "warsTotal": 8,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
           "raids": null,
           "contributions": null
         },
@@ -902,40 +869,6 @@
         "available": 10,
         "used": 10,
         "misses": 0,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#QPPVJPG22",
-      "name": "Krikrino",
-      "role": "admin",
-      "th": 12,
-      "firstSeen": "2026-07-30",
-      "daysPresent": 10,
-      "inGrace": true,
-      "gracePeriodEndsIn": 4,
-      "warsJoined": 4,
-      "warsTotal": 8,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": null,
-        "cap": "Uncommon",
-        "pillars": {
-          "reliability": 25,
-          "performance": null
-        },
-        "available": 4,
-        "used": 0,
-        "misses": 4,
         "tier": null
       }
     },
@@ -1245,39 +1178,6 @@
       }
     },
     {
-      "tag": "#R0R2LULYV",
-      "name": "nash",
-      "role": "admin",
-      "th": 10,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 12,
-      "inGrace": true,
-      "gracePeriodEndsIn": 2,
-      "warsJoined": 1,
-      "warsTotal": 8,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 2,
-        "used": 2,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
       "tag": "#GGUJJGQUV",
       "name": "Jaz",
       "role": "admin",
@@ -1577,39 +1477,6 @@
         },
         "available": 4,
         "used": 4,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#R2VQPCRLY",
-      "name": "King .",
-      "role": "member",
-      "th": 11,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 12,
-      "inGrace": true,
-      "gracePeriodEndsIn": 2,
-      "warsJoined": 0,
-      "warsTotal": 8,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
         "misses": 0,
         "tier": null
       }
