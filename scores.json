@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T11:37:29.045Z",
+  "generatedAt": "2026-08-09T13:07:08.824Z",
   "snapshotDate": "2026-08-09",
   "snapshotsAvailable": 13,
   "raidWeekendsAvailable": 4,
@@ -147,7 +147,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 31,
+          "donations": 78,
           "raids": null,
           "contributions": null
         },
@@ -266,6 +266,39 @@
         "available": 7,
         "used": 2,
         "misses": 5,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#8L9Y908QQ",
+      "name": "DEREK",
+      "role": "admin",
+      "th": 16,
+      "firstSeen": "2026-08-09",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 9,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
         "tier": null
       }
     },
@@ -668,40 +701,6 @@
         "available": 2,
         "used": 0,
         "misses": 2,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#GYVPLJRRL",
-      "name": "DaHairyVeer2",
-      "role": "admin",
-      "th": 12,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 12,
-      "inGrace": true,
-      "gracePeriodEndsIn": 2,
-      "warsJoined": 8,
-      "warsTotal": 9,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 4,
-          "raids": 100,
-          "contributions": 0
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": null,
-        "cap": null,
-        "pillars": {
-          "reliability": 100,
-          "performance": 71
-        },
-        "available": 10,
-        "used": 10,
-        "misses": 0,
         "tier": null
       }
     },
