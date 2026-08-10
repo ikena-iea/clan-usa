@@ -1,8 +1,8 @@
 {
   "date": "2026-08-10",
-  "capturedAt": "2026-08-10T15:06:55.743Z",
+  "capturedAt": "2026-08-10T17:01:13.829Z",
   "clanLevel": 6,
-  "memberCount": 48,
+  "memberCount": 49,
   "members": [
     {
       "tag": "#YRQJPR0Y9",
@@ -208,6 +208,17 @@
       "role": "admin",
       "th": 11,
       "expLevel": 122,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#Q20LYL22R",
+      "name": "shine",
+      "role": "member",
+      "th": 13,
+      "expLevel": 124,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,

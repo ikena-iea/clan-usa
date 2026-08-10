@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-08-03",
-  "fetchedAt": "2026-08-10T15:06:55.476Z",
+  "fetchedAt": "2026-08-10T17:01:13.560Z",
   "attacks": [
     {
       "round": 1,
@@ -2043,11 +2043,11 @@
       "name": "IDONTKNOW",
       "tag": "#GPC8J2YLY",
       "ath": 11,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 13,
+      "stars": 1,
+      "dest": 76,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 7,
@@ -2076,11 +2076,11 @@
       "name": "thegodlynoob",
       "tag": "#PJ22QYY22",
       "ath": 11,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 12,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 7,
@@ -2230,11 +2230,11 @@
       "name": "jadav m",
       "tag": "#R9R2RV892",
       "ath": 11,
-      "dth": null,
+      "dth": 12,
       "stars": 0,
-      "dest": 0,
+      "dest": 46,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 7,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T15:06:58.813Z",
+  "generatedAt": "2026-08-10T17:01:16.795Z",
   "snapshotDate": "2026-08-10",
   "snapshotsAvailable": 14,
   "raidWeekendsAvailable": 4,
@@ -667,6 +667,39 @@
         },
         "available": 10,
         "used": 10,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#Q20LYL22R",
+      "name": "shine",
+      "role": "member",
+      "th": 13,
+      "firstSeen": "2026-08-10",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 10,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
         "misses": 0,
         "tier": null
       }
