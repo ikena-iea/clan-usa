@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T20:53:33.873Z",
+  "generatedAt": "2026-08-10T21:51:16.121Z",
   "snapshotDate": "2026-08-10",
   "snapshotsAvailable": 14,
   "raidWeekendsAvailable": 4,
@@ -403,6 +403,40 @@
       }
     },
     {
+      "tag": "#GPLRVGLGJ",
+      "name": "elf00",
+      "role": "admin",
+      "th": 13,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 13,
+      "inGrace": true,
+      "gracePeriodEndsIn": 1,
+      "warsJoined": 8,
+      "warsTotal": 10,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 28,
+          "raids": 62,
+          "contributions": 0
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": null,
+        "cap": "Uncommon",
+        "pillars": {
+          "reliability": 50,
+          "performance": 62
+        },
+        "available": 10,
+        "used": 5,
+        "misses": 5,
+        "tier": null
+      }
+    },
+    {
       "tag": "#QLV80QQCY",
       "name": "THE ROCK",
       "role": "member",
@@ -466,40 +500,6 @@
         "available": 10,
         "used": 10,
         "misses": 0,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#GPLRVGLGJ",
-      "name": "elf00",
-      "role": "admin",
-      "th": 13,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 13,
-      "inGrace": true,
-      "gracePeriodEndsIn": 1,
-      "warsJoined": 8,
-      "warsTotal": 10,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 28,
-          "raids": 62,
-          "contributions": 0
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": null,
-        "cap": "Uncommon",
-        "pillars": {
-          "reliability": 50,
-          "performance": 62
-        },
-        "available": 10,
-        "used": 5,
-        "misses": 5,
         "tier": null
       }
     },
@@ -1004,40 +1004,6 @@
       }
     },
     {
-      "tag": "#GYC8Q2R20",
-      "name": "lucky",
-      "role": "admin",
-      "th": 11,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 13,
-      "inGrace": true,
-      "gracePeriodEndsIn": 1,
-      "warsJoined": 9,
-      "warsTotal": 10,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 1,
-          "raids": 100,
-          "contributions": 0
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": null,
-        "cap": null,
-        "pillars": {
-          "reliability": 100,
-          "performance": 87
-        },
-        "available": 10,
-        "used": 10,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
       "tag": "#PJ22QYY22",
       "name": "thegodlynoob",
       "role": "admin",
@@ -1068,6 +1034,40 @@
         "available": 10,
         "used": 8,
         "misses": 2,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#GYC8Q2R20",
+      "name": "lucky",
+      "role": "admin",
+      "th": 11,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 13,
+      "inGrace": true,
+      "gracePeriodEndsIn": 1,
+      "warsJoined": 9,
+      "warsTotal": 10,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 1,
+          "raids": 100,
+          "contributions": 0
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": null,
+        "cap": null,
+        "pillars": {
+          "reliability": 100,
+          "performance": 87
+        },
+        "available": 10,
+        "used": 10,
+        "misses": 0,
         "tier": null
       }
     },

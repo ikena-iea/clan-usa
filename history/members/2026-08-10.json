@@ -1,6 +1,6 @@
 {
   "date": "2026-08-10",
-  "capturedAt": "2026-08-10T20:53:30.406Z",
+  "capturedAt": "2026-08-10T21:51:09.805Z",
   "clanLevel": 6,
   "memberCount": 50,
   "members": [
@@ -126,6 +126,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GPLRVGLGJ",
+      "name": "elf00",
+      "role": "admin",
+      "th": 13,
+      "expLevel": 124,
+      "trophies": 30,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#QLV80QQCY",
       "name": "THE ROCK",
       "role": "member",
@@ -143,17 +154,6 @@
       "th": 13,
       "expLevel": 109,
       "trophies": 11,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GPLRVGLGJ",
-      "name": "elf00",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 124,
-      "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -324,23 +324,23 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#PJ22QYY22",
+      "name": "thegodlynoob",
+      "role": "admin",
+      "th": 11,
+      "expLevel": 82,
+      "trophies": 201,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#GYC8Q2R20",
       "name": "lucky",
       "role": "admin",
       "th": 11,
       "expLevel": 87,
       "trophies": 156,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#PJ22QYY22",
-      "name": "thegodlynoob",
-      "role": "admin",
-      "th": 11,
-      "expLevel": 82,
-      "trophies": 18,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
