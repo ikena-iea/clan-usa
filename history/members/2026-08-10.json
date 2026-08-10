@@ -1,6 +1,6 @@
 {
   "date": "2026-08-10",
-  "capturedAt": "2026-08-10T17:01:13.829Z",
+  "capturedAt": "2026-08-10T19:06:59.834Z",
   "clanLevel": 6,
   "memberCount": 49,
   "members": [
@@ -254,7 +254,7 @@
       "expLevel": 113,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 0,
+      "donationsReceived": 45,
       "capitalContributions": 0
     },
     {
@@ -275,7 +275,7 @@
       "th": 12,
       "expLevel": 105,
       "trophies": 0,
-      "donations": 0,
+      "donations": 45,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -313,6 +313,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GYC8Q2R20",
+      "name": "lucky",
+      "role": "admin",
+      "th": 11,
+      "expLevel": 87,
+      "trophies": 156,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#PJ22QYY22",
       "name": "thegodlynoob",
       "role": "admin",
@@ -324,12 +335,12 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#GYC8Q2R20",
-      "name": "lucky",
+      "tag": "#GLUJVJGGV",
+      "name": "allis",
       "role": "admin",
-      "th": 11,
-      "expLevel": 87,
-      "trophies": 0,
+      "th": 10,
+      "expLevel": 84,
+      "trophies": 8,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -368,17 +379,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#GLUJVJGGV",
-      "name": "allis",
-      "role": "admin",
-      "th": 10,
-      "expLevel": 84,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#R2RR9UJ8V",
       "name": "X4FSHIN",
       "role": "admin",
@@ -406,7 +406,7 @@
       "role": "admin",
       "th": 9,
       "expLevel": 56,
-      "trophies": 0,
+      "trophies": 31,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0

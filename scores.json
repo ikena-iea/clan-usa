@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T17:01:16.795Z",
+  "generatedAt": "2026-08-10T19:07:05.911Z",
   "snapshotDate": "2026-08-10",
   "snapshotsAvailable": 14,
   "raidWeekendsAvailable": 4,
@@ -971,6 +971,40 @@
       }
     },
     {
+      "tag": "#GYC8Q2R20",
+      "name": "lucky",
+      "role": "admin",
+      "th": 11,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 13,
+      "inGrace": true,
+      "gracePeriodEndsIn": 1,
+      "warsJoined": 9,
+      "warsTotal": 10,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 1,
+          "raids": 100,
+          "contributions": 0
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": null,
+        "cap": null,
+        "pillars": {
+          "reliability": 100,
+          "performance": 87
+        },
+        "available": 10,
+        "used": 10,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#PJ22QYY22",
       "name": "thegodlynoob",
       "role": "admin",
@@ -1005,36 +1039,35 @@
       }
     },
     {
-      "tag": "#GYC8Q2R20",
-      "name": "lucky",
+      "tag": "#GLUJVJGGV",
+      "name": "allis",
       "role": "admin",
-      "th": 11,
+      "th": 10,
       "firstSeen": "2026-07-28",
       "daysPresent": 13,
       "inGrace": true,
       "gracePeriodEndsIn": 1,
-      "warsJoined": 9,
+      "warsJoined": 1,
       "warsTotal": 10,
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 1,
-          "raids": 100,
+          "donations": 0,
+          "raids": 94,
           "contributions": 0
         },
         "tier": null
       },
       "war": {
         "total": null,
-        "status": null,
-        "cap": null,
+        "status": "New",
         "pillars": {
-          "reliability": 100,
-          "performance": 87
+          "reliability": null,
+          "performance": null
         },
-        "available": 10,
-        "used": 10,
-        "misses": 0,
+        "available": 2,
+        "used": 1,
+        "misses": 1,
         "tier": null
       }
     },
@@ -1137,39 +1170,6 @@
         "available": 10,
         "used": 7,
         "misses": 3,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#GLUJVJGGV",
-      "name": "allis",
-      "role": "admin",
-      "th": 10,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 13,
-      "inGrace": true,
-      "gracePeriodEndsIn": 1,
-      "warsJoined": 1,
-      "warsTotal": 10,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": 94,
-          "contributions": 0
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 2,
-        "used": 1,
-        "misses": 1,
         "tier": null
       }
     },
