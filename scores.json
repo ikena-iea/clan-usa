@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T22:47:56.168Z",
+  "generatedAt": "2026-08-10T23:41:58.904Z",
   "snapshotDate": "2026-08-10",
   "snapshotsAvailable": 14,
   "raidWeekendsAvailable": 4,
@@ -738,6 +738,39 @@
       }
     },
     {
+      "tag": "#GUPY8PLLP",
+      "name": "BEOX",
+      "role": "admin",
+      "th": 13,
+      "firstSeen": "2026-08-10",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 10,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#QV08GJJQV",
       "name": "knuxyngYiudjdh",
       "role": "admin",
@@ -912,39 +945,6 @@
       "daysPresent": 6,
       "inGrace": true,
       "gracePeriodEndsIn": 8,
-      "warsJoined": 0,
-      "warsTotal": 10,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#GUPY8PLLP",
-      "name": "BEOX",
-      "role": "admin",
-      "th": 13,
-      "firstSeen": "2026-08-10",
-      "daysPresent": 1,
-      "inGrace": true,
-      "gracePeriodEndsIn": 13,
       "warsJoined": 0,
       "warsTotal": 10,
       "clan": {
