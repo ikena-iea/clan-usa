@@ -1,8 +1,8 @@
 {
   "date": "2026-08-10",
-  "capturedAt": "2026-08-10T06:15:56.058Z",
+  "capturedAt": "2026-08-10T08:45:38.994Z",
   "clanLevel": 6,
-  "memberCount": 47,
+  "memberCount": 48,
   "members": [
     {
       "tag": "#YRQJPR0Y9",
@@ -45,7 +45,7 @@
       "expLevel": 169,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 0,
+      "donationsReceived": 50,
       "capitalContributions": 0
     },
     {
@@ -247,6 +247,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#8J99Q20Y",
+      "name": "iKamangir",
+      "role": "member",
+      "th": 13,
+      "expLevel": 200,
+      "trophies": 0,
+      "donations": 50,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#R0V0828RR",
       "name": "speed",
       "role": "admin",
@@ -357,17 +368,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#GU8GQYQGQ",
-      "name": "koko",
-      "role": "admin",
-      "th": 10,
-      "expLevel": 61,
-      "trophies": 28,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#R9R2RV892",
       "name": "jadav m",
       "role": "admin",
@@ -379,12 +379,23 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GU8GQYQGQ",
+      "name": "koko",
+      "role": "admin",
+      "th": 10,
+      "expLevel": 61,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#GGUJJGQUV",
       "name": "Jaz",
       "role": "admin",
       "th": 9,
       "expLevel": 56,
-      "trophies": 67,
+      "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0

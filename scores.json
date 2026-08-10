@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T06:16:02.244Z",
+  "generatedAt": "2026-08-10T08:45:45.845Z",
   "snapshotDate": "2026-08-10",
   "snapshotsAvailable": 14,
   "raidWeekendsAvailable": 4,
@@ -47,8 +47,8 @@
         "total": null,
         "pillars": {
           "donations": 100,
-          "raids": null,
-          "contributions": null
+          "raids": 100,
+          "contributions": 0
         },
         "tier": null
       },
@@ -284,8 +284,8 @@
         "total": null,
         "pillars": {
           "donations": 13,
-          "raids": null,
-          "contributions": null
+          "raids": 97,
+          "contributions": 0
         },
         "tier": null
       },
@@ -317,8 +317,8 @@
         "total": null,
         "pillars": {
           "donations": 0,
-          "raids": null,
-          "contributions": null
+          "raids": 95,
+          "contributions": 0
         },
         "tier": null
       },
@@ -350,7 +350,7 @@
         "total": null,
         "pillars": {
           "donations": 100,
-          "raids": 92,
+          "raids": 95,
           "contributions": 0
         },
         "tier": null
@@ -451,8 +451,8 @@
         "total": null,
         "pillars": {
           "donations": 100,
-          "raids": null,
-          "contributions": null
+          "raids": 91,
+          "contributions": 0
         },
         "tier": null
       },
@@ -484,7 +484,7 @@
         "total": null,
         "pillars": {
           "donations": 100,
-          "raids": 98,
+          "raids": 99,
           "contributions": 0
         },
         "tier": null
@@ -585,7 +585,7 @@
         "total": null,
         "pillars": {
           "donations": 62,
-          "raids": 70,
+          "raids": 79,
           "contributions": 0
         },
         "tier": null
@@ -772,6 +772,39 @@
       }
     },
     {
+      "tag": "#8J99Q20Y",
+      "name": "iKamangir",
+      "role": "member",
+      "th": 13,
+      "firstSeen": "2026-08-10",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 9,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#R0V0828RR",
       "name": "speed",
       "role": "admin",
@@ -786,8 +819,8 @@
         "total": null,
         "pillars": {
           "donations": 100,
-          "raids": null,
-          "contributions": null
+          "raids": 100,
+          "contributions": 0
         },
         "tier": null
       },
@@ -852,7 +885,7 @@
         "total": null,
         "pillars": {
           "donations": 100,
-          "raids": 98,
+          "raids": 99,
           "contributions": 0
         },
         "tier": null
@@ -886,7 +919,7 @@
         "total": null,
         "pillars": {
           "donations": 0,
-          "raids": 100,
+          "raids": 98,
           "contributions": 0
         },
         "tier": null
@@ -954,7 +987,7 @@
         "total": null,
         "pillars": {
           "donations": 56,
-          "raids": 93,
+          "raids": 69,
           "contributions": 0
         },
         "tier": null
@@ -988,7 +1021,7 @@
         "total": null,
         "pillars": {
           "donations": 1,
-          "raids": 99,
+          "raids": 98,
           "contributions": 0
         },
         "tier": null
@@ -1056,7 +1089,7 @@
         "total": null,
         "pillars": {
           "donations": 0,
-          "raids": 96,
+          "raids": 94,
           "contributions": 0
         },
         "tier": null
@@ -1109,40 +1142,6 @@
       }
     },
     {
-      "tag": "#GU8GQYQGQ",
-      "name": "koko",
-      "role": "admin",
-      "th": 10,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 13,
-      "inGrace": true,
-      "gracePeriodEndsIn": 1,
-      "warsJoined": 2,
-      "warsTotal": 9,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": null,
-        "cap": "Rare",
-        "pillars": {
-          "reliability": 50,
-          "performance": 51
-        },
-        "available": 4,
-        "used": 2,
-        "misses": 2,
-        "tier": null
-      }
-    },
-    {
       "tag": "#R9R2RV892",
       "name": "jadav m",
       "role": "admin",
@@ -1177,6 +1176,40 @@
       }
     },
     {
+      "tag": "#GU8GQYQGQ",
+      "name": "koko",
+      "role": "admin",
+      "th": 10,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 13,
+      "inGrace": true,
+      "gracePeriodEndsIn": 1,
+      "warsJoined": 2,
+      "warsTotal": 9,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": null,
+        "cap": "Rare",
+        "pillars": {
+          "reliability": 50,
+          "performance": 51
+        },
+        "available": 4,
+        "used": 2,
+        "misses": 2,
+        "tier": null
+      }
+    },
+    {
       "tag": "#GGUJJGQUV",
       "name": "Jaz",
       "role": "admin",
@@ -1191,7 +1224,7 @@
         "total": null,
         "pillars": {
           "donations": 9,
-          "raids": 100,
+          "raids": 96,
           "contributions": 0
         },
         "tier": null
@@ -1225,8 +1258,8 @@
         "total": null,
         "pillars": {
           "donations": 0,
-          "raids": null,
-          "contributions": null
+          "raids": 100,
+          "contributions": 0
         },
         "tier": null
       },
@@ -1359,8 +1392,8 @@
         "total": null,
         "pillars": {
           "donations": 31,
-          "raids": null,
-          "contributions": null
+          "raids": 97,
+          "contributions": 0
         },
         "tier": null
       },
@@ -1393,7 +1426,7 @@
         "total": null,
         "pillars": {
           "donations": 100,
-          "raids": 98,
+          "raids": 97,
           "contributions": 0
         },
         "tier": null
@@ -1494,7 +1527,7 @@
         "total": null,
         "pillars": {
           "donations": 100,
-          "raids": 99,
+          "raids": 95,
           "contributions": 0
         },
         "tier": null
