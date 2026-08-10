@@ -1,8 +1,8 @@
 {
   "date": "2026-08-10",
-  "capturedAt": "2026-08-10T08:45:38.994Z",
+  "capturedAt": "2026-08-10T10:24:59.208Z",
   "clanLevel": 6,
-  "memberCount": 48,
+  "memberCount": 49,
   "members": [
     {
       "tag": "#YRQJPR0Y9",
@@ -110,8 +110,8 @@
       "th": 15,
       "expLevel": 173,
       "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
+      "donations": 45,
+      "donationsReceived": 4,
       "capitalContributions": 0
     },
     {
@@ -141,10 +141,10 @@
       "name": "THE ROCK",
       "role": "member",
       "th": 14,
-      "expLevel": 145,
+      "expLevel": 146,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 0,
+      "donationsReceived": 45,
       "capitalContributions": 0
     },
     {
@@ -253,7 +253,7 @@
       "th": 13,
       "expLevel": 200,
       "trophies": 0,
-      "donations": 50,
+      "donations": 54,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -274,6 +274,17 @@
       "role": "member",
       "th": 13,
       "expLevel": 55,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#GUPY8PLLP",
+      "name": "BEOX",
+      "role": "member",
+      "th": 13,
+      "expLevel": 114,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
