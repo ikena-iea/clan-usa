@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-08-03",
-  "fetchedAt": "2026-08-09T23:38:30.366Z",
+  "fetchedAt": "2026-08-10T02:25:11.097Z",
   "attacks": [
     {
       "round": 1,
@@ -1944,11 +1944,11 @@
       "name": "LegitN00b98",
       "tag": "#R8GPLGRVQ",
       "ath": 11,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 11,
+      "stars": 1,
+      "dest": 74,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,
@@ -1966,11 +1966,11 @@
       "name": "Didetz",
       "tag": "#R8PJY0U0J",
       "ath": 14,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 11,
+      "stars": 2,
+      "dest": 97,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,
