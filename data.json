@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-08-03",
-  "fetchedAt": "2026-08-10T11:54:27.720Z",
+  "fetchedAt": "2026-08-10T13:26:24.809Z",
   "attacks": [
     {
       "round": 1,
@@ -2065,11 +2065,11 @@
       "name": "BAMBANG ID",
       "tag": "#QRRV0R98R",
       "ath": 17,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 13,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 7,
@@ -2098,11 +2098,11 @@
       "name": "Aaron",
       "tag": "#Q8QPY2L2",
       "ath": 18,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 16,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 7,
@@ -2120,11 +2120,11 @@
       "name": "mustafa",
       "tag": "#GQUQV0PJV",
       "ath": 15,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 12,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 7,
@@ -2164,11 +2164,11 @@
       "name": "Ikena",
       "tag": "#R292L228Q",
       "ath": 13,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 12,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 7,
@@ -2186,22 +2186,22 @@
       "name": "Lakers",
       "tag": "#R00YJ900G",
       "ath": 12,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 11,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 7,
       "name": "Aswath stark",
       "tag": "#YYCR2YRRJ",
       "ath": 11,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 12,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 7,

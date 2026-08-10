@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T11:54:31.578Z",
+  "generatedAt": "2026-08-10T13:26:30.457Z",
   "snapshotDate": "2026-08-10",
   "snapshotsAvailable": 14,
   "raidWeekendsAvailable": 4,
@@ -774,7 +774,7 @@
     {
       "tag": "#8J99Q20Y",
       "name": "iKamangir",
-      "role": "member",
+      "role": "admin",
       "th": 13,
       "firstSeen": "2026-08-10",
       "daysPresent": 1,
@@ -873,7 +873,7 @@
     {
       "tag": "#GUPY8PLLP",
       "name": "BEOX",
-      "role": "member",
+      "role": "admin",
       "th": 13,
       "firstSeen": "2026-08-10",
       "daysPresent": 1,
@@ -1209,40 +1209,6 @@
       }
     },
     {
-      "tag": "#GU8GQYQGQ",
-      "name": "koko",
-      "role": "admin",
-      "th": 10,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 13,
-      "inGrace": true,
-      "gracePeriodEndsIn": 1,
-      "warsJoined": 2,
-      "warsTotal": 10,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": null,
-        "cap": "Rare",
-        "pillars": {
-          "reliability": 50,
-          "performance": 51
-        },
-        "available": 4,
-        "used": 2,
-        "misses": 2,
-        "tier": null
-      }
-    },
-    {
       "tag": "#GGUJJGQUV",
       "name": "Jaz",
       "role": "admin",
@@ -1481,7 +1447,7 @@
     {
       "tag": "#GJ2RRLRPL",
       "name": "Royumi",
-      "role": "member",
+      "role": "admin",
       "th": 13,
       "firstSeen": "2026-08-10",
       "daysPresent": 1,

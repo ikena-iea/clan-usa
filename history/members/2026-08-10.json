@@ -1,8 +1,8 @@
 {
   "date": "2026-08-10",
-  "capturedAt": "2026-08-10T11:54:27.978Z",
+  "capturedAt": "2026-08-10T13:26:25.092Z",
   "clanLevel": 6,
-  "memberCount": 49,
+  "memberCount": 48,
   "members": [
     {
       "tag": "#YRQJPR0Y9",
@@ -22,7 +22,7 @@
       "th": 17,
       "expLevel": 177,
       "trophies": 0,
-      "donations": 0,
+      "donations": 36,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -111,7 +111,7 @@
       "expLevel": 173,
       "trophies": 0,
       "donations": 45,
-      "donationsReceived": 4,
+      "donationsReceived": 40,
       "capitalContributions": 0
     },
     {
@@ -249,11 +249,11 @@
     {
       "tag": "#8J99Q20Y",
       "name": "iKamangir",
-      "role": "member",
+      "role": "admin",
       "th": 13,
       "expLevel": 200,
       "trophies": 0,
-      "donations": 54,
+      "donations": 113,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -282,7 +282,7 @@
     {
       "tag": "#GUPY8PLLP",
       "name": "BEOX",
-      "role": "member",
+      "role": "admin",
       "th": 13,
       "expLevel": 114,
       "trophies": 0,
@@ -390,17 +390,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#GU8GQYQGQ",
-      "name": "koko",
-      "role": "admin",
-      "th": 10,
-      "expLevel": 61,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#GGUJJGQUV",
       "name": "Jaz",
       "role": "admin",
@@ -416,7 +405,7 @@
       "name": "arroz",
       "role": "admin",
       "th": 9,
-      "expLevel": 57,
+      "expLevel": 58,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -474,13 +463,13 @@
       "expLevel": 255,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 0,
+      "donationsReceived": 59,
       "capitalContributions": 0
     },
     {
       "tag": "#GJ2RRLRPL",
       "name": "Royumi",
-      "role": "member",
+      "role": "admin",
       "th": 13,
       "expLevel": 57,
       "trophies": 0,
