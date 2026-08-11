@@ -61,6 +61,34 @@
   .round-section .round-sub { font-size: 12px; color: var(--text-secondary); margin: 0 0 12px; }
   .toggle-rounds { background: transparent; border: 1px solid var(--border); color: var(--text); border-radius: 8px; padding: 6px 14px; font-size: 13px; cursor: pointer; margin-top: 20px; }
   .toggle-rounds:hover { background: var(--card); }
+
+  .tabs {
+    display: flex; gap: 6px; overflow-x: auto; padding-bottom: 4px;
+    margin: 0 0 16px; -webkit-overflow-scrolling: touch;
+  }
+  .tabs button {
+    background: transparent; border: 1px solid var(--border); color: var(--text-secondary);
+    border-radius: 8px; padding: 7px 14px; font-size: 13px; cursor: pointer;
+    white-space: nowrap; font-family: inherit; flex-shrink: 0;
+  }
+  .tabs button:hover { background: var(--card); color: var(--text); }
+  .tabs button.active { background: var(--card); color: var(--text); border-color: #3a3e49; font-weight: 600; }
+  .tabs button.pending-round { border-style: dashed; }
+
+  .round-head {
+    display: flex; flex-wrap: wrap; gap: 4px 14px; align-items: baseline;
+    margin: 0 0 12px; font-size: 13px; color: var(--text-secondary);
+  }
+  .round-head .vs { color: var(--text); font-weight: 600; font-size: 15px; }
+
+  .legend { font-size: 12px; color: var(--text-secondary); margin: 10px 0 0; }
+  .legend span { margin-right: 14px; white-space: nowrap; }
+
+  @media (max-width: 620px) {
+    .hide-mobile { display: none; }
+    table { font-size: 13px; }
+    th, td { padding: 8px 5px; }
+  }
 </style>
 </head>
 <body>
@@ -72,23 +100,6 @@
     <a href="./index.html">Members</a>
     <a href="./cwl.html" class="active">CWL</a>
   </nav>
-
-  <div class="info-card">
-    <h2>How points and medals work</h2>
-    <p>Each attack is scored using stars, destruction percent, and a Town Hall gap adjustment so hitting up in TH is worth more than farming a lower TH.</p>
-    <div class="formula">points = (stars + destruction% / 100) &times; TH-gap multiplier</div>
-    <div class="formula">TH-gap multiplier = 1 + 0.3 &times; (defender TH &minus; attacker TH), clamped between 0.4 and 1.8</div>
-    <p>A missed attack is a flat <strong style="color: var(--danger);">&minus;3</strong> points, no matter the Town Hall matchup.</p>
-    <p>Example: a 3-star, 100% destruction attack against an equal Town Hall = (3 + 1.00) &times; 1.0 = <strong>4.0 points</strong>. That's the benchmark for a textbook-perfect attack.</p>
-    <p>Medals are awarded based on <strong>average points per attack</strong> across the whole CWL, not the raw total, so it stays fair regardless of how many rounds have happened:</p>
-    <div class="medal-key">
-      <span><span class="medal medal-gold">Gold</span> avg &ge; 4.0</span>
-      <span><span class="medal medal-silver">Silver</span> avg 2.8&ndash;3.9</span>
-      <span><span class="medal medal-bronze">Bronze</span> avg 1.5&ndash;2.7</span>
-      <span>&mdash; below 1.5, or missed attacks bring your average down</span>
-    </div>
-    <p style="margin-top:10px;">While a round is still open, anyone who hasn't attacked yet shows as <span class="pending" style="font-weight:600;">Not yet attacked</span> rather than a miss — it only counts against someone once that round's war has actually ended.</p>
-  </div>
 
   <div class="stats">
     <div class="stat-card">
@@ -113,6 +124,7 @@
           <th>Name</th>
           <th class="num">Attacks</th>
           <th class="num">Misses</th>
+          <th class="num">Stars</th>
           <th class="num">Total pts</th>
           <th class="num">Avg/attack</th>
           <th class="num">Medal</th>
@@ -122,7 +134,26 @@
     </table>
   </div>
 
-  <div class="round-section" id="rounds-container"></div>
+  <h2 style="font-size:16px;margin:34px 0 10px;">Rounds</h2>
+  <div class="tabs" id="round-tabs"></div>
+  <div id="round-panel"></div>
+
+  <div class="info-card">
+    <h2>How points and medals work</h2>
+    <p>Each attack is scored using stars, destruction percent, and a Town Hall gap adjustment so hitting up in TH is worth more than farming a lower TH.</p>
+    <div class="formula">points = (stars + destruction% / 100) &times; TH-gap multiplier</div>
+    <div class="formula">TH-gap multiplier = 1 + 0.3 &times; (defender TH &minus; attacker TH), clamped between 0.4 and 1.8</div>
+    <p>A missed attack is a flat <strong style="color: var(--danger);">&minus;3</strong> points, no matter the Town Hall matchup.</p>
+    <p>Example: a 3-star, 100% destruction attack against an equal Town Hall = (3 + 1.00) &times; 1.0 = <strong>4.0 points</strong>. That's the benchmark for a textbook-perfect attack.</p>
+    <p>Medals are awarded based on <strong>average points per attack</strong> across the whole CWL, not the raw total, so it stays fair regardless of how many rounds have happened:</p>
+    <div class="medal-key">
+      <span><span class="medal medal-gold">Gold</span> avg &ge; 4.0</span>
+      <span><span class="medal medal-silver">Silver</span> avg 2.8&ndash;3.9</span>
+      <span><span class="medal medal-bronze">Bronze</span> avg 1.5&ndash;2.7</span>
+      <span>&mdash; below 1.5, or missed attacks bring your average down</span>
+    </div>
+    <p style="margin-top:10px;">While a round is still open, anyone who hasn't attacked yet shows as <span class="pending" style="font-weight:600;">Not yet attacked</span> rather than a miss — it only counts against someone once that round's war has actually ended.</p>
+  </div>
 
   <p class="updated" id="updated-at"></p>
 </div>
@@ -164,11 +195,12 @@ async function load() {
 
   attacks.forEach(a => {
     if (a.pending) return; // hasn't had their attack window close yet - doesn't count either way
-    if (!byName[a.name]) byName[a.name] = { points: 0, attacks: 0, misses: 0 };
+    if (!byName[a.name]) byName[a.name] = { points: 0, attacks: 0, misses: 0, stars: 0, possible: 0 };
     const pts = computeAttackPoints(a);
     byName[a.name].points += pts;
+    byName[a.name].possible += 3; // every rostered attack could have been 3 stars
     if (a.missed) { byName[a.name].misses += 1; totalMisses += 1; }
-    else byName[a.name].attacks += 1;
+    else { byName[a.name].attacks += 1; byName[a.name].stars += (a.stars || 0); }
   });
 
   const rows = Object.entries(byName).map(([name, d]) => {
@@ -196,6 +228,7 @@ async function load() {
       '<td>' + r.name + '</td>' +
       '<td class="num">' + r.attacks + '</td>' +
       '<td class="num ' + (r.misses > 0 ? 'miss' : '') + '">' + r.misses + '</td>' +
+      '<td class="num">' + r.stars + ' / ' + r.possible + '</td>' +
       '<td class="num">' + r.points.toFixed(2) + '</td>' +
       '<td class="num">' + r.avg.toFixed(2) + '</td>' +
       '<td class="num">' + (m.label !== '\u2014' ? '<span class="medal ' + m.cls + '">' + m.label + '</span>' : '\u2014') + '</td>';
@@ -207,73 +240,116 @@ async function load() {
     document.getElementById('updated-at').textContent = 'Last updated ' + d.toLocaleString();
   }
 
-  renderRounds(attacks);
+  renderRounds(attacks, data.rounds);
 }
 
-function renderRounds(attacks) {
-  const container = document.getElementById('rounds-container');
-  container.innerHTML = '';
-  if (attacks.length === 0) return;
+let ROUND_DATA = null;
+let ACTIVE_ROUND = null;
 
-  const rounds = {};
-  attacks.forEach(a => {
-    if (!rounds[a.round]) rounds[a.round] = [];
-    rounds[a.round].push(a);
+function renderRounds(attacks, roundsMeta) {
+  const byRound = {};
+  attacks.forEach(a => { (byRound[a.round] ||= []).push(a); });
+
+  const nums = Object.keys(byRound).map(Number).sort((x, y) => x - y);
+  ROUND_DATA = { byRound, nums, meta: {} };
+  (roundsMeta || []).forEach(r => { ROUND_DATA.meta[r.round] = r; });
+
+  const tabs = document.getElementById('round-tabs');
+  tabs.innerHTML = '';
+  if (nums.length === 0) {
+    document.getElementById('round-panel').innerHTML =
+      '<p style="color:var(--text-secondary);font-size:13px">No rounds with attack data yet.</p>';
+    return;
+  }
+
+  nums.forEach(n => {
+    const meta = ROUND_DATA.meta[n];
+    const btn = document.createElement('button');
+    btn.textContent = 'Round ' + n;
+    if (meta && meta.state === 'inWar') btn.className = 'pending-round';
+    btn.addEventListener('click', () => selectRound(n));
+    btn.dataset.round = n;
+    tabs.appendChild(btn);
   });
 
-  const roundNumbers = Object.keys(rounds).map(Number).sort((a, b) => b - a);
+  // default to the latest round that has data
+  selectRound(nums[nums.length - 1]);
+}
 
-  roundNumbers.forEach(rn => {
-    const list = rounds[rn].slice().sort((a, b) => computeAttackPoints(b) - computeAttackPoints(a));
-    const wrap = document.createElement('div');
-    wrap.style.marginBottom = '28px';
-
-    const heading = document.createElement('h2');
-    heading.textContent = 'Round ' + rn;
-    wrap.appendChild(heading);
-
-    const table = document.createElement('table');
-    table.innerHTML =
-      '<thead><tr>' +
-      '<th>Name</th>' +
-      '<th class="num">Attacker TH</th>' +
-      '<th class="num">Defender TH</th>' +
-      '<th class="num">Stars</th>' +
-      '<th class="num">Dest%</th>' +
-      '<th class="num">Points</th>' +
-      '</tr></thead><tbody></tbody>';
-    const tbody = table.querySelector('tbody');
-
-    list.forEach(a => {
-      const pts = computeAttackPoints(a);
-      const tr = document.createElement('tr');
-      let starsCell, destCell, ptsCell;
-      if (a.pending) {
-        starsCell = '<span class="pending">Not yet attacked</span>';
-        destCell = '\u2014';
-        ptsCell = '\u2014';
-      } else if (a.missed) {
-        starsCell = '<span class="miss">Missed</span>';
-        destCell = '\u2014';
-        ptsCell = pts.toFixed(2);
-      } else {
-        starsCell = a.stars;
-        destCell = a.dest;
-        ptsCell = pts.toFixed(2);
-      }
-      tr.innerHTML =
-        '<td>' + a.name + '</td>' +
-        '<td class="num">' + a.ath + '</td>' +
-        '<td class="num">' + (a.dth !== null && a.dth !== undefined ? a.dth : '\u2014') + '</td>' +
-        '<td class="num">' + starsCell + '</td>' +
-        '<td class="num">' + destCell + '</td>' +
-        '<td class="num" style="font-weight:600;">' + ptsCell + '</td>';
-      tbody.appendChild(tr);
-    });
-
-    wrap.appendChild(table);
-    container.appendChild(wrap);
+function selectRound(n) {
+  ACTIVE_ROUND = n;
+  document.querySelectorAll('#round-tabs button').forEach(b => {
+    b.classList.toggle('active', Number(b.dataset.round) === n);
   });
+
+  const list = (ROUND_DATA.byRound[n] || []).slice()
+    .sort((a, b) => (a.amap ?? 999) - (b.amap ?? 999));
+  const meta = ROUND_DATA.meta[n];
+  const panel = document.getElementById('round-panel');
+
+  let head = '';
+  if (meta) {
+    const stateText = meta.state === 'inWar' ? 'in progress'
+      : meta.state === 'warEnded' ? 'ended'
+      : meta.state;
+    const possible = (meta.teamSize || list.length) * 3;
+    head =
+      '<div class="round-head">' +
+        '<span class="vs">vs ' + meta.opponent + '</span>' +
+        '<span>' + meta.ourStars + ' \u2013 ' + meta.theirStars + ' stars</span>' +
+        '<span>' + meta.ourDestruction.toFixed(1) + '% \u2013 ' + meta.theirDestruction.toFixed(1) + '%</span>' +
+        '<span>' + meta.ourStars + ' of ' + possible + ' possible</span>' +
+        '<span>' + stateText + '</span>' +
+      '</div>';
+  }
+
+  let html = head + '<table><thead><tr>' +
+    '<th class="num">#</th>' +
+    '<th>Name</th>' +
+    '<th class="num hide-mobile">TH</th>' +
+    '<th class="num">Hit</th>' +
+    '<th class="num hide-mobile">Def TH</th>' +
+    '<th class="num">Stars</th>' +
+    '<th class="num hide-mobile">Dest%</th>' +
+    '<th class="num">Points</th>' +
+    '</tr></thead><tbody>';
+
+  list.forEach(a => {
+    const pts = computeAttackPoints(a);
+    let starsCell, destCell, ptsCell, hitCell;
+
+    if (a.pending) {
+      starsCell = '<span class="pending">Not yet attacked</span>';
+      destCell = '\u2014'; ptsCell = '\u2014'; hitCell = '\u2014';
+    } else if (a.missed) {
+      starsCell = '<span class="miss">Missed</span>';
+      destCell = '\u2014'; ptsCell = pts.toFixed(2); hitCell = '\u2014';
+    } else {
+      starsCell = a.stars;
+      destCell = a.dest;
+      ptsCell = pts.toFixed(2);
+      hitCell = (a.dmap !== null && a.dmap !== undefined) ? '#' + a.dmap : '\u2014';
+    }
+
+    html += '<tr>' +
+      '<td class="num" style="color:var(--text-secondary)">' + (a.amap ?? '\u2014') + '</td>' +
+      '<td>' + a.name + '</td>' +
+      '<td class="num hide-mobile">' + a.ath + '</td>' +
+      '<td class="num">' + hitCell + '</td>' +
+      '<td class="num hide-mobile">' + (a.dth ?? '\u2014') + '</td>' +
+      '<td class="num">' + starsCell + '</td>' +
+      '<td class="num hide-mobile">' + destCell + '</td>' +
+      '<td class="num" style="font-weight:600">' + ptsCell + '</td>' +
+      '</tr>';
+  });
+
+  html += '</tbody></table>' +
+    '<p class="legend">' +
+    '<span><strong>#</strong> = position on the war map</span>' +
+    '<span><strong>Hit</strong> = position attacked</span>' +
+    '</p>';
+
+  panel.innerHTML = html;
 }
 
 load();
