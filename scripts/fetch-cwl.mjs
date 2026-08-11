@@ -74,6 +74,7 @@ async function main() {
   }
 
   const attacks = [];
+  const rounds = {};
   let roundNumber = 0;
 
   for (const round of group.rounds) {
@@ -99,6 +100,21 @@ async function main() {
         continue;
       }
 
+      // Per-round metadata, used by the page to compute possible stars and
+      // label each round tab with the opponent.
+      rounds[roundNumber] = {
+        round: roundNumber,
+        state: war.state,
+        teamSize: war.teamSize ?? ourClan.members.length,
+        opponent: otherClan.name,
+        opponentTag: otherClan.tag,
+        ourStars: ourClan.stars ?? 0,
+        theirStars: otherClan.stars ?? 0,
+        ourDestruction: ourClan.destructionPercentage ?? 0,
+        theirDestruction: otherClan.destructionPercentage ?? 0,
+        endTime: war.endTime || null,
+      };
+
       for (const member of ourClan.members) {
         const ath = member.townhallLevel;
         if (member.attacks && member.attacks.length > 0) {
@@ -109,7 +125,9 @@ async function main() {
             name: member.name,
             tag: member.tag,
             ath,
-            dth: defender ? defender.townhallLevel : atk.defenderTag ? null : null,
+            dth: defender ? defender.townhallLevel : null,
+            amap: member.mapPosition ?? null,
+            dmap: defender ? defender.mapPosition ?? null : null,
             stars: atk.stars,
             dest: Math.round(atk.destructionPercentage * 100) / 100,
             missed: false,
@@ -123,6 +141,8 @@ async function main() {
             tag: member.tag,
             ath,
             dth: null,
+            amap: member.mapPosition ?? null,
+            dmap: null,
             stars: 0,
             dest: 0,
             missed: true,
@@ -137,6 +157,8 @@ async function main() {
             tag: member.tag,
             ath,
             dth: null,
+            amap: member.mapPosition ?? null,
+            dmap: null,
             stars: 0,
             dest: 0,
             missed: false,
@@ -152,6 +174,8 @@ async function main() {
     clanTag: CLAN_TAG,
     season: group.season,
     fetchedAt: new Date().toISOString(),
+    totalRounds: group.rounds.length,
+    rounds: Object.values(rounds).sort((a, b) => a.round - b.round),
     attacks,
   };
 
