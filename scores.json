@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T17:05:29.558Z",
+  "generatedAt": "2026-08-11T19:12:38.915Z",
   "snapshotDate": "2026-08-11",
   "snapshotsAvailable": 15,
   "raidWeekendsAvailable": 4,
@@ -372,6 +372,40 @@
       }
     },
     {
+      "tag": "#R2RR9UJ8V",
+      "name": "X4FSHIN",
+      "role": "admin",
+      "th": 11,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 14,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 9,
+      "warsTotal": 11,
+      "clan": {
+        "total": 58.1,
+        "pillars": {
+          "donations": 58,
+          "raids": 100,
+          "contributions": 0
+        },
+        "tier": "Rare"
+      },
+      "war": {
+        "total": 74,
+        "status": null,
+        "cap": "Uncommon",
+        "pillars": {
+          "reliability": 60,
+          "performance": 95
+        },
+        "available": 10,
+        "used": 6,
+        "misses": 4,
+        "tier": "Uncommon"
+      }
+    },
+    {
       "tag": "#GPC8J2YLY",
       "name": "IDONTKNOW",
       "role": "admin",
@@ -437,40 +471,6 @@
         "used": 9,
         "misses": 1,
         "tier": "Rare"
-      }
-    },
-    {
-      "tag": "#R2RR9UJ8V",
-      "name": "X4FSHIN",
-      "role": "admin",
-      "th": 11,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 14,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 9,
-      "warsTotal": 11,
-      "clan": {
-        "total": 48,
-        "pillars": {
-          "donations": 33,
-          "raids": 100,
-          "contributions": 0
-        },
-        "tier": "Uncommon"
-      },
-      "war": {
-        "total": 74,
-        "status": null,
-        "cap": "Uncommon",
-        "pillars": {
-          "reliability": 60,
-          "performance": 95
-        },
-        "available": 10,
-        "used": 6,
-        "misses": 4,
-        "tier": "Uncommon"
       }
     },
     {
@@ -1282,39 +1282,6 @@
       }
     },
     {
-      "tag": "#G80PQRPUV",
-      "name": "sammy2720",
-      "role": "admin",
-      "th": 13,
-      "firstSeen": "2026-07-29",
-      "daysPresent": 13,
-      "inGrace": true,
-      "gracePeriodEndsIn": 1,
-      "warsJoined": 1,
-      "warsTotal": 11,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": 98,
-          "contributions": 0
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 2,
-        "used": 0,
-        "misses": 2,
-        "tier": null
-      }
-    },
-    {
       "tag": "#Q20LYL22R",
       "name": "shine",
       "role": "member",
@@ -1344,6 +1311,39 @@
         "available": 0,
         "used": 0,
         "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#G80PQRPUV",
+      "name": "sammy2720",
+      "role": "admin",
+      "th": 13,
+      "firstSeen": "2026-07-29",
+      "daysPresent": 13,
+      "inGrace": true,
+      "gracePeriodEndsIn": 1,
+      "warsJoined": 1,
+      "warsTotal": 11,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": 98,
+          "contributions": 0
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 2,
+        "used": 0,
+        "misses": 2,
         "tier": null
       }
     },

@@ -1,6 +1,6 @@
 {
   "date": "2026-08-11",
-  "capturedAt": "2026-08-11T17:05:28.998Z",
+  "capturedAt": "2026-08-11T19:12:38.486Z",
   "clanLevel": 6,
   "memberCount": 47,
   "members": [
@@ -122,7 +122,7 @@
       "expLevel": 146,
       "trophies": 91,
       "donations": 2,
-      "donationsReceived": 156,
+      "donationsReceived": 204,
       "capitalContributions": 0
     },
     {
@@ -186,9 +186,20 @@
       "role": "admin",
       "th": 11,
       "expLevel": 122,
-      "trophies": 87,
+      "trophies": 138,
       "donations": 0,
       "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#Q20LYL22R",
+      "name": "shine",
+      "role": "member",
+      "th": 13,
+      "expLevel": 124,
+      "trophies": 27,
+      "donations": 0,
+      "donationsReceived": 47,
       "capitalContributions": 0
     },
     {
@@ -200,17 +211,6 @@
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#Q20LYL22R",
-      "name": "shine",
-      "role": "member",
-      "th": 13,
-      "expLevel": 124,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 47,
       "capitalContributions": 0
     },
     {
@@ -265,7 +265,7 @@
       "expLevel": 113,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 45,
+      "donationsReceived": 122,
       "capitalContributions": 0
     },
     {
@@ -374,7 +374,7 @@
       "th": 11,
       "expLevel": 78,
       "trophies": 0,
-      "donations": 0,
+      "donations": 47,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -406,7 +406,7 @@
       "role": "admin",
       "th": 9,
       "expLevel": 56,
-      "trophies": 111,
+      "trophies": 151,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
