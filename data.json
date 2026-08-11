@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-08-03",
-  "fetchedAt": "2026-08-11T09:08:03.352Z",
+  "fetchedAt": "2026-08-11T10:57:14.123Z",
   "attacks": [
     {
       "round": 1,
@@ -2024,8 +2024,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 7,
@@ -2057,8 +2057,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 7,
@@ -2090,8 +2090,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 7,
@@ -2112,8 +2112,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 7,
@@ -2134,8 +2134,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 7,
@@ -2178,8 +2178,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 7,
@@ -2222,8 +2222,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 7,
@@ -2255,8 +2255,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 7,
@@ -2266,8 +2266,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 7,
@@ -2288,8 +2288,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 7,
