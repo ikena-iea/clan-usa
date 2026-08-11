@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T15:06:21.533Z",
+  "generatedAt": "2026-08-11T17:05:29.558Z",
   "snapshotDate": "2026-08-11",
   "snapshotsAvailable": 15,
   "raidWeekendsAvailable": 4,
@@ -1229,7 +1229,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 86,
+          "donations": 88,
           "raids": 91,
           "contributions": 0
         },
@@ -1515,39 +1515,6 @@
     {
       "tag": "#GCRRUUP82",
       "name": "dennis jiang",
-      "role": "member",
-      "th": 13,
-      "firstSeen": "2026-08-04",
-      "daysPresent": 7,
-      "inGrace": true,
-      "gracePeriodEndsIn": 7,
-      "warsJoined": 0,
-      "warsTotal": 11,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#8YCGUCLRL",
-      "name": "georgs",
       "role": "member",
       "th": 13,
       "firstSeen": "2026-08-04",
