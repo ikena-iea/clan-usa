@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-08-03",
-  "fetchedAt": "2026-08-10T23:41:54.490Z",
+  "fetchedAt": "2026-08-11T02:18:42.244Z",
   "attacks": [
     {
       "round": 1,
@@ -1988,33 +1988,33 @@
       "name": "Limeranch",
       "tag": "#LCVCL0LU0",
       "ath": 17,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 12,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 7,
       "name": "cary",
       "tag": "#YRQJPR0Y9",
       "ath": 18,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 16,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 7,
       "name": "嘻哈侠88",
       "tag": "#LJRJ2UJU2",
       "ath": 18,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 16,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 7,
@@ -2274,11 +2274,11 @@
       "name": "LegitN00b98",
       "tag": "#R8GPLGRVQ",
       "ath": 11,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 12,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 7,
