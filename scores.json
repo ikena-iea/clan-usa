@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T02:18:45.711Z",
+  "generatedAt": "2026-08-11T04:26:21.214Z",
   "snapshotDate": "2026-08-11",
   "snapshotsAvailable": 15,
   "raidWeekendsAvailable": 4,
@@ -406,6 +406,40 @@
       }
     },
     {
+      "tag": "#GPC8J2YLY",
+      "name": "IDONTKNOW",
+      "role": "admin",
+      "th": 11,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 14,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 7,
+      "warsTotal": 10,
+      "clan": {
+        "total": 55.4,
+        "pillars": {
+          "donations": 54,
+          "raids": 97,
+          "contributions": 0
+        },
+        "tier": "Rare"
+      },
+      "war": {
+        "total": 60.1,
+        "status": null,
+        "cap": "Rare",
+        "pillars": {
+          "reliability": 75,
+          "performance": 38
+        },
+        "available": 8,
+        "used": 6,
+        "misses": 2,
+        "tier": "Rare"
+      }
+    },
+    {
       "tag": "#R8PJY0U0J",
       "name": "Didetz",
       "role": "leader",
@@ -471,40 +505,6 @@
         "used": 7,
         "misses": 3,
         "tier": "Uncommon"
-      }
-    },
-    {
-      "tag": "#GPC8J2YLY",
-      "name": "IDONTKNOW",
-      "role": "admin",
-      "th": 11,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 14,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 7,
-      "warsTotal": 10,
-      "clan": {
-        "total": 45.4,
-        "pillars": {
-          "donations": 28,
-          "raids": 97,
-          "contributions": 0
-        },
-        "tier": "Uncommon"
-      },
-      "war": {
-        "total": 60.1,
-        "status": null,
-        "cap": "Rare",
-        "pillars": {
-          "reliability": 75,
-          "performance": 38
-        },
-        "available": 8,
-        "used": 6,
-        "misses": 2,
-        "tier": "Rare"
       }
     },
     {
@@ -1296,7 +1296,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 0,
+          "donations": 100,
           "raids": null,
           "contributions": null
         },
@@ -1560,7 +1560,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 99,
+          "donations": 100,
           "raids": 100,
           "contributions": 0
         },
