@@ -53,12 +53,15 @@ function donationDeltas(snapshots) {
   return totals;
 }
 
-function capitalDeltas(snapshots) {
+function capitalDeltas(snapshots, sinceDate) {
   const totals = {};
-  for (let i = 1; i < snapshots.length; i++) {
+  const scoped = sinceDate
+    ? snapshots.filter(s => s.date >= sinceDate)
+    : snapshots;
+  for (let i = 1; i < scoped.length; i++) {
     const prev = {};
-    for (const m of snapshots[i - 1].members) prev[m.tag] = m;
-    for (const m of snapshots[i].members) {
+    for (const m of scoped[i - 1].members) prev[m.tag] = m;
+    for (const m of scoped[i].members) {
       const p = prev[m.tag];
       if (!p) continue;
       const d = (m.capitalContributions || 0) - (p.capitalContributions || 0);
@@ -66,6 +69,16 @@ function capitalDeltas(snapshots) {
     }
   }
   return totals;
+}
+
+// Number of days our snapshot history actually covers. The capital ratio is
+// only meaningful once contributions and loot describe the same period, so
+// this is used to decide whether we can score it at all.
+function snapshotSpanDays(snapshots) {
+  if (snapshots.length < 2) return 0;
+  const first = snapshots[0].date;
+  const last = snapshots[snapshots.length - 1].date;
+  return daysBetween(first, last);
 }
 
 function main() {
@@ -87,12 +100,45 @@ function main() {
 
   const latest = snapshots[snapshots.length - 1];
   const firstSeen = readJson(path.join(H, 'first-seen.json'), {});
+
+  // Sanity check: if we have real snapshot history but the ledger is empty or
+  // missing people, everyone would silently fall back to TODAY and restart
+  // their grace period. Fail loudly instead of quietly producing wrong tiers.
+  const missingFromLedger = latest.members.filter(m => !firstSeen[m.tag]);
+  if (snapshots.length > 1 && missingFromLedger.length > 0) {
+    console.warn(
+      `WARNING: ${missingFromLedger.length} of ${latest.members.length} members are ` +
+        `missing from history/first-seen.json despite ${snapshots.length} snapshots existing.\n` +
+        `         They will be treated as brand new and put back into the grace period.\n` +
+        `         Names: ${missingFromLedger.map(m => m.name).join(', ')}\n` +
+        `         If this is not a batch of genuinely new members, the ledger was lost. ` +
+        `Re-run collect.mjs, which will rebuild it from snapshot history.`
+    );
+  }
+
   const donated = donationDeltas(snapshots);
-  const capitalGiven = capitalDeltas(snapshots);
 
   // --- raids: last N completed weekends -------------------------------------
   const raidFiles = listJson(path.join(H, 'raids')).slice(-CONFIG.RAID_WEEKEND_WINDOW);
   const raidSeasons = raidFiles.map(f => readJson(path.join(H, 'raids', f), null)).filter(Boolean);
+
+  // The capital ratio compares gold given to gold looted, so both sides must
+  // describe the SAME period. Contributions are derived from snapshot diffs,
+  // which only go back as far as we have snapshots. Raid seasons, however,
+  // arrive pre-populated from the API and can predate our first snapshot.
+  //
+  // Counting all four weekends' loot against only a few days of contributions
+  // produces a near-zero score that looks like hoarding but is just a window
+  // mismatch. So loot is restricted to weekends that ENDED inside our
+  // snapshot window.
+  const snapshotStart = snapshots[0].date;
+  const raidSeasonsInWindow = raidSeasons.filter(s => {
+    if (!s.endTime) return false;
+    // endTime is like "20260726T070000.000Z"
+    const iso =
+      s.endTime.slice(0, 4) + '-' + s.endTime.slice(4, 6) + '-' + s.endTime.slice(6, 8);
+    return iso >= snapshotStart;
+  });
 
   const raidsByTag = {};
   const lootedByTag = {};
@@ -105,8 +151,30 @@ function main() {
         looted: m.looted,
         clanMedian: season.clanMedianLootPerAttack,
       });
+    }
+  }
+  // Loot only from weekends inside the snapshot window.
+  for (const season of raidSeasonsInWindow) {
+    for (const m of season.members || []) {
       lootedByTag[m.tag] = (lootedByTag[m.tag] || 0) + (m.looted || 0);
     }
+  }
+
+  const spanDays = snapshotSpanDays(snapshots);
+  const capitalGiven = capitalDeltas(snapshots, snapshotStart);
+
+  // Even with matched windows, a couple of days of history is too thin to
+  // judge someone's contribution habit. Below this, the pillar sits out and
+  // the other two renormalize rather than reporting a misleading zero.
+  const CAPITAL_MIN_SPAN_DAYS = 7;
+  const capitalReady = spanDays >= CAPITAL_MIN_SPAN_DAYS && raidSeasonsInWindow.length > 0;
+
+  if (!capitalReady) {
+    console.log(
+      `Capital pillar not scored yet: ${spanDays} day(s) of snapshots, ` +
+        `${raidSeasonsInWindow.length} raid weekend(s) inside that window ` +
+        `(need ${CAPITAL_MIN_SPAN_DAYS}+ days and 1+ weekend).`
+    );
   }
 
   // --- wars: chronological attack records per member ------------------------
@@ -138,8 +206,8 @@ function main() {
       donationsLast30d: donated[m.tag] || 0,
       daysPresent,
       weekends: raidsByTag[m.tag] || null,
-      goldContributed: capitalGiven[m.tag] || 0,
-      goldLooted: lootedByTag[m.tag] || 0,
+      goldContributed: capitalReady ? capitalGiven[m.tag] || 0 : 0,
+      goldLooted: capitalReady ? lootedByTag[m.tag] || 0 : 0,
     });
 
     const war = warScore(attacksByTag[m.tag] || []);
