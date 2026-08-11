@@ -1,8 +1,8 @@
 {
   "date": "2026-08-11",
-  "capturedAt": "2026-08-11T07:22:03.668Z",
+  "capturedAt": "2026-08-11T09:08:03.666Z",
   "clanLevel": 6,
-  "memberCount": 50,
+  "memberCount": 49,
   "members": [
     {
       "tag": "#YRQJPR0Y9",
@@ -55,7 +55,7 @@
       "th": 17,
       "expLevel": 244,
       "trophies": 0,
-      "donations": 156,
+      "donations": 239,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -111,7 +111,7 @@
       "expLevel": 173,
       "trophies": 0,
       "donations": 47,
-      "donationsReceived": 83,
+      "donationsReceived": 166,
       "capitalContributions": 0
     },
     {
@@ -187,17 +187,6 @@
       "th": 14,
       "expLevel": 98,
       "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#QGYJRVG2L",
-      "name": "salar",
-      "role": "member",
-      "th": 13,
-      "expLevel": 99,
-      "trophies": 59,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -318,7 +307,7 @@
       "role": "admin",
       "th": 11,
       "expLevel": 85,
-      "trophies": 0,
+      "trophies": 12,
       "donations": 1,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -361,7 +350,7 @@
       "name": "hartymate",
       "role": "admin",
       "th": 11,
-      "expLevel": 84,
+      "expLevel": 85,
       "trophies": 27,
       "donations": 0,
       "donationsReceived": 0,
@@ -428,7 +417,7 @@
       "role": "admin",
       "th": 9,
       "expLevel": 56,
-      "trophies": 31,
+      "trophies": 71,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -471,7 +460,7 @@
       "name": "IDONTKNOW",
       "role": "admin",
       "th": 11,
-      "expLevel": 81,
+      "expLevel": 82,
       "trophies": 0,
       "donations": 47,
       "donationsReceived": 67,
