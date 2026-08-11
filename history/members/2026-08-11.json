@@ -1,6 +1,6 @@
 {
   "date": "2026-08-11",
-  "capturedAt": "2026-08-11T10:57:14.548Z",
+  "capturedAt": "2026-08-11T11:51:21.417Z",
   "clanLevel": 6,
   "memberCount": 49,
   "members": [
@@ -236,6 +236,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#R0V0828RR",
+      "name": "speed",
+      "role": "admin",
+      "th": 12,
+      "expLevel": 106,
+      "trophies": 10,
+      "donations": 103,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#QV08GJJQV",
       "name": "knuxyngYiudjdh",
       "role": "admin",
@@ -276,17 +287,6 @@
       "expLevel": 200,
       "trophies": 0,
       "donations": 113,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#R0V0828RR",
-      "name": "speed",
-      "role": "admin",
-      "th": 12,
-      "expLevel": 106,
-      "trophies": 0,
-      "donations": 103,
       "donationsReceived": 0,
       "capitalContributions": 0
     },

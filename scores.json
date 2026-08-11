@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T10:57:18.652Z",
+  "generatedAt": "2026-08-11T11:51:25.940Z",
   "snapshotDate": "2026-08-11",
   "snapshotsAvailable": 15,
   "raidWeekendsAvailable": 4,
@@ -1415,6 +1415,39 @@
       }
     },
     {
+      "tag": "#R0V0828RR",
+      "name": "speed",
+      "role": "admin",
+      "th": 12,
+      "firstSeen": "2026-08-06",
+      "daysPresent": 5,
+      "inGrace": true,
+      "gracePeriodEndsIn": 9,
+      "warsJoined": 0,
+      "warsTotal": 11,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 100,
+          "raids": 100,
+          "contributions": 0
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#GVCJ9R0Q8",
       "name": "Mr.PiCkLe",
       "role": "member",
@@ -1497,39 +1530,6 @@
           "donations": 0,
           "raids": null,
           "contributions": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#R0V0828RR",
-      "name": "speed",
-      "role": "admin",
-      "th": 12,
-      "firstSeen": "2026-08-06",
-      "daysPresent": 5,
-      "inGrace": true,
-      "gracePeriodEndsIn": 9,
-      "warsJoined": 0,
-      "warsTotal": 11,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 100,
-          "raids": 100,
-          "contributions": 0
         },
         "tier": null
       },
