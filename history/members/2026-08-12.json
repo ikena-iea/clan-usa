@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "capturedAt": "2026-08-12T02:33:47.663Z",
+  "capturedAt": "2026-08-12T04:54:06.776Z",
   "clanLevel": 6,
   "memberCount": 47,
   "members": [
@@ -137,6 +137,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GGRR02GLG",
+      "name": "jude",
+      "role": "admin",
+      "th": 13,
+      "expLevel": 108,
+      "trophies": 26,
+      "donations": 60,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#R292L228Q",
       "name": "Ikena",
       "role": "coLeader",
@@ -144,17 +155,6 @@
       "expLevel": 110,
       "trophies": 20,
       "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GGRR02GLG",
-      "name": "jude",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 108,
-      "trophies": 18,
-      "donations": 60,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -187,7 +187,7 @@
       "th": 11,
       "expLevel": 122,
       "trophies": 138,
-      "donations": 0,
+      "donations": 42,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -273,7 +273,7 @@
       "name": "dennis jiang",
       "role": "member",
       "th": 13,
-      "expLevel": 55,
+      "expLevel": 56,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -320,6 +320,17 @@
       "expLevel": 144,
       "trophies": 0,
       "donations": 0,
+      "donationsReceived": 42,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#QVPQ8G2VQ",
+      "name": "your mom",
+      "role": "admin",
+      "th": 12,
+      "expLevel": 73,
+      "trophies": 68,
+      "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -330,17 +341,6 @@
       "th": 10,
       "expLevel": 84,
       "trophies": 43,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#QVPQ8G2VQ",
-      "name": "your mom",
-      "role": "admin",
-      "th": 12,
-      "expLevel": 73,
-      "trophies": 40,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
