@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "capturedAt": "2026-08-12T06:20:36.485Z",
+  "capturedAt": "2026-08-12T08:24:21.518Z",
   "clanLevel": 6,
   "memberCount": 47,
   "members": [
@@ -11,7 +11,7 @@
       "th": 18,
       "expLevel": 251,
       "trophies": 0,
-      "donations": 36,
+      "donations": 114,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -54,7 +54,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 149,
-      "trophies": 53,
+      "trophies": 63,
       "donations": 0,
       "donationsReceived": 82,
       "capitalContributions": 0
@@ -120,9 +120,20 @@
       "role": "member",
       "th": 14,
       "expLevel": 146,
-      "trophies": 135,
+      "trophies": 161,
       "donations": 2,
-      "donationsReceived": 204,
+      "donationsReceived": 282,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#GPLRVGLGJ",
+      "name": "elf00",
+      "role": "admin",
+      "th": 13,
+      "expLevel": 124,
+      "trophies": 39,
+      "donations": 0,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -132,17 +143,6 @@
       "th": 13,
       "expLevel": 110,
       "trophies": 37,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GPLRVGLGJ",
-      "name": "elf00",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 124,
-      "trophies": 30,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -170,6 +170,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#L0YPL82UJ",
+      "name": "Chikhladze",
+      "role": "member",
+      "th": 14,
+      "expLevel": 150,
+      "trophies": 29,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#R8PJY0U0J",
       "name": "Didetz",
       "role": "leader",
@@ -177,17 +188,6 @@
       "expLevel": 99,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#YYCR2YRRJ",
-      "name": "Aswath stark",
-      "role": "admin",
-      "th": 11,
-      "expLevel": 122,
-      "trophies": 138,
-      "donations": 42,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -291,23 +291,23 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#PJ22QYY22",
+      "name": "thegodlynoob",
+      "role": "admin",
+      "th": 11,
+      "expLevel": 82,
+      "trophies": 230,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#GYC8Q2R20",
       "name": "lucky",
       "role": "admin",
       "th": 11,
       "expLevel": 88,
       "trophies": 224,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#PJ22QYY22",
-      "name": "thegodlynoob",
-      "role": "admin",
-      "th": 11,
-      "expLevel": 82,
-      "trophies": 201,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0

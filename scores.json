@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T06:20:36.944Z",
+  "generatedAt": "2026-08-12T08:24:22.068Z",
   "snapshotDate": "2026-08-12",
   "snapshotsAvailable": 16,
   "raidWeekendsAvailable": 4,
@@ -97,40 +97,6 @@
         "used": 8,
         "misses": 2,
         "tier": "Rare"
-      }
-    },
-    {
-      "tag": "#YYCR2YRRJ",
-      "name": "Aswath stark",
-      "role": "admin",
-      "th": 11,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 15,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 9,
-      "warsTotal": 11,
-      "clan": {
-        "total": 75,
-        "pillars": {
-          "donations": 100,
-          "raids": 100,
-          "contributions": 0
-        },
-        "tier": "Epic"
-      },
-      "war": {
-        "total": 100,
-        "status": null,
-        "cap": null,
-        "pillars": {
-          "reliability": 100,
-          "performance": 100
-        },
-        "available": 10,
-        "used": 10,
-        "misses": 0,
-        "tier": "Legendary"
       }
     },
     {
@@ -1296,6 +1262,39 @@
         "total": null,
         "pillars": {
           "donations": 90,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#L0YPL82UJ",
+      "name": "Chikhladze",
+      "role": "member",
+      "th": 14,
+      "firstSeen": "2026-08-12",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 11,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
           "raids": null,
           "contributions": null
         },
