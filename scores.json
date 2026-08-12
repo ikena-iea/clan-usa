@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T13:27:12.949Z",
+  "generatedAt": "2026-08-12T15:05:25.717Z",
   "snapshotDate": "2026-08-12",
   "snapshotsAvailable": 16,
   "raidWeekendsAvailable": 4,
@@ -1182,6 +1182,39 @@
       }
     },
     {
+      "tag": "#LQ2LLRYGJ",
+      "name": "AVENGER",
+      "role": "member",
+      "th": 15,
+      "firstSeen": "2026-08-12",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 11,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#2QJYQ20UG",
       "name": "Lucifer分",
       "role": "admin",
@@ -1322,6 +1355,39 @@
       "daysPresent": 2,
       "inGrace": true,
       "gracePeriodEndsIn": 12,
+      "warsJoined": 0,
+      "warsTotal": 11,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#GL820RPLR",
+      "name": "Tỏi",
+      "role": "member",
+      "th": 13,
+      "firstSeen": "2026-08-12",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
       "warsJoined": 0,
       "warsTotal": 11,
       "clan": {

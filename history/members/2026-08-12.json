@@ -1,8 +1,8 @@
 {
   "date": "2026-08-12",
-  "capturedAt": "2026-08-12T13:27:12.510Z",
+  "capturedAt": "2026-08-12T15:05:25.138Z",
   "clanLevel": 6,
-  "memberCount": 47,
+  "memberCount": 49,
   "members": [
     {
       "tag": "#YRQJPR0Y9",
@@ -56,7 +56,7 @@
       "expLevel": 149,
       "trophies": 79,
       "donations": 0,
-      "donationsReceived": 82,
+      "donationsReceived": 84,
       "capitalContributions": 0
     },
     {
@@ -64,8 +64,8 @@
       "name": "NBmeitei",
       "role": "admin",
       "th": 15,
-      "expLevel": 152,
-      "trophies": 35,
+      "expLevel": 153,
+      "trophies": 155,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -89,6 +89,17 @@
       "expLevel": 146,
       "trophies": 0,
       "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#LQ2LLRYGJ",
+      "name": "AVENGER",
+      "role": "member",
+      "th": 15,
+      "expLevel": 178,
+      "trophies": 98,
+      "donations": 2,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -144,7 +155,7 @@
       "expLevel": 124,
       "trophies": 39,
       "donations": 0,
-      "donationsReceived": 0,
+      "donationsReceived": 47,
       "capitalContributions": 0
     },
     {
@@ -214,12 +225,23 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GL820RPLR",
+      "name": "Tỏi",
+      "role": "member",
+      "th": 13,
+      "expLevel": 95,
+      "trophies": 165,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#GUPY8PLLP",
       "name": "BEOX",
       "role": "admin",
       "th": 13,
       "expLevel": 115,
-      "trophies": 69,
+      "trophies": 109,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -264,7 +286,7 @@
       "th": 13,
       "expLevel": 200,
       "trophies": 0,
-      "donations": 175,
+      "donations": 182,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -329,7 +351,7 @@
       "role": "admin",
       "th": 12,
       "expLevel": 73,
-      "trophies": 68,
+      "trophies": 111,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
