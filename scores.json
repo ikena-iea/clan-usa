@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T17:04:15.919Z",
+  "generatedAt": "2026-08-12T19:12:18.071Z",
   "snapshotDate": "2026-08-12",
   "snapshotsAvailable": 16,
   "raidWeekendsAvailable": 4,
@@ -504,40 +504,6 @@
         "used": 2,
         "misses": 0,
         "tier": null
-      }
-    },
-    {
-      "tag": "#GGUJJGQUV",
-      "name": "Jaz",
-      "role": "admin",
-      "th": 9,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 15,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 3,
-      "warsTotal": 11,
-      "clan": {
-        "total": 36.6,
-        "pillars": {
-          "donations": 8,
-          "raids": 96,
-          "contributions": 0
-        },
-        "tier": "Common"
-      },
-      "war": {
-        "total": 41.9,
-        "status": null,
-        "cap": "Uncommon",
-        "pillars": {
-          "reliability": 50,
-          "performance": 30
-        },
-        "available": 6,
-        "used": 3,
-        "misses": 3,
-        "tier": "Uncommon"
       }
     },
     {
@@ -1261,7 +1227,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 90,
+          "donations": 100,
           "raids": null,
           "contributions": null
         },
@@ -1355,39 +1321,6 @@
       "daysPresent": 2,
       "inGrace": true,
       "gracePeriodEndsIn": 12,
-      "warsJoined": 0,
-      "warsTotal": 11,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#GL820RPLR",
-      "name": "Tỏi",
-      "role": "member",
-      "th": 13,
-      "firstSeen": "2026-08-12",
-      "daysPresent": 1,
-      "inGrace": true,
-      "gracePeriodEndsIn": 13,
       "warsJoined": 0,
       "warsTotal": 11,
       "clan": {

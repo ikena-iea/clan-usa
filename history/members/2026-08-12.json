@@ -1,8 +1,8 @@
 {
   "date": "2026-08-12",
-  "capturedAt": "2026-08-12T17:04:15.336Z",
+  "capturedAt": "2026-08-12T19:12:17.282Z",
   "clanLevel": 6,
-  "memberCount": 49,
+  "memberCount": 47,
   "members": [
     {
       "tag": "#YRQJPR0Y9",
@@ -56,7 +56,7 @@
       "expLevel": 149,
       "trophies": 91,
       "donations": 0,
-      "donationsReceived": 194,
+      "donationsReceived": 196,
       "capitalContributions": 0
     },
     {
@@ -65,7 +65,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 153,
-      "trophies": 275,
+      "trophies": 315,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -99,7 +99,7 @@
       "th": 15,
       "expLevel": 178,
       "trophies": 112,
-      "donations": 2,
+      "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -131,8 +131,8 @@
       "role": "admin",
       "th": 13,
       "expLevel": 108,
-      "trophies": 260,
-      "donations": 60,
+      "trophies": 311,
+      "donations": 136,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -142,9 +142,20 @@
       "role": "member",
       "th": 14,
       "expLevel": 146,
-      "trophies": 161,
+      "trophies": 176,
       "donations": 2,
       "donationsReceived": 360,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#GPLRVGLGJ",
+      "name": "elf00",
+      "role": "admin",
+      "th": 13,
+      "expLevel": 124,
+      "trophies": 67,
+      "donations": 0,
+      "donationsReceived": 77,
       "capitalContributions": 0
     },
     {
@@ -156,17 +167,6 @@
       "trophies": 47,
       "donations": 0,
       "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GPLRVGLGJ",
-      "name": "elf00",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 124,
-      "trophies": 39,
-      "donations": 0,
-      "donationsReceived": 77,
       "capitalContributions": 0
     },
     {
@@ -225,17 +225,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#GL820RPLR",
-      "name": "Tỏi",
-      "role": "member",
-      "th": 13,
-      "expLevel": 95,
-      "trophies": 165,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#GUPY8PLLP",
       "name": "BEOX",
       "role": "admin",
@@ -276,7 +265,7 @@
       "expLevel": 113,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 198,
+      "donationsReceived": 275,
       "capitalContributions": 0
     },
     {
@@ -286,7 +275,7 @@
       "th": 13,
       "expLevel": 200,
       "trophies": 0,
-      "donations": 331,
+      "donations": 406,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -328,7 +317,7 @@
       "name": "lucky",
       "role": "admin",
       "th": 11,
-      "expLevel": 88,
+      "expLevel": 89,
       "trophies": 224,
       "donations": 0,
       "donationsReceived": 0,
@@ -340,9 +329,9 @@
       "role": "member",
       "th": 12,
       "expLevel": 144,
-      "trophies": 0,
+      "trophies": 57,
       "donations": 0,
-      "donationsReceived": 84,
+      "donationsReceived": 200,
       "capitalContributions": 0
     },
     {
@@ -420,17 +409,6 @@
       "trophies": 272,
       "donations": 0,
       "donationsReceived": 124,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GGUJJGQUV",
-      "name": "Jaz",
-      "role": "admin",
-      "th": 9,
-      "expLevel": 57,
-      "trophies": 151,
-      "donations": 0,
-      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
