@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "capturedAt": "2026-08-12T10:15:01.866Z",
+  "capturedAt": "2026-08-12T11:53:25.980Z",
   "clanLevel": 6,
   "memberCount": 47,
   "members": [
@@ -11,7 +11,7 @@
       "th": 18,
       "expLevel": 251,
       "trophies": 0,
-      "donations": 192,
+      "donations": 249,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -126,23 +126,23 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#R292L228Q",
+      "name": "Ikena",
+      "role": "coLeader",
+      "th": 13,
+      "expLevel": 110,
+      "trophies": 47,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#GPLRVGLGJ",
       "name": "elf00",
       "role": "admin",
       "th": 13,
       "expLevel": 124,
       "trophies": 39,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#R292L228Q",
-      "name": "Ikena",
-      "role": "coLeader",
-      "th": 13,
-      "expLevel": 110,
-      "trophies": 37,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -405,7 +405,7 @@
       "name": "Jaz",
       "role": "admin",
       "th": 9,
-      "expLevel": 56,
+      "expLevel": 57,
       "trophies": 151,
       "donations": 0,
       "donationsReceived": 0,
@@ -452,7 +452,7 @@
       "expLevel": 255,
       "trophies": 0,
       "donations": 83,
-      "donationsReceived": 59,
+      "donationsReceived": 116,
       "capitalContributions": 0
     },
     {
