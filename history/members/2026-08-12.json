@@ -1,8 +1,8 @@
 {
   "date": "2026-08-12",
-  "capturedAt": "2026-08-12T19:12:17.282Z",
+  "capturedAt": "2026-08-12T20:54:55.142Z",
   "clanLevel": 6,
-  "memberCount": 47,
+  "memberCount": 45,
   "members": [
     {
       "tag": "#YRQJPR0Y9",
@@ -88,17 +88,6 @@
       "th": 16,
       "expLevel": 146,
       "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#LQ2LLRYGJ",
-      "name": "AVENGER",
-      "role": "member",
-      "th": 15,
-      "expLevel": 178,
-      "trophies": 112,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -203,17 +192,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#Q20LYL22R",
-      "name": "shine",
-      "role": "member",
-      "th": 13,
-      "expLevel": 124,
-      "trophies": 27,
-      "donations": 0,
-      "donationsReceived": 47,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#G80PQRPUV",
       "name": "sammy2720",
       "role": "admin",
@@ -273,9 +251,9 @@
       "name": "iKamangir",
       "role": "admin",
       "th": 13,
-      "expLevel": 200,
+      "expLevel": 201,
       "trophies": 0,
-      "donations": 406,
+      "donations": 463,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -331,7 +309,7 @@
       "expLevel": 144,
       "trophies": 57,
       "donations": 0,
-      "donationsReceived": 200,
+      "donationsReceived": 210,
       "capitalContributions": 0
     },
     {
@@ -496,7 +474,7 @@
       "expLevel": 99,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 46,
+      "donationsReceived": 93,
       "capitalContributions": 0
     },
     {

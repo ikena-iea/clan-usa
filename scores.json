@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T19:12:18.071Z",
+  "generatedAt": "2026-08-12T20:54:55.806Z",
   "snapshotDate": "2026-08-12",
   "snapshotsAvailable": 16,
   "raidWeekendsAvailable": 4,
@@ -1148,39 +1148,6 @@
       }
     },
     {
-      "tag": "#LQ2LLRYGJ",
-      "name": "AVENGER",
-      "role": "member",
-      "th": 15,
-      "firstSeen": "2026-08-12",
-      "daysPresent": 1,
-      "inGrace": true,
-      "gracePeriodEndsIn": 13,
-      "warsJoined": 0,
-      "warsTotal": 11,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
       "tag": "#2QJYQ20UG",
       "name": "Lucifer分",
       "role": "admin",
@@ -1288,39 +1255,6 @@
       "daysPresent": 1,
       "inGrace": true,
       "gracePeriodEndsIn": 13,
-      "warsJoined": 0,
-      "warsTotal": 11,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#Q20LYL22R",
-      "name": "shine",
-      "role": "member",
-      "th": 13,
-      "firstSeen": "2026-08-10",
-      "daysPresent": 2,
-      "inGrace": true,
-      "gracePeriodEndsIn": 12,
       "warsJoined": 0,
       "warsTotal": 11,
       "clan": {
