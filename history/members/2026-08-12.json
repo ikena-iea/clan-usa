@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "capturedAt": "2026-08-12T04:54:06.776Z",
+  "capturedAt": "2026-08-12T06:20:36.485Z",
   "clanLevel": 6,
   "memberCount": 47,
   "members": [
@@ -126,6 +126,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#R292L228Q",
+      "name": "Ikena",
+      "role": "coLeader",
+      "th": 13,
+      "expLevel": 110,
+      "trophies": 37,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#GPLRVGLGJ",
       "name": "elf00",
       "role": "admin",
@@ -144,17 +155,6 @@
       "expLevel": 108,
       "trophies": 26,
       "donations": 60,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#R292L228Q",
-      "name": "Ikena",
-      "role": "coLeader",
-      "th": 13,
-      "expLevel": 110,
-      "trophies": 20,
-      "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -285,7 +285,7 @@
       "role": "admin",
       "th": 11,
       "expLevel": 85,
-      "trophies": 40,
+      "trophies": 107,
       "donations": 1,
       "donationsReceived": 0,
       "capitalContributions": 0
