@@ -1,8 +1,8 @@
 {
   "date": "2026-08-13",
-  "capturedAt": "2026-08-13T08:27:00.342Z",
+  "capturedAt": "2026-08-13T10:16:39.496Z",
   "clanLevel": 6,
-  "memberCount": 46,
+  "memberCount": 47,
   "members": [
     {
       "tag": "#YRQJPR0Y9",
@@ -99,6 +99,17 @@
       "th": 16,
       "expLevel": 146,
       "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#GCJV9GJ9U",
+      "name": "KHLIFE1",
+      "role": "member",
+      "th": 15,
+      "expLevel": 135,
+      "trophies": 86,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -275,7 +286,7 @@
       "th": 13,
       "expLevel": 201,
       "trophies": 0,
-      "donations": 463,
+      "donations": 528,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -291,23 +302,23 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GYC8Q2R20",
+      "name": "lucky",
+      "role": "admin",
+      "th": 11,
+      "expLevel": 89,
+      "trophies": 252,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#PJ22QYY22",
       "name": "thegodlynoob",
       "role": "admin",
       "th": 11,
       "expLevel": 82,
       "trophies": 230,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GYC8Q2R20",
-      "name": "lucky",
-      "role": "admin",
-      "th": 11,
-      "expLevel": 89,
-      "trophies": 224,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -342,7 +353,7 @@
       "expLevel": 84,
       "trophies": 43,
       "donations": 0,
-      "donationsReceived": 0,
+      "donationsReceived": 65,
       "capitalContributions": 0
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T08:27:00.840Z",
+  "generatedAt": "2026-08-13T10:16:39.986Z",
   "snapshotDate": "2026-08-13",
   "snapshotsAvailable": 17,
   "raidWeekendsAvailable": 4,
@@ -1164,6 +1164,39 @@
           "donations": 0,
           "raids": 95,
           "contributions": 0
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#GCJV9GJ9U",
+      "name": "KHLIFE1",
+      "role": "member",
+      "th": 15,
+      "firstSeen": "2026-08-13",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 11,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "contributions": null
         },
         "tier": null
       },
