@@ -1,6 +1,6 @@
 {
   "date": "2026-08-13",
-  "capturedAt": "2026-08-13T21:54:51.412Z",
+  "capturedAt": "2026-08-13T22:52:41.362Z",
   "clanLevel": 6,
   "memberCount": 47,
   "members": [
@@ -291,6 +291,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#P02U2U9GC",
+      "name": "Diego",
+      "role": "admin",
+      "th": 12,
+      "expLevel": 144,
+      "trophies": 377,
+      "donations": 2,
+      "donationsReceived": 756,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#GYC8Q2R20",
       "name": "lucky",
       "role": "admin",
@@ -313,17 +324,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#P02U2U9GC",
-      "name": "Diego",
-      "role": "admin",
-      "th": 12,
-      "expLevel": 144,
-      "trophies": 97,
-      "donations": 2,
-      "donationsReceived": 756,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#QVPQ8G2VQ",
       "name": "your mom",
       "role": "admin",
@@ -339,7 +339,7 @@
       "name": "allis",
       "role": "admin",
       "th": 10,
-      "expLevel": 84,
+      "expLevel": 85,
       "trophies": 43,
       "donations": 0,
       "donationsReceived": 65,
