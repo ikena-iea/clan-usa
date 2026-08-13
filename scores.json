@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T19:13:02.336Z",
+  "generatedAt": "2026-08-13T20:53:30.458Z",
   "snapshotDate": "2026-08-13",
   "snapshotsAvailable": 17,
   "raidWeekendsAvailable": 4,
@@ -982,6 +982,39 @@
       }
     },
     {
+      "tag": "#QV29GG980",
+      "name": "111111111111111",
+      "role": "member",
+      "th": 18,
+      "firstSeen": "2026-08-13",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 12,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#YRQJPR0Y9",
       "name": "cary",
       "role": "admin",
@@ -1293,7 +1326,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 0,
+          "donations": 100,
           "raids": null,
           "contributions": null
         },
@@ -1492,6 +1525,39 @@
         "total": null,
         "pillars": {
           "donations": 15,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#P2ULVCGGG",
+      "name": "Warrior",
+      "role": "member",
+      "th": 14,
+      "firstSeen": "2026-08-13",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 12,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
           "raids": null,
           "contributions": null
         },

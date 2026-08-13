@@ -1,9 +1,20 @@
 {
   "date": "2026-08-13",
-  "capturedAt": "2026-08-13T19:13:01.228Z",
+  "capturedAt": "2026-08-13T20:53:29.728Z",
   "clanLevel": 6,
-  "memberCount": 46,
+  "memberCount": 48,
   "members": [
+    {
+      "tag": "#QV29GG980",
+      "name": "111111111111111",
+      "role": "member",
+      "th": 18,
+      "expLevel": 225,
+      "trophies": 128,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
     {
       "tag": "#YRQJPR0Y9",
       "name": "cary",
@@ -32,7 +43,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 169,
-      "trophies": 139,
+      "trophies": 166,
       "donations": 47,
       "donationsReceived": 135,
       "capitalContributions": 0
@@ -153,7 +164,7 @@
       "role": "member",
       "th": 14,
       "expLevel": 146,
-      "trophies": 191,
+      "trophies": 231,
       "donations": 2,
       "donationsReceived": 483,
       "capitalContributions": 0
@@ -186,8 +197,8 @@
       "role": "admin",
       "th": 14,
       "expLevel": 150,
-      "trophies": 29,
-      "donations": 0,
+      "trophies": 84,
+      "donations": 42,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -275,7 +286,7 @@
       "th": 13,
       "expLevel": 201,
       "trophies": 0,
-      "donations": 694,
+      "donations": 736,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -320,7 +331,7 @@
       "expLevel": 144,
       "trophies": 57,
       "donations": 2,
-      "donationsReceived": 504,
+      "donationsReceived": 714,
       "capitalContributions": 0
     },
     {
@@ -431,6 +442,17 @@
       "trophies": 0,
       "donations": 89,
       "donationsReceived": 134,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#P2ULVCGGG",
+      "name": "Warrior",
+      "role": "member",
+      "th": 14,
+      "expLevel": 171,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
