@@ -1,0 +1,343 @@
+{
+  "id": "20260811154106000_2CGG82GUJ_vs_U9QC228Q",
+  "source": "regular",
+  "state": "warEnded",
+  "endTime": "20260813T144106.000Z",
+  "teamSize": 10,
+  "attacksPerMember": 2,
+  "opponent": {
+    "tag": "#U9QC228Q",
+    "name": "LUCKY90"
+  },
+  "result": {
+    "ourStars": 28,
+    "theirStars": 29,
+    "ourDestruction": 94.7,
+    "theirDestruction": 98.3
+  },
+  "roster": [
+    {
+      "tag": "#YRQJPR0Y9",
+      "name": "cary",
+      "th": 18,
+      "mapPosition": 1
+    },
+    {
+      "tag": "#QLV80QQCY",
+      "name": "THE ROCK",
+      "th": 14,
+      "mapPosition": 3
+    },
+    {
+      "tag": "#QRRV0R98R",
+      "name": "BAMBANG ID",
+      "th": 17,
+      "mapPosition": 2
+    },
+    {
+      "tag": "#GJ2RRLRPL",
+      "name": "Royumi",
+      "th": 13,
+      "mapPosition": 6
+    },
+    {
+      "tag": "#GGUJJGQUV",
+      "name": "Jaz",
+      "th": 9,
+      "mapPosition": 10
+    },
+    {
+      "tag": "#R8J082Y0J",
+      "name": "arroz",
+      "th": 9,
+      "mapPosition": 9
+    },
+    {
+      "tag": "#R8GPLGRVQ",
+      "name": "LegitN00b98",
+      "th": 11,
+      "mapPosition": 7
+    },
+    {
+      "tag": "#R8PJY0U0J",
+      "name": "Didetz",
+      "th": 14,
+      "mapPosition": 4
+    },
+    {
+      "tag": "#GGRR02GLG",
+      "name": "jude",
+      "th": 13,
+      "mapPosition": 5
+    },
+    {
+      "tag": "#GLUJVJGGV",
+      "name": "allis",
+      "th": 10,
+      "mapPosition": 8
+    }
+  ],
+  "attacks": [
+    {
+      "attackerTag": "#R8J082Y0J",
+      "attackerName": "arroz",
+      "attackerTH": 9,
+      "defenderTH": 9,
+      "stars": 3,
+      "dest": 100,
+      "starsGained": 3,
+      "destGained": 100,
+      "order": 3,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#R8J082Y0J",
+      "attackerName": "arroz",
+      "attackerTH": 9,
+      "defenderTH": 9,
+      "stars": 3,
+      "dest": 100,
+      "starsGained": 3,
+      "destGained": 100,
+      "order": 4,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#GGRR02GLG",
+      "attackerName": "jude",
+      "attackerTH": 13,
+      "defenderTH": 13,
+      "stars": 3,
+      "dest": 100,
+      "starsGained": 3,
+      "destGained": 100,
+      "order": 5,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#GGRR02GLG",
+      "attackerName": "jude",
+      "attackerTH": 13,
+      "defenderTH": 13,
+      "stars": 3,
+      "dest": 100,
+      "starsGained": 3,
+      "destGained": 100,
+      "order": 6,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#QLV80QQCY",
+      "attackerName": "THE ROCK",
+      "attackerTH": 14,
+      "defenderTH": 13,
+      "stars": 3,
+      "dest": 100,
+      "starsGained": 3,
+      "destGained": 100,
+      "order": 7,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#QLV80QQCY",
+      "attackerName": "THE ROCK",
+      "attackerTH": 14,
+      "defenderTH": 11,
+      "stars": 3,
+      "dest": 100,
+      "starsGained": 3,
+      "destGained": 100,
+      "order": 8,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#YRQJPR0Y9",
+      "attackerName": "cary",
+      "attackerTH": 18,
+      "defenderTH": 18,
+      "stars": 2,
+      "dest": 70,
+      "starsGained": 2,
+      "destGained": 70,
+      "order": 9,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#R8GPLGRVQ",
+      "attackerName": "LegitN00b98",
+      "attackerTH": 11,
+      "defenderTH": 11,
+      "stars": 3,
+      "dest": 100,
+      "starsGained": 3,
+      "destGained": 100,
+      "order": 10,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#R8GPLGRVQ",
+      "attackerName": "LegitN00b98",
+      "attackerTH": 11,
+      "defenderTH": 17,
+      "stars": 2,
+      "dest": 55,
+      "starsGained": 2,
+      "destGained": 55,
+      "order": 11,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#GLUJVJGGV",
+      "attackerName": "allis",
+      "attackerTH": 10,
+      "defenderTH": 17,
+      "stars": 1,
+      "dest": 26,
+      "starsGained": 0,
+      "destGained": 0,
+      "order": 22,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#YRQJPR0Y9",
+      "attackerName": "cary",
+      "attackerTH": 18,
+      "defenderTH": 17,
+      "stars": 3,
+      "dest": 100,
+      "starsGained": 3,
+      "destGained": 100,
+      "order": 23,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#R8PJY0U0J",
+      "attackerName": "Didetz",
+      "attackerTH": 14,
+      "defenderTH": 17,
+      "stars": 2,
+      "dest": 77,
+      "starsGained": 0,
+      "destGained": 22,
+      "order": 24,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#QRRV0R98R",
+      "attackerName": "BAMBANG ID",
+      "attackerTH": 17,
+      "defenderTH": null,
+      "stars": 0,
+      "dest": 0,
+      "starsGained": 0,
+      "destGained": 0,
+      "order": null,
+      "missed": true,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#QRRV0R98R",
+      "attackerName": "BAMBANG ID",
+      "attackerTH": 17,
+      "defenderTH": null,
+      "stars": 0,
+      "dest": 0,
+      "starsGained": 0,
+      "destGained": 0,
+      "order": null,
+      "missed": true,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#GJ2RRLRPL",
+      "attackerName": "Royumi",
+      "attackerTH": 13,
+      "defenderTH": null,
+      "stars": 0,
+      "dest": 0,
+      "starsGained": 0,
+      "destGained": 0,
+      "order": null,
+      "missed": true,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#GJ2RRLRPL",
+      "attackerName": "Royumi",
+      "attackerTH": 13,
+      "defenderTH": null,
+      "stars": 0,
+      "dest": 0,
+      "starsGained": 0,
+      "destGained": 0,
+      "order": null,
+      "missed": true,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#GGUJJGQUV",
+      "attackerName": "Jaz",
+      "attackerTH": 9,
+      "defenderTH": null,
+      "stars": 0,
+      "dest": 0,
+      "starsGained": 0,
+      "destGained": 0,
+      "order": null,
+      "missed": true,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#GGUJJGQUV",
+      "attackerName": "Jaz",
+      "attackerTH": 9,
+      "defenderTH": null,
+      "stars": 0,
+      "dest": 0,
+      "starsGained": 0,
+      "destGained": 0,
+      "order": null,
+      "missed": true,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#R8PJY0U0J",
+      "attackerName": "Didetz",
+      "attackerTH": 14,
+      "defenderTH": null,
+      "stars": 0,
+      "dest": 0,
+      "starsGained": 0,
+      "destGained": 0,
+      "order": null,
+      "missed": true,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#GLUJVJGGV",
+      "attackerName": "allis",
+      "attackerTH": 10,
+      "defenderTH": null,
+      "stars": 0,
+      "dest": 0,
+      "starsGained": 0,
+      "destGained": 0,
+      "order": null,
+      "missed": true,
+      "source": "regular"
+    }
+  ],
+  "archivedAt": "2026-08-13T15:04:40.150Z"
+}
