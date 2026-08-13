@@ -1,20 +1,9 @@
 {
   "date": "2026-08-13",
-  "capturedAt": "2026-08-13T20:53:29.728Z",
+  "capturedAt": "2026-08-13T21:54:51.412Z",
   "clanLevel": 6,
-  "memberCount": 48,
+  "memberCount": 47,
   "members": [
-    {
-      "tag": "#QV29GG980",
-      "name": "111111111111111",
-      "role": "member",
-      "th": 18,
-      "expLevel": 225,
-      "trophies": 128,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
     {
       "tag": "#YRQJPR0Y9",
       "name": "cary",
@@ -197,9 +186,9 @@
       "role": "admin",
       "th": 14,
       "expLevel": 150,
-      "trophies": 84,
+      "trophies": 177,
       "donations": 42,
-      "donationsReceived": 0,
+      "donationsReceived": 78,
       "capitalContributions": 0
     },
     {
@@ -329,9 +318,9 @@
       "role": "admin",
       "th": 12,
       "expLevel": 144,
-      "trophies": 57,
+      "trophies": 97,
       "donations": 2,
-      "donationsReceived": 714,
+      "donationsReceived": 756,
       "capitalContributions": 0
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T20:53:30.458Z",
+  "generatedAt": "2026-08-13T21:54:52.016Z",
   "snapshotDate": "2026-08-13",
   "snapshotsAvailable": 17,
   "raidWeekendsAvailable": 4,
@@ -979,39 +979,6 @@
         "used": 0,
         "misses": 9,
         "tier": "Common"
-      }
-    },
-    {
-      "tag": "#QV29GG980",
-      "name": "111111111111111",
-      "role": "member",
-      "th": 18,
-      "firstSeen": "2026-08-13",
-      "daysPresent": 1,
-      "inGrace": true,
-      "gracePeriodEndsIn": 13,
-      "warsJoined": 0,
-      "warsTotal": 12,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
       }
     },
     {
