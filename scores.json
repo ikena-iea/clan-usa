@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T10:16:39.986Z",
+  "generatedAt": "2026-08-13T11:54:17.110Z",
   "snapshotDate": "2026-08-13",
   "snapshotsAvailable": 17,
   "raidWeekendsAvailable": 4,
@@ -1084,7 +1084,7 @@
     {
       "tag": "#G2PLQCJRR",
       "name": "Universal soul",
-      "role": "member",
+      "role": "admin",
       "th": 17,
       "firstSeen": "2026-08-13",
       "daysPresent": 1,
@@ -1315,7 +1315,7 @@
     {
       "tag": "#L0YPL82UJ",
       "name": "Chikhladze",
-      "role": "member",
+      "role": "admin",
       "th": 14,
       "firstSeen": "2026-08-12",
       "daysPresent": 1,
@@ -1513,7 +1513,7 @@
     {
       "tag": "#P02U2U9GC",
       "name": "Diego",
-      "role": "member",
+      "role": "admin",
       "th": 12,
       "firstSeen": "2026-08-12",
       "daysPresent": 1,

@@ -1,6 +1,6 @@
 {
   "date": "2026-08-13",
-  "capturedAt": "2026-08-13T10:16:39.496Z",
+  "capturedAt": "2026-08-13T11:54:16.619Z",
   "clanLevel": 6,
   "memberCount": 47,
   "members": [
@@ -40,7 +40,7 @@
     {
       "tag": "#G2PLQCJRR",
       "name": "Universal soul",
-      "role": "member",
+      "role": "admin",
       "th": 17,
       "expLevel": 161,
       "trophies": 126,
@@ -142,7 +142,7 @@
       "role": "coLeader",
       "th": 13,
       "expLevel": 110,
-      "trophies": 373,
+      "trophies": 385,
       "donations": 100,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -194,7 +194,7 @@
     {
       "tag": "#L0YPL82UJ",
       "name": "Chikhladze",
-      "role": "member",
+      "role": "admin",
       "th": 14,
       "expLevel": 150,
       "trophies": 29,
@@ -326,7 +326,7 @@
     {
       "tag": "#P02U2U9GC",
       "name": "Diego",
-      "role": "member",
+      "role": "admin",
       "th": 12,
       "expLevel": 144,
       "trophies": 57,
