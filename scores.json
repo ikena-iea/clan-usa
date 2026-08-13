@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T17:03:58.115Z",
+  "generatedAt": "2026-08-13T19:13:02.336Z",
   "snapshotDate": "2026-08-13",
   "snapshotsAvailable": 17,
   "raidWeekendsAvailable": 4,
@@ -194,40 +194,6 @@
         "pillars": {
           "reliability": 100,
           "performance": 42
-        },
-        "available": 10,
-        "used": 10,
-        "misses": 0,
-        "tier": "Rare"
-      }
-    },
-    {
-      "tag": "#R8P2LPQ9",
-      "name": "MW☢️ARCHITECT 2",
-      "role": "admin",
-      "th": 15,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 16,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 10,
-      "warsTotal": 12,
-      "clan": {
-        "total": 73.2,
-        "pillars": {
-          "donations": 100,
-          "raids": 95,
-          "contributions": 0
-        },
-        "tier": "Epic"
-      },
-      "war": {
-        "total": 78.4,
-        "status": null,
-        "cap": "Rare",
-        "pillars": {
-          "reliability": 100,
-          "performance": 46
         },
         "available": 10,
         "used": 10,
@@ -1525,7 +1491,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 8,
+          "donations": 15,
           "raids": null,
           "contributions": null
         },
