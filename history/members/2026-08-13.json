@@ -1,6 +1,6 @@
 {
   "date": "2026-08-13",
-  "capturedAt": "2026-08-13T11:54:16.619Z",
+  "capturedAt": "2026-08-13T13:35:08.162Z",
   "clanLevel": 6,
   "memberCount": 47,
   "members": [
@@ -66,7 +66,7 @@
       "th": 15,
       "expLevel": 149,
       "trophies": 91,
-      "donations": 0,
+      "donations": 45,
       "donationsReceived": 292,
       "capitalContributions": 0
     },
@@ -86,7 +86,7 @@
       "name": "HowardX",
       "role": "admin",
       "th": 16,
-      "expLevel": 74,
+      "expLevel": 75,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -109,7 +109,7 @@
       "role": "member",
       "th": 15,
       "expLevel": 135,
-      "trophies": 86,
+      "trophies": 113,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -166,7 +166,7 @@
       "expLevel": 146,
       "trophies": 191,
       "donations": 2,
-      "donationsReceived": 438,
+      "donationsReceived": 483,
       "capitalContributions": 0
     },
     {
@@ -405,7 +405,7 @@
       "name": "arroz",
       "role": "admin",
       "th": 9,
-      "expLevel": 58,
+      "expLevel": 59,
       "trophies": 272,
       "donations": 0,
       "donationsReceived": 125,
