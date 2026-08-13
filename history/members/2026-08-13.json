@@ -1,8 +1,8 @@
 {
   "date": "2026-08-13",
-  "capturedAt": "2026-08-13T02:34:52.214Z",
+  "capturedAt": "2026-08-13T04:58:40.307Z",
   "clanLevel": 6,
-  "memberCount": 45,
+  "memberCount": 46,
   "members": [
     {
       "tag": "#YRQJPR0Y9",
@@ -35,6 +35,17 @@
       "trophies": 139,
       "donations": 47,
       "donationsReceived": 135,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#G2PLQCJRR",
+      "name": "Universal soul",
+      "role": "member",
+      "th": 17,
+      "expLevel": 161,
+      "trophies": 126,
+      "donations": 0,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -115,6 +126,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#R292L228Q",
+      "name": "Ikena",
+      "role": "coLeader",
+      "th": 13,
+      "expLevel": 110,
+      "trophies": 373,
+      "donations": 100,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#GGRR02GLG",
       "name": "jude",
       "role": "admin",
@@ -122,17 +144,6 @@
       "expLevel": 108,
       "trophies": 311,
       "donations": 136,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#R292L228Q",
-      "name": "Ikena",
-      "role": "coLeader",
-      "th": 13,
-      "expLevel": 110,
-      "trophies": 236,
-      "donations": 58,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -214,6 +225,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GCRRUUP82",
+      "name": "dennis jiang",
+      "role": "member",
+      "th": 13,
+      "expLevel": 56,
+      "trophies": 1,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#QV08GJJQV",
       "name": "knuxyngYiudjdh",
       "role": "admin",
@@ -258,17 +280,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#GCRRUUP82",
-      "name": "dennis jiang",
-      "role": "member",
-      "th": 13,
-      "expLevel": 56,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#R8GPLGRVQ",
       "name": "LegitN00b98",
       "role": "admin",
@@ -308,8 +319,8 @@
       "th": 12,
       "expLevel": 144,
       "trophies": 57,
-      "donations": 0,
-      "donationsReceived": 252,
+      "donations": 1,
+      "donationsReceived": 294,
       "capitalContributions": 0
     },
     {
@@ -485,7 +496,7 @@
       "expLevel": 239,
       "trophies": 0,
       "donations": 30,
-      "donationsReceived": 176,
+      "donationsReceived": 177,
       "capitalContributions": 0
     },
     {
