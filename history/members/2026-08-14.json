@@ -1,8 +1,8 @@
 {
   "date": "2026-08-14",
-  "capturedAt": "2026-08-14T02:33:31.301Z",
+  "capturedAt": "2026-08-14T04:55:32.316Z",
   "clanLevel": 6,
-  "memberCount": 47,
+  "memberCount": 46,
   "members": [
     {
       "tag": "#YRQJPR0Y9",
@@ -142,7 +142,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 108,
-      "trophies": 311,
+      "trophies": 331,
       "donations": 136,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -254,7 +254,7 @@
       "expLevel": 97,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 35,
+      "donationsReceived": 91,
       "capitalContributions": 0
     },
     {
@@ -285,8 +285,8 @@
       "role": "admin",
       "th": 11,
       "expLevel": 85,
-      "trophies": 152,
-      "donations": 1,
+      "trophies": 184,
+      "donations": 3,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -383,7 +383,7 @@
       "name": "jadav m",
       "role": "admin",
       "th": 11,
-      "expLevel": 75,
+      "expLevel": 76,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -431,17 +431,6 @@
       "trophies": 0,
       "donations": 89,
       "donationsReceived": 134,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#P2ULVCGGG",
-      "name": "Warrior",
-      "role": "member",
-      "th": 14,
-      "expLevel": 171,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T02:33:31.909Z",
+  "generatedAt": "2026-08-14T04:55:32.903Z",
   "snapshotDate": "2026-08-14",
   "snapshotsAvailable": 18,
   "raidWeekendsAvailable": 4,
@@ -1492,39 +1492,6 @@
         "total": null,
         "pillars": {
           "donations": 8,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#P2ULVCGGG",
-      "name": "Warrior",
-      "role": "member",
-      "th": 14,
-      "firstSeen": "2026-08-13",
-      "daysPresent": 1,
-      "inGrace": true,
-      "gracePeriodEndsIn": 13,
-      "warsJoined": 0,
-      "warsTotal": 12,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
           "raids": null,
           "contributions": null
         },
