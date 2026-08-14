@@ -1,8 +1,8 @@
 {
   "date": "2026-08-14",
-  "capturedAt": "2026-08-14T10:12:03.590Z",
+  "capturedAt": "2026-08-14T11:51:30.387Z",
   "clanLevel": 6,
-  "memberCount": 46,
+  "memberCount": 48,
   "members": [
     {
       "tag": "#YRQJPR0Y9",
@@ -44,7 +44,7 @@
       "th": 17,
       "expLevel": 161,
       "trophies": 126,
-      "donations": 187,
+      "donations": 190,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -155,7 +155,7 @@
       "expLevel": 146,
       "trophies": 259,
       "donations": 2,
-      "donationsReceived": 588,
+      "donationsReceived": 591,
       "capitalContributions": 0
     },
     {
@@ -194,7 +194,7 @@
     {
       "tag": "#R8PJY0U0J",
       "name": "Didetz",
-      "role": "leader",
+      "role": "member",
       "th": 14,
       "expLevel": 99,
       "trophies": 0,
@@ -280,6 +280,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#9L8J98VGG",
+      "name": "Fearlicia",
+      "role": "member",
+      "th": 13,
+      "expLevel": 179,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#R8GPLGRVQ",
       "name": "LegitN00b98",
       "role": "admin",
@@ -335,6 +346,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GGQ80JRJ0",
+      "name": "hartymate",
+      "role": "admin",
+      "th": 11,
+      "expLevel": 85,
+      "trophies": 55,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#GLUJVJGGV",
       "name": "allis",
       "role": "admin",
@@ -343,17 +365,6 @@
       "trophies": 43,
       "donations": 0,
       "donationsReceived": 65,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GGQ80JRJ0",
-      "name": "hartymate",
-      "role": "admin",
-      "th": 11,
-      "expLevel": 85,
-      "trophies": 27,
-      "donations": 0,
-      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -461,6 +472,17 @@
       "role": "coLeader",
       "th": 12,
       "expLevel": 87,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#GRYL9G0PJ",
+      "name": "ijsjsjw",
+      "role": "leader",
+      "th": 6,
+      "expLevel": 27,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,

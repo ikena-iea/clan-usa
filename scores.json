@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T10:12:04.094Z",
+  "generatedAt": "2026-08-14T11:51:30.898Z",
   "snapshotDate": "2026-08-14",
   "snapshotsAvailable": 18,
   "raidWeekendsAvailable": 4,
@@ -374,7 +374,7 @@
     {
       "tag": "#R8PJY0U0J",
       "name": "Didetz",
-      "role": "leader",
+      "role": "member",
       "th": 14,
       "firstSeen": "2026-07-28",
       "daysPresent": 17,
@@ -1095,7 +1095,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 0,
+          "donations": 22,
           "raids": null,
           "contributions": null
         },
@@ -1478,6 +1478,39 @@
       }
     },
     {
+      "tag": "#9L8J98VGG",
+      "name": "Fearlicia",
+      "role": "member",
+      "th": 13,
+      "firstSeen": "2026-08-14",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 12,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#P02U2U9GC",
       "name": "Diego",
       "role": "admin",
@@ -1525,6 +1558,39 @@
         "total": null,
         "pillars": {
           "donations": 100,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 2,
+        "used": 0,
+        "misses": 2,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#GRYL9G0PJ",
+      "name": "ijsjsjw",
+      "role": "leader",
+      "th": 6,
+      "firstSeen": "2026-08-14",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 1,
+      "warsTotal": 12,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
           "raids": null,
           "contributions": null
         },
