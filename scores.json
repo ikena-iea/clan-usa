@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T19:05:44.134Z",
+  "generatedAt": "2026-08-14T20:37:20.687Z",
   "snapshotDate": "2026-08-14",
   "snapshotsAvailable": 18,
   "raidWeekendsAvailable": 4,
@@ -247,9 +247,9 @@
       "warsJoined": 8,
       "warsTotal": 12,
       "clan": {
-        "total": 59.1,
+        "total": 66.5,
         "pillars": {
-          "donations": 63,
+          "donations": 81,
           "raids": 97,
           "contributions": 0
         },
@@ -1280,6 +1280,39 @@
       }
     },
     {
+      "tag": "#Q8P8R8UQQ",
+      "name": "vale",
+      "role": "member",
+      "th": 13,
+      "firstSeen": "2026-08-14",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 12,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#GUPY8PLLP",
       "name": "BEOX",
       "role": "admin",
@@ -1459,6 +1492,39 @@
         "total": null,
         "pillars": {
           "donations": 8,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#YUPP00GUU",
+      "name": "damiano",
+      "role": "member",
+      "th": 12,
+      "firstSeen": "2026-08-14",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 12,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
           "raids": null,
           "contributions": null
         },

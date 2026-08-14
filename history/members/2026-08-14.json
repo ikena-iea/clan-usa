@@ -1,8 +1,8 @@
 {
   "date": "2026-08-14",
-  "capturedAt": "2026-08-14T19:05:43.697Z",
+  "capturedAt": "2026-08-14T20:37:20.133Z",
   "clanLevel": 6,
-  "memberCount": 46,
+  "memberCount": 48,
   "members": [
     {
       "tag": "#YRQJPR0Y9",
@@ -54,8 +54,8 @@
       "role": "admin",
       "th": 15,
       "expLevel": 150,
-      "trophies": 102,
-      "donations": 45,
+      "trophies": 142,
+      "donations": 55,
       "donationsReceived": 292,
       "capitalContributions": 0
     },
@@ -144,7 +144,7 @@
       "expLevel": 147,
       "trophies": 277,
       "donations": 2,
-      "donationsReceived": 636,
+      "donationsReceived": 681,
       "capitalContributions": 0
     },
     {
@@ -186,6 +186,17 @@
       "role": "leader",
       "th": 14,
       "expLevel": 99,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#Q8P8R8UQQ",
+      "name": "vale",
+      "role": "member",
+      "th": 13,
+      "expLevel": 111,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -264,7 +275,7 @@
       "th": 13,
       "expLevel": 202,
       "trophies": 0,
-      "donations": 820,
+      "donations": 892,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -285,9 +296,9 @@
       "role": "admin",
       "th": 12,
       "expLevel": 144,
-      "trophies": 396,
+      "trophies": 419,
       "donations": 2,
-      "donationsReceived": 1008,
+      "donationsReceived": 1092,
       "capitalContributions": 0
     },
     {
@@ -357,6 +368,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#YUPP00GUU",
+      "name": "damiano",
+      "role": "member",
+      "th": 12,
+      "expLevel": 127,
+      "trophies": 0,
+      "donations": 32,
+      "donationsReceived": 72,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#R2RR9UJ8V",
       "name": "X4FSHIN",
       "role": "admin",
@@ -418,7 +440,7 @@
       "th": 11,
       "expLevel": 83,
       "trophies": 0,
-      "donations": 89,
+      "donations": 131,
       "donationsReceived": 134,
       "capitalContributions": 0
     },
