@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T20:37:20.687Z",
+  "generatedAt": "2026-08-14T21:32:07.978Z",
   "snapshotDate": "2026-08-14",
   "snapshotsAvailable": 18,
   "raidWeekendsAvailable": 4,
@@ -1181,39 +1181,6 @@
       }
     },
     {
-      "tag": "#GGRR02GLG",
-      "name": "jude",
-      "role": "admin",
-      "th": 13,
-      "firstSeen": "2026-08-07",
-      "daysPresent": 7,
-      "inGrace": true,
-      "gracePeriodEndsIn": 7,
-      "warsJoined": 1,
-      "warsTotal": 12,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 100,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 2,
-        "used": 2,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
       "tag": "#QLV80QQCY",
       "name": "THE ROCK",
       "role": "member",
@@ -1247,6 +1214,39 @@
       }
     },
     {
+      "tag": "#GGRR02GLG",
+      "name": "jude",
+      "role": "admin",
+      "th": 13,
+      "firstSeen": "2026-08-07",
+      "daysPresent": 7,
+      "inGrace": true,
+      "gracePeriodEndsIn": 7,
+      "warsJoined": 1,
+      "warsTotal": 12,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 100,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 2,
+        "used": 2,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#L0YPL82UJ",
       "name": "Chikhladze",
       "role": "admin",
@@ -1261,6 +1261,39 @@
         "total": null,
         "pillars": {
           "donations": 100,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#LGRC8CP9U",
+      "name": "Big dog",
+      "role": "member",
+      "th": 13,
+      "firstSeen": "2026-08-14",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 12,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
           "raids": null,
           "contributions": null
         },

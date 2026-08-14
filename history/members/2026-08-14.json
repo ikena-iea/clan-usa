@@ -1,8 +1,8 @@
 {
   "date": "2026-08-14",
-  "capturedAt": "2026-08-14T20:37:20.133Z",
+  "capturedAt": "2026-08-14T21:32:07.359Z",
   "clanLevel": 6,
-  "memberCount": 48,
+  "memberCount": 49,
   "members": [
     {
       "tag": "#YRQJPR0Y9",
@@ -11,7 +11,7 @@
       "th": 18,
       "expLevel": 251,
       "trophies": 0,
-      "donations": 250,
+      "donations": 298,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -115,6 +115,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#QLV80QQCY",
+      "name": "THE ROCK",
+      "role": "member",
+      "th": 14,
+      "expLevel": 147,
+      "trophies": 425,
+      "donations": 2,
+      "donationsReceived": 744,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#R292L228Q",
       "name": "Ikena",
       "role": "coLeader",
@@ -134,17 +145,6 @@
       "trophies": 331,
       "donations": 136,
       "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#QLV80QQCY",
-      "name": "THE ROCK",
-      "role": "member",
-      "th": 14,
-      "expLevel": 147,
-      "trophies": 277,
-      "donations": 2,
-      "donationsReceived": 681,
       "capitalContributions": 0
     },
     {
@@ -186,6 +186,17 @@
       "role": "leader",
       "th": 14,
       "expLevel": 99,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#LGRC8CP9U",
+      "name": "Big dog",
+      "role": "member",
+      "th": 13,
+      "expLevel": 149,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
