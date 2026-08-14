@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T11:51:30.898Z",
+  "generatedAt": "2026-08-14T13:23:25.928Z",
   "snapshotDate": "2026-08-14",
   "snapshotsAvailable": 18,
   "raidWeekendsAvailable": 4,
@@ -374,7 +374,7 @@
     {
       "tag": "#R8PJY0U0J",
       "name": "Didetz",
-      "role": "member",
+      "role": "leader",
       "th": 14,
       "firstSeen": "2026-07-28",
       "daysPresent": 17,
@@ -1082,39 +1082,6 @@
       }
     },
     {
-      "tag": "#G2PLQCJRR",
-      "name": "Universal soul",
-      "role": "admin",
-      "th": 17,
-      "firstSeen": "2026-08-13",
-      "daysPresent": 1,
-      "inGrace": true,
-      "gracePeriodEndsIn": 13,
-      "warsJoined": 0,
-      "warsTotal": 12,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 22,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
       "tag": "#GCPY2VGVU",
       "name": "NBmeitei",
       "role": "admin",
@@ -1183,7 +1150,7 @@
     {
       "tag": "#GCJV9GJ9U",
       "name": "KHLIFE1",
-      "role": "member",
+      "role": "admin",
       "th": 15,
       "firstSeen": "2026-08-13",
       "daysPresent": 1,
@@ -1478,39 +1445,6 @@
       }
     },
     {
-      "tag": "#9L8J98VGG",
-      "name": "Fearlicia",
-      "role": "member",
-      "th": 13,
-      "firstSeen": "2026-08-14",
-      "daysPresent": 1,
-      "inGrace": true,
-      "gracePeriodEndsIn": 13,
-      "warsJoined": 0,
-      "warsTotal": 12,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
       "tag": "#P02U2U9GC",
       "name": "Diego",
       "role": "admin",
@@ -1579,7 +1513,7 @@
     {
       "tag": "#GRYL9G0PJ",
       "name": "ijsjsjw",
-      "role": "leader",
+      "role": "coLeader",
       "th": 6,
       "firstSeen": "2026-08-14",
       "daysPresent": 1,

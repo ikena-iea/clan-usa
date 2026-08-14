@@ -1,8 +1,8 @@
 {
   "date": "2026-08-14",
-  "capturedAt": "2026-08-14T11:51:30.387Z",
+  "capturedAt": "2026-08-14T13:23:25.461Z",
   "clanLevel": 6,
-  "memberCount": 48,
+  "memberCount": 46,
   "members": [
     {
       "tag": "#YRQJPR0Y9",
@@ -35,17 +35,6 @@
       "trophies": 166,
       "donations": 47,
       "donationsReceived": 135,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#G2PLQCJRR",
-      "name": "Universal soul",
-      "role": "admin",
-      "th": 17,
-      "expLevel": 161,
-      "trophies": 126,
-      "donations": 190,
-      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -106,7 +95,7 @@
     {
       "tag": "#GCJV9GJ9U",
       "name": "KHLIFE1",
-      "role": "member",
+      "role": "admin",
       "th": 15,
       "expLevel": 135,
       "trophies": 137,
@@ -194,7 +183,7 @@
     {
       "tag": "#R8PJY0U0J",
       "name": "Didetz",
-      "role": "member",
+      "role": "leader",
       "th": 14,
       "expLevel": 99,
       "trophies": 0,
@@ -276,17 +265,6 @@
       "expLevel": 202,
       "trophies": 0,
       "donations": 736,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#9L8J98VGG",
-      "name": "Fearlicia",
-      "role": "member",
-      "th": 13,
-      "expLevel": 179,
-      "trophies": 0,
-      "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -460,7 +438,7 @@
       "name": "Royumi",
       "role": "admin",
       "th": 13,
-      "expLevel": 57,
+      "expLevel": 58,
       "trophies": 0,
       "donations": 67,
       "donationsReceived": 0,
@@ -480,7 +458,7 @@
     {
       "tag": "#GRYL9G0PJ",
       "name": "ijsjsjw",
-      "role": "leader",
+      "role": "coLeader",
       "th": 6,
       "expLevel": 27,
       "trophies": 0,
@@ -526,7 +504,7 @@
       "name": "jimmy",
       "role": "admin",
       "th": 12,
-      "expLevel": 104,
+      "expLevel": 105,
       "trophies": 0,
       "donations": 30,
       "donationsReceived": 0,
