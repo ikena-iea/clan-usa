@@ -1,8 +1,8 @@
 {
   "date": "2026-08-14",
-  "capturedAt": "2026-08-14T14:59:11.960Z",
+  "capturedAt": "2026-08-14T16:01:20.311Z",
   "clanLevel": 6,
-  "memberCount": 47,
+  "memberCount": 46,
   "members": [
     {
       "tag": "#YRQJPR0Y9",
@@ -98,7 +98,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 135,
-      "trophies": 137,
+      "trophies": 163,
       "donations": 126,
       "donationsReceived": 157,
       "capitalContributions": 0
@@ -208,7 +208,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 115,
-      "trophies": 123,
+      "trophies": 323,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -287,7 +287,7 @@
       "expLevel": 144,
       "trophies": 396,
       "donations": 2,
-      "donationsReceived": 798,
+      "donationsReceived": 882,
       "capitalContributions": 0
     },
     {
@@ -420,17 +420,6 @@
       "trophies": 0,
       "donations": 89,
       "donationsReceived": 134,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#2J0CQ2VYY",
-      "name": "Beasty",
-      "role": "member",
-      "th": 13,
-      "expLevel": 160,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
