@@ -1,8 +1,8 @@
 {
   "date": "2026-08-14",
-  "capturedAt": "2026-08-14T13:23:25.461Z",
+  "capturedAt": "2026-08-14T14:59:11.960Z",
   "clanLevel": 6,
-  "memberCount": 46,
+  "memberCount": 47,
   "members": [
     {
       "tag": "#YRQJPR0Y9",
@@ -287,7 +287,7 @@
       "expLevel": 144,
       "trophies": 396,
       "donations": 2,
-      "donationsReceived": 756,
+      "donationsReceived": 798,
       "capitalContributions": 0
     },
     {
@@ -350,7 +350,7 @@
       "name": "DevilIguana",
       "role": "coLeader",
       "th": 12,
-      "expLevel": 95,
+      "expLevel": 96,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -396,7 +396,7 @@
       "th": 7,
       "expLevel": 34,
       "trophies": 0,
-      "donations": 0,
+      "donations": 42,
       "donationsReceived": 20,
       "capitalContributions": 0
     },
@@ -420,6 +420,17 @@
       "trophies": 0,
       "donations": 89,
       "donationsReceived": 134,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#2J0CQ2VYY",
+      "name": "Beasty",
+      "role": "member",
+      "th": 13,
+      "expLevel": 160,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
