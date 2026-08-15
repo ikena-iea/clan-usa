@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "capturedAt": "2026-08-15T14:30:19.781Z",
+  "capturedAt": "2026-08-15T15:28:16.012Z",
   "clanLevel": 6,
   "memberCount": 50,
   "members": [
@@ -54,7 +54,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 150,
-      "trophies": 172,
+      "trophies": 183,
       "donations": 90,
       "donationsReceived": 292,
       "capitalContributions": 0
@@ -97,8 +97,8 @@
       "name": "KHLIFE1",
       "role": "admin",
       "th": 15,
-      "expLevel": 135,
-      "trophies": 163,
+      "expLevel": 136,
+      "trophies": 171,
       "donations": 213,
       "donationsReceived": 157,
       "capitalContributions": 0
@@ -251,10 +251,10 @@
       "name": "Mr.PiCkLe",
       "role": "member",
       "th": 13,
-      "expLevel": 97,
+      "expLevel": 98,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 101,
+      "donationsReceived": 136,
       "capitalContributions": 0
     },
     {
@@ -339,9 +339,9 @@
       "name": "your mom",
       "role": "admin",
       "th": 12,
-      "expLevel": 73,
-      "trophies": 140,
-      "donations": 0,
+      "expLevel": 74,
+      "trophies": 150,
+      "donations": 35,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
