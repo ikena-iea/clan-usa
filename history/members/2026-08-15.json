@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "capturedAt": "2026-08-15T08:37:35.419Z",
+  "capturedAt": "2026-08-15T09:32:57.396Z",
   "clanLevel": 6,
   "memberCount": 50,
   "members": [
@@ -32,9 +32,9 @@
       "role": "admin",
       "th": 15,
       "expLevel": 169,
-      "trophies": 166,
-      "donations": 47,
-      "donationsReceived": 135,
+      "trophies": 333,
+      "donations": 92,
+      "donationsReceived": 241,
       "capitalContributions": 0
     },
     {
@@ -121,8 +121,8 @@
       "th": 14,
       "expLevel": 147,
       "trophies": 425,
-      "donations": 2,
-      "donationsReceived": 744,
+      "donations": 108,
+      "donationsReceived": 789,
       "capitalContributions": 0
     },
     {
@@ -219,7 +219,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 115,
-      "trophies": 323,
+      "trophies": 363,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -328,7 +328,7 @@
       "name": "lucky",
       "role": "admin",
       "th": 11,
-      "expLevel": 89,
+      "expLevel": 90,
       "trophies": 252,
       "donations": 0,
       "donationsReceived": 0,
