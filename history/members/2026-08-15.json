@@ -1,8 +1,8 @@
 {
   "date": "2026-08-15",
-  "capturedAt": "2026-08-15T06:50:47.895Z",
+  "capturedAt": "2026-08-15T07:36:54.157Z",
   "clanLevel": 6,
-  "memberCount": 49,
+  "memberCount": 50,
   "members": [
     {
       "tag": "#YRQJPR0Y9",
@@ -55,7 +55,7 @@
       "th": 15,
       "expLevel": 150,
       "trophies": 142,
-      "donations": 55,
+      "donations": 90,
       "donationsReceived": 292,
       "capitalContributions": 0
     },
@@ -277,6 +277,17 @@
       "trophies": 0,
       "donations": 892,
       "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#R988UUQVU",
+      "name": "goku",
+      "role": "member",
+      "th": 12,
+      "expLevel": 88,
+      "trophies": 205,
+      "donations": 0,
+      "donationsReceived": 35,
       "capitalContributions": 0
     },
     {
