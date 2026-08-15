@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T02:58:55.243Z",
+  "generatedAt": "2026-08-15T03:49:15.543Z",
   "snapshotDate": "2026-08-15",
   "snapshotsAvailable": 19,
   "raidWeekendsAvailable": 4,
@@ -137,7 +137,7 @@
       "tag": "#R8GPLGRVQ",
       "name": "LegitN00b98",
       "role": "admin",
-      "th": 11,
+      "th": 12,
       "firstSeen": "2026-07-28",
       "daysPresent": 18,
       "inGrace": false,
@@ -1326,7 +1326,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 0,
+          "donations": 100,
           "raids": null,
           "contributions": null
         },
