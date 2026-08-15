@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "capturedAt": "2026-08-15T13:36:12.753Z",
+  "capturedAt": "2026-08-15T14:30:19.781Z",
   "clanLevel": 6,
   "memberCount": 50,
   "members": [
@@ -11,7 +11,7 @@
       "th": 18,
       "expLevel": 251,
       "trophies": 0,
-      "donations": 298,
+      "donations": 406,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -34,7 +34,7 @@
       "expLevel": 169,
       "trophies": 333,
       "donations": 92,
-      "donationsReceived": 241,
+      "donationsReceived": 271,
       "capitalContributions": 0
     },
     {
@@ -67,7 +67,7 @@
       "expLevel": 153,
       "trophies": 492,
       "donations": 0,
-      "donationsReceived": 0,
+      "donationsReceived": 78,
       "capitalContributions": 0
     },
     {
@@ -75,7 +75,7 @@
       "name": "HowardX",
       "role": "admin",
       "th": 16,
-      "expLevel": 75,
+      "expLevel": 77,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
