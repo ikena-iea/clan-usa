@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T05:31:48.144Z",
+  "generatedAt": "2026-08-15T06:50:49.660Z",
   "snapshotDate": "2026-08-15",
   "snapshotsAvailable": 19,
   "raidWeekendsAvailable": 4,
@@ -304,6 +304,39 @@
       }
     },
     {
+      "tag": "#R2JRVJG0U",
+      "name": "100 days",
+      "role": "coLeader",
+      "th": 7,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 18,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 1,
+      "warsTotal": 12,
+      "clan": {
+        "total": 60.4,
+        "pillars": {
+          "donations": 60,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": "Rare"
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 2,
+        "used": 2,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#QRRV0R98R",
       "name": "BAMBANG ID",
       "role": "admin",
@@ -437,39 +470,6 @@
         "used": 5,
         "misses": 5,
         "tier": "Uncommon"
-      }
-    },
-    {
-      "tag": "#R2JRVJG0U",
-      "name": "100 days",
-      "role": "coLeader",
-      "th": 7,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 18,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 1,
-      "warsTotal": 12,
-      "clan": {
-        "total": 49.2,
-        "pillars": {
-          "donations": 49,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": "Uncommon"
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 2,
-        "used": 2,
-        "misses": 0,
-        "tier": null
       }
     },
     {
@@ -740,40 +740,6 @@
         "available": 10,
         "used": 5,
         "misses": 5,
-        "tier": "Uncommon"
-      }
-    },
-    {
-      "tag": "#Y28CPV2PV",
-      "name": "ARKO",
-      "role": "admin",
-      "th": 14,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 18,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 8,
-      "warsTotal": 12,
-      "clan": {
-        "total": 22.9,
-        "pillars": {
-          "donations": 23,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": "Common"
-      },
-      "war": {
-        "total": 44,
-        "status": null,
-        "cap": "Uncommon",
-        "pillars": {
-          "reliability": 33,
-          "performance": 60
-        },
-        "available": 9,
-        "used": 3,
-        "misses": 6,
         "tier": "Uncommon"
       }
     },
