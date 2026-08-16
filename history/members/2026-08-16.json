@@ -1,8 +1,8 @@
 {
   "date": "2026-08-16",
-  "capturedAt": "2026-08-16T03:07:33.307Z",
+  "capturedAt": "2026-08-16T04:42:32.695Z",
   "clanLevel": 6,
-  "memberCount": 50,
+  "memberCount": 49,
   "members": [
     {
       "tag": "#YRQJPR0Y9",
@@ -66,7 +66,7 @@
       "th": 15,
       "expLevel": 153,
       "trophies": 492,
-      "donations": 0,
+      "donations": 32,
       "donationsReceived": 78,
       "capitalContributions": 0
     },
@@ -192,17 +192,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#Q8P8R8UQQ",
-      "name": "vale",
-      "role": "member",
-      "th": 13,
-      "expLevel": 111,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 77,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#G80PQRPUV",
       "name": "sammy2720",
       "role": "admin",
@@ -240,7 +229,7 @@
       "name": "dennis jiang",
       "role": "member",
       "th": 13,
-      "expLevel": 57,
+      "expLevel": 58,
       "trophies": 1,
       "donations": 0,
       "donationsReceived": 0,
@@ -275,7 +264,7 @@
       "th": 13,
       "expLevel": 202,
       "trophies": 0,
-      "donations": 1066,
+      "donations": 1137,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -285,7 +274,7 @@
       "role": "member",
       "th": 12,
       "expLevel": 88,
-      "trophies": 285,
+      "trophies": 300,
       "donations": 0,
       "donationsReceived": 236,
       "capitalContributions": 0
@@ -529,7 +518,7 @@
       "expLevel": 100,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 247,
+      "donationsReceived": 292,
       "capitalContributions": 0
     },
     {
@@ -540,7 +529,7 @@
       "expLevel": 239,
       "trophies": 0,
       "donations": 30,
-      "donationsReceived": 346,
+      "donationsReceived": 405,
       "capitalContributions": 0
     },
     {

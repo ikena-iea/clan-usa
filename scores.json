@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T03:07:33.745Z",
+  "generatedAt": "2026-08-16T04:42:33.607Z",
   "snapshotDate": "2026-08-16",
   "snapshotsAvailable": 20,
   "raidWeekendsAvailable": 4,
@@ -1062,7 +1062,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 5,
+          "donations": 29,
           "raids": 97,
           "contributions": 0
         },
@@ -1250,39 +1250,6 @@
     {
       "tag": "#LGRC8CP9U",
       "name": "Big dog",
-      "role": "member",
-      "th": 13,
-      "firstSeen": "2026-08-14",
-      "daysPresent": 2,
-      "inGrace": true,
-      "gracePeriodEndsIn": 12,
-      "warsJoined": 0,
-      "warsTotal": 13,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#Q8P8R8UQQ",
-      "name": "vale",
       "role": "member",
       "th": 13,
       "firstSeen": "2026-08-14",
