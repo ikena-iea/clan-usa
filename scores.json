@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T13:37:02.371Z",
+  "generatedAt": "2026-08-16T14:30:40.011Z",
   "snapshotDate": "2026-08-16",
   "snapshotsAvailable": 20,
   "raidWeekendsAvailable": 4,
@@ -439,6 +439,40 @@
       }
     },
     {
+      "tag": "#QVPQ8G2VQ",
+      "name": "your mom",
+      "role": "admin",
+      "th": 12,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 19,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 9,
+      "warsTotal": 13,
+      "clan": {
+        "total": 50.9,
+        "pillars": {
+          "donations": 67,
+          "raids": 69,
+          "contributions": 0
+        },
+        "tier": "Uncommon"
+      },
+      "war": {
+        "total": 40.1,
+        "status": null,
+        "cap": "Uncommon",
+        "pillars": {
+          "reliability": 40,
+          "performance": 40
+        },
+        "available": 10,
+        "used": 4,
+        "misses": 6,
+        "tier": "Uncommon"
+      }
+    },
+    {
       "tag": "#LCVCL0LU0",
       "name": "Limeranch",
       "role": "coLeader",
@@ -469,40 +503,6 @@
         "available": 10,
         "used": 5,
         "misses": 5,
-        "tier": "Uncommon"
-      }
-    },
-    {
-      "tag": "#QVPQ8G2VQ",
-      "name": "your mom",
-      "role": "admin",
-      "th": 12,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 19,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 9,
-      "warsTotal": 13,
-      "clan": {
-        "total": 45,
-        "pillars": {
-          "donations": 52,
-          "raids": 69,
-          "contributions": 0
-        },
-        "tier": "Uncommon"
-      },
-      "war": {
-        "total": 40.1,
-        "status": null,
-        "cap": "Uncommon",
-        "pillars": {
-          "reliability": 40,
-          "performance": 40
-        },
-        "available": 10,
-        "used": 4,
-        "misses": 6,
         "tier": "Uncommon"
       }
     },
