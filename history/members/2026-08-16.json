@@ -1,8 +1,8 @@
 {
   "date": "2026-08-16",
-  "capturedAt": "2026-08-16T14:30:39.368Z",
+  "capturedAt": "2026-08-16T15:28:34.490Z",
   "clanLevel": 6,
-  "memberCount": 50,
+  "memberCount": 49,
   "members": [
     {
       "tag": "#YRQJPR0Y9",
@@ -177,7 +177,7 @@
       "expLevel": 118,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 0,
+      "donationsReceived": 1,
       "capitalContributions": 0
     },
     {
@@ -254,7 +254,7 @@
       "expLevel": 98,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 136,
+      "donationsReceived": 202,
       "capitalContributions": 0
     },
     {
@@ -266,17 +266,6 @@
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 275,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#8J99Q20Y",
-      "name": "iKamangir",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 202,
-      "trophies": 0,
-      "donations": 1174,
-      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -462,7 +451,7 @@
       "th": 18,
       "expLevel": 255,
       "trophies": 0,
-      "donations": 83,
+      "donations": 119,
       "donationsReceived": 171,
       "capitalContributions": 0
     },
