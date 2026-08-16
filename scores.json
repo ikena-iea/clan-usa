@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T21:27:25.722Z",
+  "generatedAt": "2026-08-16T22:29:21.325Z",
   "snapshotDate": "2026-08-16",
   "snapshotsAvailable": 20,
   "raidWeekendsAvailable": 4,
@@ -1262,39 +1262,6 @@
         "total": null,
         "pillars": {
           "donations": 79,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#R0JVJVGP9",
-      "name": "Shangri_la2",
-      "role": "member",
-      "th": 14,
-      "firstSeen": "2026-08-16",
-      "daysPresent": 1,
-      "inGrace": true,
-      "gracePeriodEndsIn": 13,
-      "warsJoined": 0,
-      "warsTotal": 13,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
           "raids": null,
           "contributions": null
         },
