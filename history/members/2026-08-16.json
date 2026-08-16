@@ -1,8 +1,8 @@
 {
   "date": "2026-08-16",
-  "capturedAt": "2026-08-16T20:30:39.522Z",
+  "capturedAt": "2026-08-16T21:27:25.101Z",
   "clanLevel": 6,
-  "memberCount": 49,
+  "memberCount": 50,
   "members": [
     {
       "tag": "#YRQJPR0Y9",
@@ -68,6 +68,17 @@
       "trophies": 522,
       "donations": 32,
       "donationsReceived": 78,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#Q0VJ9U2GL",
+      "name": "emmaelish021",
+      "role": "member",
+      "th": 16,
+      "expLevel": 173,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -329,7 +340,7 @@
       "role": "admin",
       "th": 12,
       "expLevel": 74,
-      "trophies": 214,
+      "trophies": 244,
       "donations": 72,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -515,7 +526,7 @@
       "name": "sjd_emd",
       "role": "admin",
       "th": 13,
-      "expLevel": 100,
+      "expLevel": 101,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 292,
