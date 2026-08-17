@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "capturedAt": "2026-08-17T16:36:25.573Z",
+  "capturedAt": "2026-08-17T17:33:59.114Z",
   "clanLevel": 6,
   "memberCount": 50,
   "members": [
@@ -209,7 +209,7 @@
       "th": 13,
       "expLevel": 111,
       "trophies": 0,
-      "donations": 0,
+      "donations": 45,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -262,10 +262,10 @@
       "name": "Gobinath.N",
       "role": "admin",
       "th": 13,
-      "expLevel": 113,
+      "expLevel": 114,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 275,
+      "donationsReceived": 320,
       "capitalContributions": 0
     },
     {
@@ -548,7 +548,7 @@
       "name": "jimmy",
       "role": "admin",
       "th": 12,
-      "expLevel": 105,
+      "expLevel": 106,
       "trophies": 0,
       "donations": 30,
       "donationsReceived": 0,
