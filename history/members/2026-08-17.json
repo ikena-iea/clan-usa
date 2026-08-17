@@ -1,8 +1,8 @@
 {
   "date": "2026-08-17",
-  "capturedAt": "2026-08-17T12:58:07.058Z",
+  "capturedAt": "2026-08-17T13:47:57.773Z",
   "clanLevel": 6,
-  "memberCount": 49,
+  "memberCount": 50,
   "members": [
     {
       "tag": "#YRQJPR0Y9",
@@ -111,7 +111,7 @@
       "expLevel": 147,
       "trophies": 0,
       "donations": 254,
-      "donationsReceived": 930,
+      "donationsReceived": 975,
       "capitalContributions": 0
     },
     {
@@ -197,6 +197,17 @@
       "role": "member",
       "th": 13,
       "expLevel": 149,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#Q8P8R8UQQ",
+      "name": "vale",
+      "role": "member",
+      "th": 13,
+      "expLevel": 111,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -528,7 +539,7 @@
       "th": 18,
       "expLevel": 239,
       "trophies": 0,
-      "donations": 30,
+      "donations": 75,
       "donationsReceived": 460,
       "capitalContributions": 0
     },
