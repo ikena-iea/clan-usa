@@ -1,8 +1,8 @@
 {
   "date": "2026-08-17",
-  "capturedAt": "2026-08-17T20:35:07.530Z",
+  "capturedAt": "2026-08-17T21:32:35.003Z",
   "clanLevel": 6,
-  "memberCount": 50,
+  "memberCount": 49,
   "members": [
     {
       "tag": "#YRQJPR0Y9",
@@ -203,17 +203,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#Q8P8R8UQQ",
-      "name": "vale",
-      "role": "member",
-      "th": 13,
-      "expLevel": 111,
-      "trophies": 0,
-      "donations": 117,
-      "donationsReceived": 2,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#G80PQRPUV",
       "name": "sammy2720",
       "role": "admin",
@@ -233,6 +222,17 @@
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#P02U2U9GC",
+      "name": "Diego",
+      "role": "admin",
+      "th": 13,
+      "expLevel": 145,
+      "trophies": 40,
+      "donations": 2,
+      "donationsReceived": 1302,
       "capitalContributions": 0
     },
     {
@@ -277,17 +277,6 @@
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#P02U2U9GC",
-      "name": "Diego",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 145,
-      "trophies": 0,
-      "donations": 2,
-      "donationsReceived": 1260,
       "capitalContributions": 0
     },
     {
@@ -350,9 +339,9 @@
       "name": "damiano",
       "role": "member",
       "th": 12,
-      "expLevel": 127,
+      "expLevel": 128,
       "trophies": 320,
-      "donations": 113,
+      "donations": 155,
       "donationsReceived": 216,
       "capitalContributions": 0
     },
