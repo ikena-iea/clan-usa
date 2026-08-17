@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "capturedAt": "2026-08-17T18:50:22.322Z",
+  "capturedAt": "2026-08-17T19:34:12.049Z",
   "clanLevel": 6,
   "memberCount": 50,
   "members": [
@@ -142,7 +142,7 @@
       "role": "member",
       "th": 13,
       "expLevel": 125,
-      "trophies": 148,
+      "trophies": 156,
       "donations": 67,
       "donationsReceived": 77,
       "capitalContributions": 0
@@ -209,7 +209,7 @@
       "th": 13,
       "expLevel": 111,
       "trophies": 0,
-      "donations": 45,
+      "donations": 117,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -346,14 +346,14 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#GVV89RJYQ",
-      "name": "DevilIguana",
-      "role": "coLeader",
+      "tag": "#YUPP00GUU",
+      "name": "damiano",
+      "role": "member",
       "th": 12,
-      "expLevel": 96,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
+      "expLevel": 127,
+      "trophies": 40,
+      "donations": 111,
+      "donationsReceived": 216,
       "capitalContributions": 0
     },
     {
@@ -362,20 +362,20 @@
       "role": "admin",
       "th": 11,
       "expLevel": 86,
-      "trophies": 0,
+      "trophies": 29,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
-      "tag": "#YUPP00GUU",
-      "name": "damiano",
-      "role": "member",
+      "tag": "#GVV89RJYQ",
+      "name": "DevilIguana",
+      "role": "coLeader",
       "th": 12,
-      "expLevel": 127,
+      "expLevel": 96,
       "trophies": 0,
-      "donations": 111,
-      "donationsReceived": 144,
+      "donations": 0,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
