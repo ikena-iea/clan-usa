@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "capturedAt": "2026-08-17T17:33:59.114Z",
+  "capturedAt": "2026-08-17T18:50:22.322Z",
   "clanLevel": 6,
   "memberCount": 50,
   "members": [
@@ -98,8 +98,8 @@
       "role": "admin",
       "th": 15,
       "expLevel": 136,
-      "trophies": 0,
-      "donations": 255,
+      "trophies": 25,
+      "donations": 300,
       "donationsReceived": 157,
       "capitalContributions": 0
     },
@@ -111,7 +111,7 @@
       "expLevel": 147,
       "trophies": 0,
       "donations": 254,
-      "donationsReceived": 975,
+      "donationsReceived": 978,
       "capitalContributions": 0
     },
     {
@@ -137,6 +137,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GCCJ999UR",
+      "name": "ibis",
+      "role": "member",
+      "th": 13,
+      "expLevel": 125,
+      "trophies": 148,
+      "donations": 67,
+      "donationsReceived": 77,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#GGRR02GLG",
       "name": "jude",
       "role": "admin",
@@ -145,17 +156,6 @@
       "trophies": 0,
       "donations": 245,
       "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GCCJ999UR",
-      "name": "ibis",
-      "role": "member",
-      "th": 13,
-      "expLevel": 125,
-      "trophies": 0,
-      "donations": 2,
-      "donationsReceived": 77,
       "capitalContributions": 0
     },
     {
@@ -175,7 +175,7 @@
       "role": "admin",
       "th": 14,
       "expLevel": 150,
-      "trophies": 0,
+      "trophies": 21,
       "donations": 42,
       "donationsReceived": 156,
       "capitalContributions": 0
@@ -298,7 +298,7 @@
       "expLevel": 89,
       "trophies": 0,
       "donations": 45,
-      "donationsReceived": 481,
+      "donationsReceived": 516,
       "capitalContributions": 0
     },
     {
@@ -340,7 +340,7 @@
       "role": "admin",
       "th": 12,
       "expLevel": 74,
-      "trophies": 0,
+      "trophies": 15,
       "donations": 72,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -375,7 +375,7 @@
       "expLevel": 127,
       "trophies": 0,
       "donations": 111,
-      "donationsReceived": 72,
+      "donationsReceived": 144,
       "capitalContributions": 0
     },
     {
@@ -427,7 +427,7 @@
       "name": "100 days",
       "role": "coLeader",
       "th": 7,
-      "expLevel": 34,
+      "expLevel": 35,
       "trophies": 0,
       "donations": 69,
       "donationsReceived": 20,
