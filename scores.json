@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T04:51:54.508Z",
+  "generatedAt": "2026-08-17T05:40:49.732Z",
   "snapshotDate": "2026-08-17",
   "snapshotsAvailable": 21,
   "raidWeekendsAvailable": 4,
@@ -1214,6 +1214,39 @@
       }
     },
     {
+      "tag": "#GCCJ999UR",
+      "name": "ibis",
+      "role": "member",
+      "th": 13,
+      "firstSeen": "2026-08-16",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 13,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#GGRR02GLG",
       "name": "jude",
       "role": "admin",
@@ -1243,39 +1276,6 @@
         },
         "available": 4,
         "used": 4,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#GCCJ999UR",
-      "name": "ibis",
-      "role": "member",
-      "th": 13,
-      "firstSeen": "2026-08-16",
-      "daysPresent": 1,
-      "inGrace": true,
-      "gracePeriodEndsIn": 13,
-      "warsJoined": 0,
-      "warsTotal": 13,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
         "misses": 0,
         "tier": null
       }

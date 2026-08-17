@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "capturedAt": "2026-08-17T04:51:54.044Z",
+  "capturedAt": "2026-08-17T05:40:40.909Z",
   "clanLevel": 6,
   "memberCount": 50,
   "members": [
@@ -115,6 +115,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#QLV80QQCY",
+      "name": "THE ROCK",
+      "role": "member",
+      "th": 14,
+      "expLevel": 147,
+      "trophies": 0,
+      "donations": 145,
+      "donationsReceived": 882,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#2QJYQ20UG",
       "name": "Lucifer分",
       "role": "admin",
@@ -126,17 +137,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#QLV80QQCY",
-      "name": "THE ROCK",
-      "role": "member",
-      "th": 14,
-      "expLevel": 147,
-      "trophies": 425,
-      "donations": 145,
-      "donationsReceived": 882,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#R292L228Q",
       "name": "Ikena",
       "role": "coLeader",
@@ -144,17 +144,6 @@
       "expLevel": 111,
       "trophies": 385,
       "donations": 200,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GGRR02GLG",
-      "name": "jude",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 109,
-      "trophies": 331,
-      "donations": 245,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -178,6 +167,17 @@
       "trophies": 67,
       "donations": 0,
       "donationsReceived": 77,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#GGRR02GLG",
+      "name": "jude",
+      "role": "admin",
+      "th": 13,
+      "expLevel": 109,
+      "trophies": 0,
+      "donations": 245,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -302,6 +302,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#PJ22QYY22",
+      "name": "thegodlynoob",
+      "role": "admin",
+      "th": 11,
+      "expLevel": 85,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#P02U2U9GC",
       "name": "Diego",
       "role": "admin",
@@ -310,17 +321,6 @@
       "trophies": 419,
       "donations": 2,
       "donationsReceived": 1260,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#PJ22QYY22",
-      "name": "thegodlynoob",
-      "role": "admin",
-      "th": 11,
-      "expLevel": 85,
-      "trophies": 255,
-      "donations": 0,
-      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
