@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "capturedAt": "2026-08-17T19:34:12.049Z",
+  "capturedAt": "2026-08-17T20:35:07.530Z",
   "clanLevel": 6,
   "memberCount": 50,
   "members": [
@@ -76,7 +76,7 @@
       "role": "member",
       "th": 16,
       "expLevel": 173,
-      "trophies": 0,
+      "trophies": 13,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -175,7 +175,7 @@
       "role": "admin",
       "th": 14,
       "expLevel": 150,
-      "trophies": 21,
+      "trophies": 61,
       "donations": 42,
       "donationsReceived": 156,
       "capitalContributions": 0
@@ -210,7 +210,7 @@
       "expLevel": 111,
       "trophies": 0,
       "donations": 117,
-      "donationsReceived": 0,
+      "donationsReceived": 2,
       "capitalContributions": 0
     },
     {
@@ -273,7 +273,7 @@
       "name": "dennis jiang",
       "role": "member",
       "th": 13,
-      "expLevel": 58,
+      "expLevel": 59,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -284,7 +284,7 @@
       "name": "Diego",
       "role": "admin",
       "th": 13,
-      "expLevel": 144,
+      "expLevel": 145,
       "trophies": 0,
       "donations": 2,
       "donationsReceived": 1260,
@@ -299,6 +299,17 @@
       "trophies": 0,
       "donations": 45,
       "donationsReceived": 516,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#R8GPLGRVQ",
+      "name": "LegitN00b98",
+      "role": "admin",
+      "th": 12,
+      "expLevel": 85,
+      "trophies": 29,
+      "donations": 3,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -324,17 +335,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#R8GPLGRVQ",
-      "name": "LegitN00b98",
-      "role": "admin",
-      "th": 12,
-      "expLevel": 85,
-      "trophies": 0,
-      "donations": 3,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#QVPQ8G2VQ",
       "name": "your mom",
       "role": "admin",
@@ -351,8 +351,8 @@
       "role": "member",
       "th": 12,
       "expLevel": 127,
-      "trophies": 40,
-      "donations": 111,
+      "trophies": 320,
+      "donations": 113,
       "donationsReceived": 216,
       "capitalContributions": 0
     },
