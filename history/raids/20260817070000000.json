@@ -1,0 +1,187 @@
+{
+  "id": "20260817070000000",
+  "startTime": "20260814T070000.000Z",
+  "endTime": "20260817T070000.000Z",
+  "offensiveReward": 84,
+  "defensiveReward": 58,
+  "clanMedianLootPerAttack": 1551,
+  "members": [
+    {
+      "tag": "#YRQJPR0Y9",
+      "name": "cary",
+      "attacksUsed": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "looted": 8888
+    },
+    {
+      "tag": "#QVPQ8G2VQ",
+      "name": "your mom",
+      "attacksUsed": 5,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "looted": 7346
+    },
+    {
+      "tag": "#QLV80QQCY",
+      "name": "THE ROCK",
+      "attacksUsed": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "looted": 8469
+    },
+    {
+      "tag": "#GPC8J2YLY",
+      "name": "IDONTKNOW",
+      "attacksUsed": 2,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "looted": 2865
+    },
+    {
+      "tag": "#L0YPL82UJ",
+      "name": "Chikhladze",
+      "attacksUsed": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "looted": 8730
+    },
+    {
+      "tag": "#PJ22QYY22",
+      "name": "thegodlynoob",
+      "attacksUsed": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "looted": 10915
+    },
+    {
+      "tag": "#R2JRVJG0U",
+      "name": "100 days",
+      "attacksUsed": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "looted": 10212
+    },
+    {
+      "tag": "#Q8QPY2L2",
+      "name": "Aaron",
+      "attacksUsed": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "looted": 10393
+    },
+    {
+      "tag": "#GYC8Q2R20",
+      "name": "lucky",
+      "attacksUsed": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "looted": 9305
+    },
+    {
+      "tag": "#GVV89RJYQ",
+      "name": "DevilIguana",
+      "attacksUsed": 2,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "looted": 1710
+    },
+    {
+      "tag": "#R292L228Q",
+      "name": "Ikena",
+      "attacksUsed": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "looted": 12859
+    },
+    {
+      "tag": "#GJ2RRLRPL",
+      "name": "Royumi",
+      "attacksUsed": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "looted": 10665
+    },
+    {
+      "tag": "#GCPY2VGVU",
+      "name": "NBmeitei",
+      "attacksUsed": 5,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "looted": 6045
+    },
+    {
+      "tag": "#GCJV9GJ9U",
+      "name": "KHLIFE1",
+      "attacksUsed": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "looted": 9782
+    },
+    {
+      "tag": "#R8J082Y0J",
+      "name": "arroz",
+      "attacksUsed": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "looted": 10474
+    },
+    {
+      "tag": "#P02U2U9GC",
+      "name": "Diego",
+      "attacksUsed": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "looted": 7188
+    },
+    {
+      "tag": "#PGQVCVYPJ",
+      "name": "ben",
+      "attacksUsed": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "looted": 7024
+    },
+    {
+      "tag": "#R2RR9UJ8V",
+      "name": "X4FSHIN",
+      "attacksUsed": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "looted": 11807
+    },
+    {
+      "tag": "#R8GPLGRVQ",
+      "name": "LegitN00b98",
+      "attacksUsed": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "looted": 9790
+    },
+    {
+      "tag": "#R8PJY0U0J",
+      "name": "Didetz",
+      "attacksUsed": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "looted": 10359
+    },
+    {
+      "tag": "#GUPY8PLLP",
+      "name": "BEOX",
+      "attacksUsed": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "looted": 6620
+    },
+    {
+      "tag": "#GLUJVJGGV",
+      "name": "allis",
+      "attacksUsed": 2,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "looted": 2165
+    }
+  ],
+  "archivedAt": "2026-08-17T07:09:11.139Z"
+}

@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "capturedAt": "2026-08-17T05:40:40.909Z",
+  "capturedAt": "2026-08-17T07:09:10.735Z",
   "clanLevel": 6,
   "memberCount": 50,
   "members": [
@@ -32,7 +32,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 169,
-      "trophies": 333,
+      "trophies": 0,
       "donations": 142,
       "donationsReceived": 321,
       "capitalContributions": 0
@@ -54,7 +54,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 150,
-      "trophies": 382,
+      "trophies": 0,
       "donations": 212,
       "donationsReceived": 292,
       "capitalContributions": 0
@@ -65,8 +65,8 @@
       "role": "admin",
       "th": 15,
       "expLevel": 153,
-      "trophies": 522,
-      "donations": 32,
+      "trophies": 0,
+      "donations": 47,
       "donationsReceived": 78,
       "capitalContributions": 0
     },
@@ -109,7 +109,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 136,
-      "trophies": 181,
+      "trophies": 0,
       "donations": 255,
       "donationsReceived": 157,
       "capitalContributions": 0
@@ -126,6 +126,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#R292L228Q",
+      "name": "Ikena",
+      "role": "coLeader",
+      "th": 13,
+      "expLevel": 111,
+      "trophies": 0,
+      "donations": 200,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#2QJYQ20UG",
       "name": "Lucifer分",
       "role": "admin",
@@ -134,39 +145,6 @@
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#R292L228Q",
-      "name": "Ikena",
-      "role": "coLeader",
-      "th": 13,
-      "expLevel": 111,
-      "trophies": 385,
-      "donations": 200,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GCCJ999UR",
-      "name": "ibis",
-      "role": "member",
-      "th": 13,
-      "expLevel": 125,
-      "trophies": 287,
-      "donations": 0,
-      "donationsReceived": 77,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GPLRVGLGJ",
-      "name": "elf00",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 124,
-      "trophies": 67,
-      "donations": 0,
-      "donationsReceived": 77,
       "capitalContributions": 0
     },
     {
@@ -181,14 +159,36 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GCCJ999UR",
+      "name": "ibis",
+      "role": "member",
+      "th": 13,
+      "expLevel": 125,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 77,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#GPLRVGLGJ",
+      "name": "elf00",
+      "role": "admin",
+      "th": 13,
+      "expLevel": 124,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 77,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#L0YPL82UJ",
       "name": "Chikhladze",
       "role": "admin",
       "th": 14,
       "expLevel": 150,
-      "trophies": 177,
+      "trophies": 0,
       "donations": 42,
-      "donationsReceived": 78,
+      "donationsReceived": 93,
       "capitalContributions": 0
     },
     {
@@ -230,7 +230,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 115,
-      "trophies": 363,
+      "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -241,18 +241,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 60,
-      "trophies": 40,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GCRRUUP82",
-      "name": "dennis jiang",
-      "role": "member",
-      "th": 13,
-      "expLevel": 58,
-      "trophies": 1,
+      "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -280,25 +269,36 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GCRRUUP82",
+      "name": "dennis jiang",
+      "role": "member",
+      "th": 13,
+      "expLevel": 58,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#P02U2U9GC",
+      "name": "Diego",
+      "role": "admin",
+      "th": 13,
+      "expLevel": 144,
+      "trophies": 0,
+      "donations": 2,
+      "donationsReceived": 1260,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#R988UUQVU",
       "name": "goku",
       "role": "member",
       "th": 12,
       "expLevel": 89,
-      "trophies": 340,
+      "trophies": 0,
       "donations": 0,
       "donationsReceived": 451,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#R8GPLGRVQ",
-      "name": "LegitN00b98",
-      "role": "admin",
-      "th": 12,
-      "expLevel": 85,
-      "trophies": 211,
-      "donations": 3,
-      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -313,24 +313,24 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#P02U2U9GC",
-      "name": "Diego",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 144,
-      "trophies": 419,
-      "donations": 2,
-      "donationsReceived": 1260,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#GYC8Q2R20",
       "name": "lucky",
       "role": "admin",
       "th": 11,
       "expLevel": 90,
-      "trophies": 252,
+      "trophies": 0,
       "donations": 37,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#R8GPLGRVQ",
+      "name": "LegitN00b98",
+      "role": "admin",
+      "th": 12,
+      "expLevel": 85,
+      "trophies": 0,
+      "donations": 3,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -340,31 +340,9 @@
       "role": "admin",
       "th": 12,
       "expLevel": 74,
-      "trophies": 244,
+      "trophies": 0,
       "donations": 72,
       "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GGQ80JRJ0",
-      "name": "hartymate",
-      "role": "admin",
-      "th": 11,
-      "expLevel": 86,
-      "trophies": 68,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GLUJVJGGV",
-      "name": "allis",
-      "role": "admin",
-      "th": 10,
-      "expLevel": 85,
-      "trophies": 47,
-      "donations": 0,
-      "donationsReceived": 131,
       "capitalContributions": 0
     },
     {
@@ -379,6 +357,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GGQ80JRJ0",
+      "name": "hartymate",
+      "role": "admin",
+      "th": 11,
+      "expLevel": 86,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#YUPP00GUU",
       "name": "damiano",
       "role": "member",
@@ -387,6 +376,17 @@
       "trophies": 0,
       "donations": 111,
       "donationsReceived": 72,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#GLUJVJGGV",
+      "name": "allis",
+      "role": "admin",
+      "th": 10,
+      "expLevel": 85,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 131,
       "capitalContributions": 0
     },
     {
@@ -417,7 +417,7 @@
       "role": "admin",
       "th": 9,
       "expLevel": 60,
-      "trophies": 307,
+      "trophies": 0,
       "donations": 0,
       "donationsReceived": 125,
       "capitalContributions": 0
