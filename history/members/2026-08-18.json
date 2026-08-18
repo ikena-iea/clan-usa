@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "capturedAt": "2026-08-18T07:46:35.944Z",
+  "capturedAt": "2026-08-18T08:47:10.303Z",
   "clanLevel": 6,
   "memberCount": 50,
   "members": [
@@ -120,7 +120,7 @@
       "role": "member",
       "th": 14,
       "expLevel": 147,
-      "trophies": 40,
+      "trophies": 69,
       "donations": 254,
       "donationsReceived": 1023,
       "capitalContributions": 0
@@ -153,7 +153,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 109,
-      "trophies": 0,
+      "trophies": 12,
       "donations": 280,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -203,22 +203,22 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#G80PQRPUV",
-      "name": "sammy2720",
+      "tag": "#GUPY8PLLP",
+      "name": "BEOX",
       "role": "admin",
       "th": 13,
-      "expLevel": 84,
-      "trophies": 0,
+      "expLevel": 116,
+      "trophies": 29,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
-      "tag": "#GUPY8PLLP",
-      "name": "BEOX",
+      "tag": "#G80PQRPUV",
+      "name": "sammy2720",
       "role": "admin",
       "th": 13,
-      "expLevel": 115,
+      "expLevel": 84,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -307,7 +307,7 @@
       "role": "admin",
       "th": 11,
       "expLevel": 86,
-      "trophies": 153,
+      "trophies": 170,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
