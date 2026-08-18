@@ -1,8 +1,8 @@
 {
   "date": "2026-08-18",
-  "capturedAt": "2026-08-18T21:31:02.412Z",
+  "capturedAt": "2026-08-18T22:31:33.198Z",
   "clanLevel": 6,
-  "memberCount": 50,
+  "memberCount": 49,
   "members": [
     {
       "tag": "#YRQJPR0Y9",
@@ -65,7 +65,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 154,
-      "trophies": 25,
+      "trophies": 34,
       "donations": 72,
       "donationsReceived": 78,
       "capitalContributions": 0
@@ -76,7 +76,7 @@
       "role": "admin",
       "th": 16,
       "expLevel": 173,
-      "trophies": 53,
+      "trophies": 62,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -123,17 +123,6 @@
       "trophies": 82,
       "donations": 254,
       "donationsReceived": 1116,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GCCJ999UR",
-      "name": "ibis",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 125,
-      "trophies": 191,
-      "donations": 67,
-      "donationsReceived": 77,
       "capitalContributions": 0
     },
     {
@@ -507,7 +496,7 @@
       "expLevel": 146,
       "trophies": 0,
       "donations": 106,
-      "donationsReceived": 184,
+      "donationsReceived": 204,
       "capitalContributions": 0
     },
     {

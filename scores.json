@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T21:31:02.880Z",
+  "generatedAt": "2026-08-18T22:31:41.488Z",
   "snapshotDate": "2026-08-18",
   "snapshotsAvailable": 22,
   "raidWeekendsAvailable": 4,
@@ -1197,39 +1197,6 @@
           "donations": 100,
           "raids": 100,
           "contributions": 0
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#GCCJ999UR",
-      "name": "ibis",
-      "role": "admin",
-      "th": 13,
-      "firstSeen": "2026-08-16",
-      "daysPresent": 2,
-      "inGrace": true,
-      "gracePeriodEndsIn": 12,
-      "warsJoined": 0,
-      "warsTotal": 13,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 100,
-          "raids": null,
-          "contributions": null
         },
         "tier": null
       },
