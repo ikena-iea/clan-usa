@@ -1,8 +1,8 @@
 {
   "date": "2026-08-18",
-  "capturedAt": "2026-08-18T01:42:39.978Z",
+  "capturedAt": "2026-08-18T03:02:48.709Z",
   "clanLevel": 6,
-  "memberCount": 49,
+  "memberCount": 50,
   "members": [
     {
       "tag": "#YRQJPR0Y9",
@@ -104,6 +104,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#R292L228Q",
+      "name": "Ikena",
+      "role": "coLeader",
+      "th": 13,
+      "expLevel": 112,
+      "trophies": 267,
+      "donations": 200,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#QLV80QQCY",
       "name": "THE ROCK",
       "role": "member",
@@ -112,17 +123,6 @@
       "trophies": 40,
       "donations": 254,
       "donationsReceived": 1023,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#R292L228Q",
-      "name": "Ikena",
-      "role": "coLeader",
-      "th": 13,
-      "expLevel": 112,
-      "trophies": 0,
-      "donations": 200,
-      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -302,6 +302,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#PJ22QYY22",
+      "name": "thegodlynoob",
+      "role": "admin",
+      "th": 11,
+      "expLevel": 86,
+      "trophies": 153,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#R8GPLGRVQ",
       "name": "LegitN00b98",
       "role": "admin",
@@ -309,17 +320,6 @@
       "expLevel": 85,
       "trophies": 29,
       "donations": 3,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#PJ22QYY22",
-      "name": "thegodlynoob",
-      "role": "admin",
-      "th": 11,
-      "expLevel": 85,
-      "trophies": 0,
-      "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -362,7 +362,7 @@
       "role": "admin",
       "th": 11,
       "expLevel": 86,
-      "trophies": 29,
+      "trophies": 60,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -464,6 +464,17 @@
       "trophies": 0,
       "donations": 169,
       "donationsReceived": 175,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#92YPYVYLG",
+      "name": "Clasher",
+      "role": "member",
+      "th": 15,
+      "expLevel": 184,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
