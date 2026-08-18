@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T19:33:24.940Z",
+  "generatedAt": "2026-08-18T20:32:07.244Z",
   "snapshotDate": "2026-08-18",
   "snapshotsAvailable": 22,
   "raidWeekendsAvailable": 4,
@@ -574,6 +574,40 @@
       }
     },
     {
+      "tag": "#G80PQRPUV",
+      "name": "sammy2720",
+      "role": "admin",
+      "th": 13,
+      "firstSeen": "2026-07-29",
+      "daysPresent": 20,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 2,
+      "warsTotal": 13,
+      "clan": {
+        "total": 40.5,
+        "pillars": {
+          "donations": 16,
+          "raids": 98,
+          "contributions": 0
+        },
+        "tier": "Uncommon"
+      },
+      "war": {
+        "total": 25,
+        "status": null,
+        "cap": "Uncommon",
+        "pillars": {
+          "reliability": 25,
+          "performance": null
+        },
+        "available": 4,
+        "used": 0,
+        "misses": 4,
+        "tier": "Common"
+      }
+    },
+    {
       "tag": "#R8J082Y0J",
       "name": "arroz",
       "role": "admin",
@@ -639,40 +673,6 @@
         "used": 8,
         "misses": 2,
         "tier": "Rare"
-      }
-    },
-    {
-      "tag": "#G80PQRPUV",
-      "name": "sammy2720",
-      "role": "admin",
-      "th": 13,
-      "firstSeen": "2026-07-29",
-      "daysPresent": 20,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 2,
-      "warsTotal": 13,
-      "clan": {
-        "total": 34.2,
-        "pillars": {
-          "donations": 0,
-          "raids": 98,
-          "contributions": 0
-        },
-        "tier": "Common"
-      },
-      "war": {
-        "total": 25,
-        "status": null,
-        "cap": "Uncommon",
-        "pillars": {
-          "reliability": 25,
-          "performance": null
-        },
-        "available": 4,
-        "used": 0,
-        "misses": 4,
-        "tier": "Common"
       }
     },
     {
