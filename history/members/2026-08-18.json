@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "capturedAt": "2026-08-18T04:42:57.146Z",
+  "capturedAt": "2026-08-18T05:35:54.404Z",
   "clanLevel": 6,
   "memberCount": 50,
   "members": [
@@ -65,7 +65,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 153,
-      "trophies": 0,
+      "trophies": 25,
       "donations": 57,
       "donationsReceived": 78,
       "capitalContributions": 0
@@ -76,7 +76,7 @@
       "role": "admin",
       "th": 16,
       "expLevel": 173,
-      "trophies": 13,
+      "trophies": 53,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -340,7 +340,7 @@
       "role": "admin",
       "th": 12,
       "expLevel": 74,
-      "trophies": 15,
+      "trophies": 34,
       "donations": 115,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -357,23 +357,23 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GVV89RJYQ",
+      "name": "DevilIguana",
+      "role": "coLeader",
+      "th": 12,
+      "expLevel": 96,
+      "trophies": 82,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#GGQ80JRJ0",
       "name": "hartymate",
       "role": "admin",
       "th": 11,
       "expLevel": 86,
       "trophies": 60,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GVV89RJYQ",
-      "name": "DevilIguana",
-      "role": "coLeader",
-      "th": 12,
-      "expLevel": 96,
-      "trophies": 53,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
