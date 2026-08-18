@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "capturedAt": "2026-08-18T05:35:54.404Z",
+  "capturedAt": "2026-08-18T06:56:24.331Z",
   "clanLevel": 6,
   "memberCount": 50,
   "members": [
@@ -64,7 +64,7 @@
       "name": "NBmeitei",
       "role": "admin",
       "th": 15,
-      "expLevel": 153,
+      "expLevel": 154,
       "trophies": 25,
       "donations": 57,
       "donationsReceived": 78,
@@ -98,7 +98,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 136,
-      "trophies": 25,
+      "trophies": 45,
       "donations": 300,
       "donationsReceived": 157,
       "capitalContributions": 0
@@ -428,7 +428,7 @@
       "role": "coLeader",
       "th": 7,
       "expLevel": 35,
-      "trophies": 40,
+      "trophies": 80,
       "donations": 69,
       "donationsReceived": 20,
       "capitalContributions": 0
