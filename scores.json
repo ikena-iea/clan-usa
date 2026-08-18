@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T03:02:49.170Z",
+  "generatedAt": "2026-08-18T04:42:57.798Z",
   "snapshotDate": "2026-08-18",
   "snapshotsAvailable": 22,
   "raidWeekendsAvailable": 4,
@@ -131,6 +131,40 @@
         "used": 9,
         "misses": 0,
         "tier": "Rare"
+      }
+    },
+    {
+      "tag": "#R8GPLGRVQ",
+      "name": "LegitN00b98",
+      "role": "admin",
+      "th": 12,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 21,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 11,
+      "warsTotal": 13,
+      "clan": {
+        "total": 74.7,
+        "pillars": {
+          "donations": 100,
+          "raids": 99,
+          "contributions": 0
+        },
+        "tier": "Epic"
+      },
+      "war": {
+        "total": 91,
+        "status": null,
+        "cap": null,
+        "pillars": {
+          "reliability": 100,
+          "performance": 78
+        },
+        "available": 10,
+        "used": 10,
+        "misses": 0,
+        "tier": "Legendary"
       }
     },
     {
@@ -266,40 +300,6 @@
         "used": 2,
         "misses": 0,
         "tier": null
-      }
-    },
-    {
-      "tag": "#R8GPLGRVQ",
-      "name": "LegitN00b98",
-      "role": "admin",
-      "th": 12,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 21,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 11,
-      "warsTotal": 13,
-      "clan": {
-        "total": 71.2,
-        "pillars": {
-          "donations": 91,
-          "raids": 99,
-          "contributions": 0
-        },
-        "tier": "Epic"
-      },
-      "war": {
-        "total": 91,
-        "status": null,
-        "cap": null,
-        "pillars": {
-          "reliability": 100,
-          "performance": 78
-        },
-        "available": 10,
-        "used": 10,
-        "misses": 0,
-        "tier": "Legendary"
       }
     },
     {
@@ -1393,7 +1393,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 3,
+          "donations": 100,
           "raids": 93,
           "contributions": 0
         },
