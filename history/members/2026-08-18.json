@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "capturedAt": "2026-08-18T20:32:06.768Z",
+  "capturedAt": "2026-08-18T21:31:02.412Z",
   "clanLevel": 6,
   "memberCount": 50,
   "members": [
@@ -66,7 +66,7 @@
       "th": 15,
       "expLevel": 154,
       "trophies": 25,
-      "donations": 57,
+      "donations": 72,
       "donationsReceived": 78,
       "capitalContributions": 0
     },
@@ -86,7 +86,7 @@
       "name": "HowardX",
       "role": "admin",
       "th": 16,
-      "expLevel": 78,
+      "expLevel": 79,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -122,18 +122,7 @@
       "expLevel": 148,
       "trophies": 82,
       "donations": 254,
-      "donationsReceived": 1071,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#2QJYQ20UG",
-      "name": "Lucifer分",
-      "role": "admin",
-      "th": 15,
-      "expLevel": 177,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
+      "donationsReceived": 1116,
       "capitalContributions": 0
     },
     {
@@ -175,7 +164,7 @@
       "role": "admin",
       "th": 14,
       "expLevel": 150,
-      "trophies": 90,
+      "trophies": 108,
       "donations": 42,
       "donationsReceived": 156,
       "capitalContributions": 0
@@ -496,6 +485,17 @@
       "expLevel": 27,
       "trophies": 0,
       "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#2QJYQ20UG",
+      "name": "Lucifer分",
+      "role": "admin",
+      "th": 15,
+      "expLevel": 177,
+      "trophies": 0,
+      "donations": 30,
       "donationsReceived": 0,
       "capitalContributions": 0
     },

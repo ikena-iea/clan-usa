@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T20:32:07.244Z",
+  "generatedAt": "2026-08-18T21:31:02.880Z",
   "snapshotDate": "2026-08-18",
   "snapshotsAvailable": 22,
   "raidWeekendsAvailable": 4,
@@ -778,6 +778,39 @@
       }
     },
     {
+      "tag": "#2QJYQ20UG",
+      "name": "Lucifer分",
+      "role": "admin",
+      "th": 15,
+      "firstSeen": "2026-07-31",
+      "daysPresent": 18,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 0,
+      "warsTotal": 13,
+      "clan": {
+        "total": 12.5,
+        "pillars": {
+          "donations": 13,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": "Common"
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#QV08GJJQV",
       "name": "knuxyngYiudjdh",
       "role": "admin",
@@ -843,39 +876,6 @@
         "used": 2,
         "misses": 7,
         "tier": "Common"
-      }
-    },
-    {
-      "tag": "#2QJYQ20UG",
-      "name": "Lucifer分",
-      "role": "admin",
-      "th": 15,
-      "firstSeen": "2026-07-31",
-      "daysPresent": 18,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 0,
-      "warsTotal": 13,
-      "clan": {
-        "total": 0,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": "Common"
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
       }
     },
     {
@@ -1128,7 +1128,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 40,
+          "donations": 49,
           "raids": 95,
           "contributions": 0
         },
