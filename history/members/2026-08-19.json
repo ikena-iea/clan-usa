@@ -1,8 +1,8 @@
 {
   "date": "2026-08-19",
-  "capturedAt": "2026-08-19T14:41:20.335Z",
+  "capturedAt": "2026-08-19T15:38:39.007Z",
   "clanLevel": 6,
-  "memberCount": 50,
+  "memberCount": 49,
   "members": [
     {
       "tag": "#YRQJPR0Y9",
@@ -485,17 +485,6 @@
       "expLevel": 27,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#2QJYQ20UG",
-      "name": "Lucifer分",
-      "role": "admin",
-      "th": 15,
-      "expLevel": 177,
-      "trophies": 0,
-      "donations": 30,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
