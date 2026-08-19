@@ -1,6 +1,6 @@
 {
   "date": "2026-08-19",
-  "capturedAt": "2026-08-19T13:00:48.685Z",
+  "capturedAt": "2026-08-19T14:41:20.335Z",
   "clanLevel": 6,
   "memberCount": 50,
   "members": [
@@ -197,7 +197,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 116,
-      "trophies": 52,
+      "trophies": 82,
       "donations": 0,
       "donationsReceived": 77,
       "capitalContributions": 0
@@ -318,7 +318,7 @@
       "role": "admin",
       "th": 11,
       "expLevel": 91,
-      "trophies": 80,
+      "trophies": 88,
       "donations": 37,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -328,7 +328,7 @@
       "name": "your mom",
       "role": "admin",
       "th": 12,
-      "expLevel": 74,
+      "expLevel": 75,
       "trophies": 34,
       "donations": 115,
       "donationsReceived": 0,
@@ -357,6 +357,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GLUJVJGGV",
+      "name": "allis",
+      "role": "admin",
+      "th": 10,
+      "expLevel": 85,
+      "trophies": 63,
+      "donations": 0,
+      "donationsReceived": 131,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#GGQ80JRJ0",
       "name": "hartymate",
       "role": "admin",
@@ -365,17 +376,6 @@
       "trophies": 60,
       "donations": 0,
       "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GLUJVJGGV",
-      "name": "allis",
-      "role": "admin",
-      "th": 10,
-      "expLevel": 85,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 131,
       "capitalContributions": 0
     },
     {
