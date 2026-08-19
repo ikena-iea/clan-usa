@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T17:33:10.485Z",
+  "generatedAt": "2026-08-19T18:45:36.344Z",
   "snapshotDate": "2026-08-19",
   "snapshotsAvailable": 23,
   "raidWeekendsAvailable": 4,
@@ -415,9 +415,9 @@
       "warsJoined": 9,
       "warsTotal": 13,
       "clan": {
-        "total": 55.2,
+        "total": 61.3,
         "pillars": {
-          "donations": 72,
+          "donations": 88,
           "raids": 75,
           "contributions": 0
         },
@@ -1128,7 +1128,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 95,
+          "donations": 100,
           "raids": 95,
           "contributions": 0
         },
@@ -1243,39 +1243,6 @@
         },
         "available": 4,
         "used": 4,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#28YUPLGQ",
-      "name": "❤️urielop❤️",
-      "role": "member",
-      "th": 14,
-      "firstSeen": "2026-08-19",
-      "daysPresent": 1,
-      "inGrace": true,
-      "gracePeriodEndsIn": 13,
-      "warsJoined": 0,
-      "warsTotal": 13,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
         "misses": 0,
         "tier": null
       }
