@@ -1,6 +1,6 @@
 {
   "date": "2026-08-19",
-  "capturedAt": "2026-08-19T04:44:03.026Z",
+  "capturedAt": "2026-08-19T05:37:30.972Z",
   "clanLevel": 6,
   "memberCount": 49,
   "members": [
@@ -66,7 +66,7 @@
       "th": 15,
       "expLevel": 154,
       "trophies": 59,
-      "donations": 72,
+      "donations": 117,
       "donationsReceived": 78,
       "capitalContributions": 0
     },
@@ -280,6 +280,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#R8GPLGRVQ",
+      "name": "LegitN00b98",
+      "role": "admin",
+      "th": 12,
+      "expLevel": 86,
+      "trophies": 230,
+      "donations": 45,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#PJ22QYY22",
       "name": "thegodlynoob",
       "role": "admin",
@@ -287,17 +298,6 @@
       "expLevel": 86,
       "trophies": 183,
       "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#R8GPLGRVQ",
-      "name": "LegitN00b98",
-      "role": "admin",
-      "th": 12,
-      "expLevel": 85,
-      "trophies": 138,
-      "donations": 45,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -507,7 +507,7 @@
       "expLevel": 216,
       "trophies": 0,
       "donations": 95,
-      "donationsReceived": 50,
+      "donationsReceived": 95,
       "capitalContributions": 0
     },
     {
