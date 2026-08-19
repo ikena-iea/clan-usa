@@ -1,8 +1,8 @@
 {
   "date": "2026-08-19",
-  "capturedAt": "2026-08-19T08:47:32.634Z",
+  "capturedAt": "2026-08-19T09:41:16.404Z",
   "clanLevel": 6,
-  "memberCount": 49,
+  "memberCount": 50,
   "members": [
     {
       "tag": "#YRQJPR0Y9",
@@ -137,6 +137,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#28YUPLGQ",
+      "name": "❤️urielop❤️",
+      "role": "member",
+      "th": 14,
+      "expLevel": 145,
+      "trophies": 155,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#GPLRVGLGJ",
       "name": "elf00",
       "role": "admin",
@@ -196,7 +207,7 @@
       "name": "sammy2720",
       "role": "admin",
       "th": 13,
-      "expLevel": 84,
+      "expLevel": 85,
       "trophies": 0,
       "donations": 42,
       "donationsReceived": 0,
