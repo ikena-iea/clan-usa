@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T05:37:44.334Z",
+  "generatedAt": "2026-08-20T06:57:39.412Z",
   "snapshotDate": "2026-08-20",
   "snapshotsAvailable": 24,
   "raidWeekendsAvailable": 4,
@@ -266,39 +266,6 @@
         "used": 10,
         "misses": 0,
         "tier": "Legendary"
-      }
-    },
-    {
-      "tag": "#GCPY2VGVU",
-      "name": "NBmeitei",
-      "role": "admin",
-      "th": 15,
-      "firstSeen": "2026-08-06",
-      "daysPresent": 14,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 0,
-      "warsTotal": 13,
-      "clan": {
-        "total": 73.3,
-        "pillars": {
-          "donations": 100,
-          "raids": 95,
-          "contributions": 0
-        },
-        "tier": "Epic"
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
       }
     },
     {
