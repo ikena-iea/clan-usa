@@ -1,6 +1,6 @@
 {
   "date": "2026-08-20",
-  "capturedAt": "2026-08-20T15:40:47.783Z",
+  "capturedAt": "2026-08-20T16:42:15.402Z",
   "clanLevel": 6,
   "memberCount": 47,
   "members": [
@@ -55,7 +55,7 @@
       "th": 15,
       "expLevel": 151,
       "trophies": 163,
-      "donations": 212,
+      "donations": 259,
       "donationsReceived": 292,
       "capitalContributions": 0
     },
@@ -88,7 +88,7 @@
       "th": 15,
       "expLevel": 136,
       "trophies": 104,
-      "donations": 465,
+      "donations": 495,
       "donationsReceived": 157,
       "capitalContributions": 0
     },
@@ -175,7 +175,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 116,
-      "trophies": 82,
+      "trophies": 111,
       "donations": 0,
       "donationsReceived": 77,
       "capitalContributions": 0
@@ -199,7 +199,7 @@
       "expLevel": 145,
       "trophies": 159,
       "donations": 144,
-      "donationsReceived": 1480,
+      "donationsReceived": 1527,
       "capitalContributions": 0
     },
     {
@@ -265,7 +265,7 @@
       "expLevel": 89,
       "trophies": 0,
       "donations": 80,
-      "donationsReceived": 551,
+      "donationsReceived": 588,
       "capitalContributions": 0
     },
     {
@@ -340,8 +340,8 @@
       "role": "admin",
       "th": 10,
       "expLevel": 85,
-      "trophies": 63,
-      "donations": 0,
+      "trophies": 113,
+      "donations": 7,
       "donationsReceived": 197,
       "capitalContributions": 0
     },
@@ -361,7 +361,7 @@
       "name": "X4FSHIN",
       "role": "admin",
       "th": 11,
-      "expLevel": 80,
+      "expLevel": 81,
       "trophies": 0,
       "donations": 47,
       "donationsReceived": 0,
