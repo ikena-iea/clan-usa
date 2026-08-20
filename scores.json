@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T20:37:01.609Z",
+  "generatedAt": "2026-08-20T21:35:22.440Z",
   "snapshotDate": "2026-08-20",
   "snapshotsAvailable": 24,
   "raidWeekendsAvailable": 4,
@@ -381,9 +381,9 @@
       "warsJoined": 8,
       "warsTotal": 13,
       "clan": {
-        "total": 63,
+        "total": 64.1,
         "pillars": {
-          "donations": 89,
+          "donations": 92,
           "raids": 78,
           "contributions": 0
         },
@@ -435,6 +435,40 @@
         "used": 4,
         "misses": 6,
         "tier": "Uncommon"
+      }
+    },
+    {
+      "tag": "#G80PQRPUV",
+      "name": "sammy2720",
+      "role": "admin",
+      "th": 13,
+      "firstSeen": "2026-07-29",
+      "daysPresent": 22,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 2,
+      "warsTotal": 13,
+      "clan": {
+        "total": 55.4,
+        "pillars": {
+          "donations": 53,
+          "raids": 98,
+          "contributions": 0
+        },
+        "tier": "Rare"
+      },
+      "war": {
+        "total": 25,
+        "status": null,
+        "cap": "Uncommon",
+        "pillars": {
+          "reliability": 25,
+          "performance": null
+        },
+        "available": 4,
+        "used": 0,
+        "misses": 4,
+        "tier": "Common"
       }
     },
     {
@@ -502,40 +536,6 @@
         "used": 6,
         "misses": 4,
         "tier": "Uncommon"
-      }
-    },
-    {
-      "tag": "#G80PQRPUV",
-      "name": "sammy2720",
-      "role": "admin",
-      "th": 13,
-      "firstSeen": "2026-07-29",
-      "daysPresent": 22,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 2,
-      "warsTotal": 13,
-      "clan": {
-        "total": 46.2,
-        "pillars": {
-          "donations": 30,
-          "raids": 98,
-          "contributions": 0
-        },
-        "tier": "Uncommon"
-      },
-      "war": {
-        "total": 25,
-        "status": null,
-        "cap": "Uncommon",
-        "pillars": {
-          "reliability": 25,
-          "performance": null
-        },
-        "available": 4,
-        "used": 0,
-        "misses": 4,
-        "tier": "Common"
       }
     },
     {
