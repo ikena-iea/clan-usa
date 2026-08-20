@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T17:36:59.145Z",
+  "generatedAt": "2026-08-20T18:51:23.235Z",
   "snapshotDate": "2026-08-20",
   "snapshotsAvailable": 24,
   "raidWeekendsAvailable": 4,
@@ -505,6 +505,40 @@
       }
     },
     {
+      "tag": "#G80PQRPUV",
+      "name": "sammy2720",
+      "role": "admin",
+      "th": 13,
+      "firstSeen": "2026-07-29",
+      "daysPresent": 22,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 2,
+      "warsTotal": 13,
+      "clan": {
+        "total": 46.2,
+        "pillars": {
+          "donations": 30,
+          "raids": 98,
+          "contributions": 0
+        },
+        "tier": "Uncommon"
+      },
+      "war": {
+        "total": 25,
+        "status": null,
+        "cap": "Uncommon",
+        "pillars": {
+          "reliability": 25,
+          "performance": null
+        },
+        "available": 4,
+        "used": 0,
+        "misses": 4,
+        "tier": "Common"
+      }
+    },
+    {
       "tag": "#QRRV0R98R",
       "name": "BAMBANG ID",
       "role": "admin",
@@ -604,40 +638,6 @@
         "used": 10,
         "misses": 0,
         "tier": "Legendary"
-      }
-    },
-    {
-      "tag": "#G80PQRPUV",
-      "name": "sammy2720",
-      "role": "admin",
-      "th": 13,
-      "firstSeen": "2026-07-29",
-      "daysPresent": 22,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 2,
-      "warsTotal": 13,
-      "clan": {
-        "total": 39.9,
-        "pillars": {
-          "donations": 14,
-          "raids": 98,
-          "contributions": 0
-        },
-        "tier": "Common"
-      },
-      "war": {
-        "total": 25,
-        "status": null,
-        "cap": "Uncommon",
-        "pillars": {
-          "reliability": 25,
-          "performance": null
-        },
-        "available": 4,
-        "used": 0,
-        "misses": 4,
-        "tier": "Common"
       }
     },
     {
