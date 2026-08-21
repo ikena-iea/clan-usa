@@ -1,6 +1,6 @@
 {
   "date": "2026-08-21",
-  "capturedAt": "2026-08-21T14:42:48.317Z",
+  "capturedAt": "2026-08-21T15:40:55.215Z",
   "clanLevel": 6,
   "memberCount": 47,
   "members": [
@@ -284,7 +284,7 @@
       "name": "lucky",
       "role": "admin",
       "th": 11,
-      "expLevel": 91,
+      "expLevel": 92,
       "trophies": 206,
       "donations": 41,
       "donationsReceived": 0,
@@ -329,7 +329,7 @@
       "role": "coLeader",
       "th": 12,
       "expLevel": 97,
-      "trophies": 312,
+      "trophies": 352,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
