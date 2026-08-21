@@ -1,6 +1,6 @@
 {
   "date": "2026-08-21",
-  "capturedAt": "2026-08-21T16:42:13.185Z",
+  "capturedAt": "2026-08-21T17:36:15.501Z",
   "clanLevel": 6,
   "memberCount": 47,
   "members": [
@@ -86,9 +86,9 @@
       "name": "KHLIFE1",
       "role": "admin",
       "th": 15,
-      "expLevel": 136,
-      "trophies": 104,
-      "donations": 525,
+      "expLevel": 137,
+      "trophies": 118,
+      "donations": 570,
       "donationsReceived": 157,
       "capitalContributions": 0
     },
@@ -111,7 +111,7 @@
       "expLevel": 148,
       "trophies": 108,
       "donations": 363,
-      "donationsReceived": 1299,
+      "donationsReceived": 1344,
       "capitalContributions": 0
     },
     {
@@ -142,7 +142,7 @@
       "role": "admin",
       "th": 14,
       "expLevel": 151,
-      "trophies": 129,
+      "trophies": 169,
       "donations": 42,
       "donationsReceived": 279,
       "capitalContributions": 0
@@ -329,7 +329,7 @@
       "role": "coLeader",
       "th": 12,
       "expLevel": 97,
-      "trophies": 352,
+      "trophies": 381,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
