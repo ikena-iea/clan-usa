@@ -1,6 +1,6 @@
 {
   "date": "2026-08-21",
-  "capturedAt": "2026-08-21T01:48:57.540Z",
+  "capturedAt": "2026-08-21T03:10:18.834Z",
   "clanLevel": 6,
   "memberCount": 47,
   "members": [
@@ -121,7 +121,7 @@
       "th": 13,
       "expLevel": 109,
       "trophies": 12,
-      "donations": 366,
+      "donations": 372,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -198,8 +198,19 @@
       "th": 13,
       "expLevel": 145,
       "trophies": 159,
-      "donations": 264,
-      "donationsReceived": 1574,
+      "donations": 319,
+      "donationsReceived": 1621,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#R988UUQVU",
+      "name": "goku",
+      "role": "admin",
+      "th": 12,
+      "expLevel": 90,
+      "trophies": 4,
+      "donations": 110,
+      "donationsReceived": 625,
       "capitalContributions": 0
     },
     {
@@ -255,17 +266,6 @@
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#R988UUQVU",
-      "name": "goku",
-      "role": "admin",
-      "th": 12,
-      "expLevel": 89,
-      "trophies": 0,
-      "donations": 80,
-      "donationsReceived": 588,
       "capitalContributions": 0
     },
     {
@@ -496,7 +496,7 @@
       "expLevel": 102,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 414,
+      "donationsReceived": 489,
       "capitalContributions": 0
     },
     {
@@ -506,8 +506,8 @@
       "th": 18,
       "expLevel": 239,
       "trophies": 0,
-      "donations": 220,
-      "donationsReceived": 570,
+      "donations": 347,
+      "donationsReceived": 629,
       "capitalContributions": 0
     },
     {
