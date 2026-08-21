@@ -1,6 +1,6 @@
 {
   "date": "2026-08-21",
-  "capturedAt": "2026-08-21T20:33:03.672Z",
+  "capturedAt": "2026-08-21T21:31:43.468Z",
   "clanLevel": 6,
   "memberCount": 47,
   "members": [
@@ -55,7 +55,7 @@
       "th": 15,
       "expLevel": 151,
       "trophies": 163,
-      "donations": 259,
+      "donations": 295,
       "donationsReceived": 292,
       "capitalContributions": 0
     },
@@ -163,7 +163,7 @@
       "name": "Big dog",
       "role": "member",
       "th": 13,
-      "expLevel": 149,
+      "expLevel": 150,
       "trophies": 0,
       "donations": 85,
       "donationsReceived": 0,
@@ -188,7 +188,7 @@
       "expLevel": 86,
       "trophies": 0,
       "donations": 155,
-      "donationsReceived": 264,
+      "donationsReceived": 300,
       "capitalContributions": 0
     },
     {
@@ -384,7 +384,7 @@
       "role": "admin",
       "th": 9,
       "expLevel": 61,
-      "trophies": 19,
+      "trophies": 27,
       "donations": 0,
       "donationsReceived": 125,
       "capitalContributions": 0
