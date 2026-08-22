@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "capturedAt": "2026-08-22T05:34:05.094Z",
+  "capturedAt": "2026-08-22T06:52:48.025Z",
   "clanLevel": 6,
   "memberCount": 46,
   "members": [
@@ -199,7 +199,7 @@
       "expLevel": 90,
       "trophies": 34,
       "donations": 168,
-      "donationsReceived": 625,
+      "donationsReceived": 662,
       "capitalContributions": 0
     },
     {
@@ -296,7 +296,7 @@
       "role": "admin",
       "th": 12,
       "expLevel": 76,
-      "trophies": 34,
+      "trophies": 63,
       "donations": 160,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -418,7 +418,7 @@
       "th": 18,
       "expLevel": 255,
       "trophies": 0,
-      "donations": 235,
+      "donations": 280,
       "donationsReceived": 180,
       "capitalContributions": 0
     },
@@ -462,8 +462,8 @@
       "th": 13,
       "expLevel": 146,
       "trophies": 0,
-      "donations": 106,
-      "donationsReceived": 204,
+      "donations": 144,
+      "donationsReceived": 249,
       "capitalContributions": 0
     },
     {
@@ -482,7 +482,7 @@
       "name": "sjd_emd",
       "role": "admin",
       "th": 13,
-      "expLevel": 102,
+      "expLevel": 103,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 489,
@@ -496,7 +496,7 @@
       "expLevel": 239,
       "trophies": 0,
       "donations": 397,
-      "donationsReceived": 687,
+      "donationsReceived": 688,
       "capitalContributions": 0
     },
     {
