@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T17:27:17.518Z",
+  "generatedAt": "2026-08-22T18:40:21.100Z",
   "snapshotDate": "2026-08-22",
   "snapshotsAvailable": 26,
   "raidWeekendsAvailable": 4,
@@ -1282,7 +1282,7 @@
     {
       "tag": "#LGRC8CP9U",
       "name": "Big dog",
-      "role": "member",
+      "role": "admin",
       "th": 13,
       "firstSeen": "2026-08-14",
       "daysPresent": 8,

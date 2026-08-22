@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "capturedAt": "2026-08-22T17:27:16.876Z",
+  "capturedAt": "2026-08-22T18:40:20.688Z",
   "clanLevel": 6,
   "memberCount": 46,
   "members": [
@@ -108,7 +108,7 @@
       "name": "jude",
       "role": "admin",
       "th": 13,
-      "expLevel": 109,
+      "expLevel": 110,
       "trophies": 21,
       "donations": 372,
       "donationsReceived": 0,
@@ -150,7 +150,7 @@
     {
       "tag": "#LGRC8CP9U",
       "name": "Big dog",
-      "role": "member",
+      "role": "admin",
       "th": 13,
       "expLevel": 150,
       "trophies": 0,
