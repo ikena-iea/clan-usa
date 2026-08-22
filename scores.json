@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T08:39:07.086Z",
+  "generatedAt": "2026-08-22T09:34:14.414Z",
   "snapshotDate": "2026-08-22",
   "snapshotsAvailable": 26,
   "raidWeekendsAvailable": 4,
@@ -32,6 +32,39 @@
     "MIN_WAR_ATTACKS": 4
   },
   "members": [
+    {
+      "tag": "#G2G8R9RPC",
+      "name": "gangster1000000",
+      "role": "admin",
+      "th": 15,
+      "firstSeen": "2026-08-07",
+      "daysPresent": 15,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 0,
+      "warsTotal": 13,
+      "clan": {
+        "total": 100,
+        "pillars": {
+          "donations": 100,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": "Legendary"
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
     {
       "tag": "#GQUQV0PJV",
       "name": "mustafa",
@@ -119,39 +152,6 @@
           "contributions": null
         },
         "tier": "Legendary"
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#G2G8R9RPC",
-      "name": "gangster1000000",
-      "role": "admin",
-      "th": 15,
-      "firstSeen": "2026-08-07",
-      "daysPresent": 15,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 0,
-      "warsTotal": 13,
-      "clan": {
-        "total": 82.5,
-        "pillars": {
-          "donations": 83,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": "Epic"
       },
       "war": {
         "total": null,
