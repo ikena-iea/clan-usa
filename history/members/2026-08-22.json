@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "capturedAt": "2026-08-22T14:28:58.488Z",
+  "capturedAt": "2026-08-22T15:28:32.087Z",
   "clanLevel": 6,
   "memberCount": 46,
   "members": [
@@ -77,8 +77,19 @@
       "th": 15,
       "expLevel": 137,
       "trophies": 118,
-      "donations": 636,
+      "donations": 679,
       "donationsReceived": 157,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#QLV80QQCY",
+      "name": "THE ROCK",
+      "role": "member",
+      "th": 14,
+      "expLevel": 149,
+      "trophies": 302,
+      "donations": 394,
+      "donationsReceived": 1388,
       "capitalContributions": 0
     },
     {
@@ -90,17 +101,6 @@
       "trophies": 267,
       "donations": 200,
       "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#QLV80QQCY",
-      "name": "THE ROCK",
-      "role": "member",
-      "th": 14,
-      "expLevel": 149,
-      "trophies": 132,
-      "donations": 363,
-      "donationsReceived": 1344,
       "capitalContributions": 0
     },
     {
@@ -142,7 +142,7 @@
       "role": "leader",
       "th": 14,
       "expLevel": 100,
-      "trophies": 74,
+      "trophies": 84,
       "donations": 45,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -251,9 +251,9 @@
       "name": "dennis jiang",
       "role": "member",
       "th": 13,
-      "expLevel": 60,
+      "expLevel": 61,
       "trophies": 0,
-      "donations": 0,
+      "donations": 1,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -375,7 +375,7 @@
       "expLevel": 61,
       "trophies": 47,
       "donations": 0,
-      "donationsReceived": 125,
+      "donationsReceived": 156,
       "capitalContributions": 0
     },
     {
