@@ -1,6 +1,6 @@
 {
   "date": "2026-08-23",
-  "capturedAt": "2026-08-23T14:30:12.458Z",
+  "capturedAt": "2026-08-23T15:29:34.183Z",
   "clanLevel": 6,
   "memberCount": 46,
   "members": [
@@ -97,7 +97,7 @@
       "name": "Ikena",
       "role": "coLeader",
       "th": 13,
-      "expLevel": 113,
+      "expLevel": 114,
       "trophies": 267,
       "donations": 237,
       "donationsReceived": 0,
@@ -188,7 +188,7 @@
       "expLevel": 146,
       "trophies": 218,
       "donations": 319,
-      "donationsReceived": 1621,
+      "donationsReceived": 1668,
       "capitalContributions": 0
     },
     {
@@ -418,7 +418,7 @@
       "th": 18,
       "expLevel": 255,
       "trophies": 0,
-      "donations": 325,
+      "donations": 372,
       "donationsReceived": 180,
       "capitalContributions": 0
     },
