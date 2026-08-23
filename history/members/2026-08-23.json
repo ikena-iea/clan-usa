@@ -1,6 +1,6 @@
 {
   "date": "2026-08-23",
-  "capturedAt": "2026-08-23T01:52:16.092Z",
+  "capturedAt": "2026-08-23T03:10:45.153Z",
   "clanLevel": 6,
   "memberCount": 46,
   "members": [
@@ -54,7 +54,7 @@
       "role": "admin",
       "th": 16,
       "expLevel": 174,
-      "trophies": 296,
+      "trophies": 318,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -214,6 +214,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GCRRUUP82",
+      "name": "dennis jiang",
+      "role": "member",
+      "th": 13,
+      "expLevel": 61,
+      "trophies": 2,
+      "donations": 1,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#QV08GJJQV",
       "name": "knuxyngYiudjdh",
       "role": "admin",
@@ -244,17 +255,6 @@
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 627,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GCRRUUP82",
-      "name": "dennis jiang",
-      "role": "member",
-      "th": 13,
-      "expLevel": 61,
-      "trophies": 0,
-      "donations": 1,
-      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
