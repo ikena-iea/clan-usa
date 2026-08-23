@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T19:27:22.313Z",
+  "generatedAt": "2026-08-23T20:31:37.405Z",
   "snapshotDate": "2026-08-23",
   "snapshotsAvailable": 27,
   "raidWeekendsAvailable": 4,
@@ -1460,6 +1460,39 @@
         "total": null,
         "pillars": {
           "donations": 100,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#9RRCGUUYC",
+      "name": "Jeevan",
+      "role": "member",
+      "th": 13,
+      "firstSeen": "2026-08-23",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 13,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
           "raids": null,
           "contributions": null
         },

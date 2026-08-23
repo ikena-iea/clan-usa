@@ -1,8 +1,8 @@
 {
   "date": "2026-08-23",
-  "capturedAt": "2026-08-23T19:27:21.737Z",
+  "capturedAt": "2026-08-23T20:31:36.965Z",
   "clanLevel": 6,
-  "memberCount": 46,
+  "memberCount": 47,
   "members": [
     {
       "tag": "#YRQJPR0Y9",
@@ -11,7 +11,7 @@
       "th": 18,
       "expLevel": 251,
       "trophies": 0,
-      "donations": 614,
+      "donations": 677,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -45,7 +45,7 @@
       "expLevel": 151,
       "trophies": 245,
       "donations": 375,
-      "donationsReceived": 340,
+      "donationsReceived": 375,
       "capitalContributions": 0
     },
     {
@@ -390,6 +390,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#9RRCGUUYC",
+      "name": "Jeevan",
+      "role": "member",
+      "th": 13,
+      "expLevel": 128,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#LJRJ2UJU2",
       "name": "嘻哈侠88",
       "role": "admin",
@@ -474,7 +485,7 @@
       "expLevel": 216,
       "trophies": 0,
       "donations": 255,
-      "donationsReceived": 188,
+      "donationsReceived": 216,
       "capitalContributions": 0
     },
     {
