@@ -1,6 +1,6 @@
 {
   "date": "2026-08-23",
-  "capturedAt": "2026-08-23T21:28:20.518Z",
+  "capturedAt": "2026-08-23T22:29:52.113Z",
   "clanLevel": 6,
   "memberCount": 46,
   "members": [
@@ -44,7 +44,7 @@
       "th": 15,
       "expLevel": 151,
       "trophies": 245,
-      "donations": 375,
+      "donations": 420,
       "donationsReceived": 375,
       "capitalContributions": 0
     },
@@ -89,7 +89,7 @@
       "expLevel": 149,
       "trophies": 302,
       "donations": 394,
-      "donationsReceived": 1388,
+      "donationsReceived": 1433,
       "capitalContributions": 0
     },
     {
@@ -317,7 +317,7 @@
       "name": "damiano",
       "role": "member",
       "th": 12,
-      "expLevel": 128,
+      "expLevel": 129,
       "trophies": 421,
       "donations": 155,
       "donationsReceived": 216,
