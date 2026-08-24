@@ -1,8 +1,8 @@
 {
   "date": "2026-08-24",
-  "capturedAt": "2026-08-24T03:11:10.792Z",
+  "capturedAt": "2026-08-24T04:54:11.552Z",
   "clanLevel": 6,
-  "memberCount": 46,
+  "memberCount": 47,
   "members": [
     {
       "tag": "#YRQJPR0Y9",
@@ -21,7 +21,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 170,
-      "trophies": 294,
+      "trophies": 309,
       "donations": 190,
       "donationsReceived": 554,
       "capitalContributions": 0
@@ -34,7 +34,7 @@
       "expLevel": 149,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 0,
+      "donationsReceived": 206,
       "capitalContributions": 0
     },
     {
@@ -84,7 +84,7 @@
     {
       "tag": "#QLV80QQCY",
       "name": "THE ROCK",
-      "role": "member",
+      "role": "admin",
       "th": 14,
       "expLevel": 149,
       "trophies": 302,
@@ -197,9 +197,9 @@
       "role": "admin",
       "th": 12,
       "expLevel": 90,
-      "trophies": 158,
+      "trophies": 169,
       "donations": 168,
-      "donationsReceived": 780,
+      "donationsReceived": 847,
       "capitalContributions": 0
     },
     {
@@ -319,7 +319,7 @@
       "th": 12,
       "expLevel": 129,
       "trophies": 421,
-      "donations": 190,
+      "donations": 227,
       "donationsReceived": 216,
       "capitalContributions": 0
     },
@@ -452,6 +452,17 @@
       "expLevel": 27,
       "trophies": 0,
       "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#L9P9CY20G",
+      "name": "Limerence",
+      "role": "coLeader",
+      "th": 15,
+      "expLevel": 127,
+      "trophies": 0,
+      "donations": 206,
       "donationsReceived": 0,
       "capitalContributions": 0
     },

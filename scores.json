@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T03:11:11.275Z",
+  "generatedAt": "2026-08-24T04:54:11.985Z",
   "snapshotDate": "2026-08-24",
   "snapshotsAvailable": 28,
   "raidWeekendsAvailable": 4,
@@ -305,7 +305,7 @@
     {
       "tag": "#QLV80QQCY",
       "name": "THE ROCK",
-      "role": "member",
+      "role": "admin",
       "th": 14,
       "firstSeen": "2026-08-04",
       "daysPresent": 20,
@@ -1541,6 +1541,39 @@
         "available": 2,
         "used": 0,
         "misses": 2,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#L9P9CY20G",
+      "name": "Limerence",
+      "role": "coLeader",
+      "th": 15,
+      "firstSeen": "2026-08-24",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 13,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
         "tier": null
       }
     },
