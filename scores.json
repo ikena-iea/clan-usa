@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T16:47:23.821Z",
+  "generatedAt": "2026-08-24T17:36:58.653Z",
   "snapshotDate": "2026-08-24",
   "snapshotsAvailable": 28,
   "raidWeekendsAvailable": 4,
@@ -471,6 +471,40 @@
       }
     },
     {
+      "tag": "#R2RR9UJ8V",
+      "name": "X4FSHIN",
+      "role": "admin",
+      "th": 11,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 27,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 9,
+      "warsTotal": 13,
+      "clan": {
+        "total": 56,
+        "pillars": {
+          "donations": 53,
+          "raids": 99,
+          "contributions": 0
+        },
+        "tier": "Rare"
+      },
+      "war": {
+        "total": 74,
+        "status": null,
+        "cap": "Uncommon",
+        "pillars": {
+          "reliability": 60,
+          "performance": 95
+        },
+        "available": 10,
+        "used": 6,
+        "misses": 4,
+        "tier": "Uncommon"
+      }
+    },
+    {
       "tag": "#QVPQ8G2VQ",
       "name": "your mom",
       "role": "admin",
@@ -603,40 +637,6 @@
         "used": 0,
         "misses": 4,
         "tier": "Common"
-      }
-    },
-    {
-      "tag": "#R2RR9UJ8V",
-      "name": "X4FSHIN",
-      "role": "admin",
-      "th": 11,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 27,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 9,
-      "warsTotal": 13,
-      "clan": {
-        "total": 46.9,
-        "pillars": {
-          "donations": 30,
-          "raids": 99,
-          "contributions": 0
-        },
-        "tier": "Uncommon"
-      },
-      "war": {
-        "total": 74,
-        "status": null,
-        "cap": "Uncommon",
-        "pillars": {
-          "reliability": 60,
-          "performance": 95
-        },
-        "available": 10,
-        "used": 6,
-        "misses": 4,
-        "tier": "Uncommon"
       }
     },
     {
