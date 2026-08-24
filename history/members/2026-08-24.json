@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "capturedAt": "2026-08-24T21:36:24.475Z",
+  "capturedAt": "2026-08-24T22:34:26.429Z",
   "clanLevel": 7,
   "memberCount": 47,
   "members": [
@@ -108,9 +108,9 @@
       "name": "jude",
       "role": "admin",
       "th": 13,
-      "expLevel": 110,
-      "trophies": 0,
-      "donations": 529,
+      "expLevel": 111,
+      "trophies": 13,
+      "donations": 576,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -188,7 +188,7 @@
       "expLevel": 146,
       "trophies": 0,
       "donations": 394,
-      "donationsReceived": 1668,
+      "donationsReceived": 1715,
       "capitalContributions": 0
     },
     {
