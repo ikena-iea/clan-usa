@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "capturedAt": "2026-08-24T22:34:26.429Z",
+  "capturedAt": "2026-08-24T23:28:37.391Z",
   "clanLevel": 7,
   "memberCount": 47,
   "members": [
@@ -54,7 +54,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 151,
-      "trophies": 0,
+      "trophies": 28,
       "donations": 465,
       "donationsReceived": 455,
       "capitalContributions": 0
@@ -210,7 +210,7 @@
       "expLevel": 60,
       "trophies": 0,
       "donations": 2,
-      "donationsReceived": 0,
+      "donationsReceived": 35,
       "capitalContributions": 0
     },
     {
@@ -291,6 +291,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#YUPP00GUU",
+      "name": "damiano",
+      "role": "member",
+      "th": 12,
+      "expLevel": 129,
+      "trophies": 40,
+      "donations": 348,
+      "donationsReceived": 216,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#QVPQ8G2VQ",
       "name": "your mom",
       "role": "admin",
@@ -313,14 +324,14 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#YUPP00GUU",
-      "name": "damiano",
-      "role": "member",
-      "th": 12,
-      "expLevel": 129,
-      "trophies": 0,
-      "donations": 313,
-      "donationsReceived": 216,
+      "tag": "#GLUJVJGGV",
+      "name": "allis",
+      "role": "admin",
+      "th": 10,
+      "expLevel": 86,
+      "trophies": 11,
+      "donations": 7,
+      "donationsReceived": 197,
       "capitalContributions": 0
     },
     {
@@ -332,17 +343,6 @@
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GLUJVJGGV",
-      "name": "allis",
-      "role": "admin",
-      "th": 10,
-      "expLevel": 86,
-      "trophies": 0,
-      "donations": 7,
-      "donationsReceived": 197,
       "capitalContributions": 0
     },
     {
