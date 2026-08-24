@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-24T17:36:58.653Z",
+  "generatedAt": "2026-08-24T18:51:09.089Z",
   "snapshotDate": "2026-08-24",
   "snapshotsAvailable": 28,
   "raidWeekendsAvailable": 4,
-  "warsArchived": 13,
+  "warsArchived": 14,
   "config": {
     "DONATION_TARGET_30D": 400,
     "RAID_WEEKEND_WINDOW": 4,
@@ -41,8 +41,8 @@
       "daysPresent": 27,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
-      "warsJoined": 9,
-      "warsTotal": 13,
+      "warsJoined": 10,
+      "warsTotal": 14,
       "clan": {
         "total": 100,
         "pillars": {
@@ -53,12 +53,12 @@
         "tier": "Legendary"
       },
       "war": {
-        "total": 64,
+        "total": 67,
         "status": null,
         "cap": "Rare",
         "pillars": {
           "reliability": 80,
-          "performance": 40
+          "performance": 48
         },
         "available": 10,
         "used": 8,
@@ -75,8 +75,8 @@
       "daysPresent": 17,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
-      "warsJoined": 2,
-      "warsTotal": 13,
+      "warsJoined": 3,
+      "warsTotal": 14,
       "clan": {
         "total": 100,
         "pillars": {
@@ -87,17 +87,17 @@
         "tier": "Legendary"
       },
       "war": {
-        "total": 75.1,
+        "total": 85.9,
         "status": null,
         "cap": null,
         "pillars": {
-          "reliability": 75,
-          "performance": 75
+          "reliability": 88,
+          "performance": 84
         },
-        "available": 4,
-        "used": 4,
+        "available": 6,
+        "used": 6,
         "misses": 0,
-        "tier": "Epic"
+        "tier": "Legendary"
       }
     },
     {
@@ -110,7 +110,7 @@
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 0,
-      "warsTotal": 13,
+      "warsTotal": 14,
       "clan": {
         "total": 100,
         "pillars": {
@@ -143,7 +143,7 @@
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 0,
-      "warsTotal": 13,
+      "warsTotal": 14,
       "clan": {
         "total": 94,
         "pillars": {
@@ -175,8 +175,8 @@
       "daysPresent": 27,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
-      "warsJoined": 11,
-      "warsTotal": 13,
+      "warsJoined": 12,
+      "warsTotal": 14,
       "clan": {
         "total": 75,
         "pillars": {
@@ -187,12 +187,12 @@
         "tier": "Epic"
       },
       "war": {
-        "total": 84.6,
+        "total": 83.6,
         "status": null,
         "cap": null,
         "pillars": {
           "reliability": 100,
-          "performance": 62
+          "performance": 59
         },
         "available": 10,
         "used": 10,
@@ -209,8 +209,8 @@
       "daysPresent": 23,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
-      "warsJoined": 8,
-      "warsTotal": 13,
+      "warsJoined": 9,
+      "warsTotal": 14,
       "clan": {
         "total": 74.8,
         "pillars": {
@@ -221,17 +221,17 @@
         "tier": "Epic"
       },
       "war": {
-        "total": 79.9,
+        "total": 75.1,
         "status": null,
-        "cap": "Rare",
+        "cap": null,
         "pillars": {
-          "reliability": 100,
-          "performance": 50
+          "reliability": 90,
+          "performance": 53
         },
-        "available": 9,
+        "available": 10,
         "used": 9,
-        "misses": 0,
-        "tier": "Rare"
+        "misses": 1,
+        "tier": "Epic"
       }
     },
     {
@@ -243,8 +243,8 @@
       "daysPresent": 27,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
-      "warsJoined": 11,
-      "warsTotal": 13,
+      "warsJoined": 12,
+      "warsTotal": 14,
       "clan": {
         "total": 74.5,
         "pillars": {
@@ -255,12 +255,12 @@
         "tier": "Epic"
       },
       "war": {
-        "total": 76.8,
+        "total": 77.1,
         "status": null,
         "cap": "Rare",
         "pillars": {
           "reliability": 100,
-          "performance": 42
+          "performance": 43
         },
         "available": 10,
         "used": 10,
@@ -278,7 +278,7 @@
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 10,
-      "warsTotal": 13,
+      "warsTotal": 14,
       "clan": {
         "total": 74.3,
         "pillars": {
@@ -312,7 +312,7 @@
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 7,
-      "warsTotal": 13,
+      "warsTotal": 14,
       "clan": {
         "total": 72.8,
         "pillars": {
@@ -345,8 +345,8 @@
       "daysPresent": 20,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
-      "warsJoined": 1,
-      "warsTotal": 13,
+      "warsJoined": 2,
+      "warsTotal": 14,
       "clan": {
         "total": 72.2,
         "pillars": {
@@ -357,16 +357,17 @@
         "tier": "Epic"
       },
       "war": {
-        "total": null,
-        "status": "New",
+        "total": 62.7,
+        "status": null,
+        "cap": "Rare",
         "pillars": {
-          "reliability": null,
-          "performance": null
+          "reliability": 75,
+          "performance": 44
         },
-        "available": 2,
-        "used": 2,
+        "available": 4,
+        "used": 4,
         "misses": 0,
-        "tier": null
+        "tier": "Rare"
       }
     },
     {
@@ -379,7 +380,7 @@
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 11,
-      "warsTotal": 13,
+      "warsTotal": 14,
       "clan": {
         "total": 68,
         "pillars": {
@@ -413,7 +414,7 @@
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 1,
-      "warsTotal": 13,
+      "warsTotal": 14,
       "clan": {
         "total": 67.5,
         "pillars": {
@@ -446,7 +447,7 @@
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 8,
-      "warsTotal": 13,
+      "warsTotal": 14,
       "clan": {
         "total": 58.6,
         "pillars": {
@@ -480,7 +481,7 @@
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 9,
-      "warsTotal": 13,
+      "warsTotal": 14,
       "clan": {
         "total": 56,
         "pillars": {
@@ -513,8 +514,8 @@
       "daysPresent": 27,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
-      "warsJoined": 9,
-      "warsTotal": 13,
+      "warsJoined": 10,
+      "warsTotal": 14,
       "clan": {
         "total": 54.8,
         "pillars": {
@@ -525,17 +526,17 @@
         "tier": "Uncommon"
       },
       "war": {
-        "total": 40.1,
+        "total": 38.2,
         "status": null,
         "cap": "Uncommon",
         "pillars": {
           "reliability": 40,
-          "performance": 40
+          "performance": 35
         },
         "available": 10,
         "used": 4,
         "misses": 6,
-        "tier": "Uncommon"
+        "tier": "Common"
       }
     },
     {
@@ -547,8 +548,8 @@
       "daysPresent": 14,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
-      "warsJoined": 2,
-      "warsTotal": 13,
+      "warsJoined": 3,
+      "warsTotal": 14,
       "clan": {
         "total": 54.1,
         "pillars": {
@@ -559,16 +560,16 @@
         "tier": "Uncommon"
       },
       "war": {
-        "total": 29.5,
+        "total": 22,
         "status": null,
         "cap": "Uncommon",
         "pillars": {
-          "reliability": 38,
+          "reliability": 25,
           "performance": 18
         },
-        "available": 4,
+        "available": 6,
         "used": 1,
-        "misses": 3,
+        "misses": 5,
         "tier": "Common"
       }
     },
@@ -582,7 +583,7 @@
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 1,
-      "warsTotal": 13,
+      "warsTotal": 14,
       "clan": {
         "total": 51.1,
         "pillars": {
@@ -614,8 +615,8 @@
       "daysPresent": 26,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
-      "warsJoined": 2,
-      "warsTotal": 13,
+      "warsJoined": 3,
+      "warsTotal": 14,
       "clan": {
         "total": 47.6,
         "pillars": {
@@ -626,16 +627,16 @@
         "tier": "Uncommon"
       },
       "war": {
-        "total": 25,
+        "total": 12.5,
         "status": null,
         "cap": "Uncommon",
         "pillars": {
-          "reliability": 25,
+          "reliability": 13,
           "performance": null
         },
-        "available": 4,
+        "available": 6,
         "used": 0,
-        "misses": 4,
+        "misses": 6,
         "tier": "Common"
       }
     },
@@ -649,7 +650,7 @@
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 10,
-      "warsTotal": 13,
+      "warsTotal": 14,
       "clan": {
         "total": 40.4,
         "pillars": {
@@ -682,8 +683,8 @@
       "daysPresent": 27,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
-      "warsJoined": 3,
-      "warsTotal": 13,
+      "warsJoined": 4,
+      "warsTotal": 14,
       "clan": {
         "total": 35,
         "pillars": {
@@ -694,15 +695,15 @@
         "tier": "Common"
       },
       "war": {
-        "total": 60.6,
+        "total": 62,
         "status": null,
         "cap": "Rare",
         "pillars": {
-          "reliability": 62,
-          "performance": 58
+          "reliability": 75,
+          "performance": 42
         },
-        "available": 6,
-        "used": 4,
+        "available": 8,
+        "used": 6,
         "misses": 2,
         "tier": "Rare"
       }
@@ -716,8 +717,8 @@
       "daysPresent": 27,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
-      "warsJoined": 9,
-      "warsTotal": 13,
+      "warsJoined": 10,
+      "warsTotal": 14,
       "clan": {
         "total": 34.7,
         "pillars": {
@@ -728,16 +729,16 @@
         "tier": "Common"
       },
       "war": {
-        "total": 46,
+        "total": 57.4,
         "status": null,
         "cap": "Uncommon",
         "pillars": {
-          "reliability": 50,
-          "performance": 40
+          "reliability": 70,
+          "performance": 38
         },
         "available": 10,
-        "used": 5,
-        "misses": 5,
+        "used": 7,
+        "misses": 3,
         "tier": "Uncommon"
       }
     },
@@ -750,8 +751,8 @@
       "daysPresent": 27,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
-      "warsJoined": 9,
-      "warsTotal": 13,
+      "warsJoined": 10,
+      "warsTotal": 14,
       "clan": {
         "total": 34.6,
         "pillars": {
@@ -762,17 +763,17 @@
         "tier": "Common"
       },
       "war": {
-        "total": 77.5,
+        "total": 84.4,
         "status": null,
-        "cap": "Rare",
+        "cap": null,
         "pillars": {
-          "reliability": 80,
-          "performance": 74
+          "reliability": 90,
+          "performance": 76
         },
         "available": 10,
-        "used": 8,
-        "misses": 2,
-        "tier": "Rare"
+        "used": 9,
+        "misses": 1,
+        "tier": "Epic"
       }
     },
     {
@@ -785,7 +786,7 @@
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 1,
-      "warsTotal": 13,
+      "warsTotal": 14,
       "clan": {
         "total": 33.1,
         "pillars": {
@@ -818,7 +819,7 @@
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 10,
-      "warsTotal": 13,
+      "warsTotal": 14,
       "clan": {
         "total": 32.2,
         "pillars": {
@@ -851,8 +852,8 @@
       "daysPresent": 27,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
-      "warsJoined": 9,
-      "warsTotal": 13,
+      "warsJoined": 10,
+      "warsTotal": 14,
       "clan": {
         "total": 29.7,
         "pillars": {
@@ -863,17 +864,17 @@
         "tier": "Common"
       },
       "war": {
-        "total": 75.7,
+        "total": 72.6,
         "status": null,
-        "cap": null,
+        "cap": "Rare",
         "pillars": {
           "reliability": 90,
-          "performance": 54
+          "performance": 46
         },
         "available": 10,
         "used": 9,
         "misses": 1,
-        "tier": "Epic"
+        "tier": "Rare"
       }
     },
     {
@@ -886,7 +887,7 @@
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 2,
-      "warsTotal": 13,
+      "warsTotal": 14,
       "clan": {
         "total": 28.1,
         "pillars": {
@@ -919,8 +920,8 @@
       "daysPresent": 14,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
-      "warsJoined": 1,
-      "warsTotal": 13,
+      "warsJoined": 2,
+      "warsTotal": 14,
       "clan": {
         "total": 22.7,
         "pillars": {
@@ -931,16 +932,17 @@
         "tier": "Common"
       },
       "war": {
-        "total": null,
-        "status": "New",
+        "total": 33.1,
+        "status": null,
+        "cap": "Rare",
         "pillars": {
-          "reliability": null,
-          "performance": null
+          "reliability": 50,
+          "performance": 8
         },
-        "available": 2,
-        "used": 0,
+        "available": 4,
+        "used": 2,
         "misses": 2,
-        "tier": null
+        "tier": "Common"
       }
     },
     {
@@ -953,7 +955,7 @@
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 9,
-      "warsTotal": 13,
+      "warsTotal": 14,
       "clan": {
         "total": 14.6,
         "pillars": {
@@ -987,7 +989,7 @@
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 8,
-      "warsTotal": 13,
+      "warsTotal": 14,
       "clan": {
         "total": 4.7,
         "pillars": {
@@ -1021,7 +1023,7 @@
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 1,
-      "warsTotal": 13,
+      "warsTotal": 14,
       "clan": {
         "total": 3.8,
         "pillars": {
@@ -1053,8 +1055,8 @@
       "daysPresent": 27,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
-      "warsJoined": 8,
-      "warsTotal": 13,
+      "warsJoined": 9,
+      "warsTotal": 14,
       "clan": {
         "total": 0,
         "pillars": {
@@ -1065,16 +1067,16 @@
         "tier": "Common"
       },
       "war": {
-        "total": 27,
+        "total": 25.7,
         "status": null,
         "cap": "Uncommon",
         "pillars": {
-          "reliability": 22,
+          "reliability": 20,
           "performance": 34
         },
-        "available": 9,
+        "available": 10,
         "used": 2,
-        "misses": 7,
+        "misses": 8,
         "tier": "Common"
       }
     },
@@ -1088,7 +1090,7 @@
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 1,
-      "warsTotal": 13,
+      "warsTotal": 14,
       "clan": {
         "total": 0,
         "pillars": {
@@ -1121,7 +1123,7 @@
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 10,
-      "warsTotal": 13,
+      "warsTotal": 14,
       "clan": {
         "total": 0,
         "pillars": {
@@ -1155,7 +1157,7 @@
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 10,
-      "warsTotal": 13,
+      "warsTotal": 14,
       "clan": {
         "total": 0,
         "pillars": {
@@ -1189,7 +1191,7 @@
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 10,
-      "warsTotal": 13,
+      "warsTotal": 14,
       "clan": {
         "total": 0,
         "pillars": {
@@ -1223,7 +1225,7 @@
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 9,
-      "warsTotal": 13,
+      "warsTotal": 14,
       "clan": {
         "total": 0,
         "pillars": {
@@ -1256,8 +1258,8 @@
       "daysPresent": 8,
       "inGrace": true,
       "gracePeriodEndsIn": 6,
-      "warsJoined": 0,
-      "warsTotal": 13,
+      "warsJoined": 1,
+      "warsTotal": 14,
       "clan": {
         "total": null,
         "pillars": {
@@ -1274,9 +1276,9 @@
           "reliability": null,
           "performance": null
         },
-        "available": 0,
+        "available": 2,
         "used": 0,
-        "misses": 0,
+        "misses": 2,
         "tier": null
       }
     },
@@ -1289,8 +1291,8 @@
       "daysPresent": 11,
       "inGrace": true,
       "gracePeriodEndsIn": 3,
-      "warsJoined": 0,
-      "warsTotal": 13,
+      "warsJoined": 1,
+      "warsTotal": 14,
       "clan": {
         "total": null,
         "pillars": {
@@ -1307,9 +1309,9 @@
           "reliability": null,
           "performance": null
         },
-        "available": 0,
+        "available": 2,
         "used": 0,
-        "misses": 0,
+        "misses": 2,
         "tier": null
       }
     },
@@ -1322,8 +1324,8 @@
       "daysPresent": 12,
       "inGrace": true,
       "gracePeriodEndsIn": 2,
-      "warsJoined": 0,
-      "warsTotal": 13,
+      "warsJoined": 1,
+      "warsTotal": 14,
       "clan": {
         "total": null,
         "pillars": {
@@ -1340,9 +1342,9 @@
           "reliability": null,
           "performance": null
         },
-        "available": 0,
+        "available": 2,
         "used": 0,
-        "misses": 0,
+        "misses": 2,
         "tier": null
       }
     },
@@ -1355,14 +1357,47 @@
       "daysPresent": 10,
       "inGrace": true,
       "gracePeriodEndsIn": 4,
-      "warsJoined": 0,
-      "warsTotal": 13,
+      "warsJoined": 1,
+      "warsTotal": 14,
       "clan": {
         "total": null,
         "pillars": {
           "donations": 68,
           "raids": 100,
           "contributions": 0
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 2,
+        "used": 2,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#R988UUQVU",
+      "name": "goku",
+      "role": "admin",
+      "th": 12,
+      "firstSeen": "2026-08-15",
+      "daysPresent": 9,
+      "inGrace": true,
+      "gracePeriodEndsIn": 5,
+      "warsJoined": 0,
+      "warsTotal": 14,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 100,
+          "raids": null,
+          "contributions": null
         },
         "tier": null
       },
@@ -1388,8 +1423,8 @@
       "daysPresent": 12,
       "inGrace": true,
       "gracePeriodEndsIn": 2,
-      "warsJoined": 0,
-      "warsTotal": 13,
+      "warsJoined": 1,
+      "warsTotal": 14,
       "clan": {
         "total": null,
         "pillars": {
@@ -1406,42 +1441,9 @@
           "reliability": null,
           "performance": null
         },
-        "available": 0,
+        "available": 2,
         "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#R988UUQVU",
-      "name": "goku",
-      "role": "admin",
-      "th": 12,
-      "firstSeen": "2026-08-15",
-      "daysPresent": 9,
-      "inGrace": true,
-      "gracePeriodEndsIn": 5,
-      "warsJoined": 0,
-      "warsTotal": 13,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 100,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
+        "misses": 2,
         "tier": null
       }
     },
@@ -1455,7 +1457,7 @@
       "inGrace": true,
       "gracePeriodEndsIn": 4,
       "warsJoined": 0,
-      "warsTotal": 13,
+      "warsTotal": 14,
       "clan": {
         "total": null,
         "pillars": {
@@ -1488,7 +1490,7 @@
       "inGrace": true,
       "gracePeriodEndsIn": 8,
       "warsJoined": 0,
-      "warsTotal": 13,
+      "warsTotal": 14,
       "clan": {
         "total": null,
         "pillars": {
@@ -1521,7 +1523,7 @@
       "inGrace": true,
       "gracePeriodEndsIn": 4,
       "warsJoined": 1,
-      "warsTotal": 13,
+      "warsTotal": 14,
       "clan": {
         "total": null,
         "pillars": {
@@ -1554,7 +1556,7 @@
       "inGrace": true,
       "gracePeriodEndsIn": 13,
       "warsJoined": 0,
-      "warsTotal": 13,
+      "warsTotal": 14,
       "clan": {
         "total": null,
         "pillars": {
@@ -1587,7 +1589,7 @@
       "inGrace": true,
       "gracePeriodEndsIn": 4,
       "warsJoined": 0,
-      "warsTotal": 13,
+      "warsTotal": 14,
       "clan": {
         "total": null,
         "pillars": {
