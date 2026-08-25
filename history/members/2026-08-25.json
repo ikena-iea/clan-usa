@@ -1,6 +1,6 @@
 {
   "date": "2026-08-25",
-  "capturedAt": "2026-08-25T07:53:34.950Z",
+  "capturedAt": "2026-08-25T08:52:03.863Z",
   "clanLevel": 7,
   "memberCount": 47,
   "members": [
@@ -43,7 +43,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 151,
-      "trophies": 53,
+      "trophies": 95,
       "donations": 465,
       "donationsReceived": 455,
       "capitalContributions": 0
@@ -192,6 +192,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#R8GPLGRVQ",
+      "name": "LegitN00b98",
+      "role": "admin",
+      "th": 12,
+      "expLevel": 86,
+      "trophies": 225,
+      "donations": 46,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#QV08GJJQV",
       "name": "knuxyngYiudjdh",
       "role": "admin",
@@ -244,17 +255,6 @@
       "trophies": 0,
       "donations": 10,
       "donationsReceived": 52,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#R8GPLGRVQ",
-      "name": "LegitN00b98",
-      "role": "admin",
-      "th": 12,
-      "expLevel": 86,
-      "trophies": 0,
-      "donations": 46,
-      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
