@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T21:35:44.037Z",
+  "generatedAt": "2026-08-25T22:34:57.199Z",
   "snapshotDate": "2026-08-25",
   "snapshotsAvailable": 29,
   "raidWeekendsAvailable": 4,
@@ -979,6 +979,40 @@
       }
     },
     {
+      "tag": "#QV08GJJQV",
+      "name": "knuxyngYiudjdh",
+      "role": "admin",
+      "th": 13,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 28,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 8,
+      "warsTotal": 14,
+      "clan": {
+        "total": 22.5,
+        "pillars": {
+          "donations": 23,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": "Common"
+      },
+      "war": {
+        "total": 0,
+        "status": null,
+        "cap": "Uncommon",
+        "pillars": {
+          "reliability": 0,
+          "performance": null
+        },
+        "available": 9,
+        "used": 0,
+        "misses": 9,
+        "tier": "Common"
+      }
+    },
+    {
       "tag": "#GGQ80JRJ0",
       "name": "hartymate",
       "role": "admin",
@@ -1010,40 +1044,6 @@
         "used": 6,
         "misses": 4,
         "tier": "Uncommon"
-      }
-    },
-    {
-      "tag": "#QV08GJJQV",
-      "name": "knuxyngYiudjdh",
-      "role": "admin",
-      "th": 13,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 28,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 8,
-      "warsTotal": 14,
-      "clan": {
-        "total": 4.6,
-        "pillars": {
-          "donations": 5,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": "Common"
-      },
-      "war": {
-        "total": 0,
-        "status": null,
-        "cap": "Uncommon",
-        "pillars": {
-          "reliability": 0,
-          "performance": null
-        },
-        "available": 9,
-        "used": 0,
-        "misses": 9,
-        "tier": "Common"
       }
     },
     {
