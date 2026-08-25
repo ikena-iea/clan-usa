@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T16:46:58.815Z",
+  "generatedAt": "2026-08-25T17:37:47.184Z",
   "snapshotDate": "2026-08-25",
   "snapshotsAvailable": 29,
   "raidWeekendsAvailable": 4,
@@ -610,7 +610,7 @@
       "tag": "#G80PQRPUV",
       "name": "sammy2720",
       "role": "admin",
-      "th": 13,
+      "th": 14,
       "firstSeen": "2026-07-29",
       "daysPresent": 27,
       "inGrace": false,
