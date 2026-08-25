@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T19:37:56.648Z",
+  "generatedAt": "2026-08-25T20:37:37.728Z",
   "snapshotDate": "2026-08-25",
   "snapshotsAvailable": 29,
   "raidWeekendsAvailable": 4,
@@ -32,6 +32,39 @@
     "MIN_WAR_ATTACKS": 4
   },
   "members": [
+    {
+      "tag": "#G2G8R9RPC",
+      "name": "gangster1000000",
+      "role": "admin",
+      "th": 15,
+      "firstSeen": "2026-08-07",
+      "daysPresent": 18,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 0,
+      "warsTotal": 14,
+      "clan": {
+        "total": 100,
+        "pillars": {
+          "donations": 100,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": "Legendary"
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
     {
       "tag": "#GQUQV0PJV",
       "name": "mustafa",
@@ -115,39 +148,6 @@
         "total": 100,
         "pillars": {
           "donations": 100,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": "Legendary"
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#G2G8R9RPC",
-      "name": "gangster1000000",
-      "role": "admin",
-      "th": 15,
-      "firstSeen": "2026-08-07",
-      "daysPresent": 18,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 0,
-      "warsTotal": 14,
-      "clan": {
-        "total": 88.8,
-        "pillars": {
-          "donations": 89,
           "raids": null,
           "contributions": null
         },
@@ -1395,7 +1395,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 62,
+          "donations": 100,
           "raids": 100,
           "contributions": 0
         },
