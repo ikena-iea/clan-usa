@@ -1,8 +1,8 @@
 {
   "date": "2026-08-25",
-  "capturedAt": "2026-08-25T03:07:11.721Z",
+  "capturedAt": "2026-08-25T04:47:05.855Z",
   "clanLevel": 7,
-  "memberCount": 46,
+  "memberCount": 47,
   "members": [
     {
       "tag": "#YRQJPR0Y9",
@@ -38,6 +38,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GQUQV0PJV",
+      "name": "mustafa",
+      "role": "admin",
+      "th": 15,
+      "expLevel": 151,
+      "trophies": 53,
+      "donations": 465,
+      "donationsReceived": 455,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#Q0VJ9U2GL",
       "name": "emmaelish021",
       "role": "admin",
@@ -46,17 +57,6 @@
       "trophies": 30,
       "donations": 0,
       "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GQUQV0PJV",
-      "name": "mustafa",
-      "role": "admin",
-      "th": 15,
-      "expLevel": 151,
-      "trophies": 28,
-      "donations": 465,
-      "donationsReceived": 455,
       "capitalContributions": 0
     },
     {
@@ -131,7 +131,7 @@
       "role": "admin",
       "th": 14,
       "expLevel": 151,
-      "trophies": 0,
+      "trophies": 14,
       "donations": 42,
       "donationsReceived": 357,
       "capitalContributions": 0
@@ -159,6 +159,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GUPY8PLLP",
+      "name": "BEOX",
+      "role": "admin",
+      "th": 13,
+      "expLevel": 117,
+      "trophies": 40,
+      "donations": 0,
+      "donationsReceived": 77,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#G80PQRPUV",
       "name": "sammy2720",
       "role": "admin",
@@ -178,17 +189,6 @@
       "trophies": 0,
       "donations": 394,
       "donationsReceived": 1715,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GUPY8PLLP",
-      "name": "BEOX",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 117,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 77,
       "capitalContributions": 0
     },
     {
@@ -452,6 +452,17 @@
       "expLevel": 127,
       "trophies": 0,
       "donations": 206,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#QLYC20U2J",
+      "name": "Tap Tap",
+      "role": "member",
+      "th": 13,
+      "expLevel": 124,
+      "trophies": 0,
+      "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
     },

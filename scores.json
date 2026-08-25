@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T03:07:12.170Z",
+  "generatedAt": "2026-08-25T04:47:06.287Z",
   "snapshotDate": "2026-08-25",
   "snapshotsAvailable": 29,
   "raidWeekendsAvailable": 4,
@@ -1519,6 +1519,39 @@
       "role": "coLeader",
       "th": 15,
       "firstSeen": "2026-08-24",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 14,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#QLYC20U2J",
+      "name": "Tap Tap",
+      "role": "member",
+      "th": 13,
+      "firstSeen": "2026-08-25",
       "daysPresent": 1,
       "inGrace": true,
       "gracePeriodEndsIn": 13,
