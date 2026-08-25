@@ -1,8 +1,8 @@
 {
   "date": "2026-08-25",
-  "capturedAt": "2026-08-25T01:43:48.616Z",
+  "capturedAt": "2026-08-25T03:07:11.721Z",
   "clanLevel": 7,
-  "memberCount": 47,
+  "memberCount": 46,
   "members": [
     {
       "tag": "#YRQJPR0Y9",
@@ -159,17 +159,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#R988UUQVU",
-      "name": "goku",
-      "role": "admin",
-      "th": 12,
-      "expLevel": 90,
-      "trophies": 27,
-      "donations": 168,
-      "donationsReceived": 953,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#G80PQRPUV",
       "name": "sammy2720",
       "role": "admin",
@@ -254,7 +243,7 @@
       "expLevel": 62,
       "trophies": 0,
       "donations": 10,
-      "donationsReceived": 26,
+      "donationsReceived": 52,
       "capitalContributions": 0
     },
     {
@@ -296,7 +285,7 @@
       "role": "member",
       "th": 12,
       "expLevel": 129,
-      "trophies": 40,
+      "trophies": 69,
       "donations": 348,
       "donationsReceived": 216,
       "capitalContributions": 0
@@ -308,7 +297,7 @@
       "th": 12,
       "expLevel": 76,
       "trophies": 0,
-      "donations": 197,
+      "donations": 223,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -324,6 +313,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GGQ80JRJ0",
+      "name": "hartymate",
+      "role": "admin",
+      "th": 11,
+      "expLevel": 89,
+      "trophies": 19,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#GLUJVJGGV",
       "name": "allis",
       "role": "admin",
@@ -332,17 +332,6 @@
       "trophies": 11,
       "donations": 7,
       "donationsReceived": 197,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GGQ80JRJ0",
-      "name": "hartymate",
-      "role": "admin",
-      "th": 11,
-      "expLevel": 89,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {

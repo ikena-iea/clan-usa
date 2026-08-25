@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T01:43:49.251Z",
+  "generatedAt": "2026-08-25T03:07:12.170Z",
   "snapshotDate": "2026-08-25",
   "snapshotsAvailable": 29,
   "raidWeekendsAvailable": 4,
@@ -449,9 +449,9 @@
       "warsJoined": 10,
       "warsTotal": 14,
       "clan": {
-        "total": 57.8,
+        "total": 60.6,
         "pillars": {
-          "donations": 79,
+          "donations": 86,
           "raids": 75,
           "contributions": 0
         },
@@ -1377,39 +1377,6 @@
         },
         "available": 2,
         "used": 2,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#R988UUQVU",
-      "name": "goku",
-      "role": "admin",
-      "th": 12,
-      "firstSeen": "2026-08-15",
-      "daysPresent": 10,
-      "inGrace": true,
-      "gracePeriodEndsIn": 4,
-      "warsJoined": 0,
-      "warsTotal": 14,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 100,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
         "misses": 0,
         "tier": null
       }
