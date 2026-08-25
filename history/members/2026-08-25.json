@@ -1,8 +1,8 @@
 {
   "date": "2026-08-25",
-  "capturedAt": "2026-08-25T13:01:40.925Z",
+  "capturedAt": "2026-08-25T14:53:29.976Z",
   "clanLevel": 7,
-  "memberCount": 47,
+  "memberCount": 48,
   "members": [
     {
       "tag": "#YRQJPR0Y9",
@@ -148,12 +148,23 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GPRJG8YLG",
+      "name": "Mohammadreza",
+      "role": "member",
+      "th": 13,
+      "expLevel": 141,
+      "trophies": 112,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#LGRC8CP9U",
       "name": "Big dog",
       "role": "admin",
       "th": 13,
       "expLevel": 150,
-      "trophies": 23,
+      "trophies": 32,
       "donations": 91,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -197,7 +208,7 @@
       "role": "admin",
       "th": 12,
       "expLevel": 86,
-      "trophies": 236,
+      "trophies": 264,
       "donations": 46,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -220,7 +231,7 @@
       "th": 13,
       "expLevel": 99,
       "trophies": 0,
-      "donations": 2,
+      "donations": 32,
       "donationsReceived": 636,
       "capitalContributions": 0
     },
@@ -253,7 +264,7 @@
       "th": 13,
       "expLevel": 62,
       "trophies": 0,
-      "donations": 10,
+      "donations": 55,
       "donationsReceived": 52,
       "capitalContributions": 0
     },
@@ -318,7 +329,7 @@
       "role": "admin",
       "th": 11,
       "expLevel": 89,
-      "trophies": 19,
+      "trophies": 49,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -496,7 +507,7 @@
       "expLevel": 103,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 881,
+      "donationsReceived": 956,
       "capitalContributions": 0
     },
     {
