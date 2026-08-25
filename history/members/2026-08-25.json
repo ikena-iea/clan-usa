@@ -1,8 +1,8 @@
 {
   "date": "2026-08-25",
-  "capturedAt": "2026-08-25T20:37:37.180Z",
+  "capturedAt": "2026-08-25T21:35:43.520Z",
   "clanLevel": 7,
-  "memberCount": 48,
+  "memberCount": 47,
   "members": [
     {
       "tag": "#YRQJPR0Y9",
@@ -42,9 +42,9 @@
       "name": "mustafa",
       "role": "admin",
       "th": 15,
-      "expLevel": 151,
-      "trophies": 186,
-      "donations": 465,
+      "expLevel": 152,
+      "trophies": 255,
+      "donations": 540,
       "donationsReceived": 455,
       "capitalContributions": 0
     },
@@ -144,17 +144,6 @@
       "expLevel": 101,
       "trophies": 0,
       "donations": 137,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GPRJG8YLG",
-      "name": "Mohammadreza",
-      "role": "member",
-      "th": 13,
-      "expLevel": 141,
-      "trophies": 112,
-      "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -507,7 +496,7 @@
       "expLevel": 103,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 956,
+      "donationsReceived": 1031,
       "capitalContributions": 0
     },
     {
