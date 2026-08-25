@@ -1,6 +1,6 @@
 {
   "date": "2026-08-25",
-  "capturedAt": "2026-08-25T06:59:57.021Z",
+  "capturedAt": "2026-08-25T07:53:34.950Z",
   "clanLevel": 7,
   "memberCount": 47,
   "members": [
@@ -76,9 +76,9 @@
       "role": "admin",
       "th": 14,
       "expLevel": 149,
-      "trophies": 14,
-      "donations": 444,
-      "donationsReceived": 1526,
+      "trophies": 25,
+      "donations": 474,
+      "donationsReceived": 1574,
       "capitalContributions": 0
     },
     {
@@ -109,7 +109,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 111,
-      "trophies": 13,
+      "trophies": 33,
       "donations": 576,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -210,7 +210,7 @@
       "expLevel": 99,
       "trophies": 0,
       "donations": 2,
-      "donationsReceived": 606,
+      "donationsReceived": 636,
       "capitalContributions": 0
     },
     {
@@ -361,7 +361,7 @@
       "name": "arroz",
       "role": "admin",
       "th": 9,
-      "expLevel": 61,
+      "expLevel": 62,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 156,
@@ -407,7 +407,7 @@
       "th": 18,
       "expLevel": 255,
       "trophies": 0,
-      "donations": 612,
+      "donations": 660,
       "donationsReceived": 291,
       "capitalContributions": 0
     },
