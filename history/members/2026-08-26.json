@@ -1,6 +1,6 @@
 {
   "date": "2026-08-26",
-  "capturedAt": "2026-08-26T11:36:51.209Z",
+  "capturedAt": "2026-08-26T13:06:49.726Z",
   "clanLevel": 7,
   "memberCount": 47,
   "members": [
@@ -109,7 +109,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 111,
-      "trophies": 33,
+      "trophies": 49,
       "donations": 576,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -258,6 +258,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GYC8Q2R20",
+      "name": "lucky",
+      "role": "admin",
+      "th": 11,
+      "expLevel": 93,
+      "trophies": 162,
+      "donations": 47,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#PJ22QYY22",
       "name": "thegodlynoob",
       "role": "admin",
@@ -265,17 +276,6 @@
       "expLevel": 88,
       "trophies": 99,
       "donations": 2,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GYC8Q2R20",
-      "name": "lucky",
-      "role": "admin",
-      "th": 11,
-      "expLevel": 93,
-      "trophies": 58,
-      "donations": 47,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
