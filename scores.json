@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T14:51:47.579Z",
+  "generatedAt": "2026-08-26T16:24:08.105Z",
   "snapshotDate": "2026-08-26",
   "snapshotsAvailable": 30,
   "raidWeekendsAvailable": 4,
@@ -674,6 +674,40 @@
       }
     },
     {
+      "tag": "#LCVCL0LU0",
+      "name": "Limeranch",
+      "role": "coLeader",
+      "th": 17,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 29,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 10,
+      "warsTotal": 14,
+      "clan": {
+        "total": 44,
+        "pillars": {
+          "donations": 44,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": "Uncommon"
+      },
+      "war": {
+        "total": 57.4,
+        "status": null,
+        "cap": "Uncommon",
+        "pillars": {
+          "reliability": 70,
+          "performance": 38
+        },
+        "available": 10,
+        "used": 7,
+        "misses": 3,
+        "tier": "Uncommon"
+      }
+    },
+    {
       "tag": "#L0YPL82UJ",
       "name": "Chikhladze",
       "role": "admin",
@@ -839,74 +873,6 @@
         "used": 9,
         "misses": 1,
         "tier": "Epic"
-      }
-    },
-    {
-      "tag": "#LCVCL0LU0",
-      "name": "Limeranch",
-      "role": "coLeader",
-      "th": 17,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 29,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 10,
-      "warsTotal": 14,
-      "clan": {
-        "total": 32.3,
-        "pillars": {
-          "donations": 32,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": "Common"
-      },
-      "war": {
-        "total": 57.4,
-        "status": null,
-        "cap": "Uncommon",
-        "pillars": {
-          "reliability": 70,
-          "performance": 38
-        },
-        "available": 10,
-        "used": 7,
-        "misses": 3,
-        "tier": "Uncommon"
-      }
-    },
-    {
-      "tag": "#GPLRVGLGJ",
-      "name": "elf00",
-      "role": "admin",
-      "th": 13,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 29,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 10,
-      "warsTotal": 14,
-      "clan": {
-        "total": 31.8,
-        "pillars": {
-          "donations": 12,
-          "raids": 77,
-          "contributions": 0
-        },
-        "tier": "Common"
-      },
-      "war": {
-        "total": 52,
-        "status": null,
-        "cap": "Uncommon",
-        "pillars": {
-          "reliability": 40,
-          "performance": 70
-        },
-        "available": 10,
-        "used": 4,
-        "misses": 6,
-        "tier": "Uncommon"
       }
     },
     {
@@ -1448,39 +1414,6 @@
       }
     },
     {
-      "tag": "#92YPYVYLG",
-      "name": "Clasher",
-      "role": "member",
-      "th": 15,
-      "firstSeen": "2026-08-18",
-      "daysPresent": 8,
-      "inGrace": true,
-      "gracePeriodEndsIn": 6,
-      "warsJoined": 0,
-      "warsTotal": 14,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
       "tag": "#GRYL9G0PJ",
       "name": "ijsjsjw",
       "role": "coLeader",
@@ -1549,7 +1482,7 @@
     {
       "tag": "#QLYC20U2J",
       "name": "Tap Tap",
-      "role": "member",
+      "role": "admin",
       "th": 13,
       "firstSeen": "2026-08-25",
       "daysPresent": 1,

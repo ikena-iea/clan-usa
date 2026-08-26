@@ -1,8 +1,8 @@
 {
   "date": "2026-08-26",
-  "capturedAt": "2026-08-26T14:51:46.980Z",
+  "capturedAt": "2026-08-26T16:24:07.539Z",
   "clanLevel": 7,
-  "memberCount": 47,
+  "memberCount": 45,
   "members": [
     {
       "tag": "#YRQJPR0Y9",
@@ -33,7 +33,7 @@
       "th": 17,
       "expLevel": 149,
       "trophies": 0,
-      "donations": 0,
+      "donations": 45,
       "donationsReceived": 206,
       "capitalContributions": 0
     },
@@ -78,7 +78,7 @@
       "expLevel": 149,
       "trophies": 53,
       "donations": 588,
-      "donationsReceived": 1622,
+      "donationsReceived": 1667,
       "capitalContributions": 0
     },
     {
@@ -112,17 +112,6 @@
       "trophies": 49,
       "donations": 576,
       "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GPLRVGLGJ",
-      "name": "elf00",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 125,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 77,
       "capitalContributions": 0
     },
     {
@@ -263,7 +252,7 @@
       "role": "admin",
       "th": 11,
       "expLevel": 89,
-      "trophies": 219,
+      "trophies": 249,
       "donations": 2,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -296,7 +285,7 @@
       "role": "admin",
       "th": 12,
       "expLevel": 76,
-      "trophies": 17,
+      "trophies": 47,
       "donations": 223,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -318,7 +307,7 @@
       "role": "admin",
       "th": 11,
       "expLevel": 89,
-      "trophies": 79,
+      "trophies": 90,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -412,17 +401,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#92YPYVYLG",
-      "name": "Clasher",
-      "role": "member",
-      "th": 15,
-      "expLevel": 184,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#R00YJ900G",
       "name": "Lakers",
       "role": "coLeader",
@@ -458,7 +436,7 @@
     {
       "tag": "#QLYC20U2J",
       "name": "Tap Tap",
-      "role": "member",
+      "role": "admin",
       "th": 13,
       "expLevel": 124,
       "trophies": 0,
