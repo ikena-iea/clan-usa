@@ -1,8 +1,8 @@
 {
   "date": "2026-08-26",
-  "capturedAt": "2026-08-26T19:11:15.389Z",
+  "capturedAt": "2026-08-26T23:18:20.265Z",
   "clanLevel": 7,
-  "memberCount": 45,
+  "memberCount": 46,
   "members": [
     {
       "tag": "#YRQJPR0Y9",
@@ -21,9 +21,9 @@
       "role": "admin",
       "th": 15,
       "expLevel": 170,
-      "trophies": 106,
-      "donations": 238,
-      "donationsReceived": 720,
+      "trophies": 156,
+      "donations": 361,
+      "donationsReceived": 803,
       "capitalContributions": 0
     },
     {
@@ -43,7 +43,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 152,
-      "trophies": 343,
+      "trophies": 359,
       "donations": 540,
       "donationsReceived": 455,
       "capitalContributions": 0
@@ -78,7 +78,7 @@
       "expLevel": 149,
       "trophies": 66,
       "donations": 588,
-      "donationsReceived": 1667,
+      "donationsReceived": 1715,
       "capitalContributions": 0
     },
     {
@@ -143,7 +143,7 @@
       "th": 13,
       "expLevel": 150,
       "trophies": 55,
-      "donations": 147,
+      "donations": 149,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -252,7 +252,7 @@
       "role": "admin",
       "th": 11,
       "expLevel": 89,
-      "trophies": 249,
+      "trophies": 269,
       "donations": 2,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -286,7 +286,7 @@
       "th": 12,
       "expLevel": 76,
       "trophies": 47,
-      "donations": 223,
+      "donations": 230,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -306,7 +306,7 @@
       "name": "hartymate",
       "role": "admin",
       "th": 11,
-      "expLevel": 89,
+      "expLevel": 90,
       "trophies": 90,
       "donations": 0,
       "donationsReceived": 0,
@@ -401,6 +401,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#VRPRRLQ",
+      "name": "GILROYx408",
+      "role": "member",
+      "th": 17,
+      "expLevel": 221,
+      "trophies": 0,
+      "donations": 44,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#R00YJ900G",
       "name": "Lakers",
       "role": "coLeader",
@@ -462,7 +473,7 @@
       "th": 18,
       "expLevel": 216,
       "trophies": 0,
-      "donations": 358,
+      "donations": 388,
       "donationsReceived": 291,
       "capitalContributions": 0
     },
@@ -474,7 +485,7 @@
       "expLevel": 104,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 1076,
+      "donationsReceived": 1151,
       "capitalContributions": 0
     },
     {

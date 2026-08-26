@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T19:11:15.814Z",
+  "generatedAt": "2026-08-26T23:18:20.833Z",
   "snapshotDate": "2026-08-26",
   "snapshotsAvailable": 30,
   "raidWeekendsAvailable": 4,
@@ -482,9 +482,9 @@
       "warsJoined": 10,
       "warsTotal": 14,
       "clan": {
-        "total": 59.4,
+        "total": 60.1,
         "pillars": {
-          "donations": 83,
+          "donations": 85,
           "raids": 75,
           "contributions": 0
         },
@@ -1361,7 +1361,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 92,
+          "donations": 93,
           "raids": 100,
           "contributions": 0
         },
@@ -1397,6 +1397,39 @@
           "donations": 100,
           "raids": 95,
           "contributions": 0
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#VRPRRLQ",
+      "name": "GILROYx408",
+      "role": "member",
+      "th": 17,
+      "firstSeen": "2026-08-26",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 14,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "contributions": null
         },
         "tier": null
       },
