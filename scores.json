@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T09:20:36.421Z",
+  "generatedAt": "2026-08-27T20:16:53.940Z",
   "snapshotDate": "2026-08-27",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -482,9 +482,9 @@
       "warsJoined": 10,
       "warsTotal": 14,
       "clan": {
-        "total": 59,
+        "total": 65,
         "pillars": {
-          "donations": 82,
+          "donations": 97,
           "raids": 75,
           "contributions": 0
         },
@@ -819,7 +819,7 @@
       "warsJoined": 4,
       "warsTotal": 14,
       "clan": {
-        "total": 35,
+        "total": 35.1,
         "pillars": {
           "donations": 0,
           "raids": 100,
@@ -1348,6 +1348,72 @@
       }
     },
     {
+      "tag": "#2L0J822CV",
+      "name": "Inher1tor",
+      "role": "member",
+      "th": 13,
+      "firstSeen": "2026-08-27",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 14,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#G089JGCQP",
+      "name": "Mohammad-Yahya",
+      "role": "member",
+      "th": 13,
+      "firstSeen": "2026-08-27",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 14,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#YUPP00GUU",
       "name": "damiano",
       "role": "member",
@@ -1383,7 +1449,7 @@
     {
       "tag": "#VRPRRLQ",
       "name": "GILROYx408",
-      "role": "member",
+      "role": "admin",
       "th": 17,
       "firstSeen": "2026-08-26",
       "daysPresent": 1,
@@ -1529,6 +1595,39 @@
           "donations": 83,
           "raids": 87,
           "contributions": 0
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#L8GUP0C8G",
+      "name": "Ditto",
+      "role": "member",
+      "th": 13,
+      "firstSeen": "2026-08-27",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 14,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "contributions": null
         },
         "tier": null
       },
