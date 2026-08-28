@@ -1,8 +1,8 @@
 {
   "date": "2026-08-28",
-  "capturedAt": "2026-08-28T05:11:20.277Z",
+  "capturedAt": "2026-08-28T18:31:48.284Z",
   "clanLevel": 7,
-  "memberCount": 48,
+  "memberCount": 49,
   "members": [
     {
       "tag": "#YRQJPR0Y9",
@@ -31,10 +31,10 @@
       "name": "Limeranch",
       "role": "coLeader",
       "th": 17,
-      "expLevel": 149,
+      "expLevel": 150,
       "trophies": 0,
       "donations": 45,
-      "donationsReceived": 206,
+      "donationsReceived": 382,
       "capitalContributions": 0
     },
     {
@@ -43,9 +43,9 @@
       "role": "admin",
       "th": 15,
       "expLevel": 152,
-      "trophies": 359,
+      "trophies": 376,
       "donations": 540,
-      "donationsReceived": 536,
+      "donationsReceived": 616,
       "capitalContributions": 0
     },
     {
@@ -54,7 +54,7 @@
       "role": "admin",
       "th": 16,
       "expLevel": 174,
-      "trophies": 121,
+      "trophies": 135,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -75,10 +75,10 @@
       "name": "THE ROCK",
       "role": "admin",
       "th": 14,
-      "expLevel": 149,
-      "trophies": 91,
-      "donations": 633,
-      "donationsReceived": 1856,
+      "expLevel": 150,
+      "trophies": 119,
+      "donations": 668,
+      "donationsReceived": 1901,
       "capitalContributions": 0
     },
     {
@@ -98,7 +98,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 111,
-      "trophies": 304,
+      "trophies": 344,
       "donations": 576,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -137,6 +137,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GYVPLJRRL",
+      "name": "DaHairyVeer2",
+      "role": "member",
+      "th": 12,
+      "expLevel": 112,
+      "trophies": 375,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#LGRC8CP9U",
       "name": "Big dog",
       "role": "admin",
@@ -165,8 +176,8 @@
       "th": 13,
       "expLevel": 146,
       "trophies": 0,
-      "donations": 498,
-      "donationsReceived": 1809,
+      "donations": 573,
+      "donationsReceived": 1858,
       "capitalContributions": 0
     },
     {
@@ -175,7 +186,7 @@
       "role": "admin",
       "th": 12,
       "expLevel": 87,
-      "trophies": 264,
+      "trophies": 287,
       "donations": 127,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -183,7 +194,7 @@
     {
       "tag": "#GCRRUUP82",
       "name": "dennis jiang",
-      "role": "member",
+      "role": "admin",
       "th": 13,
       "expLevel": 63,
       "trophies": 2,
@@ -275,7 +286,7 @@
       "th": 13,
       "expLevel": 103,
       "trophies": 250,
-      "donations": 0,
+      "donations": 2,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -296,8 +307,8 @@
       "role": "admin",
       "th": 12,
       "expLevel": 77,
-      "trophies": 61,
-      "donations": 290,
+      "trophies": 97,
+      "donations": 345,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -331,7 +342,7 @@
       "expLevel": 86,
       "trophies": 50,
       "donations": 7,
-      "donationsReceived": 197,
+      "donationsReceived": 232,
       "capitalContributions": 0
     },
     {
@@ -339,7 +350,7 @@
       "name": "X4FSHIN",
       "role": "admin",
       "th": 11,
-      "expLevel": 82,
+      "expLevel": 83,
       "trophies": 0,
       "donations": 130,
       "donationsReceived": 0,
@@ -407,7 +418,7 @@
       "th": 18,
       "expLevel": 255,
       "trophies": 0,
-      "donations": 753,
+      "donations": 878,
       "donationsReceived": 291,
       "capitalContributions": 0
     },
@@ -418,8 +429,8 @@
       "th": 17,
       "expLevel": 221,
       "trophies": 0,
-      "donations": 166,
-      "donationsReceived": 58,
+      "donations": 288,
+      "donationsReceived": 113,
       "capitalContributions": 0
     },
     {
@@ -451,7 +462,7 @@
       "th": 15,
       "expLevel": 127,
       "trophies": 0,
-      "donations": 206,
+      "donations": 471,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -484,7 +495,7 @@
       "th": 18,
       "expLevel": 216,
       "trophies": 0,
-      "donations": 509,
+      "donations": 585,
       "donationsReceived": 291,
       "capitalContributions": 0
     },
@@ -496,7 +507,7 @@
       "expLevel": 104,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 1273,
+      "donationsReceived": 1576,
       "capitalContributions": 0
     },
     {
@@ -517,8 +528,8 @@
       "th": 18,
       "expLevel": 239,
       "trophies": 0,
-      "donations": 573,
-      "donationsReceived": 688,
+      "donations": 650,
+      "donationsReceived": 777,
       "capitalContributions": 0
     },
     {
