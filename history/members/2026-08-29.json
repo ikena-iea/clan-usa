@@ -1,6 +1,6 @@
 {
   "date": "2026-08-29",
-  "capturedAt": "2026-08-29T18:23:00.473Z",
+  "capturedAt": "2026-08-29T21:38:35.652Z",
   "clanLevel": 7,
   "memberCount": 49,
   "members": [
@@ -53,7 +53,7 @@
       "name": "HowardX",
       "role": "admin",
       "th": 16,
-      "expLevel": 81,
+      "expLevel": 82,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -65,9 +65,9 @@
       "role": "admin",
       "th": 14,
       "expLevel": 150,
-      "trophies": 119,
+      "trophies": 190,
       "donations": 790,
-      "donationsReceived": 1994,
+      "donationsReceived": 2042,
       "capitalContributions": 0
     },
     {
@@ -110,7 +110,7 @@
       "th": 14,
       "expLevel": 87,
       "trophies": 0,
-      "donations": 155,
+      "donations": 230,
       "donationsReceived": 300,
       "capitalContributions": 0
     },
@@ -133,7 +133,7 @@
       "expLevel": 112,
       "trophies": 375,
       "donations": 6,
-      "donationsReceived": 6,
+      "donationsReceived": 41,
       "capitalContributions": 0
     },
     {
@@ -143,7 +143,7 @@
       "th": 13,
       "expLevel": 150,
       "trophies": 156,
-      "donations": 179,
+      "donations": 214,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -418,7 +418,7 @@
       "th": 18,
       "expLevel": 255,
       "trophies": 0,
-      "donations": 878,
+      "donations": 936,
       "donationsReceived": 291,
       "capitalContributions": 0
     },
@@ -507,7 +507,7 @@
       "expLevel": 216,
       "trophies": 0,
       "donations": 585,
-      "donationsReceived": 331,
+      "donationsReceived": 341,
       "capitalContributions": 0
     },
     {
@@ -518,7 +518,7 @@
       "expLevel": 106,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 1581,
+      "donationsReceived": 1656,
       "capitalContributions": 0
     },
     {

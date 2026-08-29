@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T18:23:01.110Z",
+  "generatedAt": "2026-08-29T21:38:36.412Z",
   "snapshotDate": "2026-08-29",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -198,6 +198,40 @@
         "used": 10,
         "misses": 0,
         "tier": "Legendary"
+      }
+    },
+    {
+      "tag": "#LGRC8CP9U",
+      "name": "Big dog",
+      "role": "admin",
+      "th": 13,
+      "firstSeen": "2026-08-14",
+      "daysPresent": 15,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 2,
+      "warsTotal": 15,
+      "clan": {
+        "total": 75,
+        "pillars": {
+          "donations": 100,
+          "raids": 100,
+          "contributions": 0
+        },
+        "tier": "Epic"
+      },
+      "war": {
+        "total": 64.6,
+        "status": null,
+        "cap": null,
+        "pillars": {
+          "reliability": 63,
+          "performance": 68
+        },
+        "available": 4,
+        "used": 3,
+        "misses": 1,
+        "tier": "Rare"
       }
     },
     {
@@ -472,40 +506,6 @@
       }
     },
     {
-      "tag": "#LGRC8CP9U",
-      "name": "Big dog",
-      "role": "admin",
-      "th": 13,
-      "firstSeen": "2026-08-14",
-      "daysPresent": 15,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 2,
-      "warsTotal": 15,
-      "clan": {
-        "total": 70.8,
-        "pillars": {
-          "donations": 90,
-          "raids": 100,
-          "contributions": 0
-        },
-        "tier": "Epic"
-      },
-      "war": {
-        "total": 64.6,
-        "status": null,
-        "cap": null,
-        "pillars": {
-          "reliability": 63,
-          "performance": 68
-        },
-        "available": 4,
-        "used": 3,
-        "misses": 1,
-        "tier": "Rare"
-      }
-    },
-    {
       "tag": "#QVPQ8G2VQ",
       "name": "your mom",
       "role": "admin",
@@ -709,6 +709,40 @@
       }
     },
     {
+      "tag": "#G80PQRPUV",
+      "name": "sammy2720",
+      "role": "admin",
+      "th": 14,
+      "firstSeen": "2026-07-29",
+      "daysPresent": 31,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 3,
+      "warsTotal": 15,
+      "clan": {
+        "total": 52.8,
+        "pillars": {
+          "donations": 57,
+          "raids": 85,
+          "contributions": 0
+        },
+        "tier": "Uncommon"
+      },
+      "war": {
+        "total": 12.5,
+        "status": null,
+        "cap": "Uncommon",
+        "pillars": {
+          "reliability": 13,
+          "performance": null
+        },
+        "available": 6,
+        "used": 0,
+        "misses": 6,
+        "tier": "Common"
+      }
+    },
+    {
       "tag": "#R2JRVJG0U",
       "name": "100 days",
       "role": "coLeader",
@@ -739,40 +773,6 @@
         "used": 2,
         "misses": 0,
         "tier": null
-      }
-    },
-    {
-      "tag": "#G80PQRPUV",
-      "name": "sammy2720",
-      "role": "admin",
-      "th": 14,
-      "firstSeen": "2026-07-29",
-      "daysPresent": 31,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 3,
-      "warsTotal": 15,
-      "clan": {
-        "total": 45.3,
-        "pillars": {
-          "donations": 39,
-          "raids": 85,
-          "contributions": 0
-        },
-        "tier": "Uncommon"
-      },
-      "war": {
-        "total": 12.5,
-        "status": null,
-        "cap": "Uncommon",
-        "pillars": {
-          "reliability": 13,
-          "performance": null
-        },
-        "available": 6,
-        "used": 0,
-        "misses": 6,
-        "tier": "Common"
       }
     },
     {
