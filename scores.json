@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T02:02:57.274Z",
+  "generatedAt": "2026-08-29T09:56:50.311Z",
   "snapshotDate": "2026-08-29",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -475,7 +475,7 @@
       "tag": "#QVPQ8G2VQ",
       "name": "your mom",
       "role": "admin",
-      "th": 12,
+      "th": 13,
       "firstSeen": "2026-07-28",
       "daysPresent": 32,
       "inGrace": false,
@@ -705,40 +705,6 @@
         "used": 2,
         "misses": 0,
         "tier": null
-      }
-    },
-    {
-      "tag": "#GJ2RRLRPL",
-      "name": "Royumi",
-      "role": "admin",
-      "th": 13,
-      "firstSeen": "2026-08-10",
-      "daysPresent": 19,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 3,
-      "warsTotal": 15,
-      "clan": {
-        "total": 46.2,
-        "pillars": {
-          "donations": 55,
-          "raids": 69,
-          "contributions": 0
-        },
-        "tier": "Uncommon"
-      },
-      "war": {
-        "total": 22,
-        "status": null,
-        "cap": "Uncommon",
-        "pillars": {
-          "reliability": 25,
-          "performance": 18
-        },
-        "available": 6,
-        "used": 1,
-        "misses": 5,
-        "tier": "Common"
       }
     },
     {
@@ -1483,39 +1449,6 @@
         "used": 0,
         "misses": 10,
         "tier": "Common"
-      }
-    },
-    {
-      "tag": "#Q0VJ9U2GL",
-      "name": "emmaelish021",
-      "role": "admin",
-      "th": 16,
-      "firstSeen": "2026-08-16",
-      "daysPresent": 13,
-      "inGrace": true,
-      "gracePeriodEndsIn": 1,
-      "warsJoined": 1,
-      "warsTotal": 15,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": 100,
-          "contributions": 0
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 2,
-        "used": 0,
-        "misses": 2,
-        "tier": null
       }
     },
     {

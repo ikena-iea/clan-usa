@@ -1,8 +1,8 @@
 {
   "date": "2026-08-29",
-  "capturedAt": "2026-08-29T02:02:56.477Z",
+  "capturedAt": "2026-08-29T09:56:49.915Z",
   "clanLevel": 7,
-  "memberCount": 50,
+  "memberCount": 48,
   "members": [
     {
       "tag": "#YRQJPR0Y9",
@@ -21,9 +21,9 @@
       "role": "admin",
       "th": 15,
       "expLevel": 171,
-      "trophies": 263,
+      "trophies": 292,
       "donations": 361,
-      "donationsReceived": 862,
+      "donationsReceived": 936,
       "capitalContributions": 0
     },
     {
@@ -49,17 +49,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#Q0VJ9U2GL",
-      "name": "emmaelish021",
-      "role": "admin",
-      "th": 16,
-      "expLevel": 174,
-      "trophies": 135,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#R22GJ29UV",
       "name": "HowardX",
       "role": "admin",
@@ -78,7 +67,7 @@
       "expLevel": 150,
       "trophies": 119,
       "donations": 790,
-      "donationsReceived": 1949,
+      "donationsReceived": 1994,
       "capitalContributions": 0
     },
     {
@@ -164,7 +153,7 @@
       "role": "member",
       "th": 13,
       "expLevel": 111,
-      "trophies": 96,
+      "trophies": 106,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -258,17 +247,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#GJ2RRLRPL",
-      "name": "Royumi",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 60,
-      "trophies": 0,
-      "donations": 139,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#PJ22QYY22",
       "name": "thegodlynoob",
       "role": "admin",
@@ -296,7 +274,7 @@
       "role": "member",
       "th": 13,
       "expLevel": 103,
-      "trophies": 322,
+      "trophies": 350,
       "donations": 2,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -316,9 +294,9 @@
       "tag": "#QVPQ8G2VQ",
       "name": "your mom",
       "role": "admin",
-      "th": 12,
+      "th": 13,
       "expLevel": 77,
-      "trophies": 97,
+      "trophies": 117,
       "donations": 345,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -339,7 +317,7 @@
       "name": "hartymate",
       "role": "admin",
       "th": 11,
-      "expLevel": 90,
+      "expLevel": 91,
       "trophies": 90,
       "donations": 0,
       "donationsReceived": 0,
@@ -440,7 +418,7 @@
       "th": 17,
       "expLevel": 221,
       "trophies": 0,
-      "donations": 292,
+      "donations": 337,
       "donationsReceived": 113,
       "capitalContributions": 0
     },
@@ -507,7 +485,7 @@
       "expLevel": 216,
       "trophies": 0,
       "donations": 585,
-      "donationsReceived": 291,
+      "donationsReceived": 331,
       "capitalContributions": 0
     },
     {
@@ -518,7 +496,7 @@
       "expLevel": 105,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 1576,
+      "donationsReceived": 1581,
       "capitalContributions": 0
     },
     {
@@ -539,7 +517,7 @@
       "th": 18,
       "expLevel": 239,
       "trophies": 0,
-      "donations": 650,
+      "donations": 769,
       "donationsReceived": 777,
       "capitalContributions": 0
     },
