@@ -1,6 +1,6 @@
 {
   "date": "2026-08-29",
-  "capturedAt": "2026-08-29T09:56:49.915Z",
+  "capturedAt": "2026-08-29T14:59:55.091Z",
   "clanLevel": 7,
   "memberCount": 48,
   "members": [
@@ -21,7 +21,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 171,
-      "trophies": 292,
+      "trophies": 303,
       "donations": 361,
       "donationsReceived": 936,
       "capitalContributions": 0
@@ -33,7 +33,7 @@
       "th": 17,
       "expLevel": 150,
       "trophies": 0,
-      "donations": 45,
+      "donations": 87,
       "donationsReceived": 382,
       "capitalContributions": 0
     },
@@ -108,7 +108,7 @@
       "name": "sammy2720",
       "role": "admin",
       "th": 14,
-      "expLevel": 86,
+      "expLevel": 87,
       "trophies": 0,
       "donations": 155,
       "donationsReceived": 300,
@@ -128,7 +128,7 @@
     {
       "tag": "#GYVPLJRRL",
       "name": "DaHairyVeer2",
-      "role": "member",
+      "role": "admin",
       "th": 12,
       "expLevel": 112,
       "trophies": 375,
@@ -150,7 +150,7 @@
     {
       "tag": "#Q8P8R8UQQ",
       "name": "vale",
-      "role": "member",
+      "role": "admin",
       "th": 13,
       "expLevel": 111,
       "trophies": 106,
@@ -247,6 +247,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#L8GUP0C8G",
+      "name": "Ditto",
+      "role": "member",
+      "th": 13,
+      "expLevel": 131,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#PJ22QYY22",
       "name": "thegodlynoob",
       "role": "admin",
@@ -269,6 +280,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#YUPP00GUU",
+      "name": "damiano",
+      "role": "member",
+      "th": 12,
+      "expLevel": 130,
+      "trophies": 394,
+      "donations": 395,
+      "donationsReceived": 344,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#G089JGCQP",
       "name": "Mohammad-Yahya",
       "role": "member",
@@ -277,17 +299,6 @@
       "trophies": 350,
       "donations": 2,
       "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#YUPP00GUU",
-      "name": "damiano",
-      "role": "member",
-      "th": 12,
-      "expLevel": 130,
-      "trophies": 191,
-      "donations": 395,
-      "donationsReceived": 260,
       "capitalContributions": 0
     },
     {
@@ -493,21 +504,10 @@
       "name": "sjd_emd",
       "role": "admin",
       "th": 13,
-      "expLevel": 105,
+      "expLevel": 106,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 1581,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#L8GUP0C8G",
-      "name": "Ditto",
-      "role": "member",
-      "th": 13,
-      "expLevel": 131,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
