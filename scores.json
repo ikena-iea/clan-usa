@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T14:59:56.039Z",
+  "generatedAt": "2026-08-29T18:23:01.110Z",
   "snapshotDate": "2026-08-29",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -472,6 +472,40 @@
       }
     },
     {
+      "tag": "#LGRC8CP9U",
+      "name": "Big dog",
+      "role": "admin",
+      "th": 13,
+      "firstSeen": "2026-08-14",
+      "daysPresent": 15,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 2,
+      "warsTotal": 15,
+      "clan": {
+        "total": 70.8,
+        "pillars": {
+          "donations": 90,
+          "raids": 100,
+          "contributions": 0
+        },
+        "tier": "Epic"
+      },
+      "war": {
+        "total": 64.6,
+        "status": null,
+        "cap": null,
+        "pillars": {
+          "reliability": 63,
+          "performance": 68
+        },
+        "available": 4,
+        "used": 3,
+        "misses": 1,
+        "tier": "Rare"
+      }
+    },
+    {
       "tag": "#QVPQ8G2VQ",
       "name": "your mom",
       "role": "admin",
@@ -506,40 +540,6 @@
       }
     },
     {
-      "tag": "#LGRC8CP9U",
-      "name": "Big dog",
-      "role": "admin",
-      "th": 13,
-      "firstSeen": "2026-08-14",
-      "daysPresent": 15,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 2,
-      "warsTotal": 15,
-      "clan": {
-        "total": 64.8,
-        "pillars": {
-          "donations": 75,
-          "raids": 100,
-          "contributions": 0
-        },
-        "tier": "Rare"
-      },
-      "war": {
-        "total": 64.6,
-        "status": null,
-        "cap": null,
-        "pillars": {
-          "reliability": 63,
-          "performance": 68
-        },
-        "available": 4,
-        "used": 3,
-        "misses": 1,
-        "tier": "Rare"
-      }
-    },
-    {
       "tag": "#GVCJ9R0Q8",
       "name": "Mr.PiCkLe",
       "role": "member",
@@ -551,9 +551,9 @@
       "warsJoined": 2,
       "warsTotal": 15,
       "clan": {
-        "total": 62.8,
+        "total": 64.4,
         "pillars": {
-          "donations": 63,
+          "donations": 64,
           "raids": null,
           "contributions": null
         },
@@ -1565,6 +1565,39 @@
         "total": null,
         "pillars": {
           "donations": 100,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#QR2QYUJV9",
+      "name": "Alexluidriana",
+      "role": "member",
+      "th": 12,
+      "firstSeen": "2026-08-29",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 15,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
           "raids": null,
           "contributions": null
         },
