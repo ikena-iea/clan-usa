@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T00:05:07.354Z",
+  "generatedAt": "2026-08-30T06:28:13.152Z",
   "snapshotDate": "2026-08-30",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1012,6 +1012,39 @@
       }
     },
     {
+      "tag": "#Q8P8R8UQQ",
+      "name": "vale",
+      "role": "admin",
+      "th": 13,
+      "firstSeen": "2026-08-14",
+      "daysPresent": 16,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 0,
+      "warsTotal": 15,
+      "clan": {
+        "total": 30.9,
+        "pillars": {
+          "donations": 31,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": "Common"
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#GVV89RJYQ",
       "name": "DevilIguana",
       "role": "coLeader",
@@ -1247,39 +1280,6 @@
         "used": 2,
         "misses": 8,
         "tier": "Common"
-      }
-    },
-    {
-      "tag": "#Q8P8R8UQQ",
-      "name": "vale",
-      "role": "admin",
-      "th": 13,
-      "firstSeen": "2026-08-14",
-      "daysPresent": 16,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 0,
-      "warsTotal": 15,
-      "clan": {
-        "total": 0,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": "Common"
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
       }
     },
     {
@@ -1551,20 +1551,20 @@
       }
     },
     {
-      "tag": "#VRPRRLQ",
-      "name": "GILROYx408",
+      "tag": "#QR2QYUJV9",
+      "name": "Alexluidriana",
       "role": "admin",
-      "th": 17,
-      "firstSeen": "2026-08-26",
-      "daysPresent": 4,
+      "th": 12,
+      "firstSeen": "2026-08-29",
+      "daysPresent": 1,
       "inGrace": true,
-      "gracePeriodEndsIn": 10,
+      "gracePeriodEndsIn": 13,
       "warsJoined": 0,
       "warsTotal": 15,
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 100,
+          "donations": 0,
           "raids": null,
           "contributions": null
         },
@@ -1584,20 +1584,20 @@
       }
     },
     {
-      "tag": "#QR2QYUJV9",
-      "name": "Alexluidriana",
+      "tag": "#VRPRRLQ",
+      "name": "GILROYx408",
       "role": "admin",
-      "th": 12,
-      "firstSeen": "2026-08-29",
-      "daysPresent": 1,
+      "th": 17,
+      "firstSeen": "2026-08-26",
+      "daysPresent": 4,
       "inGrace": true,
-      "gracePeriodEndsIn": 13,
+      "gracePeriodEndsIn": 10,
       "warsJoined": 0,
       "warsTotal": 15,
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 0,
+          "donations": 100,
           "raids": null,
           "contributions": null
         },
