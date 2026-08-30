@@ -1,8 +1,8 @@
 {
   "date": "2026-08-30",
-  "capturedAt": "2026-08-30T20:56:17.909Z",
+  "capturedAt": "2026-08-30T23:23:34.959Z",
   "clanLevel": 7,
-  "memberCount": 49,
+  "memberCount": 48,
   "members": [
     {
       "tag": "#YRQJPR0Y9",
@@ -42,8 +42,8 @@
       "name": "mustafa",
       "role": "admin",
       "th": 15,
-      "expLevel": 152,
-      "trophies": 376,
+      "expLevel": 153,
+      "trophies": 393,
       "donations": 712,
       "donationsReceived": 699,
       "capitalContributions": 0
@@ -77,8 +77,8 @@
       "th": 13,
       "expLevel": 116,
       "trophies": 393,
-      "donations": 442,
-      "donationsReceived": 77,
+      "donations": 467,
+      "donationsReceived": 154,
       "capitalContributions": 0
     },
     {
@@ -121,8 +121,19 @@
       "th": 14,
       "expLevel": 102,
       "trophies": 0,
-      "donations": 226,
+      "donations": 303,
       "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#LGRC8CP9U",
+      "name": "Big dog",
+      "role": "admin",
+      "th": 13,
+      "expLevel": 150,
+      "trophies": 426,
+      "donations": 259,
+      "donationsReceived": 27,
       "capitalContributions": 0
     },
     {
@@ -134,17 +145,6 @@
       "trophies": 375,
       "donations": 61,
       "donationsReceived": 43,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#LGRC8CP9U",
-      "name": "Big dog",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 150,
-      "trophies": 332,
-      "donations": 259,
-      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -200,17 +200,6 @@
       "trophies": 2,
       "donations": 109,
       "donationsReceived": 78,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#2L0J822CV",
-      "name": "Inher1tor",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 108,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -295,7 +284,7 @@
       "name": "Mohammad-Yahya",
       "role": "admin",
       "th": 13,
-      "expLevel": 103,
+      "expLevel": 104,
       "trophies": 350,
       "donations": 2,
       "donationsReceived": 0,
