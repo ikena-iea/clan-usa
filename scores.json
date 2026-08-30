@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T06:28:13.152Z",
+  "generatedAt": "2026-08-30T12:45:36.714Z",
   "snapshotDate": "2026-08-30",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -540,6 +540,40 @@
       }
     },
     {
+      "tag": "#LCVCL0LU0",
+      "name": "Limeranch",
+      "role": "coLeader",
+      "th": 17,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 33,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 11,
+      "warsTotal": 15,
+      "clan": {
+        "total": 64.8,
+        "pillars": {
+          "donations": 65,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": "Rare"
+      },
+      "war": {
+        "total": 68.3,
+        "status": null,
+        "cap": "Rare",
+        "pillars": {
+          "reliability": 90,
+          "performance": 36
+        },
+        "available": 10,
+        "used": 9,
+        "misses": 1,
+        "tier": "Rare"
+      }
+    },
+    {
       "tag": "#GVCJ9R0Q8",
       "name": "Mr.PiCkLe",
       "role": "member",
@@ -571,6 +605,40 @@
         "used": 0,
         "misses": 4,
         "tier": "Common"
+      }
+    },
+    {
+      "tag": "#R2RR9UJ8V",
+      "name": "X4FSHIN",
+      "role": "admin",
+      "th": 11,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 33,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 10,
+      "warsTotal": 15,
+      "clan": {
+        "total": 58.6,
+        "pillars": {
+          "donations": 60,
+          "raids": 99,
+          "contributions": 0
+        },
+        "tier": "Rare"
+      },
+      "war": {
+        "total": 67.6,
+        "status": null,
+        "cap": "Uncommon",
+        "pillars": {
+          "reliability": 50,
+          "performance": 94
+        },
+        "available": 10,
+        "used": 5,
+        "misses": 5,
+        "tier": "Uncommon"
       }
     },
     {
@@ -637,74 +705,6 @@
         "available": 9,
         "used": 7,
         "misses": 2,
-        "tier": "Rare"
-      }
-    },
-    {
-      "tag": "#R2RR9UJ8V",
-      "name": "X4FSHIN",
-      "role": "admin",
-      "th": 11,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 33,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 10,
-      "warsTotal": 15,
-      "clan": {
-        "total": 53.9,
-        "pillars": {
-          "donations": 48,
-          "raids": 99,
-          "contributions": 0
-        },
-        "tier": "Uncommon"
-      },
-      "war": {
-        "total": 67.6,
-        "status": null,
-        "cap": "Uncommon",
-        "pillars": {
-          "reliability": 50,
-          "performance": 94
-        },
-        "available": 10,
-        "used": 5,
-        "misses": 5,
-        "tier": "Uncommon"
-      }
-    },
-    {
-      "tag": "#LCVCL0LU0",
-      "name": "Limeranch",
-      "role": "coLeader",
-      "th": 17,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 33,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 11,
-      "warsTotal": 15,
-      "clan": {
-        "total": 53,
-        "pillars": {
-          "donations": 53,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": "Uncommon"
-      },
-      "war": {
-        "total": 68.3,
-        "status": null,
-        "cap": "Rare",
-        "pillars": {
-          "reliability": 90,
-          "performance": 36
-        },
-        "available": 10,
-        "used": 9,
-        "misses": 1,
         "tier": "Rare"
       }
     },
