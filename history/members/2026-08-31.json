@@ -1,8 +1,8 @@
 {
   "date": "2026-08-31",
-  "capturedAt": "2026-08-31T19:56:21.819Z",
+  "capturedAt": "2026-08-31T23:44:09.191Z",
   "clanLevel": 7,
-  "memberCount": 48,
+  "memberCount": 49,
   "members": [
     {
       "tag": "#YRQJPR0Y9",
@@ -11,7 +11,7 @@
       "th": 18,
       "expLevel": 251,
       "trophies": 0,
-      "donations": 872,
+      "donations": 877,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -44,7 +44,7 @@
       "th": 15,
       "expLevel": 153,
       "trophies": 40,
-      "donations": 712,
+      "donations": 757,
       "donationsReceived": 699,
       "capitalContributions": 0
     },
@@ -64,9 +64,9 @@
       "name": "Ikena",
       "role": "coLeader",
       "th": 13,
-      "expLevel": 116,
+      "expLevel": 117,
       "trophies": 13,
-      "donations": 467,
+      "donations": 502,
       "donationsReceived": 201,
       "capitalContributions": 0
     },
@@ -78,7 +78,7 @@
       "expLevel": 151,
       "trophies": 0,
       "donations": 953,
-      "donationsReceived": 2241,
+      "donationsReceived": 2289,
       "capitalContributions": 0
     },
     {
@@ -108,9 +108,9 @@
       "name": "sammy2720",
       "role": "admin",
       "th": 14,
-      "expLevel": 87,
+      "expLevel": 88,
       "trophies": 0,
-      "donations": 230,
+      "donations": 267,
       "donationsReceived": 300,
       "capitalContributions": 0
     },
@@ -132,8 +132,8 @@
       "th": 12,
       "expLevel": 113,
       "trophies": 0,
-      "donations": 61,
-      "donationsReceived": 89,
+      "donations": 91,
+      "donationsReceived": 126,
       "capitalContributions": 0
     },
     {
@@ -164,9 +164,20 @@
       "role": "admin",
       "th": 13,
       "expLevel": 147,
-      "trophies": 0,
+      "trophies": 28,
       "donations": 573,
       "donationsReceived": 1905,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#QR2R89VLQ",
+      "name": "umut",
+      "role": "member",
+      "th": 13,
+      "expLevel": 127,
+      "trophies": 8,
+      "donations": 0,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -342,7 +353,7 @@
       "expLevel": 96,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 0,
+      "donationsReceived": 67,
       "capitalContributions": 0
     },
     {
@@ -373,7 +384,7 @@
       "role": "admin",
       "th": 9,
       "expLevel": 62,
-      "trophies": 43,
+      "trophies": 47,
       "donations": 1,
       "donationsReceived": 187,
       "capitalContributions": 0

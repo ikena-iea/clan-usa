@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T19:56:22.307Z",
+  "generatedAt": "2026-08-31T23:44:09.670Z",
   "snapshotDate": "2026-08-31",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -641,6 +641,40 @@
       }
     },
     {
+      "tag": "#G80PQRPUV",
+      "name": "sammy2720",
+      "role": "admin",
+      "th": 14,
+      "firstSeen": "2026-07-29",
+      "daysPresent": 33,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 3,
+      "warsTotal": 15,
+      "clan": {
+        "total": 56.8,
+        "pillars": {
+          "donations": 67,
+          "raids": 86,
+          "contributions": 0
+        },
+        "tier": "Rare"
+      },
+      "war": {
+        "total": 12.5,
+        "status": null,
+        "cap": "Uncommon",
+        "pillars": {
+          "reliability": 13,
+          "performance": null
+        },
+        "available": 6,
+        "used": 0,
+        "misses": 6,
+        "tier": "Common"
+      }
+    },
+    {
       "tag": "#GVCJ9R0Q8",
       "name": "Mr.PiCkLe",
       "role": "admin",
@@ -739,40 +773,6 @@
         "used": 0,
         "misses": 0,
         "tier": null
-      }
-    },
-    {
-      "tag": "#G80PQRPUV",
-      "name": "sammy2720",
-      "role": "admin",
-      "th": 14,
-      "firstSeen": "2026-07-29",
-      "daysPresent": 33,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 3,
-      "warsTotal": 15,
-      "clan": {
-        "total": 53.1,
-        "pillars": {
-          "donations": 57,
-          "raids": 86,
-          "contributions": 0
-        },
-        "tier": "Uncommon"
-      },
-      "war": {
-        "total": 12.5,
-        "status": null,
-        "cap": "Uncommon",
-        "pillars": {
-          "reliability": 13,
-          "performance": null
-        },
-        "available": 6,
-        "used": 0,
-        "misses": 6,
-        "tier": "Common"
       }
     },
     {
@@ -1113,6 +1113,40 @@
       }
     },
     {
+      "tag": "#GYVPLJRRL",
+      "name": "DaHairyVeer2",
+      "role": "admin",
+      "th": 12,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 34,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 10,
+      "warsTotal": 15,
+      "clan": {
+        "total": 22.7,
+        "pillars": {
+          "donations": 23,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": "Common"
+      },
+      "war": {
+        "total": 75,
+        "status": null,
+        "cap": "Rare",
+        "pillars": {
+          "reliability": 80,
+          "performance": 68
+        },
+        "available": 10,
+        "used": 8,
+        "misses": 2,
+        "tier": "Rare"
+      }
+    },
+    {
       "tag": "#GUPY8PLLP",
       "name": "BEOX",
       "role": "admin",
@@ -1212,40 +1246,6 @@
         "used": 0,
         "misses": 9,
         "tier": "Common"
-      }
-    },
-    {
-      "tag": "#GYVPLJRRL",
-      "name": "DaHairyVeer2",
-      "role": "admin",
-      "th": 12,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 34,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 10,
-      "warsTotal": 15,
-      "clan": {
-        "total": 15.3,
-        "pillars": {
-          "donations": 15,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": "Common"
-      },
-      "war": {
-        "total": 75,
-        "status": null,
-        "cap": "Rare",
-        "pillars": {
-          "reliability": 80,
-          "performance": 68
-        },
-        "available": 10,
-        "used": 8,
-        "misses": 2,
-        "tier": "Rare"
       }
     },
     {
@@ -1449,6 +1449,39 @@
         "used": 0,
         "misses": 10,
         "tier": "Common"
+      }
+    },
+    {
+      "tag": "#QR2R89VLQ",
+      "name": "umut",
+      "role": "member",
+      "th": 13,
+      "firstSeen": "2026-08-31",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 15,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
       }
     },
     {
