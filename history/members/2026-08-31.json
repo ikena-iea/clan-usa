@@ -1,6 +1,6 @@
 {
   "date": "2026-08-31",
-  "capturedAt": "2026-08-31T13:28:34.394Z",
+  "capturedAt": "2026-08-31T19:56:21.819Z",
   "clanLevel": 7,
   "memberCount": 48,
   "members": [
@@ -11,7 +11,7 @@
       "th": 18,
       "expLevel": 251,
       "trophies": 0,
-      "donations": 871,
+      "donations": 872,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -33,7 +33,7 @@
       "th": 17,
       "expLevel": 150,
       "trophies": 0,
-      "donations": 249,
+      "donations": 297,
       "donationsReceived": 382,
       "capitalContributions": 0
     },
@@ -43,7 +43,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 153,
-      "trophies": 0,
+      "trophies": 40,
       "donations": 712,
       "donationsReceived": 699,
       "capitalContributions": 0
@@ -60,25 +60,25 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#QLV80QQCY",
-      "name": "THE ROCK",
-      "role": "admin",
-      "th": 14,
-      "expLevel": 150,
-      "trophies": 0,
-      "donations": 876,
-      "donationsReceived": 2193,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#R292L228Q",
       "name": "Ikena",
       "role": "coLeader",
       "th": 13,
       "expLevel": 116,
-      "trophies": 0,
+      "trophies": 13,
       "donations": 467,
       "donationsReceived": 201,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#QLV80QQCY",
+      "name": "THE ROCK",
+      "role": "admin",
+      "th": 14,
+      "expLevel": 151,
+      "trophies": 0,
+      "donations": 953,
+      "donationsReceived": 2241,
       "capitalContributions": 0
     },
     {
@@ -133,7 +133,7 @@
       "expLevel": 113,
       "trophies": 0,
       "donations": 61,
-      "donationsReceived": 48,
+      "donationsReceived": 89,
       "capitalContributions": 0
     },
     {
@@ -154,7 +154,7 @@
       "th": 13,
       "expLevel": 111,
       "trophies": 0,
-      "donations": 66,
+      "donations": 143,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -192,6 +192,28 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#PJ22QYY22",
+      "name": "thegodlynoob",
+      "role": "admin",
+      "th": 11,
+      "expLevel": 89,
+      "trophies": 87,
+      "donations": 2,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#QV9QYJ09G",
+      "name": "Gobinath.N",
+      "role": "admin",
+      "th": 13,
+      "expLevel": 116,
+      "trophies": 20,
+      "donations": 0,
+      "donationsReceived": 1214,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#QVPQ8G2VQ",
       "name": "your mom",
       "role": "admin",
@@ -214,17 +236,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#PJ22QYY22",
-      "name": "thegodlynoob",
-      "role": "admin",
-      "th": 11,
-      "expLevel": 89,
-      "trophies": 0,
-      "donations": 2,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#GVCJ9R0Q8",
       "name": "Mr.PiCkLe",
       "role": "admin",
@@ -233,17 +244,6 @@
       "trophies": 0,
       "donations": 37,
       "donationsReceived": 899,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#QV9QYJ09G",
-      "name": "Gobinath.N",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 116,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 985,
       "capitalContributions": 0
     },
     {
@@ -264,7 +264,7 @@
       "th": 13,
       "expLevel": 132,
       "trophies": 0,
-      "donations": 86,
+      "donations": 166,
       "donationsReceived": 75,
       "capitalContributions": 0
     },
@@ -280,6 +280,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#YUPP00GUU",
+      "name": "damiano",
+      "role": "member",
+      "th": 12,
+      "expLevel": 130,
+      "trophies": 26,
+      "donations": 395,
+      "donationsReceived": 344,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#GYC8Q2R20",
       "name": "lucky",
       "role": "admin",
@@ -291,17 +302,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#YUPP00GUU",
-      "name": "damiano",
-      "role": "member",
-      "th": 12,
-      "expLevel": 130,
-      "trophies": 0,
-      "donations": 395,
-      "donationsReceived": 344,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#GVV89RJYQ",
       "name": "DevilIguana",
       "role": "coLeader",
@@ -310,6 +310,17 @@
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#GLUJVJGGV",
+      "name": "allis",
+      "role": "admin",
+      "th": 10,
+      "expLevel": 86,
+      "trophies": 40,
+      "donations": 7,
+      "donationsReceived": 232,
       "capitalContributions": 0
     },
     {
@@ -332,17 +343,6 @@
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GLUJVJGGV",
-      "name": "allis",
-      "role": "admin",
-      "th": 10,
-      "expLevel": 86,
-      "trophies": 0,
-      "donations": 7,
-      "donationsReceived": 232,
       "capitalContributions": 0
     },
     {
@@ -373,7 +373,7 @@
       "role": "admin",
       "th": 9,
       "expLevel": 62,
-      "trophies": 0,
+      "trophies": 43,
       "donations": 1,
       "donationsReceived": 187,
       "capitalContributions": 0
@@ -495,7 +495,7 @@
       "th": 18,
       "expLevel": 216,
       "trophies": 0,
-      "donations": 605,
+      "donations": 685,
       "donationsReceived": 447,
       "capitalContributions": 0
     },
@@ -507,7 +507,7 @@
       "expLevel": 106,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 1703,
+      "donationsReceived": 1748,
       "capitalContributions": 0
     },
     {

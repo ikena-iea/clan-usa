@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T13:28:34.897Z",
+  "generatedAt": "2026-08-31T19:56:22.307Z",
   "snapshotDate": "2026-08-31",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -63,6 +63,40 @@
         "used": 2,
         "misses": 0,
         "tier": null
+      }
+    },
+    {
+      "tag": "#LCVCL0LU0",
+      "name": "Limeranch",
+      "role": "coLeader",
+      "th": 17,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 34,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 11,
+      "warsTotal": 15,
+      "clan": {
+        "total": 100,
+        "pillars": {
+          "donations": 100,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": "Legendary"
+      },
+      "war": {
+        "total": 68.3,
+        "status": null,
+        "cap": "Rare",
+        "pillars": {
+          "reliability": 90,
+          "performance": 36
+        },
+        "available": 10,
+        "used": 9,
+        "misses": 1,
+        "tier": "Rare"
       }
     },
     {
@@ -164,40 +198,6 @@
         "used": 0,
         "misses": 0,
         "tier": null
-      }
-    },
-    {
-      "tag": "#LCVCL0LU0",
-      "name": "Limeranch",
-      "role": "coLeader",
-      "th": 17,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 34,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 11,
-      "warsTotal": 15,
-      "clan": {
-        "total": 93.5,
-        "pillars": {
-          "donations": 94,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": "Legendary"
-      },
-      "war": {
-        "total": 68.3,
-        "status": null,
-        "cap": "Rare",
-        "pillars": {
-          "reliability": 90,
-          "performance": 36
-        },
-        "available": 10,
-        "used": 9,
-        "misses": 1,
-        "tier": "Rare"
       }
     },
     {
@@ -571,6 +571,39 @@
         "used": 4,
         "misses": 6,
         "tier": "Common"
+      }
+    },
+    {
+      "tag": "#Q8P8R8UQQ",
+      "name": "vale",
+      "role": "admin",
+      "th": 13,
+      "firstSeen": "2026-08-14",
+      "daysPresent": 17,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 0,
+      "warsTotal": 15,
+      "clan": {
+        "total": 63.1,
+        "pillars": {
+          "donations": 63,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": "Rare"
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
       }
     },
     {
@@ -1009,39 +1042,6 @@
         "used": 9,
         "misses": 1,
         "tier": "Rare"
-      }
-    },
-    {
-      "tag": "#Q8P8R8UQQ",
-      "name": "vale",
-      "role": "admin",
-      "th": 13,
-      "firstSeen": "2026-08-14",
-      "daysPresent": 17,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 0,
-      "warsTotal": 15,
-      "clan": {
-        "total": 29.1,
-        "pillars": {
-          "donations": 29,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": "Common"
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
       }
     },
     {
