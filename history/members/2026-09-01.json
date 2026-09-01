@@ -1,8 +1,8 @@
 {
   "date": "2026-09-01",
-  "capturedAt": "2026-09-01T09:55:02.668Z",
+  "capturedAt": "2026-09-01T14:42:52.224Z",
   "clanLevel": 7,
-  "memberCount": 50,
+  "memberCount": 48,
   "members": [
     {
       "tag": "#YRQJPR0Y9",
@@ -33,7 +33,7 @@
       "th": 17,
       "expLevel": 150,
       "trophies": 0,
-      "donations": 297,
+      "donations": 302,
       "donationsReceived": 382,
       "capitalContributions": 0
     },
@@ -43,7 +43,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 153,
-      "trophies": 40,
+      "trophies": 69,
       "donations": 757,
       "donationsReceived": 699,
       "capitalContributions": 0
@@ -77,8 +77,8 @@
       "th": 14,
       "expLevel": 151,
       "trophies": 0,
-      "donations": 973,
-      "donationsReceived": 2294,
+      "donations": 1045,
+      "donationsReceived": 2342,
       "capitalContributions": 0
     },
     {
@@ -87,9 +87,20 @@
       "role": "admin",
       "th": 13,
       "expLevel": 112,
-      "trophies": 233,
+      "trophies": 260,
       "donations": 695,
       "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#GYVPLJRRL",
+      "name": "DaHairyVeer2",
+      "role": "admin",
+      "th": 12,
+      "expLevel": 113,
+      "trophies": 122,
+      "donations": 91,
+      "donationsReceived": 289,
       "capitalContributions": 0
     },
     {
@@ -123,17 +134,6 @@
       "trophies": 0,
       "donations": 259,
       "donationsReceived": 47,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GYVPLJRRL",
-      "name": "DaHairyVeer2",
-      "role": "admin",
-      "th": 12,
-      "expLevel": 113,
-      "trophies": 0,
-      "donations": 91,
-      "donationsReceived": 167,
       "capitalContributions": 0
     },
     {
@@ -196,7 +196,7 @@
       "name": "BEOX",
       "role": "admin",
       "th": 13,
-      "expLevel": 118,
+      "expLevel": 119,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 77,
@@ -242,7 +242,7 @@
       "th": 13,
       "expLevel": 132,
       "trophies": 19,
-      "donations": 166,
+      "donations": 224,
       "donationsReceived": 150,
       "capitalContributions": 0
     },
@@ -266,17 +266,6 @@
       "trophies": 0,
       "donations": 69,
       "donationsReceived": 36,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GVCJ9R0Q8",
-      "name": "Mr.PiCkLe",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 100,
-      "trophies": 0,
-      "donations": 37,
-      "donationsReceived": 899,
       "capitalContributions": 0
     },
     {
@@ -384,7 +373,7 @@
       "role": "admin",
       "th": 9,
       "expLevel": 62,
-      "trophies": 75,
+      "trophies": 120,
       "donations": 1,
       "donationsReceived": 187,
       "capitalContributions": 0
@@ -401,17 +390,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#LJRJ2UJU2",
-      "name": "嘻哈侠88",
-      "role": "admin",
-      "th": 18,
-      "expLevel": 209,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#GPC8J2YLY",
       "name": "IDONTKNOW",
       "role": "admin",
@@ -419,7 +397,18 @@
       "expLevel": 89,
       "trophies": 0,
       "donations": 228,
-      "donationsReceived": 911,
+      "donationsReceived": 978,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#GVCJ9R0Q8",
+      "name": "Mr.PiCkLe",
+      "role": "admin",
+      "th": 13,
+      "expLevel": 100,
+      "trophies": 0,
+      "donations": 85,
+      "donationsReceived": 965,
       "capitalContributions": 0
     },
     {
@@ -440,8 +429,8 @@
       "th": 17,
       "expLevel": 221,
       "trophies": 0,
-      "donations": 557,
-      "donationsReceived": 339,
+      "donations": 594,
+      "donationsReceived": 397,
       "capitalContributions": 0
     },
     {
@@ -478,17 +467,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#QLYC20U2J",
-      "name": "Tap Tap",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 124,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#G8VGPGY8J",
       "name": "asap",
       "role": "member",
@@ -517,7 +495,7 @@
       "th": 18,
       "expLevel": 216,
       "trophies": 0,
-      "donations": 685,
+      "donations": 826,
       "donationsReceived": 447,
       "capitalContributions": 0
     },
