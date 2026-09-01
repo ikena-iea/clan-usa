@@ -1,6 +1,6 @@
 {
   "date": "2026-09-01",
-  "capturedAt": "2026-09-01T21:42:10.059Z",
+  "capturedAt": "2026-09-01T23:57:47.879Z",
   "clanLevel": 7,
   "memberCount": 49,
   "members": [
@@ -11,7 +11,7 @@
       "th": 18,
       "expLevel": 251,
       "trophies": 0,
-      "donations": 877,
+      "donations": 880,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -23,7 +23,7 @@
       "expLevel": 171,
       "trophies": 123,
       "donations": 462,
-      "donationsReceived": 1081,
+      "donationsReceived": 1155,
       "capitalContributions": 0
     },
     {
@@ -43,7 +43,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 153,
-      "trophies": 98,
+      "trophies": 120,
       "donations": 757,
       "donationsReceived": 699,
       "capitalContributions": 0
@@ -170,6 +170,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#QR2R89VLQ",
+      "name": "umut",
+      "role": "member",
+      "th": 13,
+      "expLevel": 127,
+      "trophies": 65,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#P02U2U9GC",
       "name": "Diego",
       "role": "admin",
@@ -178,17 +189,6 @@
       "trophies": 55,
       "donations": 573,
       "donationsReceived": 1905,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#QR2R89VLQ",
-      "name": "umut",
-      "role": "member",
-      "th": 13,
-      "expLevel": 127,
-      "trophies": 37,
-      "donations": 0,
-      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -383,7 +383,7 @@
       "name": "arroz",
       "role": "admin",
       "th": 9,
-      "expLevel": 62,
+      "expLevel": 63,
       "trophies": 160,
       "donations": 1,
       "donationsReceived": 187,
@@ -440,7 +440,7 @@
       "th": 17,
       "expLevel": 221,
       "trophies": 0,
-      "donations": 594,
+      "donations": 693,
       "donationsReceived": 397,
       "capitalContributions": 0
     },
@@ -507,7 +507,7 @@
       "expLevel": 216,
       "trophies": 0,
       "donations": 826,
-      "donationsReceived": 462,
+      "donationsReceived": 490,
       "capitalContributions": 0
     },
     {
