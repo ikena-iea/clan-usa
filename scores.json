@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T04:52:11.586Z",
+  "generatedAt": "2026-09-01T09:55:15.161Z",
   "snapshotDate": "2026-09-01",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -652,9 +652,9 @@
       "warsJoined": 3,
       "warsTotal": 15,
       "clan": {
-        "total": 56.8,
+        "total": 57.3,
         "pillars": {
-          "donations": 67,
+          "donations": 68,
           "raids": 86,
           "contributions": 0
         },
@@ -1316,40 +1316,6 @@
       }
     },
     {
-      "tag": "#R9R2RV892",
-      "name": "jadav m",
-      "role": "admin",
-      "th": 11,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 35,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 10,
-      "warsTotal": 15,
-      "clan": {
-        "total": 0,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": "Common"
-      },
-      "war": {
-        "total": 75.2,
-        "status": null,
-        "cap": null,
-        "pillars": {
-          "reliability": 90,
-          "performance": 53
-        },
-        "available": 10,
-        "used": 9,
-        "misses": 1,
-        "tier": "Epic"
-      }
-    },
-    {
       "tag": "#LJRJ2UJU2",
       "name": "嘻哈侠88",
       "role": "admin",
@@ -1415,6 +1381,40 @@
         "used": 7,
         "misses": 3,
         "tier": "Uncommon"
+      }
+    },
+    {
+      "tag": "#R9R2RV892",
+      "name": "jadav m",
+      "role": "admin",
+      "th": 11,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 35,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 10,
+      "warsTotal": 15,
+      "clan": {
+        "total": 0,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": "Common"
+      },
+      "war": {
+        "total": 75.2,
+        "status": null,
+        "cap": null,
+        "pillars": {
+          "reliability": 90,
+          "performance": 53
+        },
+        "available": 10,
+        "used": 9,
+        "misses": 1,
+        "tier": "Epic"
       }
     },
     {
@@ -1485,6 +1485,39 @@
       }
     },
     {
+      "tag": "#G089JGCQP",
+      "name": "Mohammad-Yahya",
+      "role": "admin",
+      "th": 13,
+      "firstSeen": "2026-08-27",
+      "daysPresent": 5,
+      "inGrace": true,
+      "gracePeriodEndsIn": 9,
+      "warsJoined": 0,
+      "warsTotal": 15,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 3,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#L8GUP0C8G",
       "name": "Ditto",
       "role": "admin",
@@ -1518,20 +1551,20 @@
       }
     },
     {
-      "tag": "#G089JGCQP",
-      "name": "Mohammad-Yahya",
-      "role": "admin",
-      "th": 13,
-      "firstSeen": "2026-08-27",
-      "daysPresent": 5,
+      "tag": "#R0QQVRP22",
+      "name": "zeko lelo",
+      "role": "member",
+      "th": 12,
+      "firstSeen": "2026-09-01",
+      "daysPresent": 1,
       "inGrace": true,
-      "gracePeriodEndsIn": 9,
+      "gracePeriodEndsIn": 13,
       "warsJoined": 0,
       "warsTotal": 15,
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 3,
+          "donations": 0,
           "raids": null,
           "contributions": null
         },

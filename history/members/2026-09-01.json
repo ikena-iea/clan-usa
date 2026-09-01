@@ -1,8 +1,8 @@
 {
   "date": "2026-09-01",
-  "capturedAt": "2026-09-01T04:52:10.956Z",
+  "capturedAt": "2026-09-01T09:55:02.668Z",
   "clanLevel": 7,
-  "memberCount": 49,
+  "memberCount": 50,
   "members": [
     {
       "tag": "#YRQJPR0Y9",
@@ -77,8 +77,8 @@
       "th": 14,
       "expLevel": 151,
       "trophies": 0,
-      "donations": 953,
-      "donationsReceived": 2289,
+      "donations": 973,
+      "donationsReceived": 2294,
       "capitalContributions": 0
     },
     {
@@ -110,7 +110,7 @@
       "th": 14,
       "expLevel": 88,
       "trophies": 0,
-      "donations": 267,
+      "donations": 272,
       "donationsReceived": 300,
       "capitalContributions": 0
     },
@@ -159,6 +159,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#P02U2U9GC",
+      "name": "Diego",
+      "role": "admin",
+      "th": 13,
+      "expLevel": 147,
+      "trophies": 55,
+      "donations": 573,
+      "donationsReceived": 1905,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#QR2R89VLQ",
       "name": "umut",
       "role": "member",
@@ -167,17 +178,6 @@
       "trophies": 37,
       "donations": 0,
       "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#P02U2U9GC",
-      "name": "Diego",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 147,
-      "trophies": 28,
-      "donations": 573,
-      "donationsReceived": 1905,
       "capitalContributions": 0
     },
     {
@@ -208,7 +208,18 @@
       "role": "admin",
       "th": 11,
       "expLevel": 89,
-      "trophies": 104,
+      "trophies": 115,
+      "donations": 2,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#G089JGCQP",
+      "name": "Mohammad-Yahya",
+      "role": "admin",
+      "th": 13,
+      "expLevel": 104,
+      "trophies": 45,
       "donations": 2,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -233,17 +244,6 @@
       "trophies": 19,
       "donations": 166,
       "donationsReceived": 150,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#G089JGCQP",
-      "name": "Mohammad-Yahya",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 104,
-      "trophies": 15,
-      "donations": 2,
-      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -288,6 +288,17 @@
       "trophies": 0,
       "donations": 109,
       "donationsReceived": 78,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#R0QQVRP22",
+      "name": "zeko lelo",
+      "role": "member",
+      "th": 12,
+      "expLevel": 88,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -368,17 +379,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#R9R2RV892",
-      "name": "jadav m",
-      "role": "admin",
-      "th": 11,
-      "expLevel": 77,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#R8J082Y0J",
       "name": "arroz",
       "role": "admin",
@@ -429,7 +429,7 @@
       "th": 18,
       "expLevel": 255,
       "trophies": 0,
-      "donations": 957,
+      "donations": 982,
       "donationsReceived": 346,
       "capitalContributions": 0
     },
@@ -500,6 +500,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#R9R2RV892",
+      "name": "jadav m",
+      "role": "admin",
+      "th": 11,
+      "expLevel": 77,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#PGQVCVYPJ",
       "name": "ben",
       "role": "admin",
@@ -518,7 +529,7 @@
       "expLevel": 106,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 1748,
+      "donationsReceived": 1793,
       "capitalContributions": 0
     },
     {
