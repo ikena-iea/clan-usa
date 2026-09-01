@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T18:20:59.565Z",
+  "generatedAt": "2026-09-01T21:42:10.537Z",
   "snapshotDate": "2026-09-01",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1415,6 +1415,39 @@
         "used": 0,
         "misses": 10,
         "tier": "Common"
+      }
+    },
+    {
+      "tag": "#GCPPL8G8C",
+      "name": "Андрей",
+      "role": "member",
+      "th": 15,
+      "firstSeen": "2026-09-01",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 15,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
       }
     },
     {
