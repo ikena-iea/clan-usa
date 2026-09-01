@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T14:43:09.685Z",
+  "generatedAt": "2026-09-01T18:20:59.565Z",
   "snapshotDate": "2026-09-01",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -977,6 +977,40 @@
       }
     },
     {
+      "tag": "#GYVPLJRRL",
+      "name": "DaHairyVeer2",
+      "role": "admin",
+      "th": 12,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 35,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 10,
+      "warsTotal": 15,
+      "clan": {
+        "total": 33.3,
+        "pillars": {
+          "donations": 33,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": "Common"
+      },
+      "war": {
+        "total": 75,
+        "status": null,
+        "cap": "Rare",
+        "pillars": {
+          "reliability": 80,
+          "performance": 68
+        },
+        "available": 10,
+        "used": 8,
+        "misses": 2,
+        "tier": "Rare"
+      }
+    },
+    {
       "tag": "#GVV89RJYQ",
       "name": "DevilIguana",
       "role": "coLeader",
@@ -1110,40 +1144,6 @@
         "used": 6,
         "misses": 4,
         "tier": "Uncommon"
-      }
-    },
-    {
-      "tag": "#GYVPLJRRL",
-      "name": "DaHairyVeer2",
-      "role": "admin",
-      "th": 12,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 35,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 10,
-      "warsTotal": 15,
-      "clan": {
-        "total": 22.7,
-        "pillars": {
-          "donations": 23,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": "Common"
-      },
-      "war": {
-        "total": 75,
-        "status": null,
-        "cap": "Rare",
-        "pillars": {
-          "reliability": 80,
-          "performance": 68
-        },
-        "available": 10,
-        "used": 8,
-        "misses": 2,
-        "tier": "Rare"
       }
     },
     {

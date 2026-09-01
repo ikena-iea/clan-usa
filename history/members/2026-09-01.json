@@ -1,6 +1,6 @@
 {
   "date": "2026-09-01",
-  "capturedAt": "2026-09-01T14:42:52.224Z",
+  "capturedAt": "2026-09-01T18:20:58.877Z",
   "clanLevel": 7,
   "memberCount": 48,
   "members": [
@@ -43,7 +43,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 153,
-      "trophies": 69,
+      "trophies": 98,
       "donations": 757,
       "donationsReceived": 699,
       "capitalContributions": 0
@@ -98,9 +98,9 @@
       "role": "admin",
       "th": 12,
       "expLevel": 113,
-      "trophies": 122,
-      "donations": 91,
-      "donationsReceived": 289,
+      "trophies": 148,
+      "donations": 133,
+      "donationsReceived": 294,
       "capitalContributions": 0
     },
     {
@@ -214,6 +214,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#QV9QYJ09G",
+      "name": "Gobinath.N",
+      "role": "admin",
+      "th": 13,
+      "expLevel": 116,
+      "trophies": 50,
+      "donations": 0,
+      "donationsReceived": 1214,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#G089JGCQP",
       "name": "Mohammad-Yahya",
       "role": "admin",
@@ -222,17 +233,6 @@
       "trophies": 45,
       "donations": 2,
       "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#QV9QYJ09G",
-      "name": "Gobinath.N",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 116,
-      "trophies": 20,
-      "donations": 0,
-      "donationsReceived": 1214,
       "capitalContributions": 0
     },
     {
@@ -296,9 +296,9 @@
       "role": "member",
       "th": 12,
       "expLevel": 130,
-      "trophies": 26,
-      "donations": 395,
-      "donationsReceived": 344,
+      "trophies": 195,
+      "donations": 445,
+      "donationsReceived": 386,
       "capitalContributions": 0
     },
     {
@@ -307,7 +307,7 @@
       "role": "admin",
       "th": 11,
       "expLevel": 94,
-      "trophies": 0,
+      "trophies": 25,
       "donations": 47,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -373,7 +373,7 @@
       "role": "admin",
       "th": 9,
       "expLevel": 62,
-      "trophies": 120,
+      "trophies": 160,
       "donations": 1,
       "donationsReceived": 187,
       "capitalContributions": 0
@@ -474,7 +474,7 @@
       "expLevel": 146,
       "trophies": 0,
       "donations": 144,
-      "donationsReceived": 339,
+      "donationsReceived": 384,
       "capitalContributions": 0
     },
     {
