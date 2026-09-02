@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T04:18:33.044Z",
+  "generatedAt": "2026-09-02T09:26:45.131Z",
   "snapshotDate": "2026-09-02",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1415,6 +1415,39 @@
         "used": 0,
         "misses": 10,
         "tier": "Common"
+      }
+    },
+    {
+      "tag": "#QRVY0CV20",
+      "name": "TLOU VRUS",
+      "role": "member",
+      "th": 16,
+      "firstSeen": "2026-09-02",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 15,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
       }
     },
     {

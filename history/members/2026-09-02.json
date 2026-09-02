@@ -1,8 +1,8 @@
 {
   "date": "2026-09-02",
-  "capturedAt": "2026-09-02T04:18:32.154Z",
+  "capturedAt": "2026-09-02T09:26:44.428Z",
   "clanLevel": 7,
-  "memberCount": 49,
+  "memberCount": 50,
   "members": [
     {
       "tag": "#YRQJPR0Y9",
@@ -44,8 +44,19 @@
       "th": 15,
       "expLevel": 153,
       "trophies": 120,
-      "donations": 757,
+      "donations": 802,
       "donationsReceived": 699,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#QRVY0CV20",
+      "name": "TLOU VRUS",
+      "role": "member",
+      "th": 16,
+      "expLevel": 149,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -78,7 +89,7 @@
       "expLevel": 151,
       "trophies": 21,
       "donations": 1238,
-      "donationsReceived": 2390,
+      "donationsReceived": 2435,
       "capitalContributions": 0
     },
     {
