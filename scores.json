@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T09:26:45.131Z",
+  "generatedAt": "2026-09-02T14:18:16.181Z",
   "snapshotDate": "2026-09-02",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -853,13 +853,13 @@
       "warsJoined": 11,
       "warsTotal": 15,
       "clan": {
-        "total": 39.9,
+        "total": 40.1,
         "pillars": {
-          "donations": 12,
+          "donations": 13,
           "raids": 100,
           "contributions": 0
         },
-        "tier": "Common"
+        "tier": "Uncommon"
       },
       "war": {
         "total": 94.6,
@@ -1464,7 +1464,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 0,
+          "donations": 15,
           "raids": null,
           "contributions": null
         },
@@ -1629,7 +1629,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 77,
+          "donations": 100,
           "raids": 100,
           "contributions": 0
         },

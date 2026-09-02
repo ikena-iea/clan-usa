@@ -1,6 +1,6 @@
 {
   "date": "2026-09-02",
-  "capturedAt": "2026-09-02T09:26:44.428Z",
+  "capturedAt": "2026-09-02T14:18:15.563Z",
   "clanLevel": 7,
   "memberCount": 50,
   "members": [
@@ -11,7 +11,7 @@
       "th": 18,
       "expLevel": 251,
       "trophies": 0,
-      "donations": 880,
+      "donations": 881,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -43,7 +43,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 153,
-      "trophies": 120,
+      "trophies": 148,
       "donations": 802,
       "donationsReceived": 699,
       "capitalContributions": 0
@@ -55,7 +55,7 @@
       "th": 16,
       "expLevel": 149,
       "trophies": 0,
-      "donations": 0,
+      "donations": 117,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -64,7 +64,7 @@
       "name": "HowardX",
       "role": "admin",
       "th": 16,
-      "expLevel": 83,
+      "expLevel": 84,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -89,7 +89,7 @@
       "expLevel": 151,
       "trophies": 21,
       "donations": 1238,
-      "donationsReceived": 2435,
+      "donationsReceived": 2438,
       "capitalContributions": 0
     },
     {
@@ -110,7 +110,7 @@
       "th": 15,
       "expLevel": 124,
       "trophies": 0,
-      "donations": 47,
+      "donations": 49,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -119,10 +119,10 @@
       "name": "DaHairyVeer2",
       "role": "admin",
       "th": 12,
-      "expLevel": 113,
-      "trophies": 170,
+      "expLevel": 114,
+      "trophies": 250,
       "donations": 133,
-      "donationsReceived": 373,
+      "donationsReceived": 415,
       "capitalContributions": 0
     },
     {
@@ -230,7 +230,7 @@
       "role": "admin",
       "th": 11,
       "expLevel": 90,
-      "trophies": 115,
+      "trophies": 144,
       "donations": 2,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -263,7 +263,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 132,
-      "trophies": 19,
+      "trophies": 42,
       "donations": 224,
       "donationsReceived": 150,
       "capitalContributions": 0
@@ -330,7 +330,7 @@
       "th": 11,
       "expLevel": 95,
       "trophies": 25,
-      "donations": 47,
+      "donations": 49,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -343,6 +343,17 @@
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#QR2QYUJV9",
+      "name": "Alexluidriana",
+      "role": "admin",
+      "th": 12,
+      "expLevel": 97,
+      "trophies": 160,
+      "donations": 71,
+      "donationsReceived": 139,
       "capitalContributions": 0
     },
     {
@@ -365,17 +376,6 @@
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#QR2QYUJV9",
-      "name": "Alexluidriana",
-      "role": "admin",
-      "th": 12,
-      "expLevel": 97,
-      "trophies": 0,
-      "donations": 41,
-      "donationsReceived": 67,
       "capitalContributions": 0
     },
     {
@@ -440,7 +440,7 @@
       "th": 18,
       "expLevel": 255,
       "trophies": 0,
-      "donations": 985,
+      "donations": 1027,
       "donationsReceived": 346,
       "capitalContributions": 0
     },
@@ -529,7 +529,7 @@
       "expLevel": 106,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 1793,
+      "donationsReceived": 1870,
       "capitalContributions": 0
     },
     {
