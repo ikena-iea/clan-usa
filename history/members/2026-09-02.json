@@ -1,6 +1,6 @@
 {
   "date": "2026-09-02",
-  "capturedAt": "2026-09-02T14:18:15.563Z",
+  "capturedAt": "2026-09-02T18:32:30.420Z",
   "clanLevel": 7,
   "memberCount": 50,
   "members": [
@@ -55,7 +55,7 @@
       "th": 16,
       "expLevel": 149,
       "trophies": 0,
-      "donations": 117,
+      "donations": 157,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -88,7 +88,7 @@
       "th": 14,
       "expLevel": 151,
       "trophies": 21,
-      "donations": 1238,
+      "donations": 1243,
       "donationsReceived": 2438,
       "capitalContributions": 0
     },
@@ -99,7 +99,7 @@
       "th": 14,
       "expLevel": 113,
       "trophies": 260,
-      "donations": 735,
+      "donations": 770,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -120,9 +120,9 @@
       "role": "admin",
       "th": 12,
       "expLevel": 114,
-      "trophies": 250,
+      "trophies": 275,
       "donations": 133,
-      "donationsReceived": 415,
+      "donationsReceived": 496,
       "capitalContributions": 0
     },
     {
@@ -241,7 +241,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 116,
-      "trophies": 50,
+      "trophies": 61,
       "donations": 0,
       "donationsReceived": 1413,
       "capitalContributions": 0
@@ -318,7 +318,7 @@
       "role": "member",
       "th": 12,
       "expLevel": 130,
-      "trophies": 302,
+      "trophies": 321,
       "donations": 454,
       "donationsReceived": 386,
       "capitalContributions": 0
@@ -393,8 +393,8 @@
       "tag": "#R8J082Y0J",
       "name": "arroz",
       "role": "admin",
-      "th": 9,
-      "expLevel": 63,
+      "th": 10,
+      "expLevel": 64,
       "trophies": 160,
       "donations": 1,
       "donationsReceived": 187,
@@ -451,7 +451,7 @@
       "th": 17,
       "expLevel": 221,
       "trophies": 0,
-      "donations": 695,
+      "donations": 696,
       "donationsReceived": 397,
       "capitalContributions": 0
     },

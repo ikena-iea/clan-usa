@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T14:18:16.181Z",
+  "generatedAt": "2026-09-02T18:32:31.124Z",
   "snapshotDate": "2026-09-02",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -879,7 +879,7 @@
       "tag": "#R8J082Y0J",
       "name": "arroz",
       "role": "admin",
-      "th": 9,
+      "th": 10,
       "firstSeen": "2026-07-28",
       "daysPresent": 36,
       "inGrace": false,
