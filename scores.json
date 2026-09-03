@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T11:04:22.171Z",
+  "generatedAt": "2026-09-03T16:18:20.775Z",
   "snapshotDate": "2026-09-03",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -517,9 +517,9 @@
       "warsJoined": 10,
       "warsTotal": 15,
       "clan": {
-        "total": 65,
+        "total": 66,
         "pillars": {
-          "donations": 98,
+          "donations": 100,
           "raids": 74,
           "contributions": 0
         },
@@ -1420,7 +1420,7 @@
     {
       "tag": "#QRVY0CV20",
       "name": "TLOU VRUS",
-      "role": "member",
+      "role": "admin",
       "th": 16,
       "firstSeen": "2026-09-02",
       "daysPresent": 1,
@@ -1431,7 +1431,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 0,
+          "donations": 100,
           "raids": null,
           "contributions": null
         },

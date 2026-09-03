@@ -1,6 +1,6 @@
 {
   "date": "2026-09-03",
-  "capturedAt": "2026-09-03T11:04:21.354Z",
+  "capturedAt": "2026-09-03T16:18:17.654Z",
   "clanLevel": 7,
   "memberCount": 50,
   "members": [
@@ -51,11 +51,11 @@
     {
       "tag": "#QRVY0CV20",
       "name": "TLOU VRUS",
-      "role": "member",
+      "role": "admin",
       "th": 16,
       "expLevel": 149,
       "trophies": 23,
-      "donations": 157,
+      "donations": 187,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -89,7 +89,7 @@
       "expLevel": 151,
       "trophies": 21,
       "donations": 1294,
-      "donationsReceived": 2486,
+      "donationsReceived": 2534,
       "capitalContributions": 0
     },
     {
@@ -273,9 +273,9 @@
       "name": "your mom",
       "role": "admin",
       "th": 13,
-      "expLevel": 77,
+      "expLevel": 78,
       "trophies": 0,
-      "donations": 345,
+      "donations": 404,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -318,7 +318,7 @@
       "role": "member",
       "th": 12,
       "expLevel": 131,
-      "trophies": 321,
+      "trophies": 331,
       "donations": 454,
       "donationsReceived": 386,
       "capitalContributions": 0
@@ -440,7 +440,7 @@
       "th": 18,
       "expLevel": 255,
       "trophies": 0,
-      "donations": 1029,
+      "donations": 1076,
       "donationsReceived": 346,
       "capitalContributions": 0
     },
@@ -529,7 +529,7 @@
       "expLevel": 107,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 1992,
+      "donationsReceived": 2069,
       "capitalContributions": 0
     },
     {
@@ -539,8 +539,8 @@
       "th": 18,
       "expLevel": 239,
       "trophies": 0,
-      "donations": 950,
-      "donationsReceived": 777,
+      "donations": 998,
+      "donationsReceived": 836,
       "capitalContributions": 0
     },
     {
