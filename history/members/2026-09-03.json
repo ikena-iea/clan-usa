@@ -1,6 +1,6 @@
 {
   "date": "2026-09-03",
-  "capturedAt": "2026-09-03T05:37:51.053Z",
+  "capturedAt": "2026-09-03T11:04:21.354Z",
   "clanLevel": 7,
   "memberCount": 50,
   "members": [
@@ -43,7 +43,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 153,
-      "trophies": 148,
+      "trophies": 175,
       "donations": 802,
       "donationsReceived": 699,
       "capitalContributions": 0
@@ -54,7 +54,7 @@
       "role": "member",
       "th": 16,
       "expLevel": 149,
-      "trophies": 13,
+      "trophies": 23,
       "donations": 157,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -197,7 +197,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 147,
-      "trophies": 83,
+      "trophies": 113,
       "donations": 573,
       "donationsReceived": 1905,
       "capitalContributions": 0
@@ -372,7 +372,7 @@
       "name": "hartymate",
       "role": "admin",
       "th": 11,
-      "expLevel": 92,
+      "expLevel": 93,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,

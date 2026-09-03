@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-09-02",
-  "fetchedAt": "2026-09-03T05:37:50.787Z",
+  "fetchedAt": "2026-09-03T11:04:21.103Z",
   "totalRounds": 7,
   "rounds": [
     {
@@ -14,7 +14,7 @@
       "theirStars": 0,
       "ourDestruction": 0,
       "theirDestruction": 0,
-      "endTime": "20260904T225617.000Z"
+      "endTime": "20260904T232528.000Z"
     }
   ],
   "attacks": []
