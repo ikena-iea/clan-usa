@@ -1,6 +1,6 @@
 {
   "date": "2026-09-03",
-  "capturedAt": "2026-09-03T19:42:37.861Z",
+  "capturedAt": "2026-09-03T22:29:01.720Z",
   "clanLevel": 7,
   "memberCount": 50,
   "members": [
@@ -21,9 +21,9 @@
       "role": "admin",
       "th": 15,
       "expLevel": 171,
-      "trophies": 136,
-      "donations": 462,
-      "donationsReceived": 1155,
+      "trophies": 226,
+      "donations": 558,
+      "donationsReceived": 1217,
       "capitalContributions": 0
     },
     {
@@ -45,7 +45,7 @@
       "expLevel": 153,
       "trophies": 175,
       "donations": 892,
-      "donationsReceived": 699,
+      "donationsReceived": 779,
       "capitalContributions": 0
     },
     {
@@ -87,9 +87,9 @@
       "role": "admin",
       "th": 14,
       "expLevel": 151,
-      "trophies": 108,
+      "trophies": 148,
       "donations": 1437,
-      "donationsReceived": 2579,
+      "donationsReceived": 2675,
       "capitalContributions": 0
     },
     {
@@ -187,7 +187,7 @@
       "th": 12,
       "expLevel": 88,
       "trophies": 154,
-      "donations": 182,
+      "donations": 237,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -198,7 +198,7 @@
       "th": 13,
       "expLevel": 147,
       "trophies": 113,
-      "donations": 573,
+      "donations": 582,
       "donationsReceived": 1905,
       "capitalContributions": 0
     },
@@ -440,8 +440,8 @@
       "th": 18,
       "expLevel": 255,
       "trophies": 0,
-      "donations": 1076,
-      "donationsReceived": 346,
+      "donations": 1209,
+      "donationsReceived": 401,
       "capitalContributions": 0
     },
     {
@@ -492,7 +492,7 @@
       "tag": "#G8VGPGY8J",
       "name": "asap",
       "role": "member",
-      "th": 13,
+      "th": 14,
       "expLevel": 146,
       "trophies": 0,
       "donations": 144,

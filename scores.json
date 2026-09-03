@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T19:42:38.732Z",
+  "generatedAt": "2026-09-03T22:29:02.965Z",
   "snapshotDate": "2026-09-03",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -540,6 +540,40 @@
       }
     },
     {
+      "tag": "#R8GPLGRVQ",
+      "name": "LegitN00b98",
+      "role": "admin",
+      "th": 12,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 37,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 12,
+      "warsTotal": 15,
+      "clan": {
+        "total": 61.7,
+        "pillars": {
+          "donations": 67,
+          "raids": 100,
+          "contributions": 0
+        },
+        "tier": "Rare"
+      },
+      "war": {
+        "total": 88.8,
+        "status": null,
+        "cap": null,
+        "pillars": {
+          "reliability": 100,
+          "performance": 72
+        },
+        "available": 10,
+        "used": 10,
+        "misses": 0,
+        "tier": "Legendary"
+      }
+    },
+    {
       "tag": "#GVCJ9R0Q8",
       "name": "Mr.PiCkLe",
       "role": "admin",
@@ -605,40 +639,6 @@
         "used": 0,
         "misses": 6,
         "tier": "Common"
-      }
-    },
-    {
-      "tag": "#R8GPLGRVQ",
-      "name": "LegitN00b98",
-      "role": "admin",
-      "th": 12,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 37,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 12,
-      "warsTotal": 15,
-      "clan": {
-        "total": 56.2,
-        "pillars": {
-          "donations": 53,
-          "raids": 100,
-          "contributions": 0
-        },
-        "tier": "Rare"
-      },
-      "war": {
-        "total": 88.8,
-        "status": null,
-        "cap": null,
-        "pillars": {
-          "reliability": 100,
-          "performance": 72
-        },
-        "available": 10,
-        "used": 10,
-        "misses": 0,
-        "tier": "Legendary"
       }
     },
     {
@@ -780,7 +780,7 @@
       "tag": "#G8VGPGY8J",
       "name": "asap",
       "role": "member",
-      "th": 13,
+      "th": 14,
       "firstSeen": "2026-08-14",
       "daysPresent": 20,
       "inGrace": false,
