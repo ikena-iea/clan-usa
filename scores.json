@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T00:00:52.264Z",
+  "generatedAt": "2026-09-03T05:37:51.935Z",
   "snapshotDate": "2026-09-03",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1517,8 +1517,8 @@
       }
     },
     {
-      "tag": "#G089JGCQP",
-      "name": "Mohammad-Yahya",
+      "tag": "#L8GUP0C8G",
+      "name": "Ditto",
       "role": "admin",
       "th": 13,
       "firstSeen": "2026-08-27",
@@ -1530,9 +1530,9 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 2,
-          "raids": null,
-          "contributions": null
+          "donations": 100,
+          "raids": 98,
+          "contributions": 0
         },
         "tier": null
       },
@@ -1550,8 +1550,8 @@
       }
     },
     {
-      "tag": "#L8GUP0C8G",
-      "name": "Ditto",
+      "tag": "#G089JGCQP",
+      "name": "Mohammad-Yahya",
       "role": "admin",
       "th": 13,
       "firstSeen": "2026-08-27",
@@ -1563,9 +1563,9 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 100,
-          "raids": 98,
-          "contributions": 0
+          "donations": 2,
+          "raids": null,
+          "contributions": null
         },
         "tier": null
       },
