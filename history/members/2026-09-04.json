@@ -1,8 +1,8 @@
 {
   "date": "2026-09-04",
-  "capturedAt": "2026-09-04T19:23:01.385Z",
+  "capturedAt": "2026-09-04T22:17:54.498Z",
   "clanLevel": 7,
-  "memberCount": 49,
+  "memberCount": 50,
   "members": [
     {
       "tag": "#YRQJPR0Y9",
@@ -76,7 +76,7 @@
       "role": "coLeader",
       "th": 13,
       "expLevel": 118,
-      "trophies": 294,
+      "trophies": 309,
       "donations": 584,
       "donationsReceived": 354,
       "capitalContributions": 0
@@ -122,7 +122,7 @@
       "expLevel": 115,
       "trophies": 347,
       "donations": 215,
-      "donationsReceived": 619,
+      "donationsReceived": 624,
       "capitalContributions": 0
     },
     {
@@ -275,7 +275,7 @@
       "th": 13,
       "expLevel": 78,
       "trophies": 0,
-      "donations": 404,
+      "donations": 456,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -351,7 +351,7 @@
       "role": "admin",
       "th": 12,
       "expLevel": 98,
-      "trophies": 160,
+      "trophies": 283,
       "donations": 71,
       "donationsReceived": 139,
       "capitalContributions": 0
@@ -500,6 +500,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GQ2GVUR8V",
+      "name": "mahan_niroomnd",
+      "role": "member",
+      "th": 14,
+      "expLevel": 131,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#PGQVCVYPJ",
       "name": "ben",
       "role": "admin",
@@ -518,7 +529,7 @@
       "expLevel": 107,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 2163,
+      "donationsReceived": 2210,
       "capitalContributions": 0
     },
     {

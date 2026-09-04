@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T19:23:03.100Z",
+  "generatedAt": "2026-09-04T22:17:55.826Z",
   "snapshotDate": "2026-09-04",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1663,6 +1663,39 @@
         "total": null,
         "pillars": {
           "donations": 100,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#GQ2GVUR8V",
+      "name": "mahan_niroomnd",
+      "role": "member",
+      "th": 14,
+      "firstSeen": "2026-09-04",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 15,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
           "raids": null,
           "contributions": null
         },
