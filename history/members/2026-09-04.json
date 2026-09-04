@@ -1,6 +1,6 @@
 {
   "date": "2026-09-04",
-  "capturedAt": "2026-09-04T00:54:18.842Z",
+  "capturedAt": "2026-09-04T05:43:35.466Z",
   "clanLevel": 7,
   "memberCount": 50,
   "members": [
@@ -11,7 +11,7 @@
       "th": 18,
       "expLevel": 251,
       "trophies": 0,
-      "donations": 881,
+      "donations": 929,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -45,7 +45,7 @@
       "expLevel": 153,
       "trophies": 175,
       "donations": 892,
-      "donationsReceived": 779,
+      "donationsReceived": 782,
       "capitalContributions": 0
     },
     {
@@ -54,7 +54,7 @@
       "role": "admin",
       "th": 16,
       "expLevel": 150,
-      "trophies": 23,
+      "trophies": 41,
       "donations": 187,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -88,7 +88,7 @@
       "th": 14,
       "expLevel": 151,
       "trophies": 148,
-      "donations": 1437,
+      "donations": 1473,
       "donationsReceived": 2675,
       "capitalContributions": 0
     },
@@ -121,7 +121,7 @@
       "th": 12,
       "expLevel": 115,
       "trophies": 347,
-      "donations": 210,
+      "donations": 212,
       "donationsReceived": 578,
       "capitalContributions": 0
     },
@@ -199,7 +199,7 @@
       "expLevel": 147,
       "trophies": 113,
       "donations": 582,
-      "donationsReceived": 1905,
+      "donationsReceived": 1952,
       "capitalContributions": 0
     },
     {
@@ -329,7 +329,7 @@
       "role": "admin",
       "th": 11,
       "expLevel": 95,
-      "trophies": 25,
+      "trophies": 51,
       "donations": 49,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -339,7 +339,7 @@
       "name": "DevilIguana",
       "role": "coLeader",
       "th": 12,
-      "expLevel": 100,
+      "expLevel": 101,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -430,7 +430,7 @@
       "expLevel": 100,
       "trophies": 0,
       "donations": 85,
-      "donationsReceived": 965,
+      "donationsReceived": 1001,
       "capitalContributions": 0
     },
     {

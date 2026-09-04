@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-09-02",
-  "fetchedAt": "2026-09-04T00:54:18.463Z",
+  "fetchedAt": "2026-09-04T05:43:35.229Z",
   "totalRounds": 7,
   "rounds": [
     {
@@ -10,10 +10,10 @@
       "teamSize": 30,
       "opponent": "RM",
       "opponentTag": "#2RG0GUQ9R",
-      "ourStars": 0,
-      "theirStars": 4,
-      "ourDestruction": 0,
-      "theirDestruction": 5.566666666666666,
+      "ourStars": 11,
+      "theirStars": 13,
+      "ourDestruction": 14.733333333333333,
+      "theirDestruction": 15.566666666666666,
       "endTime": "20260904T232528.000Z"
     },
     {
@@ -165,13 +165,13 @@
       "name": "DevilIguana",
       "tag": "#GVV89RJYQ",
       "ath": 12,
-      "dth": null,
+      "dth": 14,
       "amap": 27,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 34,
+      "stars": 1,
+      "dest": 54,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 1,
@@ -217,13 +217,13 @@
       "name": "Lakers",
       "tag": "#R00YJ900G",
       "ath": 12,
-      "dth": null,
+      "dth": 11,
       "amap": 28,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 38,
+      "stars": 2,
+      "dest": 63,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 1,
@@ -243,39 +243,39 @@
       "name": "Diego",
       "tag": "#P02U2U9GC",
       "ath": 13,
-      "dth": null,
+      "dth": 14,
       "amap": 13,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 15,
+      "stars": 2,
+      "dest": 72,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 1,
       "name": "DaHairyVeer2",
       "tag": "#GYVPLJRRL",
       "ath": 12,
-      "dth": null,
+      "dth": 14,
       "amap": 22,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 28,
+      "stars": 2,
+      "dest": 51,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 1,
       "name": "ben",
       "tag": "#PGQVCVYPJ",
       "ath": 18,
-      "dth": null,
+      "dth": 16,
       "amap": 3,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 3,
+      "stars": 2,
+      "dest": 54,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 1,
@@ -308,26 +308,26 @@
       "name": "zeko lelo",
       "tag": "#R0QQVRP22",
       "ath": 12,
-      "dth": null,
+      "dth": 14,
       "amap": 26,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 33,
+      "stars": 1,
+      "dest": 71,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 1,
       "name": "Didetz",
       "tag": "#R8PJY0U0J",
       "ath": 14,
-      "dth": null,
+      "dth": 14,
       "amap": 11,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 13,
+      "stars": 1,
+      "dest": 77,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 1,
