@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-09-02",
-  "fetchedAt": "2026-09-04T11:05:43.838Z",
+  "fetchedAt": "2026-09-04T16:13:46.031Z",
   "totalRounds": 7,
   "rounds": [
     {
@@ -10,10 +10,10 @@
       "teamSize": 30,
       "opponent": "RM",
       "opponentTag": "#2RG0GUQ9R",
-      "ourStars": 19,
-      "theirStars": 28,
-      "ourDestruction": 24.166666666666668,
-      "theirDestruction": 32.233333333333334,
+      "ourStars": 23,
+      "theirStars": 34,
+      "ourDestruction": 29.6,
+      "theirDestruction": 38.9,
       "endTime": "20260904T232528.000Z"
     },
     {
@@ -74,13 +74,13 @@
       "name": "TLOU VRUS",
       "tag": "#QRVY0CV20",
       "ath": 16,
-      "dth": null,
+      "dth": 15,
       "amap": 5,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 5,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 1,
@@ -386,13 +386,13 @@
       "name": "jude",
       "tag": "#GGRR02GLG",
       "ath": 14,
-      "dth": null,
+      "dth": 14,
       "amap": 8,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 9,
+      "stars": 1,
+      "dest": 63,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 1,
