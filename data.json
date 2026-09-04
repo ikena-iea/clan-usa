@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-09-02",
-  "fetchedAt": "2026-09-04T16:13:46.031Z",
+  "fetchedAt": "2026-09-04T19:23:01.003Z",
   "totalRounds": 7,
   "rounds": [
     {
@@ -11,9 +11,9 @@
       "opponent": "RM",
       "opponentTag": "#2RG0GUQ9R",
       "ourStars": 23,
-      "theirStars": 34,
+      "theirStars": 39,
       "ourDestruction": 29.6,
-      "theirDestruction": 38.9,
+      "theirDestruction": 45.03333333333333,
       "endTime": "20260904T232528.000Z"
     },
     {

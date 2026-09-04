@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T16:13:48.223Z",
+  "generatedAt": "2026-09-04T19:23:03.100Z",
   "snapshotDate": "2026-09-04",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -645,7 +645,7 @@
       "tag": "#GYVPLJRRL",
       "name": "DaHairyVeer2",
       "role": "admin",
-      "th": 12,
+      "th": 13,
       "firstSeen": "2026-07-28",
       "daysPresent": 38,
       "inGrace": false,
@@ -921,9 +921,9 @@
       "warsJoined": 5,
       "warsTotal": 15,
       "clan": {
-        "total": 35.1,
+        "total": 35.3,
         "pillars": {
-          "donations": 0,
+          "donations": 1,
           "raids": 100,
           "contributions": 0
         },
