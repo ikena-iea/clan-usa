@@ -1,8 +1,8 @@
 {
   "date": "2026-09-04",
-  "capturedAt": "2026-09-04T05:43:35.466Z",
+  "capturedAt": "2026-09-04T11:05:44.135Z",
   "clanLevel": 7,
-  "memberCount": 50,
+  "memberCount": 49,
   "members": [
     {
       "tag": "#YRQJPR0Y9",
@@ -34,7 +34,7 @@
       "expLevel": 150,
       "trophies": 0,
       "donations": 307,
-      "donationsReceived": 382,
+      "donationsReceived": 500,
       "capitalContributions": 0
     },
     {
@@ -44,8 +44,8 @@
       "th": 15,
       "expLevel": 153,
       "trophies": 175,
-      "donations": 892,
-      "donationsReceived": 782,
+      "donations": 939,
+      "donationsReceived": 830,
       "capitalContributions": 0
     },
     {
@@ -75,7 +75,7 @@
       "name": "Ikena",
       "role": "coLeader",
       "th": 13,
-      "expLevel": 117,
+      "expLevel": 118,
       "trophies": 294,
       "donations": 537,
       "donationsReceived": 354,
@@ -89,7 +89,7 @@
       "expLevel": 151,
       "trophies": 148,
       "donations": 1473,
-      "donationsReceived": 2675,
+      "donationsReceived": 2768,
       "capitalContributions": 0
     },
     {
@@ -110,7 +110,7 @@
       "th": 15,
       "expLevel": 124,
       "trophies": 0,
-      "donations": 49,
+      "donations": 104,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -121,8 +121,8 @@
       "th": 12,
       "expLevel": 115,
       "trophies": 347,
-      "donations": 212,
-      "donationsReceived": 578,
+      "donations": 215,
+      "donationsReceived": 619,
       "capitalContributions": 0
     },
     {
@@ -362,7 +362,7 @@
       "role": "admin",
       "th": 10,
       "expLevel": 86,
-      "trophies": 40,
+      "trophies": 49,
       "donations": 7,
       "donationsReceived": 232,
       "capitalContributions": 0
@@ -372,7 +372,7 @@
       "name": "hartymate",
       "role": "admin",
       "th": 11,
-      "expLevel": 93,
+      "expLevel": 94,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -445,17 +445,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#VRPRRLQ",
-      "name": "GILROYx408",
-      "role": "admin",
-      "th": 17,
-      "expLevel": 221,
-      "trophies": 0,
-      "donations": 696,
-      "donationsReceived": 455,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#R00YJ900G",
       "name": "Lakers",
       "role": "coLeader",
@@ -482,9 +471,9 @@
       "name": "Limerence",
       "role": "coLeader",
       "th": 15,
-      "expLevel": 127,
+      "expLevel": 128,
       "trophies": 0,
-      "donations": 471,
+      "donations": 589,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -529,7 +518,7 @@
       "expLevel": 107,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 2069,
+      "donationsReceived": 2116,
       "capitalContributions": 0
     },
     {
@@ -539,8 +528,8 @@
       "th": 18,
       "expLevel": 239,
       "trophies": 0,
-      "donations": 998,
-      "donationsReceived": 836,
+      "donations": 1091,
+      "donationsReceived": 891,
       "capitalContributions": 0
     },
     {
