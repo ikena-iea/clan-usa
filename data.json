@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-09-02",
-  "fetchedAt": "2026-09-05T05:32:55.459Z",
+  "fetchedAt": "2026-09-05T10:27:09.068Z",
   "totalRounds": 7,
   "rounds": [
     {
@@ -22,10 +22,10 @@
       "teamSize": 30,
       "opponent": "Artemis",
       "opponentTag": "#2U2V09RGJ",
-      "ourStars": 20,
-      "theirStars": 4,
-      "ourDestruction": 22.3,
-      "theirDestruction": 6.566666666666666,
+      "ourStars": 35,
+      "theirStars": 6,
+      "ourDestruction": 38.96666666666667,
+      "theirDestruction": 8.266666666666667,
       "endTime": "20260905T232544.000Z"
     },
     {
@@ -437,13 +437,13 @@
       "name": "Limeranch",
       "tag": "#LCVCL0LU0",
       "ath": 17,
-      "dth": null,
+      "dth": 12,
       "amap": 4,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 4,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 2,
@@ -541,13 +541,13 @@
       "name": "mustafa",
       "tag": "#GQUQV0PJV",
       "ath": 15,
-      "dth": null,
+      "dth": 12,
       "amap": 6,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 6,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 2,
@@ -567,13 +567,13 @@
       "name": "DevilIguana",
       "tag": "#GVV89RJYQ",
       "ath": 12,
-      "dth": null,
+      "dth": 11,
       "amap": 27,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 23,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 2,
@@ -710,26 +710,26 @@
       "name": "zeko lelo",
       "tag": "#R0QQVRP22",
       "ath": 12,
-      "dth": null,
+      "dth": 11,
       "amap": 26,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 26,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 2,
       "name": "Didetz",
       "tag": "#R8PJY0U0J",
       "ath": 14,
-      "dth": null,
+      "dth": 11,
       "amap": 11,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 11,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 2,

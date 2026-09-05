@@ -1,6 +1,6 @@
 {
   "date": "2026-09-05",
-  "capturedAt": "2026-09-05T05:32:55.779Z",
+  "capturedAt": "2026-09-05T10:27:09.335Z",
   "clanLevel": 7,
   "memberCount": 50,
   "members": [
@@ -34,7 +34,7 @@
       "expLevel": 151,
       "trophies": 0,
       "donations": 408,
-      "donationsReceived": 500,
+      "donationsReceived": 588,
       "capitalContributions": 0
     },
     {
@@ -43,7 +43,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 153,
-      "trophies": 175,
+      "trophies": 194,
       "donations": 954,
       "donationsReceived": 830,
       "capitalContributions": 0
@@ -89,7 +89,7 @@
       "expLevel": 151,
       "trophies": 201,
       "donations": 1528,
-      "donationsReceived": 2864,
+      "donationsReceived": 2867,
       "capitalContributions": 0
     },
     {
@@ -110,7 +110,7 @@
       "th": 15,
       "expLevel": 124,
       "trophies": 0,
-      "donations": 104,
+      "donations": 107,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -306,9 +306,9 @@
       "name": "zeko lelo",
       "role": "member",
       "th": 12,
-      "expLevel": 88,
+      "expLevel": 89,
       "trophies": 0,
-      "donations": 0,
+      "donations": 72,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -362,7 +362,7 @@
       "role": "admin",
       "th": 10,
       "expLevel": 86,
-      "trophies": 49,
+      "trophies": 69,
       "donations": 7,
       "donationsReceived": 232,
       "capitalContributions": 0
@@ -430,7 +430,7 @@
       "expLevel": 100,
       "trophies": 0,
       "donations": 85,
-      "donationsReceived": 1001,
+      "donationsReceived": 1073,
       "capitalContributions": 0
     },
     {
@@ -473,7 +473,7 @@
       "th": 15,
       "expLevel": 128,
       "trophies": 0,
-      "donations": 589,
+      "donations": 677,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
