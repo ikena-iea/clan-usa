@@ -1,6 +1,6 @@
 {
   "date": "2026-09-05",
-  "capturedAt": "2026-09-05T00:48:46.116Z",
+  "capturedAt": "2026-09-05T05:32:55.779Z",
   "clanLevel": 7,
   "memberCount": 50,
   "members": [
@@ -31,9 +31,9 @@
       "name": "Limeranch",
       "role": "coLeader",
       "th": 17,
-      "expLevel": 150,
+      "expLevel": 151,
       "trophies": 0,
-      "donations": 307,
+      "donations": 408,
       "donationsReceived": 500,
       "capitalContributions": 0
     },
@@ -56,7 +56,7 @@
       "expLevel": 150,
       "trophies": 41,
       "donations": 263,
-      "donationsReceived": 113,
+      "donationsReceived": 165,
       "capitalContributions": 0
     },
     {
@@ -88,8 +88,8 @@
       "th": 14,
       "expLevel": 151,
       "trophies": 201,
-      "donations": 1473,
-      "donationsReceived": 2819,
+      "donations": 1528,
+      "donationsReceived": 2864,
       "capitalContributions": 0
     },
     {
@@ -328,7 +328,7 @@
       "name": "lucky",
       "role": "admin",
       "th": 11,
-      "expLevel": 95,
+      "expLevel": 96,
       "trophies": 51,
       "donations": 49,
       "donationsReceived": 0,
@@ -441,7 +441,7 @@
       "expLevel": 255,
       "trophies": 0,
       "donations": 1209,
-      "donationsReceived": 452,
+      "donationsReceived": 456,
       "capitalContributions": 0
     },
     {
@@ -526,7 +526,7 @@
       "name": "sjd_emd",
       "role": "admin",
       "th": 13,
-      "expLevel": 107,
+      "expLevel": 108,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 2210,
@@ -540,7 +540,7 @@
       "expLevel": 239,
       "trophies": 0,
       "donations": 1091,
-      "donationsReceived": 891,
+      "donationsReceived": 946,
       "capitalContributions": 0
     },
     {

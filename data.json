@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-09-02",
-  "fetchedAt": "2026-09-05T00:48:45.872Z",
+  "fetchedAt": "2026-09-05T05:32:55.459Z",
   "totalRounds": 7,
   "rounds": [
     {
@@ -22,10 +22,10 @@
       "teamSize": 30,
       "opponent": "Artemis",
       "opponentTag": "#2U2V09RGJ",
-      "ourStars": 8,
-      "theirStars": 3,
-      "ourDestruction": 8.966666666666667,
-      "theirDestruction": 4.766666666666667,
+      "ourStars": 20,
+      "theirStars": 4,
+      "ourDestruction": 22.3,
+      "theirDestruction": 6.566666666666666,
       "endTime": "20260905T232544.000Z"
     },
     {
@@ -450,13 +450,13 @@
       "name": "your mom",
       "tag": "#QVPQ8G2VQ",
       "ath": 13,
-      "dth": null,
+      "dth": 11,
       "amap": 23,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 27,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 2,
@@ -580,13 +580,13 @@
       "name": "Ikena",
       "tag": "#R292L228Q",
       "ath": 13,
-      "dth": null,
+      "dth": 12,
       "amap": 10,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 10,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 2,
@@ -632,13 +632,13 @@
       "name": "Alexluidriana",
       "tag": "#QR2QYUJV9",
       "ath": 12,
-      "dth": null,
+      "dth": 9,
       "amap": 29,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 30,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 2,
@@ -671,13 +671,13 @@
       "name": "ben",
       "tag": "#PGQVCVYPJ",
       "ath": 18,
-      "dth": null,
+      "dth": 12,
       "amap": 3,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 3,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 2,
