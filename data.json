@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-09-02",
-  "fetchedAt": "2026-09-05T18:56:57.879Z",
+  "fetchedAt": "2026-09-05T21:06:40.530Z",
   "totalRounds": 7,
   "rounds": [
     {
@@ -23,9 +23,9 @@
       "opponent": "Artemis",
       "opponentTag": "#2U2V09RGJ",
       "ourStars": 47,
-      "theirStars": 6,
+      "theirStars": 9,
       "ourDestruction": 52.3,
-      "theirDestruction": 8.266666666666667,
+      "theirDestruction": 11.6,
       "endTime": "20260905T232544.000Z"
     },
     {
