@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T10:27:10.902Z",
+  "generatedAt": "2026-09-05T13:49:01.038Z",
   "snapshotDate": "2026-09-05",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -266,40 +266,6 @@
         "used": 3,
         "misses": 1,
         "tier": "Rare"
-      }
-    },
-    {
-      "tag": "#YRQJPR0Y9",
-      "name": "cary",
-      "role": "admin",
-      "th": 18,
-      "firstSeen": "2026-08-01",
-      "daysPresent": 35,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 10,
-      "warsTotal": 16,
-      "clan": {
-        "total": 74.9,
-        "pillars": {
-          "donations": 100,
-          "raids": 100,
-          "contributions": 0
-        },
-        "tier": "Epic"
-      },
-      "war": {
-        "total": 77.6,
-        "status": null,
-        "cap": null,
-        "pillars": {
-          "reliability": 90,
-          "performance": 59
-        },
-        "available": 10,
-        "used": 9,
-        "misses": 1,
-        "tier": "Epic"
       }
     },
     {

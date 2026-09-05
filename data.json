@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-09-02",
-  "fetchedAt": "2026-09-05T10:27:09.068Z",
+  "fetchedAt": "2026-09-05T13:48:59.240Z",
   "totalRounds": 7,
   "rounds": [
     {
@@ -22,9 +22,9 @@
       "teamSize": 30,
       "opponent": "Artemis",
       "opponentTag": "#2U2V09RGJ",
-      "ourStars": 35,
+      "ourStars": 47,
       "theirStars": 6,
-      "ourDestruction": 38.96666666666667,
+      "ourDestruction": 52.3,
       "theirDestruction": 8.266666666666667,
       "endTime": "20260905T232544.000Z"
     },
@@ -463,26 +463,26 @@
       "name": "THE ROCK",
       "tag": "#QLV80QQCY",
       "ath": 14,
-      "dth": null,
+      "dth": 12,
       "amap": 7,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 7,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 2,
       "name": "TLOU VRUS",
       "tag": "#QRVY0CV20",
       "ath": 16,
-      "dth": null,
+      "dth": 12,
       "amap": 5,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 5,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 2,
@@ -788,26 +788,26 @@
       "name": "jude",
       "tag": "#GGRR02GLG",
       "ath": 14,
-      "dth": null,
+      "dth": 12,
       "amap": 8,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 8,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 2,
       "name": "vale",
       "tag": "#Q8P8R8UQQ",
       "ath": 13,
-      "dth": null,
+      "dth": 13,
       "amap": 16,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 2,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 2,

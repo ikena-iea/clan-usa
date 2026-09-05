@@ -1,20 +1,9 @@
 {
   "date": "2026-09-05",
-  "capturedAt": "2026-09-05T10:27:09.335Z",
+  "capturedAt": "2026-09-05T13:48:59.481Z",
   "clanLevel": 7,
-  "memberCount": 50,
+  "memberCount": 49,
   "members": [
-    {
-      "tag": "#YRQJPR0Y9",
-      "name": "cary",
-      "role": "admin",
-      "th": 18,
-      "expLevel": 251,
-      "trophies": 0,
-      "donations": 965,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
     {
       "tag": "#G2G8R9RPC",
       "name": "gangster1000000",
@@ -55,8 +44,8 @@
       "th": 16,
       "expLevel": 150,
       "trophies": 41,
-      "donations": 263,
-      "donationsReceived": 165,
+      "donations": 308,
+      "donationsReceived": 215,
       "capitalContributions": 0
     },
     {
@@ -89,7 +78,7 @@
       "expLevel": 151,
       "trophies": 201,
       "donations": 1528,
-      "donationsReceived": 2867,
+      "donationsReceived": 2912,
       "capitalContributions": 0
     },
     {
@@ -97,7 +86,7 @@
       "name": "jude",
       "role": "admin",
       "th": 14,
-      "expLevel": 114,
+      "expLevel": 115,
       "trophies": 260,
       "donations": 1149,
       "donationsReceived": 0,
@@ -230,7 +219,7 @@
       "role": "admin",
       "th": 11,
       "expLevel": 90,
-      "trophies": 144,
+      "trophies": 193,
       "donations": 2,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -328,7 +317,7 @@
       "name": "lucky",
       "role": "admin",
       "th": 11,
-      "expLevel": 96,
+      "expLevel": 97,
       "trophies": 51,
       "donations": 49,
       "donationsReceived": 0,
@@ -372,7 +361,7 @@
       "name": "hartymate",
       "role": "admin",
       "th": 11,
-      "expLevel": 94,
+      "expLevel": 95,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
