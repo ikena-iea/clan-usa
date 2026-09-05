@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-09-02",
-  "fetchedAt": "2026-09-05T21:06:40.530Z",
+  "fetchedAt": "2026-09-05T23:44:55.715Z",
   "totalRounds": 7,
   "rounds": [
     {
@@ -18,19 +18,19 @@
     },
     {
       "round": 2,
-      "state": "inWar",
+      "state": "warEnded",
       "teamSize": 30,
       "opponent": "Artemis",
       "opponentTag": "#2U2V09RGJ",
-      "ourStars": 47,
+      "ourStars": 53,
       "theirStars": 9,
-      "ourDestruction": 52.3,
+      "ourDestruction": 58.96666666666667,
       "theirDestruction": 11.6,
       "endTime": "20260905T232544.000Z"
     },
     {
       "round": 3,
-      "state": "preparation",
+      "state": "inWar",
       "teamSize": 30,
       "opponent": "kingdom come",
       "opponentTag": "#2U0JL20PV",
@@ -39,6 +39,18 @@
       "ourDestruction": 0,
       "theirDestruction": 0,
       "endTime": "20260906T234105.000Z"
+    },
+    {
+      "round": 4,
+      "state": "preparation",
+      "teamSize": 30,
+      "opponent": "DVX",
+      "opponentTag": "#2JUYVVL8G",
+      "ourStars": 0,
+      "theirStars": 0,
+      "ourDestruction": 0,
+      "theirDestruction": 0,
+      "endTime": "20260907T234338.000Z"
     }
   ],
   "attacks": [
@@ -494,8 +506,8 @@
       "dmap": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 2,
@@ -520,8 +532,8 @@
       "dmap": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 2,
@@ -533,8 +545,8 @@
       "dmap": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 2,
@@ -559,8 +571,8 @@
       "dmap": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 2,
@@ -598,21 +610,21 @@
       "dmap": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 2,
       "name": "dennis jiang",
       "tag": "#GCRRUUP82",
       "ath": 13,
-      "dth": null,
+      "dth": 9,
       "amap": 30,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 29,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 2,
@@ -650,8 +662,8 @@
       "dmap": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 2,
@@ -689,8 +701,8 @@
       "dmap": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 2,
@@ -702,8 +714,8 @@
       "dmap": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 2,
@@ -741,8 +753,8 @@
       "dmap": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 2,
@@ -754,8 +766,8 @@
       "dmap": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 2,
@@ -767,21 +779,21 @@
       "dmap": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 2,
       "name": "damiano",
       "tag": "#YUPP00GUU",
       "ath": 12,
-      "dth": null,
+      "dth": 12,
       "amap": 24,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 9,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 2,
@@ -811,6 +823,396 @@
     },
     {
       "round": 2,
+      "name": "jimmy",
+      "tag": "#GU9RJL9R0",
+      "ath": 12,
+      "dth": null,
+      "amap": 22,
+      "dmap": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": true,
+      "pending": false
+    },
+    {
+      "round": 3,
+      "name": "Limeranch",
+      "tag": "#LCVCL0LU0",
+      "ath": 17,
+      "dth": null,
+      "amap": 4,
+      "dmap": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 3,
+      "name": "your mom",
+      "tag": "#QVPQ8G2VQ",
+      "ath": 13,
+      "dth": null,
+      "amap": 23,
+      "dmap": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 3,
+      "name": "THE ROCK",
+      "tag": "#QLV80QQCY",
+      "ath": 14,
+      "dth": null,
+      "amap": 7,
+      "dmap": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 3,
+      "name": "TLOU VRUS",
+      "tag": "#QRVY0CV20",
+      "ath": 16,
+      "dth": null,
+      "amap": 5,
+      "dmap": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 3,
+      "name": "Mr.PiCkLe",
+      "tag": "#GVCJ9R0Q8",
+      "ath": 13,
+      "dth": null,
+      "amap": 17,
+      "dmap": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 3,
+      "name": "Aaron",
+      "tag": "#Q8QPY2L2",
+      "ath": 18,
+      "dth": null,
+      "amap": 1,
+      "dmap": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 3,
+      "name": "Gobinath.N",
+      "tag": "#QV9QYJ09G",
+      "ath": 13,
+      "dth": null,
+      "amap": 20,
+      "dmap": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 3,
+      "name": "GILROYx408",
+      "tag": "#VRPRRLQ",
+      "ath": 17,
+      "dth": null,
+      "amap": 2,
+      "dmap": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 3,
+      "name": "mustafa",
+      "tag": "#GQUQV0PJV",
+      "ath": 15,
+      "dth": null,
+      "amap": 6,
+      "dmap": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 3,
+      "name": "HowardX",
+      "tag": "#R22GJ29UV",
+      "ath": 16,
+      "dth": null,
+      "amap": 9,
+      "dmap": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 3,
+      "name": "DevilIguana",
+      "tag": "#GVV89RJYQ",
+      "ath": 12,
+      "dth": null,
+      "amap": 27,
+      "dmap": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 3,
+      "name": "Ikena",
+      "tag": "#R292L228Q",
+      "ath": 13,
+      "dth": null,
+      "amap": 10,
+      "dmap": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 3,
+      "name": "sammy2720",
+      "tag": "#G80PQRPUV",
+      "ath": 14,
+      "dth": null,
+      "amap": 19,
+      "dmap": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 3,
+      "name": "dennis jiang",
+      "tag": "#GCRRUUP82",
+      "ath": 13,
+      "dth": null,
+      "amap": 30,
+      "dmap": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 3,
+      "name": "Lakers",
+      "tag": "#R00YJ900G",
+      "ath": 12,
+      "dth": null,
+      "amap": 28,
+      "dmap": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 3,
+      "name": "Alexluidriana",
+      "tag": "#QR2QYUJV9",
+      "ath": 12,
+      "dth": null,
+      "amap": 29,
+      "dmap": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 3,
+      "name": "Diego",
+      "tag": "#P02U2U9GC",
+      "ath": 13,
+      "dth": null,
+      "amap": 13,
+      "dmap": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 3,
+      "name": "DaHairyVeer2",
+      "tag": "#GYVPLJRRL",
+      "ath": 13,
+      "dth": null,
+      "amap": 18,
+      "dmap": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 3,
+      "name": "ben",
+      "tag": "#PGQVCVYPJ",
+      "ath": 18,
+      "dth": null,
+      "amap": 3,
+      "dmap": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 3,
+      "name": "LegitN00b98",
+      "tag": "#R8GPLGRVQ",
+      "ath": 12,
+      "dth": null,
+      "amap": 25,
+      "dmap": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 3,
+      "name": "sjd_emd",
+      "tag": "#QC2U9L9P9",
+      "ath": 13,
+      "dth": null,
+      "amap": 15,
+      "dmap": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 3,
+      "name": "zeko lelo",
+      "tag": "#R0QQVRP22",
+      "ath": 12,
+      "dth": null,
+      "amap": 26,
+      "dmap": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 3,
+      "name": "Didetz",
+      "tag": "#R8PJY0U0J",
+      "ath": 14,
+      "dth": null,
+      "amap": 11,
+      "dmap": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 3,
+      "name": "Ditto",
+      "tag": "#L8GUP0C8G",
+      "ath": 13,
+      "dth": null,
+      "amap": 14,
+      "dmap": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 3,
+      "name": "BEOX",
+      "tag": "#GUPY8PLLP",
+      "ath": 13,
+      "dth": null,
+      "amap": 12,
+      "dmap": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 3,
+      "name": "Mohammad-Yahya",
+      "tag": "#G089JGCQP",
+      "ath": 13,
+      "dth": null,
+      "amap": 21,
+      "dmap": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 3,
+      "name": "damiano",
+      "tag": "#YUPP00GUU",
+      "ath": 12,
+      "dth": null,
+      "amap": 24,
+      "dmap": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 3,
+      "name": "jude",
+      "tag": "#GGRR02GLG",
+      "ath": 14,
+      "dth": null,
+      "amap": 8,
+      "dmap": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 3,
+      "name": "vale",
+      "tag": "#Q8P8R8UQQ",
+      "ath": 13,
+      "dth": null,
+      "amap": 16,
+      "dmap": null,
+      "stars": 0,
+      "dest": 0,
+      "missed": false,
+      "pending": true
+    },
+    {
+      "round": 3,
       "name": "jimmy",
       "tag": "#GU9RJL9R0",
       "ath": 12,
