@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T16:43:20.757Z",
+  "generatedAt": "2026-09-05T18:57:00.601Z",
   "snapshotDate": "2026-09-05",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1610,6 +1610,39 @@
         },
         "available": 1,
         "used": 1,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#GVCC8LY9Y",
+      "name": "MDTanvir",
+      "role": "member",
+      "th": 12,
+      "firstSeen": "2026-09-05",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 16,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
         "misses": 0,
         "tier": null
       }
