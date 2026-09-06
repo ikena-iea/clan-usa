@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T19:01:25.179Z",
+  "generatedAt": "2026-09-06T22:04:38.088Z",
   "snapshotDate": "2026-09-06",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -235,6 +235,40 @@
       }
     },
     {
+      "tag": "#LGRC8CP9U",
+      "name": "Big dog",
+      "role": "admin",
+      "th": 13,
+      "firstSeen": "2026-08-14",
+      "daysPresent": 23,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 2,
+      "warsTotal": 17,
+      "clan": {
+        "total": 75,
+        "pillars": {
+          "donations": 100,
+          "raids": 100,
+          "contributions": 0
+        },
+        "tier": "Epic"
+      },
+      "war": {
+        "total": 64.6,
+        "status": null,
+        "cap": null,
+        "pillars": {
+          "reliability": 63,
+          "performance": 68
+        },
+        "available": 4,
+        "used": 3,
+        "misses": 1,
+        "tier": "Rare"
+      }
+    },
+    {
       "tag": "#R8PJY0U0J",
       "name": "Didetz",
       "role": "leader",
@@ -334,40 +368,6 @@
         "used": 3,
         "misses": 1,
         "tier": "Epic"
-      }
-    },
-    {
-      "tag": "#LGRC8CP9U",
-      "name": "Big dog",
-      "role": "admin",
-      "th": 13,
-      "firstSeen": "2026-08-14",
-      "daysPresent": 23,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 2,
-      "warsTotal": 17,
-      "clan": {
-        "total": 74,
-        "pillars": {
-          "donations": 98,
-          "raids": 100,
-          "contributions": 0
-        },
-        "tier": "Epic"
-      },
-      "war": {
-        "total": 64.6,
-        "status": null,
-        "cap": null,
-        "pillars": {
-          "reliability": 63,
-          "performance": 68
-        },
-        "available": 4,
-        "used": 3,
-        "misses": 1,
-        "tier": "Rare"
       }
     },
     {

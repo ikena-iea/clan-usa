@@ -1,6 +1,6 @@
 {
   "date": "2026-09-06",
-  "capturedAt": "2026-09-06T19:01:22.211Z",
+  "capturedAt": "2026-09-06T22:04:34.493Z",
   "clanLevel": 7,
   "memberCount": 50,
   "members": [
@@ -11,7 +11,7 @@
       "th": 15,
       "expLevel": 172,
       "trophies": 226,
-      "donations": 602,
+      "donations": 697,
       "donationsReceived": 1270,
       "capitalContributions": 0
     },
@@ -66,7 +66,7 @@
       "th": 13,
       "expLevel": 119,
       "trophies": 309,
-      "donations": 717,
+      "donations": 774,
       "donationsReceived": 354,
       "capitalContributions": 0
     },
@@ -78,7 +78,7 @@
       "expLevel": 152,
       "trophies": 215,
       "donations": 1600,
-      "donationsReceived": 3008,
+      "donationsReceived": 3056,
       "capitalContributions": 0
     },
     {
@@ -143,7 +143,7 @@
       "th": 13,
       "expLevel": 151,
       "trophies": 0,
-      "donations": 299,
+      "donations": 366,
       "donationsReceived": 47,
       "capitalContributions": 0
     },
@@ -188,7 +188,7 @@
       "expLevel": 147,
       "trophies": 133,
       "donations": 582,
-      "donationsReceived": 1954,
+      "donationsReceived": 2001,
       "capitalContributions": 0
     },
     {
@@ -340,7 +340,7 @@
       "role": "admin",
       "th": 10,
       "expLevel": 87,
-      "trophies": 92,
+      "trophies": 120,
       "donations": 7,
       "donationsReceived": 232,
       "capitalContributions": 0
@@ -383,7 +383,7 @@
       "name": "arroz",
       "role": "admin",
       "th": 10,
-      "expLevel": 64,
+      "expLevel": 65,
       "trophies": 160,
       "donations": 3,
       "donationsReceived": 187,
@@ -408,7 +408,7 @@
       "expLevel": 90,
       "trophies": 0,
       "donations": 228,
-      "donationsReceived": 1045,
+      "donationsReceived": 1112,
       "capitalContributions": 0
     },
     {
@@ -540,7 +540,7 @@
       "expLevel": 239,
       "trophies": 0,
       "donations": 1092,
-      "donationsReceived": 1003,
+      "donationsReceived": 1060,
       "capitalContributions": 0
     },
     {

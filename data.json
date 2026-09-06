@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-09-02",
-  "fetchedAt": "2026-09-06T19:01:21.883Z",
+  "fetchedAt": "2026-09-06T22:04:34.090Z",
   "totalRounds": 7,
   "rounds": [
     {
@@ -34,9 +34,9 @@
       "teamSize": 30,
       "opponent": "kingdom come",
       "opponentTag": "#2U0JL20PV",
-      "ourStars": 52,
+      "ourStars": 55,
       "theirStars": 14,
-      "ourDestruction": 58.06666666666667,
+      "ourDestruction": 61.4,
       "theirDestruction": 22.433333333333334,
       "endTime": "20260906T234105.000Z"
     },
@@ -1047,13 +1047,13 @@
       "name": "Diego",
       "tag": "#P02U2U9GC",
       "ath": 13,
-      "dth": null,
+      "dth": 11,
       "amap": 13,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 15,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
