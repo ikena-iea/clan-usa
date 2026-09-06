@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-09-02",
-  "fetchedAt": "2026-09-05T23:44:55.715Z",
+  "fetchedAt": "2026-09-06T04:20:15.960Z",
   "totalRounds": 7,
   "rounds": [
     {
@@ -34,10 +34,10 @@
       "teamSize": 30,
       "opponent": "kingdom come",
       "opponentTag": "#2U0JL20PV",
-      "ourStars": 0,
-      "theirStars": 0,
-      "ourDestruction": 0,
-      "theirDestruction": 0,
+      "ourStars": 32,
+      "theirStars": 10,
+      "ourDestruction": 35.96666666666667,
+      "theirDestruction": 17.266666666666666,
       "endTime": "20260906T234105.000Z"
     },
     {
@@ -839,13 +839,13 @@
       "name": "Limeranch",
       "tag": "#LCVCL0LU0",
       "ath": 17,
-      "dth": null,
+      "dth": 12,
       "amap": 4,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 4,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
@@ -878,26 +878,26 @@
       "name": "TLOU VRUS",
       "tag": "#QRVY0CV20",
       "ath": 16,
-      "dth": null,
+      "dth": 12,
       "amap": 5,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 5,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
       "name": "Mr.PiCkLe",
       "tag": "#GVCJ9R0Q8",
       "ath": 13,
-      "dth": null,
+      "dth": 12,
       "amap": 17,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 9,
+      "stars": 2,
+      "dest": 79,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
@@ -943,13 +943,13 @@
       "name": "mustafa",
       "tag": "#GQUQV0PJV",
       "ath": 15,
-      "dth": null,
+      "dth": 12,
       "amap": 6,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 6,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
@@ -982,13 +982,13 @@
       "name": "Ikena",
       "tag": "#R292L228Q",
       "ath": 13,
-      "dth": null,
+      "dth": 11,
       "amap": 10,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 10,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
@@ -1060,39 +1060,39 @@
       "name": "DaHairyVeer2",
       "tag": "#GYVPLJRRL",
       "ath": 13,
-      "dth": null,
+      "dth": 11,
       "amap": 18,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 18,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
       "name": "ben",
       "tag": "#PGQVCVYPJ",
       "ath": 18,
-      "dth": null,
+      "dth": 6,
       "amap": 3,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 30,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
       "name": "LegitN00b98",
       "tag": "#R8GPLGRVQ",
       "ath": 12,
-      "dth": null,
+      "dth": 11,
       "amap": 25,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 25,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
@@ -1125,13 +1125,13 @@
       "name": "Didetz",
       "tag": "#R8PJY0U0J",
       "ath": 14,
-      "dth": null,
+      "dth": 12,
       "amap": 11,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 11,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
@@ -1177,26 +1177,26 @@
       "name": "damiano",
       "tag": "#YUPP00GUU",
       "ath": 12,
-      "dth": null,
+      "dth": 12,
       "amap": 24,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 3,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
       "name": "jude",
       "tag": "#GGRR02GLG",
       "ath": 14,
-      "dth": null,
+      "dth": 12,
       "amap": 8,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 8,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,

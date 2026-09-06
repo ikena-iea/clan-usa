@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-05T23:44:58.170Z",
-  "snapshotDate": "2026-09-05",
+  "generatedAt": "2026-09-06T04:20:18.195Z",
+  "snapshotDate": "2026-09-06",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
   "warsArchived": 17,
@@ -38,7 +38,7 @@
       "role": "admin",
       "th": 15,
       "firstSeen": "2026-08-07",
-      "daysPresent": 29,
+      "daysPresent": 30,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 1,
@@ -71,7 +71,7 @@
       "role": "coLeader",
       "th": 17,
       "firstSeen": "2026-07-28",
-      "daysPresent": 39,
+      "daysPresent": 40,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 13,
@@ -105,7 +105,7 @@
       "role": "admin",
       "th": 15,
       "firstSeen": "2026-07-28",
-      "daysPresent": 39,
+      "daysPresent": 40,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 13,
@@ -139,7 +139,7 @@
       "role": "admin",
       "th": 14,
       "firstSeen": "2026-08-07",
-      "daysPresent": 29,
+      "daysPresent": 30,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 6,
@@ -173,7 +173,7 @@
       "role": "admin",
       "th": 18,
       "firstSeen": "2026-07-28",
-      "daysPresent": 39,
+      "daysPresent": 40,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 0,
@@ -206,7 +206,7 @@
       "role": "coLeader",
       "th": 13,
       "firstSeen": "2026-07-28",
-      "daysPresent": 39,
+      "daysPresent": 40,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 15,
@@ -235,46 +235,12 @@
       }
     },
     {
-      "tag": "#LGRC8CP9U",
-      "name": "Big dog",
-      "role": "admin",
-      "th": 13,
-      "firstSeen": "2026-08-14",
-      "daysPresent": 22,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 2,
-      "warsTotal": 17,
-      "clan": {
-        "total": 75,
-        "pillars": {
-          "donations": 100,
-          "raids": 100,
-          "contributions": 0
-        },
-        "tier": "Epic"
-      },
-      "war": {
-        "total": 64.6,
-        "status": null,
-        "cap": null,
-        "pillars": {
-          "reliability": 63,
-          "performance": 68
-        },
-        "available": 4,
-        "used": 3,
-        "misses": 1,
-        "tier": "Rare"
-      }
-    },
-    {
       "tag": "#R8PJY0U0J",
       "name": "Didetz",
       "role": "leader",
       "th": 14,
       "firstSeen": "2026-07-28",
-      "daysPresent": 39,
+      "daysPresent": 40,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 12,
@@ -308,7 +274,7 @@
       "role": "admin",
       "th": 18,
       "firstSeen": "2026-07-28",
-      "daysPresent": 39,
+      "daysPresent": 40,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 14,
@@ -342,7 +308,7 @@
       "role": "member",
       "th": 12,
       "firstSeen": "2026-08-14",
-      "daysPresent": 22,
+      "daysPresent": 23,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 3,
@@ -371,12 +337,46 @@
       }
     },
     {
+      "tag": "#LGRC8CP9U",
+      "name": "Big dog",
+      "role": "admin",
+      "th": 13,
+      "firstSeen": "2026-08-14",
+      "daysPresent": 23,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 2,
+      "warsTotal": 17,
+      "clan": {
+        "total": 74,
+        "pillars": {
+          "donations": 98,
+          "raids": 100,
+          "contributions": 0
+        },
+        "tier": "Epic"
+      },
+      "war": {
+        "total": 64.6,
+        "status": null,
+        "cap": null,
+        "pillars": {
+          "reliability": 63,
+          "performance": 68
+        },
+        "available": 4,
+        "used": 3,
+        "misses": 1,
+        "tier": "Rare"
+      }
+    },
+    {
       "tag": "#P02U2U9GC",
       "name": "Diego",
       "role": "admin",
       "th": 13,
       "firstSeen": "2026-08-12",
-      "daysPresent": 24,
+      "daysPresent": 25,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 4,
@@ -410,7 +410,7 @@
       "role": "admin",
       "th": 18,
       "firstSeen": "2026-07-28",
-      "daysPresent": 39,
+      "daysPresent": 40,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 10,
@@ -444,7 +444,7 @@
       "role": "admin",
       "th": 14,
       "firstSeen": "2026-08-04",
-      "daysPresent": 32,
+      "daysPresent": 33,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 5,
@@ -478,7 +478,7 @@
       "role": "admin",
       "th": 13,
       "firstSeen": "2026-07-28",
-      "daysPresent": 39,
+      "daysPresent": 40,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 12,
@@ -512,7 +512,7 @@
       "role": "admin",
       "th": 12,
       "firstSeen": "2026-07-28",
-      "daysPresent": 39,
+      "daysPresent": 40,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 14,
@@ -546,7 +546,7 @@
       "role": "admin",
       "th": 14,
       "firstSeen": "2026-07-29",
-      "daysPresent": 38,
+      "daysPresent": 39,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 5,
@@ -580,7 +580,7 @@
       "role": "admin",
       "th": 13,
       "firstSeen": "2026-07-28",
-      "daysPresent": 39,
+      "daysPresent": 40,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 12,
@@ -609,46 +609,12 @@
       }
     },
     {
-      "tag": "#GPC8J2YLY",
-      "name": "IDONTKNOW",
-      "role": "admin",
-      "th": 11,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 39,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 8,
-      "warsTotal": 17,
-      "clan": {
-        "total": 52.9,
-        "pillars": {
-          "donations": 64,
-          "raids": 78,
-          "contributions": 0
-        },
-        "tier": "Uncommon"
-      },
-      "war": {
-        "total": 63.7,
-        "status": null,
-        "cap": "Rare",
-        "pillars": {
-          "reliability": 78,
-          "performance": 42
-        },
-        "available": 9,
-        "used": 7,
-        "misses": 2,
-        "tier": "Rare"
-      }
-    },
-    {
       "tag": "#R2RR9UJ8V",
       "name": "X4FSHIN",
       "role": "admin",
       "th": 11,
       "firstSeen": "2026-07-28",
-      "daysPresent": 39,
+      "daysPresent": 40,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 10,
@@ -677,12 +643,46 @@
       }
     },
     {
+      "tag": "#GPC8J2YLY",
+      "name": "IDONTKNOW",
+      "role": "admin",
+      "th": 11,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 40,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 8,
+      "warsTotal": 17,
+      "clan": {
+        "total": 52.7,
+        "pillars": {
+          "donations": 63,
+          "raids": 78,
+          "contributions": 0
+        },
+        "tier": "Uncommon"
+      },
+      "war": {
+        "total": 63.7,
+        "status": null,
+        "cap": "Rare",
+        "pillars": {
+          "reliability": 78,
+          "performance": 42
+        },
+        "available": 9,
+        "used": 7,
+        "misses": 2,
+        "tier": "Rare"
+      }
+    },
+    {
       "tag": "#GVCJ9R0Q8",
       "name": "Mr.PiCkLe",
       "role": "admin",
       "th": 13,
       "firstSeen": "2026-08-05",
-      "daysPresent": 31,
+      "daysPresent": 32,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 4,
@@ -711,53 +711,20 @@
       }
     },
     {
-      "tag": "#Q8P8R8UQQ",
-      "name": "vale",
-      "role": "admin",
-      "th": 13,
-      "firstSeen": "2026-08-14",
-      "daysPresent": 22,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 2,
-      "warsTotal": 17,
-      "clan": {
-        "total": 48.8,
-        "pillars": {
-          "donations": 49,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": "Uncommon"
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 2,
-        "used": 1,
-        "misses": 1,
-        "tier": null
-      }
-    },
-    {
       "tag": "#G8VGPGY8J",
       "name": "asap",
       "role": "member",
       "th": 14,
       "firstSeen": "2026-08-14",
-      "daysPresent": 22,
+      "daysPresent": 23,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 0,
       "warsTotal": 17,
       "clan": {
-        "total": 47.8,
+        "total": 46.9,
         "pillars": {
-          "donations": 49,
+          "donations": 47,
           "raids": 80,
           "contributions": 0
         },
@@ -777,12 +744,45 @@
       }
     },
     {
+      "tag": "#Q8P8R8UQQ",
+      "name": "vale",
+      "role": "admin",
+      "th": 13,
+      "firstSeen": "2026-08-14",
+      "daysPresent": 23,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 2,
+      "warsTotal": 17,
+      "clan": {
+        "total": 46.6,
+        "pillars": {
+          "donations": 47,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": "Uncommon"
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 2,
+        "used": 1,
+        "misses": 1,
+        "tier": null
+      }
+    },
+    {
       "tag": "#R2JRVJG0U",
       "name": "100 days",
       "role": "coLeader",
       "th": 7,
       "firstSeen": "2026-07-28",
-      "daysPresent": 39,
+      "daysPresent": 40,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 1,
@@ -815,7 +815,7 @@
       "role": "admin",
       "th": 11,
       "firstSeen": "2026-07-28",
-      "daysPresent": 39,
+      "daysPresent": 40,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 11,
@@ -849,13 +849,13 @@
       "role": "admin",
       "th": 14,
       "firstSeen": "2026-08-12",
-      "daysPresent": 24,
+      "daysPresent": 25,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 1,
       "warsTotal": 17,
       "clan": {
-        "total": 39.6,
+        "total": 39.4,
         "pillars": {
           "donations": 13,
           "raids": 98,
@@ -882,7 +882,7 @@
       "role": "admin",
       "th": 10,
       "firstSeen": "2026-07-28",
-      "daysPresent": 39,
+      "daysPresent": 40,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 5,
@@ -916,7 +916,7 @@
       "role": "coLeader",
       "th": 7,
       "firstSeen": "2026-08-14",
-      "daysPresent": 22,
+      "daysPresent": 23,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 1,
@@ -949,7 +949,7 @@
       "role": "admin",
       "th": 11,
       "firstSeen": "2026-07-28",
-      "daysPresent": 39,
+      "daysPresent": 40,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 11,
@@ -983,7 +983,7 @@
       "role": "coLeader",
       "th": 12,
       "firstSeen": "2026-07-28",
-      "daysPresent": 39,
+      "daysPresent": 40,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 12,
@@ -1017,13 +1017,13 @@
       "role": "admin",
       "th": 12,
       "firstSeen": "2026-08-07",
-      "daysPresent": 29,
+      "daysPresent": 30,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 4,
       "warsTotal": 17,
       "clan": {
-        "total": 26.1,
+        "total": 25.8,
         "pillars": {
           "donations": 19,
           "raids": 52,
@@ -1051,7 +1051,7 @@
       "role": "admin",
       "th": 11,
       "firstSeen": "2026-07-28",
-      "daysPresent": 39,
+      "daysPresent": 40,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 9,
@@ -1085,7 +1085,7 @@
       "role": "admin",
       "th": 13,
       "firstSeen": "2026-08-10",
-      "daysPresent": 26,
+      "daysPresent": 27,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 4,
@@ -1119,7 +1119,7 @@
       "role": "admin",
       "th": 10,
       "firstSeen": "2026-07-28",
-      "daysPresent": 39,
+      "daysPresent": 40,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 2,
@@ -1153,7 +1153,7 @@
       "role": "admin",
       "th": 13,
       "firstSeen": "2026-07-28",
-      "daysPresent": 39,
+      "daysPresent": 40,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 8,
@@ -1187,7 +1187,7 @@
       "role": "coLeader",
       "th": 12,
       "firstSeen": "2026-07-28",
-      "daysPresent": 39,
+      "daysPresent": 40,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 12,
@@ -1221,7 +1221,7 @@
       "role": "admin",
       "th": 16,
       "firstSeen": "2026-07-28",
-      "daysPresent": 39,
+      "daysPresent": 40,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 11,
@@ -1255,7 +1255,7 @@
       "role": "admin",
       "th": 13,
       "firstSeen": "2026-08-07",
-      "daysPresent": 29,
+      "daysPresent": 30,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 3,
@@ -1289,7 +1289,7 @@
       "role": "admin",
       "th": 11,
       "firstSeen": "2026-07-28",
-      "daysPresent": 39,
+      "daysPresent": 40,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 10,
@@ -1323,7 +1323,7 @@
       "role": "admin",
       "th": 13,
       "firstSeen": "2026-07-28",
-      "daysPresent": 39,
+      "daysPresent": 40,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 11,
@@ -1357,9 +1357,9 @@
       "role": "admin",
       "th": 16,
       "firstSeen": "2026-09-02",
-      "daysPresent": 3,
+      "daysPresent": 4,
       "inGrace": true,
-      "gracePeriodEndsIn": 11,
+      "gracePeriodEndsIn": 10,
       "warsJoined": 2,
       "warsTotal": 17,
       "clan": {
@@ -1390,15 +1390,15 @@
       "role": "member",
       "th": 15,
       "firstSeen": "2026-09-01",
-      "daysPresent": 4,
+      "daysPresent": 5,
       "inGrace": true,
-      "gracePeriodEndsIn": 10,
+      "gracePeriodEndsIn": 9,
       "warsJoined": 0,
       "warsTotal": 17,
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 100,
+          "donations": 90,
           "raids": null,
           "contributions": null
         },
@@ -1423,9 +1423,9 @@
       "role": "member",
       "th": 13,
       "firstSeen": "2026-08-31",
-      "daysPresent": 5,
+      "daysPresent": 6,
       "inGrace": true,
-      "gracePeriodEndsIn": 9,
+      "gracePeriodEndsIn": 8,
       "warsJoined": 0,
       "warsTotal": 17,
       "clan": {
@@ -1456,9 +1456,9 @@
       "role": "admin",
       "th": 13,
       "firstSeen": "2026-08-27",
-      "daysPresent": 9,
+      "daysPresent": 10,
       "inGrace": true,
-      "gracePeriodEndsIn": 5,
+      "gracePeriodEndsIn": 4,
       "warsJoined": 2,
       "warsTotal": 17,
       "clan": {
@@ -1489,9 +1489,9 @@
       "role": "admin",
       "th": 13,
       "firstSeen": "2026-08-27",
-      "daysPresent": 9,
+      "daysPresent": 10,
       "inGrace": true,
-      "gracePeriodEndsIn": 5,
+      "gracePeriodEndsIn": 4,
       "warsJoined": 2,
       "warsTotal": 17,
       "clan": {
@@ -1522,9 +1522,9 @@
       "role": "member",
       "th": 12,
       "firstSeen": "2026-09-01",
-      "daysPresent": 4,
+      "daysPresent": 5,
       "inGrace": true,
-      "gracePeriodEndsIn": 10,
+      "gracePeriodEndsIn": 9,
       "warsJoined": 2,
       "warsTotal": 17,
       "clan": {
@@ -1555,15 +1555,15 @@
       "role": "admin",
       "th": 12,
       "firstSeen": "2026-08-29",
-      "daysPresent": 7,
+      "daysPresent": 8,
       "inGrace": true,
-      "gracePeriodEndsIn": 7,
+      "gracePeriodEndsIn": 6,
       "warsJoined": 2,
       "warsTotal": 17,
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 76,
+          "donations": 67,
           "raids": 100,
           "contributions": 0
         },
@@ -1616,14 +1616,47 @@
       }
     },
     {
+      "tag": "#CVLPRGYY",
+      "name": "Schlitz",
+      "role": "member",
+      "th": 15,
+      "firstSeen": "2026-09-06",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 17,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#L9P9CY20G",
       "name": "Limerence",
       "role": "coLeader",
       "th": 15,
       "firstSeen": "2026-08-24",
-      "daysPresent": 12,
+      "daysPresent": 13,
       "inGrace": true,
-      "gracePeriodEndsIn": 2,
+      "gracePeriodEndsIn": 1,
       "warsJoined": 0,
       "warsTotal": 17,
       "clan": {
@@ -1654,9 +1687,9 @@
       "role": "member",
       "th": 14,
       "firstSeen": "2026-09-04",
-      "daysPresent": 1,
+      "daysPresent": 2,
       "inGrace": true,
-      "gracePeriodEndsIn": 13,
+      "gracePeriodEndsIn": 12,
       "warsJoined": 0,
       "warsTotal": 17,
       "clan": {
