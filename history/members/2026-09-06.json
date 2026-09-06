@@ -1,6 +1,6 @@
 {
   "date": "2026-09-06",
-  "capturedAt": "2026-09-06T09:17:25.220Z",
+  "capturedAt": "2026-09-06T13:33:07.487Z",
   "clanLevel": 7,
   "memberCount": 50,
   "members": [
@@ -9,10 +9,10 @@
       "name": "gangster1000000",
       "role": "admin",
       "th": 15,
-      "expLevel": 171,
+      "expLevel": 172,
       "trophies": 226,
-      "donations": 558,
-      "donationsReceived": 1217,
+      "donations": 602,
+      "donationsReceived": 1270,
       "capitalContributions": 0
     },
     {
@@ -32,9 +32,9 @@
       "role": "admin",
       "th": 15,
       "expLevel": 153,
-      "trophies": 203,
+      "trophies": 231,
       "donations": 1016,
-      "donationsReceived": 910,
+      "donationsReceived": 990,
       "capitalContributions": 0
     },
     {
@@ -75,10 +75,10 @@
       "name": "THE ROCK",
       "role": "admin",
       "th": 14,
-      "expLevel": 151,
+      "expLevel": 152,
       "trophies": 201,
       "donations": 1564,
-      "donationsReceived": 2960,
+      "donationsReceived": 3005,
       "capitalContributions": 0
     },
     {
@@ -110,7 +110,7 @@
       "th": 13,
       "expLevel": 116,
       "trophies": 347,
-      "donations": 215,
+      "donations": 224,
       "donationsReceived": 704,
       "capitalContributions": 0
     },
@@ -175,7 +175,7 @@
       "role": "admin",
       "th": 12,
       "expLevel": 89,
-      "trophies": 183,
+      "trophies": 223,
       "donations": 237,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -429,7 +429,7 @@
       "th": 18,
       "expLevel": 255,
       "trophies": 0,
-      "donations": 1428,
+      "donations": 1552,
       "donationsReceived": 456,
       "capitalContributions": 0
     },
@@ -440,7 +440,7 @@
       "th": 15,
       "expLevel": 169,
       "trophies": 0,
-      "donations": 40,
+      "donations": 55,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -518,7 +518,7 @@
       "expLevel": 216,
       "trophies": 0,
       "donations": 909,
-      "donationsReceived": 583,
+      "donationsReceived": 597,
       "capitalContributions": 0
     },
     {

@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-09-02",
-  "fetchedAt": "2026-09-06T09:17:24.916Z",
+  "fetchedAt": "2026-09-06T13:33:07.185Z",
   "totalRounds": 7,
   "rounds": [
     {
@@ -34,10 +34,10 @@
       "teamSize": 30,
       "opponent": "kingdom come",
       "opponentTag": "#2U0JL20PV",
-      "ourStars": 46,
+      "ourStars": 49,
       "theirStars": 14,
-      "ourDestruction": 51.4,
-      "theirDestruction": 21.1,
+      "ourDestruction": 54.733333333333334,
+      "theirDestruction": 22.433333333333334,
       "endTime": "20260906T234105.000Z"
     },
     {
@@ -865,13 +865,13 @@
       "name": "THE ROCK",
       "tag": "#QLV80QQCY",
       "ath": 14,
-      "dth": null,
+      "dth": 11,
       "amap": 7,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 13,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
