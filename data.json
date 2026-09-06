@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-09-02",
-  "fetchedAt": "2026-09-06T16:51:29.357Z",
+  "fetchedAt": "2026-09-06T19:01:21.883Z",
   "totalRounds": 7,
   "rounds": [
     {
@@ -34,9 +34,9 @@
       "teamSize": 30,
       "opponent": "kingdom come",
       "opponentTag": "#2U0JL20PV",
-      "ourStars": 49,
+      "ourStars": 52,
       "theirStars": 14,
-      "ourDestruction": 54.733333333333334,
+      "ourDestruction": 58.06666666666667,
       "theirDestruction": 22.433333333333334,
       "endTime": "20260906T234105.000Z"
     },
@@ -917,13 +917,13 @@
       "name": "Gobinath.N",
       "tag": "#QV9QYJ09G",
       "ath": 13,
-      "dth": null,
+      "dth": 11,
       "amap": 20,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 16,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
