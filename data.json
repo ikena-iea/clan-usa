@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-09-02",
-  "fetchedAt": "2026-09-06T04:20:15.960Z",
+  "fetchedAt": "2026-09-06T09:17:24.916Z",
   "totalRounds": 7,
   "rounds": [
     {
@@ -34,10 +34,10 @@
       "teamSize": 30,
       "opponent": "kingdom come",
       "opponentTag": "#2U0JL20PV",
-      "ourStars": 32,
-      "theirStars": 10,
-      "ourDestruction": 35.96666666666667,
-      "theirDestruction": 17.266666666666666,
+      "ourStars": 46,
+      "theirStars": 14,
+      "ourDestruction": 51.4,
+      "theirDestruction": 21.1,
       "endTime": "20260906T234105.000Z"
     },
     {
@@ -904,13 +904,13 @@
       "name": "Aaron",
       "tag": "#Q8QPY2L2",
       "ath": 18,
-      "dth": null,
+      "dth": 17,
       "amap": 1,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 1,
+      "stars": 2,
+      "dest": 63,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
@@ -969,13 +969,13 @@
       "name": "DevilIguana",
       "tag": "#GVV89RJYQ",
       "ath": 12,
-      "dth": null,
+      "dth": 11,
       "amap": 27,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 12,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
@@ -1112,13 +1112,13 @@
       "name": "zeko lelo",
       "tag": "#R0QQVRP22",
       "ath": 12,
-      "dth": null,
+      "dth": 11,
       "amap": 26,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 26,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
@@ -1138,13 +1138,13 @@
       "name": "Ditto",
       "tag": "#L8GUP0C8G",
       "ath": 13,
-      "dth": null,
+      "dth": 11,
       "amap": 14,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 14,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
@@ -1203,13 +1203,13 @@
       "name": "vale",
       "tag": "#Q8P8R8UQQ",
       "ath": 13,
-      "dth": null,
+      "dth": 12,
       "amap": 16,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 7,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
