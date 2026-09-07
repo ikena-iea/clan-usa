@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T00:50:15.599Z",
+  "generatedAt": "2026-09-07T05:55:51.995Z",
   "snapshotDate": "2026-09-07",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1082,7 +1082,7 @@
       "tag": "#GGQ80JRJ0",
       "name": "hartymate",
       "role": "admin",
-      "th": 11,
+      "th": 12,
       "firstSeen": "2026-07-28",
       "daysPresent": 41,
       "inGrace": false,
