@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-09-02",
-  "fetchedAt": "2026-09-07T12:17:55.605Z",
+  "fetchedAt": "2026-09-07T18:12:52.889Z",
   "totalRounds": 7,
   "rounds": [
     {
@@ -46,10 +46,10 @@
       "teamSize": 30,
       "opponent": "DVX",
       "opponentTag": "#2JUYVVL8G",
-      "ourStars": 39,
-      "theirStars": 7,
-      "ourDestruction": 43.4,
-      "theirDestruction": 9.533333333333333,
+      "ourStars": 46,
+      "theirStars": 11,
+      "ourDestruction": 52.666666666666664,
+      "theirDestruction": 15.833333333333334,
       "endTime": "20260907T234338.000Z"
     },
     {
@@ -1254,13 +1254,13 @@
       "name": "your mom",
       "tag": "#QVPQ8G2VQ",
       "ath": 13,
-      "dth": null,
+      "dth": 11,
       "amap": 23,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 32,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 4,
@@ -1293,13 +1293,13 @@
       "name": "Mr.PiCkLe",
       "tag": "#GVCJ9R0Q8",
       "ath": 13,
-      "dth": null,
+      "dth": 11,
       "amap": 17,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 18,
+      "stars": 1,
+      "dest": 78,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 4,
@@ -1436,13 +1436,13 @@
       "name": "Alexluidriana",
       "tag": "#QR2QYUJV9",
       "ath": 12,
-      "dth": null,
+      "dth": 10,
       "amap": 29,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 38,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 4,
