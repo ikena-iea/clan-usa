@@ -1,6 +1,6 @@
 {
   "date": "2026-09-07",
-  "capturedAt": "2026-09-07T18:12:53.138Z",
+  "capturedAt": "2026-09-07T21:57:11.531Z",
   "clanLevel": 7,
   "memberCount": 50,
   "members": [
@@ -10,9 +10,9 @@
       "role": "admin",
       "th": 15,
       "expLevel": 172,
-      "trophies": 0,
+      "trophies": 61,
       "donations": 0,
-      "donationsReceived": 0,
+      "donationsReceived": 6,
       "capitalContributions": 0
     },
     {
@@ -23,7 +23,7 @@
       "expLevel": 151,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 0,
+      "donationsReceived": 58,
       "capitalContributions": 0
     },
     {
@@ -32,8 +32,8 @@
       "role": "admin",
       "th": 16,
       "expLevel": 154,
-      "trophies": 0,
-      "donations": 0,
+      "trophies": 125,
+      "donations": 36,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -109,9 +109,9 @@
       "role": "admin",
       "th": 13,
       "expLevel": 116,
-      "trophies": 17,
+      "trophies": 57,
       "donations": 0,
-      "donationsReceived": 40,
+      "donationsReceived": 80,
       "capitalContributions": 0
     },
     {
@@ -144,7 +144,7 @@
       "expLevel": 151,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 0,
+      "donationsReceived": 77,
       "capitalContributions": 0
     },
     {
@@ -165,7 +165,7 @@
       "th": 13,
       "expLevel": 111,
       "trophies": 0,
-      "donations": 0,
+      "donations": 40,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -220,6 +220,17 @@
       "th": 12,
       "expLevel": 89,
       "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#YUPP00GUU",
+      "name": "damiano",
+      "role": "member",
+      "th": 12,
+      "expLevel": 131,
+      "trophies": 35,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -291,17 +302,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#YUPP00GUU",
-      "name": "damiano",
-      "role": "member",
-      "th": 12,
-      "expLevel": 131,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#GYC8Q2R20",
       "name": "lucky",
       "role": "admin",
@@ -317,7 +317,7 @@
       "name": "Alexluidriana",
       "role": "admin",
       "th": 12,
-      "expLevel": 99,
+      "expLevel": 100,
       "trophies": 29,
       "donations": 0,
       "donationsReceived": 0,
@@ -407,7 +407,7 @@
       "th": 11,
       "expLevel": 90,
       "trophies": 0,
-      "donations": 0,
+      "donations": 2,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -419,7 +419,7 @@
       "expLevel": 101,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 0,
+      "donationsReceived": 36,
       "capitalContributions": 0
     },
     {
@@ -440,7 +440,7 @@
       "th": 15,
       "expLevel": 169,
       "trophies": 0,
-      "donations": 77,
+      "donations": 158,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -473,7 +473,7 @@
       "th": 15,
       "expLevel": 128,
       "trophies": 0,
-      "donations": 0,
+      "donations": 58,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -548,7 +548,7 @@
       "name": "jimmy",
       "role": "admin",
       "th": 12,
-      "expLevel": 112,
+      "expLevel": 113,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,

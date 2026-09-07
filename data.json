@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-09-02",
-  "fetchedAt": "2026-09-07T18:12:52.889Z",
+  "fetchedAt": "2026-09-07T21:57:11.270Z",
   "totalRounds": 7,
   "rounds": [
     {
@@ -46,9 +46,9 @@
       "teamSize": 30,
       "opponent": "DVX",
       "opponentTag": "#2JUYVVL8G",
-      "ourStars": 46,
+      "ourStars": 49,
       "theirStars": 11,
-      "ourDestruction": 52.666666666666664,
+      "ourDestruction": 56,
       "theirDestruction": 15.833333333333334,
       "endTime": "20260907T234338.000Z"
     },
@@ -1592,13 +1592,13 @@
       "name": "jude",
       "tag": "#GGRR02GLG",
       "ath": 14,
-      "dth": null,
+      "dth": 11,
       "amap": 8,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 12,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 4,
