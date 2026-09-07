@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-09-02",
-  "fetchedAt": "2026-09-07T05:55:49.371Z",
+  "fetchedAt": "2026-09-07T12:17:55.605Z",
   "totalRounds": 7,
   "rounds": [
     {
@@ -46,10 +46,10 @@
       "teamSize": 30,
       "opponent": "DVX",
       "opponentTag": "#2JUYVVL8G",
-      "ourStars": 30,
-      "theirStars": 4,
-      "ourDestruction": 33.4,
-      "theirDestruction": 5.633333333333334,
+      "ourStars": 39,
+      "theirStars": 7,
+      "ourDestruction": 43.4,
+      "theirDestruction": 9.533333333333333,
       "endTime": "20260907T234338.000Z"
     },
     {
@@ -1345,13 +1345,13 @@
       "name": "mustafa",
       "tag": "#GQUQV0PJV",
       "ath": 15,
-      "dth": null,
+      "dth": 11,
       "amap": 6,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 11,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 4,
@@ -1514,26 +1514,26 @@
       "name": "zeko lelo",
       "tag": "#R0QQVRP22",
       "ath": 12,
-      "dth": null,
+      "dth": 10,
       "amap": 26,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 36,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 4,
       "name": "Didetz",
       "tag": "#R8PJY0U0J",
       "ath": 14,
-      "dth": null,
+      "dth": 11,
       "amap": 11,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 14,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 4,
