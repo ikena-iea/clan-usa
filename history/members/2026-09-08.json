@@ -1,6 +1,6 @@
 {
   "date": "2026-09-08",
-  "capturedAt": "2026-09-08T19:49:54.392Z",
+  "capturedAt": "2026-09-08T22:32:09.950Z",
   "clanLevel": 7,
   "memberCount": 49,
   "members": [
@@ -10,9 +10,9 @@
       "role": "admin",
       "th": 15,
       "expLevel": 172,
-      "trophies": 72,
-      "donations": 0,
-      "donationsReceived": 6,
+      "trophies": 132,
+      "donations": 65,
+      "donationsReceived": 12,
       "capitalContributions": 0
     },
     {
@@ -66,7 +66,7 @@
       "th": 14,
       "expLevel": 115,
       "trophies": 186,
-      "donations": 47,
+      "donations": 87,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -77,8 +77,8 @@
       "th": 14,
       "expLevel": 152,
       "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 159,
+      "donations": 5,
+      "donationsReceived": 189,
       "capitalContributions": 0
     },
     {
@@ -98,9 +98,9 @@
       "role": "admin",
       "th": 13,
       "expLevel": 117,
-      "trophies": 186,
+      "trophies": 306,
       "donations": 72,
-      "donationsReceived": 242,
+      "donationsReceived": 322,
       "capitalContributions": 0
     },
     {
@@ -170,6 +170,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#PJ22QYY22",
+      "name": "thegodlynoob",
+      "role": "admin",
+      "th": 11,
+      "expLevel": 90,
+      "trophies": 36,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#R8GPLGRVQ",
       "name": "LegitN00b98",
       "role": "admin",
@@ -181,24 +192,13 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#PJ22QYY22",
-      "name": "thegodlynoob",
-      "role": "admin",
-      "th": 11,
-      "expLevel": 90,
-      "trophies": 17,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#P02U2U9GC",
       "name": "Diego",
       "role": "admin",
       "th": 13,
       "expLevel": 147,
       "trophies": 0,
-      "donations": 0,
+      "donations": 6,
       "donationsReceived": 47,
       "capitalContributions": 0
     },
@@ -218,7 +218,7 @@
       "name": "damiano",
       "role": "member",
       "th": 12,
-      "expLevel": 131,
+      "expLevel": 132,
       "trophies": 128,
       "donations": 0,
       "donationsReceived": 72,
