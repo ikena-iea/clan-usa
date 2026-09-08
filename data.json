@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-09-02",
-  "fetchedAt": "2026-09-08T05:48:47.266Z",
+  "fetchedAt": "2026-09-08T11:05:40.841Z",
   "totalRounds": 7,
   "rounds": [
     {
@@ -58,10 +58,10 @@
       "teamSize": 30,
       "opponent": "Desi Dominators",
       "opponentTag": "#2CQYQ9LYL",
-      "ourStars": 19,
-      "theirStars": 11,
-      "ourDestruction": 22.366666666666667,
-      "theirDestruction": 14.966666666666667,
+      "ourStars": 30,
+      "theirStars": 30,
+      "ourDestruction": 34.86666666666667,
+      "theirDestruction": 37.9,
       "endTime": "20260909T003138.000Z"
     },
     {
@@ -1669,13 +1669,13 @@
       "name": "THE ROCK",
       "tag": "#QLV80QQCY",
       "ath": 14,
-      "dth": null,
+      "dth": 13,
       "amap": 7,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 7,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
@@ -1708,13 +1708,13 @@
       "name": "Aaron",
       "tag": "#Q8QPY2L2",
       "ath": 18,
-      "dth": null,
+      "dth": 17,
       "amap": 1,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 1,
+      "stars": 2,
+      "dest": 75,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
@@ -1825,13 +1825,13 @@
       "name": "Lakers",
       "tag": "#R00YJ900G",
       "ath": 12,
-      "dth": null,
+      "dth": 11,
       "amap": 28,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 30,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
@@ -1916,13 +1916,13 @@
       "name": "zeko lelo",
       "tag": "#R0QQVRP22",
       "ath": 12,
-      "dth": null,
+      "dth": 12,
       "amap": 26,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 26,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
