@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-09-02",
-  "fetchedAt": "2026-09-08T16:32:06.748Z",
+  "fetchedAt": "2026-09-08T19:49:54.052Z",
   "totalRounds": 7,
   "rounds": [
     {
@@ -58,9 +58,9 @@
       "teamSize": 30,
       "opponent": "Desi Dominators",
       "opponentTag": "#2CQYQ9LYL",
-      "ourStars": 45,
+      "ourStars": 51,
       "theirStars": 45,
-      "ourDestruction": 53.6,
+      "ourDestruction": 60.266666666666666,
       "theirDestruction": 59.1,
       "endTime": "20260909T003138.000Z"
     },
@@ -1851,13 +1851,13 @@
       "name": "Diego",
       "tag": "#P02U2U9GC",
       "ath": 13,
-      "dth": null,
+      "dth": 12,
       "amap": 13,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 12,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
@@ -2007,13 +2007,13 @@
       "name": "vale",
       "tag": "#Q8P8R8UQQ",
       "ath": 13,
-      "dth": null,
+      "dth": 13,
       "amap": 16,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 9,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,

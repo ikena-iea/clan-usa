@@ -1,6 +1,6 @@
 {
   "date": "2026-09-08",
-  "capturedAt": "2026-09-08T16:32:07.072Z",
+  "capturedAt": "2026-09-08T19:49:54.392Z",
   "clanLevel": 7,
   "memberCount": 49,
   "members": [
@@ -42,7 +42,7 @@
       "name": "HowardX",
       "role": "admin",
       "th": 16,
-      "expLevel": 84,
+      "expLevel": 85,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -53,7 +53,7 @@
       "name": "Ikena",
       "role": "coLeader",
       "th": 13,
-      "expLevel": 119,
+      "expLevel": 120,
       "trophies": 12,
       "donations": 194,
       "donationsReceived": 227,
@@ -66,7 +66,7 @@
       "th": 14,
       "expLevel": 115,
       "trophies": 186,
-      "donations": 0,
+      "donations": 47,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -78,7 +78,7 @@
       "expLevel": 152,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 144,
+      "donationsReceived": 159,
       "capitalContributions": 0
     },
     {
@@ -199,7 +199,7 @@
       "expLevel": 147,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 0,
+      "donationsReceived": 47,
       "capitalContributions": 0
     },
     {
@@ -291,23 +291,23 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#QR2QYUJV9",
+      "name": "Alexluidriana",
+      "role": "admin",
+      "th": 12,
+      "expLevel": 100,
+      "trophies": 74,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#GYC8Q2R20",
       "name": "lucky",
       "role": "admin",
       "th": 11,
       "expLevel": 97,
       "trophies": 56,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#QR2QYUJV9",
-      "name": "Alexluidriana",
-      "role": "admin",
-      "th": 12,
-      "expLevel": 100,
-      "trophies": 45,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -429,7 +429,7 @@
       "th": 15,
       "expLevel": 170,
       "trophies": 0,
-      "donations": 233,
+      "donations": 248,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -514,7 +514,7 @@
       "tag": "#QC2U9L9P9",
       "name": "sjd_emd",
       "role": "admin",
-      "th": 13,
+      "th": 14,
       "expLevel": 109,
       "trophies": 0,
       "donations": 0,
