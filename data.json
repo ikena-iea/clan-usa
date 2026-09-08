@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-09-02",
-  "fetchedAt": "2026-09-07T21:57:11.270Z",
+  "fetchedAt": "2026-09-08T00:11:57.888Z",
   "totalRounds": 7,
   "rounds": [
     {
@@ -42,14 +42,14 @@
     },
     {
       "round": 4,
-      "state": "inWar",
+      "state": "warEnded",
       "teamSize": 30,
       "opponent": "DVX",
       "opponentTag": "#2JUYVVL8G",
       "ourStars": 49,
-      "theirStars": 11,
+      "theirStars": 14,
       "ourDestruction": 56,
-      "theirDestruction": 15.833333333333334,
+      "theirDestruction": 19.166666666666668,
       "endTime": "20260907T234338.000Z"
     },
     {
@@ -1324,8 +1324,8 @@
       "dmap": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 4,
@@ -1337,8 +1337,8 @@
       "dmap": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 4,
@@ -1363,8 +1363,8 @@
       "dmap": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 4,
@@ -1402,8 +1402,8 @@
       "dmap": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 4,
@@ -1415,8 +1415,8 @@
       "dmap": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 4,
@@ -1454,8 +1454,8 @@
       "dmap": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 4,
@@ -1493,8 +1493,8 @@
       "dmap": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 4,
@@ -1506,8 +1506,8 @@
       "dmap": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 4,
@@ -1545,8 +1545,8 @@
       "dmap": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 4,
@@ -1558,8 +1558,8 @@
       "dmap": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 4,
@@ -1571,8 +1571,8 @@
       "dmap": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 4,
@@ -1623,8 +1623,8 @@
       "dmap": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     }
   ]
 }
