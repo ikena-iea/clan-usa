@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-09-02",
-  "fetchedAt": "2026-09-08T11:05:40.841Z",
+  "fetchedAt": "2026-09-08T16:32:06.748Z",
   "totalRounds": 7,
   "rounds": [
     {
@@ -58,10 +58,10 @@
       "teamSize": 30,
       "opponent": "Desi Dominators",
       "opponentTag": "#2CQYQ9LYL",
-      "ourStars": 30,
-      "theirStars": 30,
-      "ourDestruction": 34.86666666666667,
-      "theirDestruction": 37.9,
+      "ourStars": 45,
+      "theirStars": 45,
+      "ourDestruction": 53.6,
+      "theirDestruction": 59.1,
       "endTime": "20260909T003138.000Z"
     },
     {
@@ -1682,13 +1682,13 @@
       "name": "TLOU VRUS",
       "tag": "#QRVY0CV20",
       "ath": 16,
-      "dth": null,
+      "dth": 13,
       "amap": 5,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 5,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
@@ -1747,13 +1747,13 @@
       "name": "mustafa",
       "tag": "#GQUQV0PJV",
       "ath": 16,
-      "dth": null,
+      "dth": 13,
       "amap": 6,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 6,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
@@ -1773,13 +1773,13 @@
       "name": "DevilIguana",
       "tag": "#GVV89RJYQ",
       "ath": 12,
-      "dth": null,
+      "dth": 12,
       "amap": 27,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 27,
+      "stars": 2,
+      "dest": 97,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
@@ -1903,13 +1903,13 @@
       "name": "sjd_emd",
       "tag": "#QC2U9L9P9",
       "ath": 13,
-      "dth": null,
+      "dth": 12,
       "amap": 15,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 15,
+      "stars": 2,
+      "dest": 78,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
@@ -1942,13 +1942,13 @@
       "name": "Ditto",
       "tag": "#L8GUP0C8G",
       "ath": 13,
-      "dth": null,
+      "dth": 12,
       "amap": 14,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 14,
+      "stars": 2,
+      "dest": 87,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
@@ -1994,13 +1994,13 @@
       "name": "jude",
       "tag": "#GGRR02GLG",
       "ath": 14,
-      "dth": null,
+      "dth": 13,
       "amap": 8,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 8,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
