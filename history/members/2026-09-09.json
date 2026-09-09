@@ -1,6 +1,6 @@
 {
   "date": "2026-09-09",
-  "capturedAt": "2026-09-09T20:50:49.332Z",
+  "capturedAt": "2026-09-09T23:08:13.029Z",
   "clanLevel": 7,
   "memberCount": 46,
   "members": [
@@ -64,7 +64,7 @@
       "name": "jude",
       "role": "admin",
       "th": 14,
-      "expLevel": 115,
+      "expLevel": 116,
       "trophies": 332,
       "donations": 167,
       "donationsReceived": 0,
@@ -98,7 +98,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 117,
-      "trophies": 426,
+      "trophies": 435,
       "donations": 149,
       "donationsReceived": 553,
       "capitalContributions": 0
@@ -159,6 +159,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#R8GPLGRVQ",
+      "name": "LegitN00b98",
+      "role": "admin",
+      "th": 12,
+      "expLevel": 90,
+      "trophies": 106,
+      "donations": 4,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#GUPY8PLLP",
       "name": "BEOX",
       "role": "admin",
@@ -177,17 +188,6 @@
       "expLevel": 90,
       "trophies": 47,
       "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#R8GPLGRVQ",
-      "name": "LegitN00b98",
-      "role": "admin",
-      "th": 12,
-      "expLevel": 90,
-      "trophies": 35,
-      "donations": 4,
       "donationsReceived": 0,
       "capitalContributions": 0
     },

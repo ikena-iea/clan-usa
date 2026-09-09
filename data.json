@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-09-02",
-  "fetchedAt": "2026-09-09T20:50:48.958Z",
+  "fetchedAt": "2026-09-09T23:08:12.734Z",
   "totalRounds": 7,
   "rounds": [
     {
@@ -70,9 +70,9 @@
       "teamSize": 30,
       "opponent": "wmotos 2",
       "opponentTag": "#2RV02828J",
-      "ourStars": 45,
+      "ourStars": 48,
       "theirStars": 7,
-      "ourDestruction": 50,
+      "ourDestruction": 53.333333333333336,
       "theirDestruction": 9.1,
       "endTime": "20260910T004050.000Z"
     },
@@ -2149,13 +2149,13 @@
       "name": "mustafa",
       "tag": "#GQUQV0PJV",
       "ath": 16,
-      "dth": null,
+      "dth": 13,
       "amap": 4,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 6,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,
