@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T17:07:10.202Z",
+  "generatedAt": "2026-09-09T20:50:54.082Z",
   "snapshotDate": "2026-09-09",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -472,6 +472,40 @@
       }
     },
     {
+      "tag": "#GYVPLJRRL",
+      "name": "DaHairyVeer2",
+      "role": "admin",
+      "th": 13,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 43,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 15,
+      "warsTotal": 20,
+      "clan": {
+        "total": 72.3,
+        "pillars": {
+          "donations": 93,
+          "raids": 100,
+          "contributions": 0
+        },
+        "tier": "Epic"
+      },
+      "war": {
+        "total": 71.5,
+        "status": null,
+        "cap": "Rare",
+        "pillars": {
+          "reliability": 80,
+          "performance": 59
+        },
+        "available": 10,
+        "used": 8,
+        "misses": 2,
+        "tier": "Rare"
+      }
+    },
+    {
       "tag": "#QLV80QQCY",
       "name": "THE ROCK",
       "role": "admin",
@@ -506,37 +540,37 @@
       }
     },
     {
-      "tag": "#GYVPLJRRL",
-      "name": "DaHairyVeer2",
+      "tag": "#Q8P8R8UQQ",
+      "name": "vale",
       "role": "admin",
       "th": 13,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 43,
+      "firstSeen": "2026-08-14",
+      "daysPresent": 26,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
-      "warsJoined": 15,
+      "warsJoined": 5,
       "warsTotal": 20,
       "clan": {
-        "total": 68.8,
+        "total": 67.8,
         "pillars": {
-          "donations": 85,
-          "raids": 100,
-          "contributions": 0
+          "donations": 68,
+          "raids": null,
+          "contributions": null
         },
         "tier": "Rare"
       },
       "war": {
-        "total": 71.5,
+        "total": 75.3,
         "status": null,
-        "cap": "Rare",
+        "cap": null,
         "pillars": {
-          "reliability": 80,
-          "performance": 59
+          "reliability": 69,
+          "performance": 85
         },
-        "available": 10,
-        "used": 8,
-        "misses": 2,
-        "tier": "Rare"
+        "available": 5,
+        "used": 4,
+        "misses": 1,
+        "tier": "Epic"
       }
     },
     {
@@ -605,40 +639,6 @@
         "used": 8,
         "misses": 2,
         "tier": "Rare"
-      }
-    },
-    {
-      "tag": "#Q8P8R8UQQ",
-      "name": "vale",
-      "role": "admin",
-      "th": 13,
-      "firstSeen": "2026-08-14",
-      "daysPresent": 26,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 5,
-      "warsTotal": 20,
-      "clan": {
-        "total": 57.7,
-        "pillars": {
-          "donations": 58,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": "Rare"
-      },
-      "war": {
-        "total": 75.3,
-        "status": null,
-        "cap": null,
-        "pillars": {
-          "reliability": 69,
-          "performance": 85
-        },
-        "available": 5,
-        "used": 4,
-        "misses": 1,
-        "tier": "Epic"
       }
     },
     {
@@ -1421,7 +1421,7 @@
     {
       "tag": "#L8GUP0C8G",
       "name": "Ditto",
-      "role": "admin",
+      "role": "member",
       "th": 13,
       "firstSeen": "2026-08-27",
       "daysPresent": 13,
@@ -1500,7 +1500,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 58,
+          "donations": 100,
           "raids": null,
           "contributions": null
         },
