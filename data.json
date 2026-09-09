@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-09-02",
-  "fetchedAt": "2026-09-09T01:10:22.757Z",
+  "fetchedAt": "2026-09-09T07:19:11.413Z",
   "totalRounds": 7,
   "rounds": [
     {
@@ -70,10 +70,10 @@
       "teamSize": 30,
       "opponent": "wmotos 2",
       "opponentTag": "#2RV02828J",
-      "ourStars": 3,
-      "theirStars": 0,
-      "ourDestruction": 3.3333333333333335,
-      "theirDestruction": 0,
+      "ourStars": 33,
+      "theirStars": 6,
+      "ourDestruction": 36.666666666666664,
+      "theirDestruction": 7.733333333333333,
       "endTime": "20260910T004050.000Z"
     },
     {
@@ -2045,13 +2045,13 @@
       "name": "Limeranch",
       "tag": "#LCVCL0LU0",
       "ath": 17,
-      "dth": null,
+      "dth": 13,
       "amap": 5,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 5,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,
@@ -2071,13 +2071,13 @@
       "name": "THE ROCK",
       "tag": "#QLV80QQCY",
       "ath": 14,
-      "dth": null,
+      "dth": 11,
       "amap": 7,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 7,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,
@@ -2110,13 +2110,13 @@
       "name": "Aaron",
       "tag": "#Q8QPY2L2",
       "ath": 18,
-      "dth": null,
+      "dth": 13,
       "amap": 1,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 2,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,
@@ -2253,39 +2253,39 @@
       "name": "Diego",
       "tag": "#P02U2U9GC",
       "ath": 13,
-      "dth": null,
+      "dth": 13,
       "amap": 13,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 4,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,
       "name": "DaHairyVeer2",
       "tag": "#GYVPLJRRL",
       "ath": 13,
-      "dth": null,
+      "dth": 10,
       "amap": 18,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 18,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,
       "name": "ben",
       "tag": "#PGQVCVYPJ",
       "ath": 18,
-      "dth": null,
+      "dth": 13,
       "amap": 3,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 3,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,
@@ -2331,13 +2331,13 @@
       "name": "Didetz",
       "tag": "#R8PJY0U0J",
       "ath": 14,
-      "dth": null,
+      "dth": 11,
       "amap": 11,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 11,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,
@@ -2383,39 +2383,39 @@
       "name": "damiano",
       "tag": "#YUPP00GUU",
       "ath": 12,
-      "dth": null,
+      "dth": 12,
       "amap": 24,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 12,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,
       "name": "jude",
       "tag": "#GGRR02GLG",
       "ath": 14,
-      "dth": null,
+      "dth": 12,
       "amap": 8,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 8,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,
       "name": "vale",
       "tag": "#Q8P8R8UQQ",
       "ath": 13,
-      "dth": null,
+      "dth": 16,
       "amap": 16,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 1,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,

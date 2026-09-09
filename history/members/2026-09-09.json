@@ -1,6 +1,6 @@
 {
   "date": "2026-09-09",
-  "capturedAt": "2026-09-09T01:10:23.097Z",
+  "capturedAt": "2026-09-09T07:19:11.853Z",
   "clanLevel": 7,
   "memberCount": 49,
   "members": [
@@ -10,9 +10,9 @@
       "role": "admin",
       "th": 15,
       "expLevel": 172,
-      "trophies": 132,
+      "trophies": 160,
       "donations": 65,
-      "donationsReceived": 12,
+      "donationsReceived": 56,
       "capitalContributions": 0
     },
     {
@@ -22,8 +22,8 @@
       "th": 17,
       "expLevel": 151,
       "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 58,
+      "donations": 35,
+      "donationsReceived": 116,
       "capitalContributions": 0
     },
     {
@@ -54,8 +54,8 @@
       "role": "coLeader",
       "th": 13,
       "expLevel": 120,
-      "trophies": 12,
-      "donations": 194,
+      "trophies": 424,
+      "donations": 253,
       "donationsReceived": 227,
       "capitalContributions": 0
     },
@@ -99,7 +99,7 @@
       "th": 13,
       "expLevel": 117,
       "trophies": 426,
-      "donations": 72,
+      "donations": 114,
       "donationsReceived": 512,
       "capitalContributions": 0
     },
@@ -164,7 +164,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 121,
-      "trophies": 54,
+      "trophies": 83,
       "donations": 0,
       "donationsReceived": 77,
       "capitalContributions": 0
@@ -175,7 +175,7 @@
       "role": "admin",
       "th": 11,
       "expLevel": 90,
-      "trophies": 36,
+      "trophies": 47,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -196,7 +196,7 @@
       "name": "Diego",
       "role": "admin",
       "th": 13,
-      "expLevel": 147,
+      "expLevel": 148,
       "trophies": 0,
       "donations": 6,
       "donationsReceived": 47,
@@ -220,8 +220,8 @@
       "th": 12,
       "expLevel": 132,
       "trophies": 237,
-      "donations": 0,
-      "donationsReceived": 72,
+      "donations": 47,
+      "donationsReceived": 114,
       "capitalContributions": 0
     },
     {
@@ -408,7 +408,7 @@
       "expLevel": 101,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 36,
+      "donationsReceived": 71,
       "capitalContributions": 0
     },
     {
@@ -462,7 +462,7 @@
       "th": 15,
       "expLevel": 128,
       "trophies": 0,
-      "donations": 58,
+      "donations": 116,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -518,7 +518,7 @@
       "expLevel": 109,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 99,
+      "donationsReceived": 146,
       "capitalContributions": 0
     },
     {
@@ -528,8 +528,8 @@
       "th": 18,
       "expLevel": 239,
       "trophies": 0,
-      "donations": 176,
-      "donationsReceived": 57,
+      "donations": 220,
+      "donationsReceived": 116,
       "capitalContributions": 0
     },
     {

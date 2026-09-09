@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T01:10:28.967Z",
+  "generatedAt": "2026-09-09T07:19:16.013Z",
   "snapshotDate": "2026-09-09",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -506,6 +506,40 @@
       }
     },
     {
+      "tag": "#GYVPLJRRL",
+      "name": "DaHairyVeer2",
+      "role": "admin",
+      "th": 13,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 43,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 15,
+      "warsTotal": 20,
+      "clan": {
+        "total": 68.8,
+        "pillars": {
+          "donations": 85,
+          "raids": 100,
+          "contributions": 0
+        },
+        "tier": "Rare"
+      },
+      "war": {
+        "total": 71.5,
+        "status": null,
+        "cap": "Rare",
+        "pillars": {
+          "reliability": 80,
+          "performance": 59
+        },
+        "available": 10,
+        "used": 8,
+        "misses": 2,
+        "tier": "Rare"
+      }
+    },
+    {
       "tag": "#QVPQ8G2VQ",
       "name": "your mom",
       "role": "admin",
@@ -537,40 +571,6 @@
         "used": 4,
         "misses": 6,
         "tier": "Common"
-      }
-    },
-    {
-      "tag": "#GYVPLJRRL",
-      "name": "DaHairyVeer2",
-      "role": "admin",
-      "th": 13,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 43,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 15,
-      "warsTotal": 20,
-      "clan": {
-        "total": 64.6,
-        "pillars": {
-          "donations": 74,
-          "raids": 100,
-          "contributions": 0
-        },
-        "tier": "Rare"
-      },
-      "war": {
-        "total": 71.5,
-        "status": null,
-        "cap": "Rare",
-        "pillars": {
-          "reliability": 80,
-          "performance": 59
-        },
-        "available": 10,
-        "used": 8,
-        "misses": 2,
-        "tier": "Rare"
       }
     },
     {
