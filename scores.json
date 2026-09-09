@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T12:54:18.802Z",
+  "generatedAt": "2026-09-09T17:07:10.202Z",
   "snapshotDate": "2026-09-09",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1049,7 +1049,7 @@
       "tag": "#GU9RJL9R0",
       "name": "jimmy",
       "role": "admin",
-      "th": 12,
+      "th": 13,
       "firstSeen": "2026-08-07",
       "daysPresent": 33,
       "inGrace": false,
@@ -1365,7 +1365,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 76,
+          "donations": 100,
           "raids": null,
           "contributions": null
         },

@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-09-02",
-  "fetchedAt": "2026-09-09T12:54:15.220Z",
+  "fetchedAt": "2026-09-09T17:07:05.113Z",
   "totalRounds": 7,
   "rounds": [
     {
@@ -70,10 +70,10 @@
       "teamSize": 30,
       "opponent": "wmotos 2",
       "opponentTag": "#2RV02828J",
-      "ourStars": 36,
-      "theirStars": 6,
-      "ourDestruction": 40,
-      "theirDestruction": 7.733333333333333,
+      "ourStars": 45,
+      "theirStars": 7,
+      "ourDestruction": 50,
+      "theirDestruction": 9.1,
       "endTime": "20260910T004050.000Z"
     },
     {
@@ -2123,13 +2123,13 @@
       "name": "Gobinath.N",
       "tag": "#QV9QYJ09G",
       "ath": 13,
-      "dth": null,
+      "dth": 11,
       "amap": 20,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 9,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,
@@ -2175,13 +2175,13 @@
       "name": "DevilIguana",
       "tag": "#GVV89RJYQ",
       "ath": 12,
-      "dth": null,
+      "dth": 9,
       "amap": 27,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 31,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,
@@ -2344,13 +2344,13 @@
       "name": "Ditto",
       "tag": "#L8GUP0C8G",
       "ath": 13,
-      "dth": null,
+      "dth": 11,
       "amap": 14,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 14,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,

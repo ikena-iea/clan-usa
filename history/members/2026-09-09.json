@@ -1,6 +1,6 @@
 {
   "date": "2026-09-09",
-  "capturedAt": "2026-09-09T12:54:15.497Z",
+  "capturedAt": "2026-09-09T17:07:05.419Z",
   "clanLevel": 7,
   "memberCount": 46,
   "members": [
@@ -55,7 +55,7 @@
       "th": 13,
       "expLevel": 120,
       "trophies": 424,
-      "donations": 253,
+      "donations": 335,
       "donationsReceived": 227,
       "capitalContributions": 0
     },
@@ -65,7 +65,7 @@
       "role": "admin",
       "th": 14,
       "expLevel": 115,
-      "trophies": 319,
+      "trophies": 332,
       "donations": 167,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -78,7 +78,7 @@
       "expLevel": 152,
       "trophies": 0,
       "donations": 5,
-      "donationsReceived": 237,
+      "donationsReceived": 282,
       "capitalContributions": 0
     },
     {
@@ -88,7 +88,7 @@
       "th": 15,
       "expLevel": 125,
       "trophies": 0,
-      "donations": 24,
+      "donations": 71,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -100,7 +100,7 @@
       "expLevel": 117,
       "trophies": 426,
       "donations": 114,
-      "donationsReceived": 512,
+      "donationsReceived": 553,
       "capitalContributions": 0
     },
     {
@@ -198,8 +198,8 @@
       "th": 13,
       "expLevel": 148,
       "trophies": 0,
-      "donations": 6,
-      "donationsReceived": 47,
+      "donations": 11,
+      "donationsReceived": 94,
       "capitalContributions": 0
     },
     {
@@ -243,7 +243,7 @@
       "expLevel": 117,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 104,
+      "donationsReceived": 181,
       "capitalContributions": 0
     },
     {
@@ -269,23 +269,23 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GYC8Q2R20",
+      "name": "lucky",
+      "role": "admin",
+      "th": 11,
+      "expLevel": 97,
+      "trophies": 75,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#QR2QYUJV9",
       "name": "Alexluidriana",
       "role": "admin",
       "th": 12,
       "expLevel": 100,
       "trophies": 74,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GYC8Q2R20",
-      "name": "lucky",
-      "role": "admin",
-      "th": 11,
-      "expLevel": 97,
-      "trophies": 56,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -375,7 +375,7 @@
       "expLevel": 101,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 71,
+      "donationsReceived": 107,
       "capitalContributions": 0
     },
     {
@@ -385,7 +385,7 @@
       "th": 18,
       "expLevel": 255,
       "trophies": 0,
-      "donations": 201,
+      "donations": 202,
       "donationsReceived": 165,
       "capitalContributions": 0
     },
@@ -396,7 +396,7 @@
       "th": 15,
       "expLevel": 170,
       "trophies": 0,
-      "donations": 283,
+      "donations": 298,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -485,7 +485,7 @@
       "expLevel": 109,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 146,
+      "donationsReceived": 193,
       "capitalContributions": 0
     },
     {
@@ -495,7 +495,7 @@
       "th": 18,
       "expLevel": 239,
       "trophies": 0,
-      "donations": 220,
+      "donations": 363,
       "donationsReceived": 116,
       "capitalContributions": 0
     },
@@ -503,7 +503,7 @@
       "tag": "#GU9RJL9R0",
       "name": "jimmy",
       "role": "admin",
-      "th": 12,
+      "th": 13,
       "expLevel": 113,
       "trophies": 0,
       "donations": 0,
