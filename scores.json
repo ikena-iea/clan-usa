@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T07:19:16.013Z",
+  "generatedAt": "2026-09-09T12:54:18.802Z",
   "snapshotDate": "2026-09-09",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -673,40 +673,6 @@
         "used": 0,
         "misses": 10,
         "tier": "Common"
-      }
-    },
-    {
-      "tag": "#R2RR9UJ8V",
-      "name": "X4FSHIN",
-      "role": "admin",
-      "th": 11,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 43,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 10,
-      "warsTotal": 20,
-      "clan": {
-        "total": 52.4,
-        "pillars": {
-          "donations": 44,
-          "raids": 99,
-          "contributions": 0
-        },
-        "tier": "Uncommon"
-      },
-      "war": {
-        "total": 67.6,
-        "status": null,
-        "cap": "Uncommon",
-        "pillars": {
-          "reliability": 50,
-          "performance": 94
-        },
-        "available": 10,
-        "used": 5,
-        "misses": 5,
-        "tier": "Uncommon"
       }
     },
     {
@@ -1419,39 +1385,6 @@
       }
     },
     {
-      "tag": "#QR2R89VLQ",
-      "name": "umut",
-      "role": "member",
-      "th": 13,
-      "firstSeen": "2026-08-31",
-      "daysPresent": 9,
-      "inGrace": true,
-      "gracePeriodEndsIn": 5,
-      "warsJoined": 0,
-      "warsTotal": 20,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
       "tag": "#R0QQVRP22",
       "name": "zeko lelo",
       "role": "member",
@@ -1520,40 +1453,6 @@
       }
     },
     {
-      "tag": "#G089JGCQP",
-      "name": "Mohammad-Yahya",
-      "role": "admin",
-      "th": 13,
-      "firstSeen": "2026-08-27",
-      "daysPresent": 13,
-      "inGrace": true,
-      "gracePeriodEndsIn": 1,
-      "warsJoined": 5,
-      "warsTotal": 20,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 1,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": null,
-        "cap": "Uncommon",
-        "pillars": {
-          "reliability": 19,
-          "performance": null
-        },
-        "available": 5,
-        "used": 0,
-        "misses": 5,
-        "tier": null
-      }
-    },
-    {
       "tag": "#QR2QYUJV9",
       "name": "Alexluidriana",
       "role": "admin",
@@ -1601,7 +1500,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 56,
+          "donations": 58,
           "raids": null,
           "contributions": null
         },

@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-09-02",
-  "fetchedAt": "2026-09-09T07:19:11.413Z",
+  "fetchedAt": "2026-09-09T12:54:15.220Z",
   "totalRounds": 7,
   "rounds": [
     {
@@ -70,9 +70,9 @@
       "teamSize": 30,
       "opponent": "wmotos 2",
       "opponentTag": "#2RV02828J",
-      "ourStars": 33,
+      "ourStars": 36,
       "theirStars": 6,
-      "ourDestruction": 36.666666666666664,
+      "ourDestruction": 40,
       "theirDestruction": 7.733333333333333,
       "endTime": "20260910T004050.000Z"
     },
@@ -2292,13 +2292,13 @@
       "name": "LegitN00b98",
       "tag": "#R8GPLGRVQ",
       "ath": 12,
-      "dth": null,
+      "dth": 10,
       "amap": 25,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 27,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,
