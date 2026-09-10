@@ -1,6 +1,6 @@
 {
   "date": "2026-09-10",
-  "capturedAt": "2026-09-10T18:17:20.877Z",
+  "capturedAt": "2026-09-10T21:32:30.723Z",
   "clanLevel": 7,
   "memberCount": 46,
   "members": [
@@ -12,7 +12,7 @@
       "expLevel": 172,
       "trophies": 198,
       "donations": 198,
-      "donationsReceived": 109,
+      "donationsReceived": 148,
       "capitalContributions": 0
     },
     {
@@ -88,7 +88,7 @@
       "th": 15,
       "expLevel": 125,
       "trophies": 0,
-      "donations": 71,
+      "donations": 94,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -99,7 +99,7 @@
       "th": 13,
       "expLevel": 118,
       "trophies": 435,
-      "donations": 191,
+      "donations": 193,
       "donationsReceived": 553,
       "capitalContributions": 0
     },
@@ -132,7 +132,7 @@
       "th": 13,
       "expLevel": 151,
       "trophies": 0,
-      "donations": 40,
+      "donations": 46,
       "donationsReceived": 77,
       "capitalContributions": 0
     },
@@ -155,7 +155,7 @@
       "expLevel": 111,
       "trophies": 0,
       "donations": 189,
-      "donationsReceived": 102,
+      "donationsReceived": 122,
       "capitalContributions": 0
     },
     {
@@ -243,7 +243,7 @@
       "expLevel": 117,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 474,
+      "donationsReceived": 521,
       "capitalContributions": 0
     },
     {
@@ -251,9 +251,9 @@
       "name": "zeko lelo",
       "role": "member",
       "th": 12,
-      "expLevel": 89,
+      "expLevel": 90,
       "trophies": 0,
-      "donations": 106,
+      "donations": 151,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -269,23 +269,23 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GYC8Q2R20",
+      "name": "lucky",
+      "role": "admin",
+      "th": 11,
+      "expLevel": 97,
+      "trophies": 258,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#QR2QYUJV9",
       "name": "Alexluidriana",
       "role": "admin",
       "th": 12,
       "expLevel": 100,
       "trophies": 176,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GYC8Q2R20",
-      "name": "lucky",
-      "role": "admin",
-      "th": 11,
-      "expLevel": 97,
-      "trophies": 75,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -328,7 +328,7 @@
       "name": "MDTanvir",
       "role": "member",
       "th": 12,
-      "expLevel": 58,
+      "expLevel": 59,
       "trophies": 0,
       "donations": 95,
       "donationsReceived": 269,
@@ -396,7 +396,7 @@
       "th": 15,
       "expLevel": 170,
       "trophies": 0,
-      "donations": 430,
+      "donations": 460,
       "donationsReceived": 0,
       "capitalContributions": 0
     },

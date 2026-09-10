@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-09-02",
-  "fetchedAt": "2026-09-10T18:17:20.474Z",
+  "fetchedAt": "2026-09-10T21:32:30.454Z",
   "totalRounds": 7,
   "rounds": [
     {
@@ -82,10 +82,10 @@
       "teamSize": 30,
       "opponent": "la team star",
       "opponentTag": "#280UVVCPG",
-      "ourStars": 41,
-      "theirStars": 17,
-      "ourDestruction": 45.833333333333336,
-      "theirDestruction": 25.833333333333332,
+      "ourStars": 44,
+      "theirStars": 19,
+      "ourDestruction": 49.166666666666664,
+      "theirDestruction": 27.8,
       "endTime": "20260911T004154.000Z"
     }
   ],
@@ -2708,13 +2708,13 @@
       "name": "zeko lelo",
       "tag": "#R0QQVRP22",
       "ath": 12,
-      "dth": null,
+      "dth": 11,
       "amap": 26,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 36,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 7,
