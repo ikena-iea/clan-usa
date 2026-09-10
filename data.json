@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-09-02",
-  "fetchedAt": "2026-09-10T14:15:32.431Z",
+  "fetchedAt": "2026-09-10T18:17:20.474Z",
   "totalRounds": 7,
   "rounds": [
     {
@@ -82,10 +82,10 @@
       "teamSize": 30,
       "opponent": "la team star",
       "opponentTag": "#280UVVCPG",
-      "ourStars": 29,
-      "theirStars": 14,
-      "ourDestruction": 32.5,
-      "theirDestruction": 22.5,
+      "ourStars": 41,
+      "theirStars": 17,
+      "ourDestruction": 45.833333333333336,
+      "theirDestruction": 25.833333333333332,
       "endTime": "20260911T004154.000Z"
     }
   ],
@@ -2513,13 +2513,13 @@
       "name": "Gobinath.N",
       "tag": "#QV9QYJ09G",
       "ath": 13,
-      "dth": null,
+      "dth": 11,
       "amap": 20,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 15,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 7,
@@ -2565,13 +2565,13 @@
       "name": "DevilIguana",
       "tag": "#GVV89RJYQ",
       "ath": 12,
-      "dth": null,
+      "dth": 11,
       "amap": 27,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 37,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 7,
@@ -2643,13 +2643,13 @@
       "name": "Diego",
       "tag": "#P02U2U9GC",
       "ath": 13,
-      "dth": null,
+      "dth": 11,
       "amap": 14,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 19,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 7,
@@ -2786,13 +2786,13 @@
       "name": "jude",
       "tag": "#GGRR02GLG",
       "ath": 14,
-      "dth": null,
+      "dth": 12,
       "amap": 8,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 13,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 7,
