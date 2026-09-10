@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-09-02",
-  "fetchedAt": "2026-09-10T09:34:00.063Z",
+  "fetchedAt": "2026-09-10T14:15:32.431Z",
   "totalRounds": 7,
   "rounds": [
     {
@@ -82,10 +82,10 @@
       "teamSize": 30,
       "opponent": "la team star",
       "opponentTag": "#280UVVCPG",
-      "ourStars": 23,
-      "theirStars": 12,
-      "ourDestruction": 25.833333333333332,
-      "theirDestruction": 19.4,
+      "ourStars": 29,
+      "theirStars": 14,
+      "ourDestruction": 32.5,
+      "theirDestruction": 22.5,
       "endTime": "20260911T004154.000Z"
     }
   ],
@@ -2539,13 +2539,13 @@
       "name": "mustafa",
       "tag": "#GQUQV0PJV",
       "ath": 16,
-      "dth": null,
+      "dth": 12,
       "amap": 4,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 7,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 7,
@@ -2799,13 +2799,13 @@
       "name": "vale",
       "tag": "#Q8P8R8UQQ",
       "ath": 13,
-      "dth": null,
+      "dth": 13,
       "amap": 16,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 11,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 7,

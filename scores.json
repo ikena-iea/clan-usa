@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T09:34:05.165Z",
+  "generatedAt": "2026-09-10T14:15:37.121Z",
   "snapshotDate": "2026-09-10",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -234,6 +234,40 @@
       }
     },
     {
+      "tag": "#Q8P8R8UQQ",
+      "name": "vale",
+      "role": "admin",
+      "th": 13,
+      "firstSeen": "2026-08-14",
+      "daysPresent": 27,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 6,
+      "warsTotal": 21,
+      "clan": {
+        "total": 96.9,
+        "pillars": {
+          "donations": 97,
+          "raids": null,
+          "contributions": null
+        },
+        "tier": "Legendary"
+      },
+      "war": {
+        "total": 85,
+        "status": null,
+        "cap": null,
+        "pillars": {
+          "reliability": 75,
+          "performance": 100
+        },
+        "available": 6,
+        "used": 5,
+        "misses": 1,
+        "tier": "Legendary"
+      }
+    },
+    {
       "tag": "#R292L228Q",
       "name": "Ikena",
       "role": "coLeader",
@@ -270,7 +304,7 @@
     {
       "tag": "#GYVPLJRRL",
       "name": "DaHairyVeer2",
-      "role": "admin",
+      "role": "coLeader",
       "th": 13,
       "firstSeen": "2026-07-28",
       "daysPresent": 44,
@@ -605,40 +639,6 @@
         "used": 4,
         "misses": 6,
         "tier": "Common"
-      }
-    },
-    {
-      "tag": "#Q8P8R8UQQ",
-      "name": "vale",
-      "role": "admin",
-      "th": 13,
-      "firstSeen": "2026-08-14",
-      "daysPresent": 27,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 6,
-      "warsTotal": 21,
-      "clan": {
-        "total": 65.3,
-        "pillars": {
-          "donations": 65,
-          "raids": null,
-          "contributions": null
-        },
-        "tier": "Rare"
-      },
-      "war": {
-        "total": 85,
-        "status": null,
-        "cap": null,
-        "pillars": {
-          "reliability": 75,
-          "performance": 100
-        },
-        "available": 6,
-        "used": 5,
-        "misses": 1,
-        "tier": "Legendary"
       }
     },
     {
@@ -1014,7 +1014,7 @@
     {
       "tag": "#GVV89RJYQ",
       "name": "DevilIguana",
-      "role": "coLeader",
+      "role": "admin",
       "th": 12,
       "firstSeen": "2026-07-28",
       "daysPresent": 44,
