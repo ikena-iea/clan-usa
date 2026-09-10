@@ -1,6 +1,6 @@
 {
   "date": "2026-09-10",
-  "capturedAt": "2026-09-10T21:32:30.723Z",
+  "capturedAt": "2026-09-10T23:57:50.406Z",
   "clanLevel": 7,
   "memberCount": 46,
   "members": [
@@ -32,7 +32,7 @@
       "role": "admin",
       "th": 16,
       "expLevel": 154,
-      "trophies": 234,
+      "trophies": 274,
       "donations": 209,
       "donationsReceived": 83,
       "capitalContributions": 0
@@ -99,7 +99,7 @@
       "th": 13,
       "expLevel": 118,
       "trophies": 435,
-      "donations": 193,
+      "donations": 195,
       "donationsReceived": 553,
       "capitalContributions": 0
     },
@@ -132,7 +132,7 @@
       "th": 13,
       "expLevel": 151,
       "trophies": 0,
-      "donations": 46,
+      "donations": 91,
       "donationsReceived": 77,
       "capitalContributions": 0
     },
@@ -143,7 +143,7 @@
       "th": 14,
       "expLevel": 103,
       "trophies": 0,
-      "donations": 107,
+      "donations": 138,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -199,7 +199,7 @@
       "expLevel": 148,
       "trophies": 0,
       "donations": 58,
-      "donationsReceived": 141,
+      "donationsReceived": 188,
       "capitalContributions": 0
     },
     {
@@ -306,8 +306,8 @@
       "name": "allis",
       "role": "admin",
       "th": 11,
-      "expLevel": 87,
-      "trophies": 105,
+      "expLevel": 88,
+      "trophies": 238,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -474,7 +474,7 @@
       "expLevel": 217,
       "trophies": 0,
       "donations": 112,
-      "donationsReceived": 55,
+      "donationsReceived": 86,
       "capitalContributions": 0
     },
     {
