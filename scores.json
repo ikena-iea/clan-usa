@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T18:21:26.870Z",
+  "generatedAt": "2026-09-11T21:39:17.462Z",
   "snapshotDate": "2026-09-11",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -270,7 +270,7 @@
     {
       "tag": "#YUPP00GUU",
       "name": "damiano",
-      "role": "member",
+      "role": "admin",
       "th": 12,
       "firstSeen": "2026-08-14",
       "daysPresent": 28,
@@ -372,7 +372,7 @@
     {
       "tag": "#L8GUP0C8G",
       "name": "Ditto",
-      "role": "member",
+      "role": "admin",
       "th": 13,
       "firstSeen": "2026-08-27",
       "daysPresent": 15,
@@ -575,7 +575,7 @@
     {
       "tag": "#G8VGPGY8J",
       "name": "asap",
-      "role": "member",
+      "role": "admin",
       "th": 14,
       "firstSeen": "2026-08-14",
       "daysPresent": 28,
@@ -1181,7 +1181,7 @@
     {
       "tag": "#YP2CQUVQ9",
       "name": "pitek",
-      "role": "member",
+      "role": "admin",
       "th": 15,
       "firstSeen": "2026-09-11",
       "daysPresent": 1,
@@ -1214,7 +1214,7 @@
     {
       "tag": "#890GLU9Y0",
       "name": "selfless",
-      "role": "member",
+      "role": "admin",
       "th": 13,
       "firstSeen": "2026-09-11",
       "daysPresent": 1,
@@ -1247,7 +1247,7 @@
     {
       "tag": "#YJ20UYUG",
       "name": "Boomin",
-      "role": "member",
+      "role": "admin",
       "th": 13,
       "firstSeen": "2026-09-11",
       "daysPresent": 1,
@@ -1313,7 +1313,7 @@
     {
       "tag": "#R0QQVRP22",
       "name": "zeko lelo",
-      "role": "member",
+      "role": "admin",
       "th": 12,
       "firstSeen": "2026-09-01",
       "daysPresent": 10,
@@ -1381,7 +1381,7 @@
     {
       "tag": "#GVCC8LY9Y",
       "name": "MDTanvir",
-      "role": "member",
+      "role": "admin",
       "th": 12,
       "firstSeen": "2026-09-05",
       "daysPresent": 6,
@@ -1480,7 +1480,7 @@
     {
       "tag": "#LRRRCVVC8",
       "name": "prt57",
-      "role": "member",
+      "role": "admin",
       "th": 12,
       "firstSeen": "2026-09-11",
       "daysPresent": 1,

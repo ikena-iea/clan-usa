@@ -1,6 +1,6 @@
 {
   "date": "2026-09-11",
-  "capturedAt": "2026-09-11T18:21:26.287Z",
+  "capturedAt": "2026-09-11T21:39:16.953Z",
   "clanLevel": 7,
   "memberCount": 44,
   "members": [
@@ -12,7 +12,7 @@
       "expLevel": 172,
       "trophies": 198,
       "donations": 198,
-      "donationsReceived": 148,
+      "donationsReceived": 154,
       "capitalContributions": 0
     },
     {
@@ -22,7 +22,7 @@
       "th": 17,
       "expLevel": 152,
       "trophies": 0,
-      "donations": 385,
+      "donations": 415,
       "donationsReceived": 229,
       "capitalContributions": 0
     },
@@ -32,7 +32,7 @@
       "role": "admin",
       "th": 16,
       "expLevel": 154,
-      "trophies": 274,
+      "trophies": 314,
       "donations": 209,
       "donationsReceived": 83,
       "capitalContributions": 0
@@ -40,11 +40,11 @@
     {
       "tag": "#YP2CQUVQ9",
       "name": "pitek",
-      "role": "member",
+      "role": "admin",
       "th": 15,
       "expLevel": 168,
       "trophies": 603,
-      "donations": 0,
+      "donations": 6,
       "donationsReceived": 78,
       "capitalContributions": 0
     },
@@ -77,7 +77,7 @@
       "th": 14,
       "expLevel": 152,
       "trophies": 0,
-      "donations": 115,
+      "donations": 187,
       "donationsReceived": 463,
       "capitalContributions": 0
     },
@@ -110,7 +110,7 @@
       "th": 13,
       "expLevel": 151,
       "trophies": 0,
-      "donations": 91,
+      "donations": 138,
       "donationsReceived": 77,
       "capitalContributions": 0
     },
@@ -128,7 +128,7 @@
     {
       "tag": "#890GLU9Y0",
       "name": "selfless",
-      "role": "member",
+      "role": "admin",
       "th": 13,
       "expLevel": 170,
       "trophies": 0,
@@ -143,8 +143,8 @@
       "th": 13,
       "expLevel": 111,
       "trophies": 0,
-      "donations": 267,
-      "donationsReceived": 122,
+      "donations": 314,
+      "donationsReceived": 179,
       "capitalContributions": 0
     },
     {
@@ -176,14 +176,14 @@
       "th": 13,
       "expLevel": 148,
       "trophies": 0,
-      "donations": 105,
-      "donationsReceived": 188,
+      "donations": 107,
+      "donationsReceived": 329,
       "capitalContributions": 0
     },
     {
       "tag": "#YUPP00GUU",
       "name": "damiano",
-      "role": "member",
+      "role": "admin",
       "th": 12,
       "expLevel": 132,
       "trophies": 261,
@@ -205,7 +205,7 @@
     {
       "tag": "#YJ20UYUG",
       "name": "Boomin",
-      "role": "member",
+      "role": "admin",
       "th": 13,
       "expLevel": 205,
       "trophies": 0,
@@ -249,7 +249,7 @@
     {
       "tag": "#R0QQVRP22",
       "name": "zeko lelo",
-      "role": "member",
+      "role": "admin",
       "th": 12,
       "expLevel": 90,
       "trophies": 0,
@@ -260,7 +260,7 @@
     {
       "tag": "#L8GUP0C8G",
       "name": "Ditto",
-      "role": "member",
+      "role": "admin",
       "th": 13,
       "expLevel": 134,
       "trophies": 0,
@@ -307,7 +307,7 @@
       "role": "admin",
       "th": 11,
       "expLevel": 88,
-      "trophies": 238,
+      "trophies": 260,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -326,7 +326,7 @@
     {
       "tag": "#GVCC8LY9Y",
       "name": "MDTanvir",
-      "role": "member",
+      "role": "admin",
       "th": 12,
       "expLevel": 59,
       "trophies": 0,
@@ -436,7 +436,7 @@
     {
       "tag": "#LRRRCVVC8",
       "name": "prt57",
-      "role": "member",
+      "role": "admin",
       "th": 12,
       "expLevel": 125,
       "trophies": 0,
@@ -447,7 +447,7 @@
     {
       "tag": "#G8VGPGY8J",
       "name": "asap",
-      "role": "member",
+      "role": "admin",
       "th": 14,
       "expLevel": 147,
       "trophies": 0,
