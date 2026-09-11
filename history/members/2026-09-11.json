@@ -1,8 +1,8 @@
 {
   "date": "2026-09-11",
-  "capturedAt": "2026-09-11T14:15:07.477Z",
+  "capturedAt": "2026-09-11T18:21:26.287Z",
   "clanLevel": 7,
-  "memberCount": 42,
+  "memberCount": 44,
   "members": [
     {
       "tag": "#G2G8R9RPC",
@@ -38,12 +38,23 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#YP2CQUVQ9",
+      "name": "pitek",
+      "role": "member",
+      "th": 15,
+      "expLevel": 168,
+      "trophies": 603,
+      "donations": 0,
+      "donationsReceived": 78,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#R292L228Q",
       "name": "Ikena",
       "role": "coLeader",
       "th": 13,
       "expLevel": 121,
-      "trophies": 424,
+      "trophies": 444,
       "donations": 395,
       "donationsReceived": 227,
       "capitalContributions": 0
@@ -132,7 +143,7 @@
       "th": 13,
       "expLevel": 111,
       "trophies": 0,
-      "donations": 189,
+      "donations": 267,
       "donationsReceived": 122,
       "capitalContributions": 0
     },
@@ -185,7 +196,18 @@
       "name": "your mom",
       "role": "admin",
       "th": 13,
-      "expLevel": 78,
+      "expLevel": 79,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#YJ20UYUG",
+      "name": "Boomin",
+      "role": "member",
+      "th": 13,
+      "expLevel": 205,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -273,7 +295,7 @@
       "name": "DevilIguana",
       "role": "admin",
       "th": 12,
-      "expLevel": 102,
+      "expLevel": 103,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,

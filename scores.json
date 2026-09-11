@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T14:15:07.947Z",
+  "generatedAt": "2026-09-11T18:21:26.870Z",
   "snapshotDate": "2026-09-11",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -808,6 +808,40 @@
       }
     },
     {
+      "tag": "#Q8P8R8UQQ",
+      "name": "vale",
+      "role": "admin",
+      "th": 13,
+      "firstSeen": "2026-08-14",
+      "daysPresent": 28,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 7,
+      "warsTotal": 22,
+      "clan": {
+        "total": 40,
+        "pillars": {
+          "donations": 100,
+          "raids": 0,
+          "loot": 0
+        },
+        "tier": "Uncommon"
+      },
+      "war": {
+        "total": 88.8,
+        "status": null,
+        "cap": null,
+        "pillars": {
+          "reliability": 81,
+          "performance": 100
+        },
+        "available": 7,
+        "used": 6,
+        "misses": 1,
+        "tier": "Legendary"
+      }
+    },
+    {
       "tag": "#L9P9CY20G",
       "name": "Limerence",
       "role": "coLeader",
@@ -871,40 +905,6 @@
         "used": 0,
         "misses": 0,
         "tier": null
-      }
-    },
-    {
-      "tag": "#Q8P8R8UQQ",
-      "name": "vale",
-      "role": "admin",
-      "th": 13,
-      "firstSeen": "2026-08-14",
-      "daysPresent": 28,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 7,
-      "warsTotal": 22,
-      "clan": {
-        "total": 37.4,
-        "pillars": {
-          "donations": 93,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": "Common"
-      },
-      "war": {
-        "total": 88.8,
-        "status": null,
-        "cap": null,
-        "pillars": {
-          "reliability": 81,
-          "performance": 100
-        },
-        "available": 7,
-        "used": 6,
-        "misses": 1,
-        "tier": "Legendary"
       }
     },
     {
@@ -1179,8 +1179,74 @@
       }
     },
     {
+      "tag": "#YP2CQUVQ9",
+      "name": "pitek",
+      "role": "member",
+      "th": 15,
+      "firstSeen": "2026-09-11",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 22,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#890GLU9Y0",
       "name": "selfless",
+      "role": "member",
+      "th": 13,
+      "firstSeen": "2026-09-11",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 22,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#YJ20UYUG",
+      "name": "Boomin",
       "role": "member",
       "th": 13,
       "firstSeen": "2026-09-11",
