@@ -1,8 +1,8 @@
 {
   "date": "2026-09-11",
-  "capturedAt": "2026-09-11T04:27:39.745Z",
+  "capturedAt": "2026-09-11T09:30:44.232Z",
   "clanLevel": 7,
-  "memberCount": 47,
+  "memberCount": 40,
   "members": [
     {
       "tag": "#G2G8R9RPC",
@@ -20,9 +20,9 @@
       "name": "Limeranch",
       "role": "coLeader",
       "th": 17,
-      "expLevel": 151,
+      "expLevel": 152,
       "trophies": 0,
-      "donations": 294,
+      "donations": 340,
       "donationsReceived": 229,
       "capitalContributions": 0
     },
@@ -38,24 +38,13 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#R22GJ29UV",
-      "name": "HowardX",
-      "role": "admin",
-      "th": 16,
-      "expLevel": 85,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#R292L228Q",
       "name": "Ikena",
       "role": "coLeader",
       "th": 13,
       "expLevel": 121,
       "trophies": 424,
-      "donations": 370,
+      "donations": 395,
       "donationsReceived": 227,
       "capitalContributions": 0
     },
@@ -78,18 +67,7 @@
       "expLevel": 152,
       "trophies": 0,
       "donations": 115,
-      "donationsReceived": 372,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GCPPL8G8C",
-      "name": "Андрей",
-      "role": "member",
-      "th": 15,
-      "expLevel": 125,
-      "trophies": 0,
-      "donations": 94,
-      "donationsReceived": 0,
+      "donationsReceived": 418,
       "capitalContributions": 0
     },
     {
@@ -112,17 +90,6 @@
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 78,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#G80PQRPUV",
-      "name": "sammy2720",
-      "role": "admin",
-      "th": 14,
-      "expLevel": 88,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -167,17 +134,6 @@
       "trophies": 196,
       "donations": 0,
       "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GUPY8PLLP",
-      "name": "BEOX",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 121,
-      "trophies": 121,
-      "donations": 0,
-      "donationsReceived": 77,
       "capitalContributions": 0
     },
     {
@@ -284,7 +240,7 @@
       "name": "lucky",
       "role": "admin",
       "th": 11,
-      "expLevel": 97,
+      "expLevel": 98,
       "trophies": 258,
       "donations": 0,
       "donationsReceived": 0,
@@ -379,17 +335,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#GVCJ9R0Q8",
-      "name": "Mr.PiCkLe",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 101,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 107,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#Q8QPY2L2",
       "name": "Aaron",
       "role": "admin",
@@ -398,6 +343,17 @@
       "trophies": 0,
       "donations": 247,
       "donationsReceived": 220,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#YUUVCQR2C",
+      "name": "Ronald",
+      "role": "member",
+      "th": 13,
+      "expLevel": 93,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -467,17 +423,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#GQ2GVUR8V",
-      "name": "mahan_niroomnd",
-      "role": "member",
-      "th": 14,
-      "expLevel": 131,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#PGQVCVYPJ",
       "name": "ben",
       "role": "admin",
@@ -489,17 +434,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#QC2U9L9P9",
-      "name": "sjd_emd",
-      "role": "admin",
-      "th": 14,
-      "expLevel": 110,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 240,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#LJLLP2GR8",
       "name": "surje",
       "role": "admin",
@@ -508,17 +442,6 @@
       "trophies": 0,
       "donations": 420,
       "donationsReceived": 285,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GU9RJL9R0",
-      "name": "jimmy",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 113,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
       "capitalContributions": 0
     }
   ]
