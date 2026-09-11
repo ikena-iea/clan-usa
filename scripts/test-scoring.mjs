@@ -115,60 +115,77 @@ console.log('\n=== War score: window only keeps last 10 ===');
   check('available capped at 10', r.available, 10);
 }
 
-console.log('\n=== Clan score: full contributor ===');
+console.log('\n=== Clan score: full participation, median loot ===');
 {
   const r = clanScore({
     donationsLast30d: 800,
     daysPresent: 30,
     weekends: [weekend(5), weekend(5), weekend(5), weekend(5)],
-    goldContributed: 50000,
-    goldLooted: 50000,
   });
   check('donations', r.pillars.donations, 100);
   check('raids', r.pillars.raids, 100);
-  check('contributions', r.pillars.contributions, 100);
+  check('loot at clan median', r.pillars.loot, 70);
+  check('total', r.total, 92.5);
+}
+
+console.log('\n=== Clan score: full participation, high loot ===');
+{
+  // 2000 per attack against a median of 1000 = 2.0 ratio -> clamps to 100
+  const r = clanScore({
+    donationsLast30d: 800,
+    daysPresent: 30,
+    weekends: [weekend(5, 5, 10000), weekend(5, 5, 10000), weekend(5, 5, 10000), weekend(5, 5, 10000)],
+  });
+  check('loot clamps at 100', r.pillars.loot, 100);
   check('total', r.total, 100);
 }
 
-console.log('\n=== Clan score: raids fully, hoards capital gold ===');
+console.log('\n=== Clan score: present but raids zero times ===');
 {
   const r = clanScore({
     donationsLast30d: 800,
     daysPresent: 30,
-    weekends: [weekend(5), weekend(5), weekend(5), weekend(5)],
-    goldContributed: 10000,
-    goldLooted: 50000,
-  });
-  check('contributions', r.pillars.contributions, 20);
-  check('total', r.total, 80);
-}
-
-console.log('\n=== Clan score: present but skips raids (real zero) ===');
-{
-  const r = clanScore({
-    donationsLast30d: 800,
-    daysPresent: 30,
-    weekends: [weekend(0), weekend(0), weekend(0), weekend(0)],
-    goldContributed: 0,
-    goldLooted: 0,
+    weekends: [weekend(0, 5, 0), weekend(0, 5, 0), weekend(0, 5, 0), weekend(0, 5, 0)],
   });
   check('raids', r.pillars.raids, 0);
-  check('contributions null (no loot)', r.pillars.contributions, null);
-  // renormalized across donations(0.40) + raids(0.35)
-  check('total', r.total, 53.3);
+  // A weekend you were present for and skipped is a real zero, not missing
+  // data. Returning null would renormalize donations upward so that never
+  // raiding outscored raiding badly.
+  check('loot is a real 0', r.pillars.loot, 0);
+  check('total is donations only, not renormalized', r.total, 40);
 }
 
-console.log('\n=== Clan score: light donator, raids hard, gives all gold ===');
+console.log('\n=== Clan score: light donator, raids hard ===');
 {
   const r = clanScore({
     donationsLast30d: 160,
     daysPresent: 30,
     weekends: [weekend(5), weekend(5), weekend(5), weekend(5)],
-    goldContributed: 40000,
-    goldLooted: 40000,
   });
   check('donations', r.pillars.donations, 40);
-  check('total', r.total, 76);
+  check('total', r.total, 68.5);
+}
+
+console.log('\n=== Loot: never raiding must not beat raiding poorly ===');
+{
+  const skipper = clanScore({
+    donationsLast30d: 800, daysPresent: 30,
+    weekends: [weekend(0, 5, 0), weekend(0, 5, 0), weekend(0, 5, 0), weekend(0, 5, 0)],
+  });
+  const poor = clanScore({
+    donationsLast30d: 800, daysPresent: 30,
+    weekends: [weekend(2, 5, 1000), weekend(2, 5, 1000), weekend(2, 5, 1000), weekend(2, 5, 1000)],
+  });
+  console.log(`  skipper ${skipper.total} vs poor raider ${poor.total}`);
+  check('poor raider outranks skipper', poor.total > skipper.total ? 1 : 0, 1);
+}
+
+console.log('\n=== Loot: no weekends at all is genuinely n/a ===');
+{
+  const r = clanScore({ donationsLast30d: 800, daysPresent: 30, weekends: null });
+  check('raids null', r.pillars.raids, null);
+  check('loot null', r.pillars.loot, null);
+  check('total is donations alone', r.total, 100);
 }
 
 console.log('\n=== Clan score: new member, donations only ===');
@@ -177,8 +194,6 @@ console.log('\n=== Clan score: new member, donations only ===');
     donationsLast30d: 100,
     daysPresent: 7,
     weekends: null,
-    goldContributed: 0,
-    goldLooted: 0,
   });
   // target scales to 400 * 7/30 = 93.3, so 100 donated clears it
   check('donations scaled', r.pillars.donations, 100);

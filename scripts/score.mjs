@@ -53,34 +53,6 @@ function donationDeltas(snapshots) {
   return totals;
 }
 
-function capitalDeltas(snapshots, sinceDate) {
-  const totals = {};
-  const scoped = sinceDate
-    ? snapshots.filter(s => s.date >= sinceDate)
-    : snapshots;
-  for (let i = 1; i < scoped.length; i++) {
-    const prev = {};
-    for (const m of scoped[i - 1].members) prev[m.tag] = m;
-    for (const m of scoped[i].members) {
-      const p = prev[m.tag];
-      if (!p) continue;
-      const d = (m.capitalContributions || 0) - (p.capitalContributions || 0);
-      if (d > 0) totals[m.tag] = (totals[m.tag] || 0) + d;
-    }
-  }
-  return totals;
-}
-
-// Number of days our snapshot history actually covers. The capital ratio is
-// only meaningful once contributions and loot describe the same period, so
-// this is used to decide whether we can score it at all.
-function snapshotSpanDays(snapshots) {
-  if (snapshots.length < 2) return 0;
-  const first = snapshots[0].date;
-  const last = snapshots[snapshots.length - 1].date;
-  return daysBetween(first, last);
-}
-
 function main() {
   // --- load snapshots, trailing 31 days -------------------------------------
   const memberFiles = listJson(path.join(H, 'members'));
@@ -119,31 +91,54 @@ function main() {
   const donated = donationDeltas(snapshots);
 
   // --- raids: last N completed weekends -------------------------------------
+  // Both raid pillars (participation and loot efficiency) read from the same
+  // archived raid seasons, so there is no window to reconcile against the
+  // snapshot history the way the old capital-contributions ratio needed.
+  //
+  // IMPORTANT: the API only lists members who actually ATTACKED in a raid
+  // weekend. Someone who was in the clan and raided zero times simply does
+  // not appear. Left alone, that reads as "no data", both raid pillars drop
+  // out, and the weights renormalize so a non-raider scores on donations
+  // alone and can reach Legendary without ever touching the Capital.
+  //
+  // So for every weekend we cross-reference the daily snapshots: if a member
+  // was in the clan when that weekend ended but is missing from its member
+  // list, we synthesize a zero-attack record. Absent from raid data while
+  // present in the clan is a real zero, not missing data.
   const raidFiles = listJson(path.join(H, 'raids')).slice(-CONFIG.RAID_WEEKEND_WINDOW);
   const raidSeasons = raidFiles.map(f => readJson(path.join(H, 'raids', f), null)).filter(Boolean);
 
-  // The capital ratio compares gold given to gold looted, so both sides must
-  // describe the SAME period. Contributions are derived from snapshot diffs,
-  // which only go back as far as we have snapshots. Raid seasons, however,
-  // arrive pre-populated from the API and can predate our first snapshot.
-  //
-  // Counting all four weekends' loot against only a few days of contributions
-  // produces a near-zero score that looks like hoarding but is just a window
-  // mismatch. So loot is restricted to weekends that ENDED inside our
-  // snapshot window.
-  const snapshotStart = snapshots[0].date;
-  const raidSeasonsInWindow = raidSeasons.filter(s => {
-    if (!s.endTime) return false;
-    // endTime is like "20260726T070000.000Z"
-    const iso =
-      s.endTime.slice(0, 4) + '-' + s.endTime.slice(4, 6) + '-' + s.endTime.slice(6, 8);
-    return iso >= snapshotStart;
-  });
+  // tag -> Set of dates we saw them on the roster
+  const rosterByDate = {};
+  for (const snap of snapshots) {
+    rosterByDate[snap.date] = new Set(snap.members.map(m => m.tag));
+  }
+  const snapshotDates = Object.keys(rosterByDate).sort();
+
+  // Was this tag in the clan on (or nearest before) the given date?
+  function inClanOn(tag, isoDate) {
+    let best = null;
+    for (const d of snapshotDates) {
+      if (d <= isoDate) best = d;
+      else break;
+    }
+    if (!best) return null; // no snapshot that early, cannot say
+    return rosterByDate[best].has(tag);
+  }
+
+  function seasonEndDate(season) {
+    const t = season.endTime || '';
+    if (t.length < 8) return null;
+    return t.slice(0, 4) + '-' + t.slice(4, 6) + '-' + t.slice(6, 8);
+  }
 
   const raidsByTag = {};
-  const lootedByTag = {};
   for (const season of raidSeasons) {
+    const endDate = seasonEndDate(season);
+    const listed = new Set();
+
     for (const m of season.members || []) {
+      listed.add(m.tag);
       (raidsByTag[m.tag] ||= []).push({
         attacksUsed: m.attacksUsed,
         attackLimit: m.attackLimit,
@@ -152,29 +147,22 @@ function main() {
         clanMedian: season.clanMedianLootPerAttack,
       });
     }
-  }
-  // Loot only from weekends inside the snapshot window.
-  for (const season of raidSeasonsInWindow) {
-    for (const m of season.members || []) {
-      lootedByTag[m.tag] = (lootedByTag[m.tag] || 0) + (m.looted || 0);
+
+    // Anyone on the roster that weekend but absent from the raid list
+    // participated zero times.
+    if (endDate) {
+      for (const m of latest.members) {
+        if (listed.has(m.tag)) continue;
+        if (inClanOn(m.tag, endDate) !== true) continue; // not in clan, or unknown
+        (raidsByTag[m.tag] ||= []).push({
+          attacksUsed: 0,
+          attackLimit: 5,
+          bonusAttackLimit: 0,
+          looted: 0,
+          clanMedian: season.clanMedianLootPerAttack,
+        });
+      }
     }
-  }
-
-  const spanDays = snapshotSpanDays(snapshots);
-  const capitalGiven = capitalDeltas(snapshots, snapshotStart);
-
-  // Even with matched windows, a couple of days of history is too thin to
-  // judge someone's contribution habit. Below this, the pillar sits out and
-  // the other two renormalize rather than reporting a misleading zero.
-  const CAPITAL_MIN_SPAN_DAYS = 7;
-  const capitalReady = spanDays >= CAPITAL_MIN_SPAN_DAYS && raidSeasonsInWindow.length > 0;
-
-  if (!capitalReady) {
-    console.log(
-      `Capital pillar not scored yet: ${spanDays} day(s) of snapshots, ` +
-        `${raidSeasonsInWindow.length} raid weekend(s) inside that window ` +
-        `(need ${CAPITAL_MIN_SPAN_DAYS}+ days and 1+ weekend).`
-    );
   }
 
   // --- wars: chronological attack records per member ------------------------
@@ -206,8 +194,6 @@ function main() {
       donationsLast30d: donated[m.tag] || 0,
       daysPresent,
       weekends: raidsByTag[m.tag] || null,
-      goldContributed: capitalReady ? capitalGiven[m.tag] || 0 : 0,
-      goldLooted: capitalReady ? lootedByTag[m.tag] || 0 : 0,
     });
 
     const war = warScore(attacksByTag[m.tag] || []);

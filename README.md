@@ -115,19 +115,26 @@ the same time.
 ### Clan score
 
 ```
-clan = 0.40 x donations + 0.35 x raids + 0.25 x capital contributions
+clan = 0.40 x donations + 0.35 x raids + 0.25 x loot
 ```
 
 - **Donations** counts troops given only. Receiving is never penalized.
   Target is 400 per 30 days for a score of 100.
 - **Raids** is attacks used out of attacks available across the last 4
-  weekends, at 70%, plus loot efficiency relative to the clan median that
-  weekend, at 30%. A weekend you were present for but skipped counts as a
-  real zero.
-- **Capital contributions** is gold given compared to gold you looted, so it
-  measures whether you spend what you earn rather than how much you raid.
+  Capital weekends. Participation only.
+- **Loot** is gold per attack measured against the clan's own median that
+  weekend, not an absolute target, because loot depends on how far the raid
+  got. Hitting the median scores 70 and roughly 1.4x median reaches 100.
 
-Pillars with no data drop out and the remaining weights renormalize.
+Pillars with no data drop out and the remaining weights renormalize. But a
+weekend you were in the clan for and raided zero times is a real zero on
+both raid pillars, not missing data. The API only lists members who
+attacked, so the scorer cross-references the daily snapshots to tell
+"did not raid" apart from "was not here".
+
+Capital gold contributions were tried as a pillar and abandoned: the
+`clanCapitalContributions` field on the clan member list returns 0 for every
+member, always, so the ratio had no numerator.
 
 ### War score
 

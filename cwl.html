@@ -140,38 +140,38 @@
 
   <div class="info-card">
     <h2>How points and medals work</h2>
-    <p>Each attack is scored using stars, destruction percent, and a Town Hall gap adjustment so hitting up in TH is worth more than farming a lower TH.</p>
-    <div class="formula">points = (stars + destruction% / 100) &times; TH-gap multiplier</div>
-    <div class="formula">TH-gap multiplier = 1 + 0.3 &times; (defender TH &minus; attacker TH), clamped between 0.4 and 1.8</div>
-    <p>A missed attack is a flat <strong style="color: var(--danger);">&minus;3</strong> points, no matter the Town Hall matchup.</p>
-    <p>Example: a 3-star, 100% destruction attack against an equal Town Hall = (3 + 1.00) &times; 1.0 = <strong>4.0 points</strong>. That's the benchmark for a textbook-perfect attack.</p>
-    <p>Medals are awarded based on <strong>average points per attack</strong> across the whole CWL, not the raw total, so it stays fair regardless of how many rounds have happened:</p>
+    <p>CWL gives everyone one attack per round against their position mirror, so there is no Town Hall adjustment. Points are stars plus destruction percent, nothing else.</p>
+    <div class="formula">points = stars + destruction% / 100</div>
+    <p>A perfect attack (3 stars, 100% destruction) is worth <strong>4.00 points</strong>, which is the maximum. A clean 2-star at 90% is 2.90.</p>
+    <p>A missed attack is a flat <strong style="color: var(--danger);">&minus;3</strong> points.</p>
+    <p>Medals use your <strong>average points per attack</strong> across the whole CWL, not the raw total, so it stays fair regardless of how many rounds have happened:</p>
     <div class="medal-key">
-      <span><span class="medal medal-gold">Gold</span> avg &ge; 4.0</span>
-      <span><span class="medal medal-silver">Silver</span> avg 2.8&ndash;3.9</span>
-      <span><span class="medal medal-bronze">Bronze</span> avg 1.5&ndash;2.7</span>
-      <span>&mdash; below 1.5, or missed attacks bring your average down</span>
+      <span><span class="medal medal-gold">Gold</span> avg &ge; 3.5, mostly 3-stars</span>
+      <span><span class="medal medal-silver">Silver</span> avg 2.7&ndash;3.4, solid 2-stars</span>
+      <span><span class="medal medal-bronze">Bronze</span> avg 1.5&ndash;2.6</span>
     </div>
-    <p style="margin-top:10px;">While a round is still open, anyone who hasn't attacked yet shows as <span class="pending" style="font-weight:600;">Not yet attacked</span> rather than a miss — it only counts against someone once that round's war has actually ended.</p>
+    <p style="margin-top:10px;">Town Hall levels are still shown in each round so you can see the matchups, but they do not affect scoring. The <strong>#</strong> and <strong>Hit</strong> columns show your map position and the position you attacked, so you can see who stayed on their mirror.</p>
+    <p>While a round is still open, anyone who hasn't attacked yet shows as <span class="pending" style="font-weight:600;">Not yet attacked</span> rather than a miss. It only counts against someone once that round's war has ended.</p>
   </div>
 
   <p class="updated" id="updated-at"></p>
 </div>
 
 <script>
-function clamp(x, lo, hi) { return Math.max(lo, Math.min(hi, x)); }
-
+// CWL is one attack per round against your position mirror, so there is no
+// Town Hall adjustment here. Points are stars plus destruction, nothing else.
+// Ceiling is 4.00 (three stars at 100%).
 function computeAttackPoints(a) {
   if (a.pending) return 0;
   if (a.missed) return -3;
-  if (a.dth === null || a.dth === undefined) return a.stars + a.dest / 100;
-  const mult = clamp(1 + 0.3 * (a.dth - a.ath), 0.4, 1.8);
-  return (a.stars + a.dest / 100) * mult;
+  return (a.stars || 0) + (a.dest || 0) / 100;
 }
 
+// Thresholds sit below the 4.00 ceiling so Gold means "mostly three-stars"
+// rather than "flawless every single round".
 function medalFor(avg) {
-  if (avg >= 4.0) return { label: 'Gold', cls: 'medal-gold' };
-  if (avg >= 2.8) return { label: 'Silver', cls: 'medal-silver' };
+  if (avg >= 3.5) return { label: 'Gold', cls: 'medal-gold' };
+  if (avg >= 2.7) return { label: 'Silver', cls: 'medal-silver' };
   if (avg >= 1.5) return { label: 'Bronze', cls: 'medal-bronze' };
   return { label: '\u2014', cls: '' };
 }

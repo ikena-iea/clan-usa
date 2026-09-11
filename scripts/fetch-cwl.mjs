@@ -100,6 +100,26 @@ async function main() {
         continue;
       }
 
+      // The API's mapPosition is an internal ordering value, not the number
+      // shown in game. It can be sparse or offset, which is how a 30-slot CWL
+      // ends up reporting a position of 38. Sorting each roster by
+      // mapPosition and renumbering 1..N by index recovers the real in-game
+      // position. Done independently per side, since the two rosters are
+      // numbered independently.
+      function normalizePositions(members) {
+        const map = {};
+        members
+          .slice()
+          .sort((a, b) => (a.mapPosition ?? 9999) - (b.mapPosition ?? 9999))
+          .forEach((m, i) => {
+            map[m.tag] = i + 1;
+          });
+        return map;
+      }
+
+      const ourPos = normalizePositions(ourClan.members);
+      const theirPos = normalizePositions(otherClan.members);
+
       // Per-round metadata, used by the page to compute possible stars and
       // label each round tab with the opponent.
       rounds[roundNumber] = {
@@ -126,8 +146,8 @@ async function main() {
             tag: member.tag,
             ath,
             dth: defender ? defender.townhallLevel : null,
-            amap: member.mapPosition ?? null,
-            dmap: defender ? defender.mapPosition ?? null : null,
+            amap: ourPos[member.tag] ?? null,
+            dmap: defender ? theirPos[defender.tag] ?? null : null,
             stars: atk.stars,
             dest: Math.round(atk.destructionPercentage * 100) / 100,
             missed: false,
@@ -141,7 +161,7 @@ async function main() {
             tag: member.tag,
             ath,
             dth: null,
-            amap: member.mapPosition ?? null,
+            amap: ourPos[member.tag] ?? null,
             dmap: null,
             stars: 0,
             dest: 0,
@@ -157,7 +177,7 @@ async function main() {
             tag: member.tag,
             ath,
             dth: null,
-            amap: member.mapPosition ?? null,
+            amap: ourPos[member.tag] ?? null,
             dmap: null,
             stars: 0,
             dest: 0,

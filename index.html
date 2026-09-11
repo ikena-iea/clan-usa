@@ -182,8 +182,9 @@
 
       <p>Tiers are fixed targets, not a ranking. Everyone can be Legendary at the same time. Nobody drops because someone else improved.</p>
 
-      <p><strong>Clan score</strong> = 40% donations, 35% raids, 25% capital contributions.<br>
-      Donations counts troops given only, never what you receive. Raids is attacks used out of attacks available across recent weekends. Capital contributions is gold given compared to gold you looted, so it measures whether you spend what you earn rather than how much you raid.</p>
+      <p><strong>Clan score</strong> = 40% donations, 35% raids, 25% loot.<br>
+      Donations counts troops given only, never what you receive. Raids is attacks used out of attacks available across recent Capital weekends. Loot is gold per attack measured against the clan's own median that weekend, so it rewards making your attacks count rather than simply raiding more.</p>
+      <p>Raiding zero times in a weekend you were in the clan for counts as a zero on both raid pillars, not as missing data.</p>
 
       <p><strong>War score</strong> = 60% reliability, 40% performance.<br>
       Reliability is attacks used out of attacks you were rostered for. Performance scores each attack as
@@ -287,7 +288,7 @@ function renderCards(m) {
       '<div class="pillars">' +
         pillarRow('Donations', m.clan.pillars.donations) +
         pillarRow('Raids', m.clan.pillars.raids) +
-        pillarRow('Capital', m.clan.pillars.contributions) +
+        pillarRow('Loot', m.clan.pillars.loot) +
       '</div>' +
       '<div class="card-foot">Joined <strong>' + m.warsJoined + ' of ' + m.warsTotal + '</strong> wars</div>' +
     '</div>' +
