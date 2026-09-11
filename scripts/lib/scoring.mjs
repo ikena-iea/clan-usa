@@ -5,8 +5,10 @@ export const CONFIG = {
   // Clan score
   DONATION_TARGET_30D: 400,
   RAID_WEEKEND_WINDOW: 4,
-  CLAN_WEIGHTS: { donations: 0.40, raids: 0.35, contributions: 0.25 },
-  RAID_SPLIT: { participation: 0.7, efficiency: 0.3 },
+  CLAN_WEIGHTS: { donations: 0.40, raids: 0.35, loot: 0.25 },
+  // Hitting the clan's median loot per attack scores this. Set to the Epic
+  // threshold so an average raider reads as solid rather than mediocre.
+  LOOT_MEDIAN_SCORE: 70,
 
   // War score
   WAR_ATTACK_WINDOW: 10,
@@ -65,42 +67,60 @@ export function donationScore(donationsLast30d, daysPresent = 30) {
 }
 
 // weekends: [{ attacksUsed, attackLimit, bonusAttackLimit, looted, clanMedian }]
+//
+// Participation only: did you use the attacks you were given. Loot is scored
+// separately by lootScore, so the two pillars measure different things and a
+// heavy raider is not rewarded twice for the same behaviour.
+//
 // A weekend the member was present for but skipped counts as a real zero.
 export function raidScore(weekends) {
   if (!weekends || weekends.length === 0) return null;
 
   let usedTotal = 0;
   let availTotal = 0;
-  let effSum = 0;
-  let effCount = 0;
 
   for (const w of weekends) {
     const avail = (w.attackLimit || 0) + (w.bonusAttackLimit || 0);
     usedTotal += w.attacksUsed || 0;
     availTotal += avail > 0 ? avail : 5;
+  }
 
-    if ((w.attacksUsed || 0) > 0 && w.clanMedian > 0) {
-      const perAttack = (w.looted || 0) / w.attacksUsed;
-      effSum += clamp((perAttack / w.clanMedian) * 100, 0, 100);
-      effCount++;
+  if (availTotal === 0) return null;
+  return clamp((usedTotal / availTotal) * 100, 0, 100);
+}
+
+// Loot efficiency: gold looted per attack, measured against the clan's own
+// median that weekend rather than an absolute target, because loot depends
+// heavily on how far the raid got and which districts were reached.
+//
+// Scored so that hitting the clan median lands at LOOT_MEDIAN_SCORE (70,
+// the Epic threshold) and roughly 1.4x median reaches 100. A plain ratio
+// would pin half the clan at the ceiling by definition, since half of any
+// group is at or above its own median.
+//
+// Present for weekends but never attacked is a real zero, not missing data:
+// they chose not to raid, and returning null would renormalize the other
+// pillars upward so that doing nothing outscored doing something.
+export function lootScore(weekends) {
+  if (!weekends || weekends.length === 0) return null;
+
+  let sum = 0;
+  let count = 0;
+  let anyAttacks = false;
+
+  for (const w of weekends) {
+    if ((w.attacksUsed || 0) > 0) {
+      anyAttacks = true;
+      if (w.clanMedian > 0) {
+        const perAttack = (w.looted || 0) / w.attacksUsed;
+        sum += clamp((perAttack / w.clanMedian) * CONFIG.LOOT_MEDIAN_SCORE, 0, 100);
+        count++;
+      }
     }
   }
 
-  const participation = availTotal > 0 ? (usedTotal / availTotal) * 100 : 0;
-  const efficiency = effCount > 0 ? effSum / effCount : participation;
-
-  return clamp(
-    CONFIG.RAID_SPLIT.participation * participation +
-      CONFIG.RAID_SPLIT.efficiency * efficiency,
-    0,
-    100
-  );
-}
-
-// Ratio of capital gold contributed to capital gold looted, over the window.
-export function contributionScore(goldContributed, goldLooted) {
-  if (!goldLooted || goldLooted <= 0) return null;
-  return clamp((goldContributed / goldLooted) * 100, 0, 100);
+  if (count === 0) return anyAttacks ? null : 0;
+  return clamp(sum / count, 0, 100);
 }
 
 // Renormalizes weights across whichever pillars have data.
@@ -116,15 +136,15 @@ export function weightedComposite(parts) {
   return sum / weight;
 }
 
-export function clanScore({ donationsLast30d, daysPresent, weekends, goldContributed, goldLooted }) {
+export function clanScore({ donationsLast30d, daysPresent, weekends }) {
   const d = donationScore(donationsLast30d, daysPresent);
   const r = raidScore(weekends);
-  const c = contributionScore(goldContributed, goldLooted);
+  const l = lootScore(weekends);
 
   const total = weightedComposite([
     [d, CONFIG.CLAN_WEIGHTS.donations],
     [r, CONFIG.CLAN_WEIGHTS.raids],
-    [c, CONFIG.CLAN_WEIGHTS.contributions],
+    [l, CONFIG.CLAN_WEIGHTS.loot],
   ]);
 
   return {
@@ -132,7 +152,7 @@ export function clanScore({ donationsLast30d, daysPresent, weekends, goldContrib
     pillars: {
       donations: d === null ? null : Math.round(d),
       raids: r === null ? null : Math.round(r),
-      contributions: c === null ? null : Math.round(c),
+      loot: l === null ? null : Math.round(l),
     },
   };
 }
