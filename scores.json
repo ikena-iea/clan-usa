@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T09:30:44.663Z",
+  "generatedAt": "2026-09-11T14:15:07.947Z",
   "snapshotDate": "2026-09-11",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -338,7 +338,7 @@
     {
       "tag": "#R8GPLGRVQ",
       "name": "LegitN00b98",
-      "role": "admin",
+      "role": "coLeader",
       "th": 12,
       "firstSeen": "2026-07-28",
       "daysPresent": 45,
@@ -1179,6 +1179,39 @@
       }
     },
     {
+      "tag": "#890GLU9Y0",
+      "name": "selfless",
+      "role": "member",
+      "th": 13,
+      "firstSeen": "2026-09-11",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 22,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#GGJY8JJQ0",
       "name": "Hazkie",
       "role": "admin",
@@ -1315,7 +1348,7 @@
     {
       "tag": "#YUUVCQR2C",
       "name": "Ronald",
-      "role": "member",
+      "role": "admin",
       "th": 13,
       "firstSeen": "2026-09-11",
       "daysPresent": 1,
@@ -1362,6 +1395,39 @@
           "donations": 100,
           "raids": 0,
           "loot": 0
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#LRRRCVVC8",
+      "name": "prt57",
+      "role": "member",
+      "th": 12,
+      "firstSeen": "2026-09-11",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 22,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
         },
         "tier": null
       },

@@ -1,8 +1,8 @@
 {
   "date": "2026-09-11",
-  "capturedAt": "2026-09-11T09:30:44.232Z",
+  "capturedAt": "2026-09-11T14:15:07.477Z",
   "clanLevel": 7,
-  "memberCount": 40,
+  "memberCount": 42,
   "members": [
     {
       "tag": "#G2G8R9RPC",
@@ -22,7 +22,7 @@
       "th": 17,
       "expLevel": 152,
       "trophies": 0,
-      "donations": 340,
+      "donations": 385,
       "donationsReceived": 229,
       "capitalContributions": 0
     },
@@ -67,7 +67,7 @@
       "expLevel": 152,
       "trophies": 0,
       "donations": 115,
-      "donationsReceived": 418,
+      "donationsReceived": 463,
       "capitalContributions": 0
     },
     {
@@ -115,6 +115,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#890GLU9Y0",
+      "name": "selfless",
+      "role": "member",
+      "th": 13,
+      "expLevel": 170,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#Q8P8R8UQQ",
       "name": "vale",
       "role": "admin",
@@ -139,7 +150,7 @@
     {
       "tag": "#R8GPLGRVQ",
       "name": "LegitN00b98",
-      "role": "admin",
+      "role": "coLeader",
       "th": 12,
       "expLevel": 90,
       "trophies": 106,
@@ -164,7 +175,7 @@
       "role": "member",
       "th": 12,
       "expLevel": 132,
-      "trophies": 237,
+      "trophies": 261,
       "donations": 47,
       "donationsReceived": 156,
       "capitalContributions": 0
@@ -348,7 +359,7 @@
     {
       "tag": "#YUUVCQR2C",
       "name": "Ronald",
-      "role": "member",
+      "role": "admin",
       "th": 13,
       "expLevel": 93,
       "trophies": 0,
@@ -397,6 +408,17 @@
       "expLevel": 128,
       "trophies": 0,
       "donations": 229,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#LRRRCVVC8",
+      "name": "prt57",
+      "role": "member",
+      "th": 12,
+      "expLevel": 125,
+      "trophies": 0,
+      "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
