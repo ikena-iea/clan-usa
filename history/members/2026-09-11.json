@@ -1,8 +1,8 @@
 {
   "date": "2026-09-11",
-  "capturedAt": "2026-09-11T01:46:11.842Z",
+  "capturedAt": "2026-09-11T04:27:39.745Z",
   "clanLevel": 7,
-  "memberCount": 46,
+  "memberCount": 47,
   "members": [
     {
       "tag": "#G2G8R9RPC",
@@ -53,7 +53,7 @@
       "name": "Ikena",
       "role": "coLeader",
       "th": 13,
-      "expLevel": 120,
+      "expLevel": 121,
       "trophies": 424,
       "donations": 370,
       "donationsReceived": 227,
@@ -244,6 +244,17 @@
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 521,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#GGJY8JJQ0",
+      "name": "Hazkie",
+      "role": "admin",
+      "th": 13,
+      "expLevel": 134,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
