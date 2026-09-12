@@ -1,6 +1,6 @@
 {
   "date": "2026-09-12",
-  "capturedAt": "2026-09-12T13:59:14.287Z",
+  "capturedAt": "2026-09-12T17:01:31.832Z",
   "clanLevel": 7,
   "memberCount": 44,
   "members": [
@@ -44,7 +44,7 @@
       "th": 15,
       "expLevel": 169,
       "trophies": 630,
-      "donations": 21,
+      "donations": 143,
       "donationsReceived": 161,
       "capitalContributions": 0
     },
@@ -75,7 +75,7 @@
       "name": "THE ROCK",
       "role": "admin",
       "th": 14,
-      "expLevel": 152,
+      "expLevel": 153,
       "trophies": 0,
       "donations": 187,
       "donationsReceived": 508,
@@ -89,7 +89,7 @@
       "expLevel": 118,
       "trophies": 435,
       "donations": 195,
-      "donationsReceived": 593,
+      "donationsReceived": 633,
       "capitalContributions": 0
     },
     {
@@ -110,7 +110,7 @@
       "th": 13,
       "expLevel": 151,
       "trophies": 0,
-      "donations": 203,
+      "donations": 262,
       "donationsReceived": 77,
       "capitalContributions": 0
     },
@@ -143,8 +143,8 @@
       "th": 13,
       "expLevel": 111,
       "trophies": 0,
-      "donations": 314,
-      "donationsReceived": 224,
+      "donations": 354,
+      "donationsReceived": 346,
       "capitalContributions": 0
     },
     {
@@ -485,7 +485,7 @@
       "expLevel": 240,
       "trophies": 0,
       "donations": 692,
-      "donationsReceived": 400,
+      "donationsReceived": 459,
       "capitalContributions": 0
     }
   ]
