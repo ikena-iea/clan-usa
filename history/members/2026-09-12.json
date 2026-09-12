@@ -1,6 +1,6 @@
 {
   "date": "2026-09-12",
-  "capturedAt": "2026-09-12T00:04:51.264Z",
+  "capturedAt": "2026-09-12T05:35:33.175Z",
   "clanLevel": 7,
   "memberCount": 44,
   "members": [
@@ -55,8 +55,8 @@
       "th": 13,
       "expLevel": 121,
       "trophies": 444,
-      "donations": 395,
-      "donationsReceived": 227,
+      "donations": 448,
+      "donationsReceived": 304,
       "capitalContributions": 0
     },
     {
@@ -64,7 +64,7 @@
       "name": "jude",
       "role": "admin",
       "th": 14,
-      "expLevel": 116,
+      "expLevel": 117,
       "trophies": 332,
       "donations": 167,
       "donationsReceived": 0,
@@ -144,7 +144,7 @@
       "expLevel": 111,
       "trophies": 0,
       "donations": 314,
-      "donationsReceived": 179,
+      "donationsReceived": 199,
       "capitalContributions": 0
     },
     {
@@ -274,7 +274,7 @@
       "role": "admin",
       "th": 11,
       "expLevel": 98,
-      "trophies": 258,
+      "trophies": 286,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -374,7 +374,7 @@
       "th": 18,
       "expLevel": 255,
       "trophies": 0,
-      "donations": 247,
+      "donations": 299,
       "donationsReceived": 220,
       "capitalContributions": 0
     },
@@ -396,7 +396,7 @@
       "th": 15,
       "expLevel": 170,
       "trophies": 0,
-      "donations": 460,
+      "donations": 535,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -473,8 +473,8 @@
       "th": 18,
       "expLevel": 217,
       "trophies": 0,
-      "donations": 112,
-      "donationsReceived": 86,
+      "donations": 132,
+      "donationsReceived": 189,
       "capitalContributions": 0
     },
     {
