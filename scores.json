@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T05:55:28.882Z",
+  "generatedAt": "2026-09-13T11:38:29.556Z",
   "snapshotDate": "2026-09-13",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -640,39 +640,6 @@
       }
     },
     {
-      "tag": "#L0YPL82UJ",
-      "name": "Chikhladze",
-      "role": "admin",
-      "th": 14,
-      "firstSeen": "2026-08-12",
-      "daysPresent": 32,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 1,
-      "warsTotal": 22,
-      "clan": {
-        "total": 43.8,
-        "pillars": {
-          "donations": 0,
-          "raids": 78,
-          "loot": 66
-        },
-        "tier": "Uncommon"
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 2,
-        "used": 0,
-        "misses": 2,
-        "tier": null
-      }
-    },
-    {
       "tag": "#GVV89RJYQ",
       "name": "DevilIguana",
       "role": "admin",
@@ -1009,40 +976,6 @@
       }
     },
     {
-      "tag": "#GGQ80JRJ0",
-      "name": "hartymate",
-      "role": "admin",
-      "th": 12,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 47,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 9,
-      "warsTotal": 22,
-      "clan": {
-        "total": 31.5,
-        "pillars": {
-          "donations": 0,
-          "raids": 32,
-          "loot": 81
-        },
-        "tier": "Common"
-      },
-      "war": {
-        "total": 62.3,
-        "status": null,
-        "cap": "Uncommon",
-        "pillars": {
-          "reliability": 60,
-          "performance": 66
-        },
-        "available": 10,
-        "used": 6,
-        "misses": 4,
-        "tier": "Uncommon"
-      }
-    },
-    {
       "tag": "#GPC8J2YLY",
       "name": "IDONTKNOW",
       "role": "admin",
@@ -1282,7 +1215,7 @@
       "tag": "#YJ20UYUG",
       "name": "Boomin",
       "role": "admin",
-      "th": 13,
+      "th": 14,
       "firstSeen": "2026-09-11",
       "daysPresent": 2,
       "inGrace": true,
