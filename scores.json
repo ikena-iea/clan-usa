@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T19:17:40.686Z",
+  "generatedAt": "2026-09-13T22:19:18.728Z",
   "snapshotDate": "2026-09-13",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1143,6 +1143,39 @@
         "used": 9,
         "misses": 1,
         "tier": "Epic"
+      }
+    },
+    {
+      "tag": "#GL20CPPQY",
+      "name": "Md.Minhajulisla",
+      "role": "member",
+      "th": 17,
+      "firstSeen": "2026-09-13",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 22,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
       }
     },
     {
