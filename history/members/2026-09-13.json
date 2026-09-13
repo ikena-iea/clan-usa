@@ -1,6 +1,6 @@
 {
   "date": "2026-09-13",
-  "capturedAt": "2026-09-13T11:38:28.968Z",
+  "capturedAt": "2026-09-13T16:05:55.609Z",
   "clanLevel": 7,
   "memberCount": 42,
   "members": [
@@ -41,10 +41,10 @@
       "tag": "#YP2CQUVQ9",
       "name": "pitek",
       "role": "admin",
-      "th": 15,
+      "th": 16,
       "expLevel": 169,
       "trophies": 630,
-      "donations": 158,
+      "donations": 208,
       "donationsReceived": 161,
       "capitalContributions": 0
     },
@@ -55,7 +55,7 @@
       "th": 13,
       "expLevel": 122,
       "trophies": 444,
-      "donations": 448,
+      "donations": 584,
       "donationsReceived": 304,
       "capitalContributions": 0
     },
@@ -78,7 +78,7 @@
       "expLevel": 153,
       "trophies": 0,
       "donations": 237,
-      "donationsReceived": 601,
+      "donationsReceived": 649,
       "capitalContributions": 0
     },
     {
@@ -199,7 +199,7 @@
       "expLevel": 205,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 0,
+      "donationsReceived": 77,
       "capitalContributions": 0
     },
     {
@@ -229,9 +229,9 @@
       "name": "Hazkie",
       "role": "admin",
       "th": 13,
-      "expLevel": 134,
+      "expLevel": 135,
       "trophies": 0,
-      "donations": 0,
+      "donations": 55,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -274,7 +274,7 @@
       "role": "admin",
       "th": 12,
       "expLevel": 101,
-      "trophies": 206,
+      "trophies": 233,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -372,7 +372,7 @@
       "name": "Schlitz",
       "role": "admin",
       "th": 15,
-      "expLevel": 170,
+      "expLevel": 171,
       "trophies": 0,
       "donations": 678,
       "donationsReceived": 80,
@@ -452,7 +452,7 @@
       "expLevel": 217,
       "trophies": 0,
       "donations": 144,
-      "donationsReceived": 277,
+      "donationsReceived": 327,
       "capitalContributions": 0
     },
     {
@@ -462,8 +462,8 @@
       "th": 18,
       "expLevel": 240,
       "trophies": 0,
-      "donations": 722,
-      "donationsReceived": 459,
+      "donations": 770,
+      "donationsReceived": 573,
       "capitalContributions": 0
     }
   ]

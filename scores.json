@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T11:38:29.556Z",
+  "generatedAt": "2026-09-13T16:05:56.033Z",
   "snapshotDate": "2026-09-13",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1149,7 +1149,7 @@
       "tag": "#YP2CQUVQ9",
       "name": "pitek",
       "role": "admin",
-      "th": 15,
+      "th": 16,
       "firstSeen": "2026-09-11",
       "daysPresent": 2,
       "inGrace": true,
@@ -1258,7 +1258,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 0,
+          "donations": 100,
           "raids": null,
           "loot": null
         },
