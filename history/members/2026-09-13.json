@@ -1,8 +1,8 @@
 {
   "date": "2026-09-13",
-  "capturedAt": "2026-09-13T16:05:55.609Z",
+  "capturedAt": "2026-09-13T19:17:40.288Z",
   "clanLevel": 7,
-  "memberCount": 42,
+  "memberCount": 41,
   "members": [
     {
       "tag": "#G2G8R9RPC",
@@ -99,7 +99,7 @@
       "th": 13,
       "expLevel": 151,
       "trophies": 0,
-      "donations": 297,
+      "donations": 451,
       "donationsReceived": 77,
       "capitalContributions": 0
     },
@@ -132,7 +132,7 @@
       "th": 13,
       "expLevel": 111,
       "trophies": 0,
-      "donations": 354,
+      "donations": 356,
       "donationsReceived": 346,
       "capitalContributions": 0
     },
@@ -192,17 +192,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#YJ20UYUG",
-      "name": "Boomin",
-      "role": "admin",
-      "th": 14,
-      "expLevel": 205,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 77,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#QV08GJJQV",
       "name": "knuxyngYiudjdh",
       "role": "admin",
@@ -218,10 +207,10 @@
       "name": "Gobinath.N",
       "role": "admin",
       "th": 13,
-      "expLevel": 117,
+      "expLevel": 118,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 566,
+      "donationsReceived": 724,
       "capitalContributions": 0
     },
     {
@@ -363,7 +352,7 @@
       "th": 13,
       "expLevel": 94,
       "trophies": 0,
-      "donations": 59,
+      "donations": 61,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
