@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T13:51:53.085Z",
+  "generatedAt": "2026-09-14T19:14:00.785Z",
   "snapshotDate": "2026-09-14",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1143,6 +1143,39 @@
         "used": 9,
         "misses": 1,
         "tier": "Epic"
+      }
+    },
+    {
+      "tag": "#GG2UYVUGQ",
+      "name": "SIR. MISHAYEV",
+      "role": "member",
+      "th": 14,
+      "firstSeen": "2026-09-14",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 22,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": 0,
+          "loot": 0
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
       }
     },
     {
