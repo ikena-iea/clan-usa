@@ -1,8 +1,8 @@
 {
   "date": "2026-09-15",
-  "capturedAt": "2026-09-15T18:52:22.210Z",
+  "capturedAt": "2026-09-15T22:04:36.708Z",
   "clanLevel": 7,
-  "memberCount": 41,
+  "memberCount": 40,
   "members": [
     {
       "tag": "#G2G8R9RPC",
@@ -21,7 +21,7 @@
       "role": "admin",
       "th": 16,
       "expLevel": 155,
-      "trophies": 41,
+      "trophies": 81,
       "donations": 209,
       "donationsReceived": 247,
       "capitalContributions": 0
@@ -32,7 +32,7 @@
       "role": "admin",
       "th": 16,
       "expLevel": 170,
-      "trophies": 543,
+      "trophies": 573,
       "donations": 390,
       "donationsReceived": 161,
       "capitalContributions": 0
@@ -43,7 +43,7 @@
       "role": "coLeader",
       "th": 13,
       "expLevel": 123,
-      "trophies": 399,
+      "trophies": 427,
       "donations": 624,
       "donationsReceived": 304,
       "capitalContributions": 0
@@ -67,7 +67,7 @@
       "expLevel": 153,
       "trophies": 0,
       "donations": 332,
-      "donationsReceived": 838,
+      "donationsReceived": 856,
       "capitalContributions": 0
     },
     {
@@ -87,9 +87,9 @@
       "role": "coLeader",
       "th": 13,
       "expLevel": 119,
-      "trophies": 297,
-      "donations": 324,
-      "donationsReceived": 1042,
+      "trophies": 359,
+      "donations": 355,
+      "donationsReceived": 1081,
       "capitalContributions": 0
     },
     {
@@ -186,8 +186,19 @@
       "role": "admin",
       "th": 13,
       "expLevel": 97,
-      "trophies": 64,
+      "trophies": 87,
       "donations": 61,
+      "donationsReceived": 67,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#GGJY8JJQ0",
+      "name": "Hazkie",
+      "role": "admin",
+      "th": 13,
+      "expLevel": 135,
+      "trophies": 56,
+      "donations": 104,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -200,17 +211,6 @@
       "trophies": 56,
       "donations": 130,
       "donationsReceived": 77,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GGJY8JJQ0",
-      "name": "Hazkie",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 135,
-      "trophies": 40,
-      "donations": 104,
-      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -236,17 +236,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#R0YP0JYLQ",
-      "name": "rhay",
-      "role": "member",
-      "th": 13,
-      "expLevel": 79,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#R0QQVRP22",
       "name": "zeko lelo",
       "role": "admin",
@@ -263,7 +252,18 @@
       "role": "admin",
       "th": 11,
       "expLevel": 98,
-      "trophies": 0,
+      "trophies": 8,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#GLUJVJGGV",
+      "name": "allis",
+      "role": "admin",
+      "th": 11,
+      "expLevel": 89,
+      "trophies": 45,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -285,17 +285,6 @@
       "role": "admin",
       "th": 12,
       "expLevel": 101,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GLUJVJGGV",
-      "name": "allis",
-      "role": "admin",
-      "th": 11,
-      "expLevel": 88,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -350,7 +339,7 @@
       "name": "IDONTKNOW",
       "role": "admin",
       "th": 11,
-      "expLevel": 91,
+      "expLevel": 92,
       "trophies": 0,
       "donations": 2,
       "donationsReceived": 0,
@@ -374,7 +363,7 @@
       "th": 15,
       "expLevel": 171,
       "trophies": 0,
-      "donations": 678,
+      "donations": 798,
       "donationsReceived": 158,
       "capitalContributions": 0
     },
