@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T09:58:21.831Z",
+  "generatedAt": "2026-09-15T14:53:51.295Z",
   "snapshotDate": "2026-09-15",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -809,40 +809,6 @@
       }
     },
     {
-      "tag": "#LCVCL0LU0",
-      "name": "Limeranch",
-      "role": "coLeader",
-      "th": 17,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 49,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 18,
-      "warsTotal": 22,
-      "clan": {
-        "total": 40,
-        "pillars": {
-          "donations": 100,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": "Uncommon"
-      },
-      "war": {
-        "total": 76,
-        "status": null,
-        "cap": "Rare",
-        "pillars": {
-          "reliability": 100,
-          "performance": 40
-        },
-        "available": 10,
-        "used": 10,
-        "misses": 0,
-        "tier": "Rare"
-      }
-    },
-    {
       "tag": "#GQUQV0PJV",
       "name": "mustafa",
       "role": "admin",
@@ -873,6 +839,40 @@
         "available": 10,
         "used": 8,
         "misses": 2,
+        "tier": "Rare"
+      }
+    },
+    {
+      "tag": "#LCVCL0LU0",
+      "name": "Limeranch",
+      "role": "coLeader",
+      "th": 17,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 49,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 18,
+      "warsTotal": 22,
+      "clan": {
+        "total": 40,
+        "pillars": {
+          "donations": 100,
+          "raids": 0,
+          "loot": 0
+        },
+        "tier": "Uncommon"
+      },
+      "war": {
+        "total": 76,
+        "status": null,
+        "cap": "Rare",
+        "pillars": {
+          "reliability": 100,
+          "performance": 40
+        },
+        "available": 10,
+        "used": 10,
+        "misses": 0,
         "tier": "Rare"
       }
     },
@@ -1394,39 +1394,6 @@
           "donations": 100,
           "raids": 55,
           "loot": 98
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#LRRRCVVC8",
-      "name": "prt57",
-      "role": "admin",
-      "th": 12,
-      "firstSeen": "2026-09-11",
-      "daysPresent": 4,
-      "inGrace": true,
-      "gracePeriodEndsIn": 10,
-      "warsJoined": 0,
-      "warsTotal": 22,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": 0,
-          "loot": 0
         },
         "tier": null
       },
