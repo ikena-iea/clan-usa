@@ -1,6 +1,6 @@
 {
   "date": "2026-09-15",
-  "capturedAt": "2026-09-15T14:53:50.706Z",
+  "capturedAt": "2026-09-15T18:52:22.210Z",
   "clanLevel": 7,
   "memberCount": 41,
   "members": [
@@ -66,7 +66,7 @@
       "th": 14,
       "expLevel": 153,
       "trophies": 0,
-      "donations": 317,
+      "donations": 332,
       "donationsReceived": 838,
       "capitalContributions": 0
     },
@@ -87,9 +87,9 @@
       "role": "coLeader",
       "th": 13,
       "expLevel": 119,
-      "trophies": 226,
-      "donations": 322,
-      "donationsReceived": 995,
+      "trophies": 297,
+      "donations": 324,
+      "donationsReceived": 1042,
       "capitalContributions": 0
     },
     {
@@ -120,7 +120,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 170,
-      "trophies": 26,
+      "trophies": 53,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -132,8 +132,8 @@
       "th": 13,
       "expLevel": 112,
       "trophies": 0,
-      "donations": 548,
-      "donationsReceived": 450,
+      "donations": 628,
+      "donationsReceived": 527,
       "capitalContributions": 0
     },
     {
@@ -154,8 +154,8 @@
       "th": 13,
       "expLevel": 149,
       "trophies": 0,
-      "donations": 171,
-      "donationsReceived": 517,
+      "donations": 176,
+      "donationsReceived": 564,
       "capitalContributions": 0
     },
     {
@@ -192,6 +192,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#L8GUP0C8G",
+      "name": "Ditto",
+      "role": "admin",
+      "th": 13,
+      "expLevel": 134,
+      "trophies": 56,
+      "donations": 130,
+      "donationsReceived": 77,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#GGJY8JJQ0",
       "name": "Hazkie",
       "role": "admin",
@@ -214,17 +225,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#QV08GJJQV",
-      "name": "knuxyngYiudjdh",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 61,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#QV9QYJ09G",
       "name": "Gobinath.N",
       "role": "admin",
@@ -236,6 +236,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#R0YP0JYLQ",
+      "name": "rhay",
+      "role": "member",
+      "th": 13,
+      "expLevel": 79,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#R0QQVRP22",
       "name": "zeko lelo",
       "role": "admin",
@@ -244,17 +255,6 @@
       "trophies": 0,
       "donations": 151,
       "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#L8GUP0C8G",
-      "name": "Ditto",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 134,
-      "trophies": 0,
-      "donations": 130,
-      "donationsReceived": 77,
       "capitalContributions": 0
     },
     {
@@ -309,7 +309,7 @@
       "expLevel": 60,
       "trophies": 0,
       "donations": 152,
-      "donationsReceived": 477,
+      "donationsReceived": 487,
       "capitalContributions": 0
     },
     {
