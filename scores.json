@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T04:41:04.731Z",
+  "generatedAt": "2026-09-15T09:58:21.831Z",
   "snapshotDate": "2026-09-15",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -710,6 +710,39 @@
       }
     },
     {
+      "tag": "#G8VGPGY8J",
+      "name": "asap",
+      "role": "admin",
+      "th": 14,
+      "firstSeen": "2026-08-14",
+      "daysPresent": 32,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 0,
+      "warsTotal": 22,
+      "clan": {
+        "total": 45.2,
+        "pillars": {
+          "donations": 24,
+          "raids": 52,
+          "loot": 70
+        },
+        "tier": "Uncommon"
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#GRYL9G0PJ",
       "name": "ijsjsjw",
       "role": "coLeader",
@@ -895,39 +928,6 @@
           "loot": 0
         },
         "tier": "Uncommon"
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#G8VGPGY8J",
-      "name": "asap",
-      "role": "admin",
-      "th": 14,
-      "firstSeen": "2026-08-14",
-      "daysPresent": 32,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 0,
-      "warsTotal": 22,
-      "clan": {
-        "total": 39.7,
-        "pillars": {
-          "donations": 10,
-          "raids": 52,
-          "loot": 70
-        },
-        "tier": "Common"
       },
       "war": {
         "total": null,
@@ -1215,7 +1215,7 @@
     {
       "tag": "#L80R0CC0",
       "name": "RoboHobo",
-      "role": "member",
+      "role": "admin",
       "th": 14,
       "firstSeen": "2026-09-15",
       "daysPresent": 1,
