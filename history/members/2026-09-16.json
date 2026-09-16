@@ -1,6 +1,6 @@
 {
   "date": "2026-09-16",
-  "capturedAt": "2026-09-16T01:17:10.815Z",
+  "capturedAt": "2026-09-16T07:35:08.141Z",
   "clanLevel": 7,
   "memberCount": 40,
   "members": [
@@ -44,7 +44,7 @@
       "th": 13,
       "expLevel": 123,
       "trophies": 427,
-      "donations": 624,
+      "donations": 679,
       "donationsReceived": 304,
       "capitalContributions": 0
     },
@@ -67,7 +67,7 @@
       "expLevel": 153,
       "trophies": 0,
       "donations": 332,
-      "donationsReceived": 856,
+      "donationsReceived": 901,
       "capitalContributions": 0
     },
     {
@@ -148,6 +148,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#R8GPLGRVQ",
+      "name": "LegitN00b98",
+      "role": "coLeader",
+      "th": 12,
+      "expLevel": 91,
+      "trophies": 13,
+      "donations": 4,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#P02U2U9GC",
       "name": "Diego",
       "role": "admin",
@@ -156,17 +167,6 @@
       "trophies": 0,
       "donations": 176,
       "donationsReceived": 564,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#R8GPLGRVQ",
-      "name": "LegitN00b98",
-      "role": "coLeader",
-      "th": 12,
-      "expLevel": 91,
-      "trophies": 0,
-      "donations": 4,
-      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -273,7 +273,7 @@
       "name": "DevilIguana",
       "role": "admin",
       "th": 12,
-      "expLevel": 103,
+      "expLevel": 104,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -298,7 +298,7 @@
       "expLevel": 60,
       "trophies": 0,
       "donations": 152,
-      "donationsReceived": 487,
+      "donationsReceived": 519,
       "capitalContributions": 0
     },
     {
@@ -352,7 +352,7 @@
       "th": 18,
       "expLevel": 255,
       "trophies": 0,
-      "donations": 420,
+      "donations": 435,
       "donationsReceived": 448,
       "capitalContributions": 0
     },
@@ -440,8 +440,8 @@
       "th": 18,
       "expLevel": 240,
       "trophies": 0,
-      "donations": 972,
-      "donationsReceived": 632,
+      "donations": 1034,
+      "donationsReceived": 687,
       "capitalContributions": 0
     }
   ]
