@@ -1,8 +1,8 @@
 {
   "date": "2026-09-16",
-  "capturedAt": "2026-09-16T07:35:08.141Z",
+  "capturedAt": "2026-09-16T13:24:29.420Z",
   "clanLevel": 7,
-  "memberCount": 40,
+  "memberCount": 41,
   "members": [
     {
       "tag": "#G2G8R9RPC",
@@ -32,8 +32,8 @@
       "role": "admin",
       "th": 16,
       "expLevel": 170,
-      "trophies": 573,
-      "donations": 425,
+      "trophies": 613,
+      "donations": 515,
       "donationsReceived": 161,
       "capitalContributions": 0
     },
@@ -65,9 +65,9 @@
       "role": "admin",
       "th": 14,
       "expLevel": 153,
-      "trophies": 0,
+      "trophies": 11,
       "donations": 332,
-      "donationsReceived": 901,
+      "donationsReceived": 946,
       "capitalContributions": 0
     },
     {
@@ -76,7 +76,7 @@
       "role": "admin",
       "th": 14,
       "expLevel": 117,
-      "trophies": 0,
+      "trophies": 8,
       "donations": 207,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -133,7 +133,7 @@
       "expLevel": 112,
       "trophies": 0,
       "donations": 628,
-      "donationsReceived": 527,
+      "donationsReceived": 602,
       "capitalContributions": 0
     },
     {
@@ -192,6 +192,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#L8GUP0C8G",
+      "name": "Ditto",
+      "role": "admin",
+      "th": 13,
+      "expLevel": 134,
+      "trophies": 86,
+      "donations": 130,
+      "donationsReceived": 77,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#GGJY8JJQ0",
       "name": "Hazkie",
       "role": "admin",
@@ -200,17 +211,6 @@
       "trophies": 56,
       "donations": 104,
       "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#L8GUP0C8G",
-      "name": "Ditto",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 134,
-      "trophies": 56,
-      "donations": 130,
-      "donationsReceived": 77,
       "capitalContributions": 0
     },
     {
@@ -330,7 +330,7 @@
       "th": 17,
       "expLevel": 152,
       "trophies": 0,
-      "donations": 804,
+      "donations": 834,
       "donationsReceived": 551,
       "capitalContributions": 0
     },
@@ -342,6 +342,17 @@
       "expLevel": 92,
       "trophies": 0,
       "donations": 2,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#Y8LVGUR8Q",
+      "name": "gantushig",
+      "role": "member",
+      "th": 13,
+      "expLevel": 122,
+      "trophies": 0,
+      "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
     },

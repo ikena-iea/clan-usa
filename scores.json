@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T07:35:08.712Z",
+  "generatedAt": "2026-09-16T13:24:29.996Z",
   "snapshotDate": "2026-09-16",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1327,6 +1327,39 @@
           "donations": 100,
           "raids": 0,
           "loot": 0
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#Y8LVGUR8Q",
+      "name": "gantushig",
+      "role": "member",
+      "th": 13,
+      "firstSeen": "2026-09-16",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 22,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
         },
         "tier": null
       },
