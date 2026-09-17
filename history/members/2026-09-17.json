@@ -1,6 +1,6 @@
 {
   "date": "2026-09-17",
-  "capturedAt": "2026-09-17T01:16:54.343Z",
+  "capturedAt": "2026-09-17T07:31:40.999Z",
   "clanLevel": 7,
   "memberCount": 41,
   "members": [
@@ -65,7 +65,7 @@
       "role": "admin",
       "th": 14,
       "expLevel": 153,
-      "trophies": 11,
+      "trophies": 38,
       "donations": 377,
       "donationsReceived": 949,
       "capitalContributions": 0
@@ -88,7 +88,7 @@
       "th": 13,
       "expLevel": 119,
       "trophies": 377,
-      "donations": 355,
+      "donations": 357,
       "donationsReceived": 1121,
       "capitalContributions": 0
     },
@@ -133,7 +133,7 @@
       "expLevel": 112,
       "trophies": 0,
       "donations": 628,
-      "donationsReceived": 659,
+      "donationsReceived": 681,
       "capitalContributions": 0
     },
     {
@@ -207,8 +207,8 @@
       "name": "Hazkie",
       "role": "admin",
       "th": 13,
-      "expLevel": 135,
-      "trophies": 56,
+      "expLevel": 136,
+      "trophies": 82,
       "donations": 104,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -250,9 +250,9 @@
       "tag": "#GYC8Q2R20",
       "name": "lucky",
       "role": "admin",
-      "th": 11,
+      "th": 12,
       "expLevel": 98,
-      "trophies": 210,
+      "trophies": 330,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -298,7 +298,7 @@
       "expLevel": 60,
       "trophies": 0,
       "donations": 154,
-      "donationsReceived": 529,
+      "donationsReceived": 566,
       "capitalContributions": 0
     },
     {
@@ -363,7 +363,7 @@
       "th": 18,
       "expLevel": 255,
       "trophies": 0,
-      "donations": 435,
+      "donations": 472,
       "donationsReceived": 448,
       "capitalContributions": 0
     },
@@ -418,7 +418,7 @@
       "th": 14,
       "expLevel": 148,
       "trophies": 0,
-      "donations": 55,
+      "donations": 75,
       "donationsReceived": 0,
       "capitalContributions": 0
     },

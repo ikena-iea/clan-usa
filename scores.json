@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T01:16:54.869Z",
+  "generatedAt": "2026-09-17T07:31:41.398Z",
   "snapshotDate": "2026-09-17",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -543,7 +543,7 @@
       "tag": "#GYC8Q2R20",
       "name": "lucky",
       "role": "admin",
-      "th": 11,
+      "th": 12,
       "firstSeen": "2026-07-28",
       "daysPresent": 51,
       "inGrace": false,
@@ -721,9 +721,9 @@
       "warsJoined": 0,
       "warsTotal": 22,
       "clan": {
-        "total": 45,
+        "total": 47,
         "pillars": {
-          "donations": 23,
+          "donations": 28,
           "raids": 52,
           "loot": 70
         },
