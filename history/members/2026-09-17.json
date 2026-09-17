@@ -1,8 +1,8 @@
 {
   "date": "2026-09-17",
-  "capturedAt": "2026-09-17T07:31:40.999Z",
+  "capturedAt": "2026-09-17T13:20:21.801Z",
   "clanLevel": 7,
-  "memberCount": 41,
+  "memberCount": 40,
   "members": [
     {
       "tag": "#G2G8R9RPC",
@@ -10,7 +10,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 172,
-      "trophies": 82,
+      "trophies": 93,
       "donations": 210,
       "donationsReceived": 248,
       "capitalContributions": 0
@@ -21,7 +21,7 @@
       "role": "admin",
       "th": 16,
       "expLevel": 155,
-      "trophies": 81,
+      "trophies": 110,
       "donations": 214,
       "donationsReceived": 247,
       "capitalContributions": 0
@@ -186,9 +186,20 @@
       "role": "admin",
       "th": 13,
       "expLevel": 98,
-      "trophies": 115,
+      "trophies": 129,
       "donations": 61,
       "donationsReceived": 67,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#GGJY8JJQ0",
+      "name": "Hazkie",
+      "role": "admin",
+      "th": 13,
+      "expLevel": 136,
+      "trophies": 104,
+      "donations": 104,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -200,17 +211,6 @@
       "trophies": 86,
       "donations": 130,
       "donationsReceived": 77,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GGJY8JJQ0",
-      "name": "Hazkie",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 136,
-      "trophies": 82,
-      "donations": 104,
-      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -313,17 +313,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#R2JRVJG0U",
-      "name": "100 days",
-      "role": "coLeader",
-      "th": 7,
-      "expLevel": 35,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#LCVCL0LU0",
       "name": "Limeranch",
       "role": "coLeader",
@@ -350,7 +339,7 @@
       "name": "gantushig",
       "role": "admin",
       "th": 13,
-      "expLevel": 122,
+      "expLevel": 123,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -361,7 +350,7 @@
       "name": "Aaron",
       "role": "admin",
       "th": 18,
-      "expLevel": 255,
+      "expLevel": 256,
       "trophies": 0,
       "donations": 472,
       "donationsReceived": 448,

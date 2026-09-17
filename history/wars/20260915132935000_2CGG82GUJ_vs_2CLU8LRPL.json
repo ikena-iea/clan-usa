@@ -1,0 +1,183 @@
+{
+  "id": "20260915132935000_2CGG82GUJ_vs_2CLU8LRPL",
+  "source": "regular",
+  "state": "warEnded",
+  "endTime": "20260917T122935.000Z",
+  "teamSize": 5,
+  "attacksPerMember": 2,
+  "opponent": {
+    "tag": "#2CLU8LRPL",
+    "name": "العرب"
+  },
+  "result": {
+    "ourStars": 0,
+    "theirStars": 14,
+    "ourDestruction": 6.4,
+    "theirDestruction": 95.4
+  },
+  "roster": [
+    {
+      "tag": "#QV08GJJQV",
+      "name": "knuxyngYiudjdh",
+      "th": 13,
+      "mapPosition": 4
+    },
+    {
+      "tag": "#R2JRVJG0U",
+      "name": "100 days",
+      "th": 7,
+      "mapPosition": 5
+    },
+    {
+      "tag": "#890GLU9Y0",
+      "name": "selfless",
+      "th": 13,
+      "mapPosition": 1
+    },
+    {
+      "tag": "#QR2QYUJV9",
+      "name": "Alexluidriana",
+      "th": 12,
+      "mapPosition": 3
+    },
+    {
+      "tag": "#LRRRCVVC8",
+      "name": "prt57",
+      "th": 12,
+      "mapPosition": 2
+    }
+  ],
+  "attacks": [
+    {
+      "attackerTag": "#R2JRVJG0U",
+      "attackerName": "100 days",
+      "attackerTH": 7,
+      "defenderTH": 9,
+      "stars": 0,
+      "dest": 16,
+      "starsGained": 0,
+      "destGained": 16,
+      "order": 6,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#R2JRVJG0U",
+      "attackerName": "100 days",
+      "attackerTH": 7,
+      "defenderTH": 13,
+      "stars": 0,
+      "dest": 16,
+      "starsGained": 0,
+      "destGained": 16,
+      "order": 7,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#QV08GJJQV",
+      "attackerName": "knuxyngYiudjdh",
+      "attackerTH": 13,
+      "defenderTH": null,
+      "stars": 0,
+      "dest": 0,
+      "starsGained": 0,
+      "destGained": 0,
+      "order": null,
+      "missed": true,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#QV08GJJQV",
+      "attackerName": "knuxyngYiudjdh",
+      "attackerTH": 13,
+      "defenderTH": null,
+      "stars": 0,
+      "dest": 0,
+      "starsGained": 0,
+      "destGained": 0,
+      "order": null,
+      "missed": true,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#890GLU9Y0",
+      "attackerName": "selfless",
+      "attackerTH": 13,
+      "defenderTH": null,
+      "stars": 0,
+      "dest": 0,
+      "starsGained": 0,
+      "destGained": 0,
+      "order": null,
+      "missed": true,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#890GLU9Y0",
+      "attackerName": "selfless",
+      "attackerTH": 13,
+      "defenderTH": null,
+      "stars": 0,
+      "dest": 0,
+      "starsGained": 0,
+      "destGained": 0,
+      "order": null,
+      "missed": true,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#QR2QYUJV9",
+      "attackerName": "Alexluidriana",
+      "attackerTH": 12,
+      "defenderTH": null,
+      "stars": 0,
+      "dest": 0,
+      "starsGained": 0,
+      "destGained": 0,
+      "order": null,
+      "missed": true,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#QR2QYUJV9",
+      "attackerName": "Alexluidriana",
+      "attackerTH": 12,
+      "defenderTH": null,
+      "stars": 0,
+      "dest": 0,
+      "starsGained": 0,
+      "destGained": 0,
+      "order": null,
+      "missed": true,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#LRRRCVVC8",
+      "attackerName": "prt57",
+      "attackerTH": 12,
+      "defenderTH": null,
+      "stars": 0,
+      "dest": 0,
+      "starsGained": 0,
+      "destGained": 0,
+      "order": null,
+      "missed": true,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#LRRRCVVC8",
+      "attackerName": "prt57",
+      "attackerTH": 12,
+      "defenderTH": null,
+      "stars": 0,
+      "dest": 0,
+      "starsGained": 0,
+      "destGained": 0,
+      "order": null,
+      "missed": true,
+      "source": "regular"
+    }
+  ],
+  "archivedAt": "2026-09-17T13:20:21.946Z"
+}
