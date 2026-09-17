@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T13:20:22.327Z",
+  "generatedAt": "2026-09-17T18:07:24.444Z",
   "snapshotDate": "2026-09-17",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1056,9 +1056,9 @@
       "warsJoined": 8,
       "warsTotal": 23,
       "clan": {
-        "total": 0,
+        "total": 0.3,
         "pillars": {
-          "donations": 0,
+          "donations": 1,
           "raids": 0,
           "loot": 0
         },
@@ -1261,6 +1261,39 @@
           "donations": 100,
           "raids": 100,
           "loot": 81
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#YUR99QV",
+      "name": "PvtPaul",
+      "role": "member",
+      "th": 12,
+      "firstSeen": "2026-09-17",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 23,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
         },
         "tier": null
       },

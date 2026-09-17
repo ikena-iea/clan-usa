@@ -1,8 +1,8 @@
 {
   "date": "2026-09-17",
-  "capturedAt": "2026-09-17T13:20:21.801Z",
+  "capturedAt": "2026-09-17T18:07:23.852Z",
   "clanLevel": 7,
-  "memberCount": 40,
+  "memberCount": 41,
   "members": [
     {
       "tag": "#G2G8R9RPC",
@@ -54,7 +54,7 @@
       "role": "admin",
       "th": 14,
       "expLevel": 151,
-      "trophies": 159,
+      "trophies": 256,
       "donations": 5,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -77,7 +77,7 @@
       "th": 14,
       "expLevel": 118,
       "trophies": 8,
-      "donations": 262,
+      "donations": 309,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -99,7 +99,7 @@
       "th": 13,
       "expLevel": 152,
       "trophies": 0,
-      "donations": 538,
+      "donations": 628,
       "donationsReceived": 77,
       "capitalContributions": 0
     },
@@ -153,7 +153,7 @@
       "role": "coLeader",
       "th": 12,
       "expLevel": 92,
-      "trophies": 13,
+      "trophies": 25,
       "donations": 4,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -166,7 +166,7 @@
       "expLevel": 149,
       "trophies": 0,
       "donations": 188,
-      "donationsReceived": 611,
+      "donationsReceived": 658,
       "capitalContributions": 0
     },
     {
@@ -229,10 +229,10 @@
       "name": "Gobinath.N",
       "role": "admin",
       "th": 13,
-      "expLevel": 118,
+      "expLevel": 119,
       "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 1002,
+      "donations": 3,
+      "donationsReceived": 1139,
       "capitalContributions": 0
     },
     {
@@ -252,7 +252,7 @@
       "role": "admin",
       "th": 12,
       "expLevel": 98,
-      "trophies": 330,
+      "trophies": 342,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -291,14 +291,25 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#YUR99QV",
+      "name": "PvtPaul",
+      "role": "member",
+      "th": 12,
+      "expLevel": 87,
+      "trophies": 0,
+      "donations": 47,
+      "donationsReceived": 67,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#GVCC8LY9Y",
       "name": "MDTanvir",
       "role": "admin",
       "th": 12,
       "expLevel": 60,
       "trophies": 0,
-      "donations": 154,
-      "donationsReceived": 566,
+      "donations": 221,
+      "donationsReceived": 569,
       "capitalContributions": 0
     },
     {
