@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T18:07:24.444Z",
+  "generatedAt": "2026-09-17T22:03:07.438Z",
   "snapshotDate": "2026-09-17",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1154,6 +1154,39 @@
       "daysPresent": 2,
       "inGrace": true,
       "gracePeriodEndsIn": 12,
+      "warsJoined": 0,
+      "warsTotal": 23,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#GUUGY0JL8",
+      "name": "Messi",
+      "role": "member",
+      "th": 13,
+      "firstSeen": "2026-09-17",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
       "warsJoined": 0,
       "warsTotal": 23,
       "clan": {

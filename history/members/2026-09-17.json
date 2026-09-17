@@ -1,18 +1,18 @@
 {
   "date": "2026-09-17",
-  "capturedAt": "2026-09-17T18:07:23.852Z",
+  "capturedAt": "2026-09-17T22:03:06.879Z",
   "clanLevel": 7,
-  "memberCount": 41,
+  "memberCount": 42,
   "members": [
     {
       "tag": "#G2G8R9RPC",
       "name": "gangster1000000",
       "role": "admin",
       "th": 15,
-      "expLevel": 172,
-      "trophies": 93,
-      "donations": 210,
-      "donationsReceived": 248,
+      "expLevel": 173,
+      "trophies": 222,
+      "donations": 305,
+      "donationsReceived": 383,
       "capitalContributions": 0
     },
     {
@@ -33,7 +33,7 @@
       "th": 16,
       "expLevel": 170,
       "trophies": 631,
-      "donations": 515,
+      "donations": 607,
       "donationsReceived": 161,
       "capitalContributions": 0
     },
@@ -64,10 +64,10 @@
       "name": "THE ROCK",
       "role": "admin",
       "th": 14,
-      "expLevel": 153,
-      "trophies": 38,
-      "donations": 377,
-      "donationsReceived": 949,
+      "expLevel": 154,
+      "trophies": 64,
+      "donations": 389,
+      "donationsReceived": 1042,
       "capitalContributions": 0
     },
     {
@@ -99,7 +99,7 @@
       "th": 13,
       "expLevel": 152,
       "trophies": 0,
-      "donations": 628,
+      "donations": 704,
       "donationsReceived": 77,
       "capitalContributions": 0
     },
@@ -111,6 +111,17 @@
       "expLevel": 104,
       "trophies": 0,
       "donations": 371,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#GUUGY0JL8",
+      "name": "Messi",
+      "role": "member",
+      "th": 13,
+      "expLevel": 97,
+      "trophies": 146,
+      "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -166,7 +177,7 @@
       "expLevel": 149,
       "trophies": 0,
       "donations": 188,
-      "donationsReceived": 658,
+      "donationsReceived": 705,
       "capitalContributions": 0
     },
     {
