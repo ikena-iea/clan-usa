@@ -1,6 +1,6 @@
 {
   "date": "2026-09-18",
-  "capturedAt": "2026-09-18T12:57:02.355Z",
+  "capturedAt": "2026-09-18T17:02:25.637Z",
   "clanLevel": 7,
   "memberCount": 43,
   "members": [
@@ -10,7 +10,7 @@
       "role": "member",
       "th": 18,
       "expLevel": 199,
-      "trophies": 153,
+      "trophies": 224,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -143,7 +143,7 @@
       "th": 13,
       "expLevel": 112,
       "trophies": 0,
-      "donations": 699,
+      "donations": 746,
       "donationsReceived": 758,
       "capitalContributions": 0
     },
@@ -218,7 +218,7 @@
       "name": "Ronald",
       "role": "admin",
       "th": 13,
-      "expLevel": 98,
+      "expLevel": 99,
       "trophies": 129,
       "donations": 61,
       "donationsReceived": 67,
@@ -331,7 +331,7 @@
       "expLevel": 60,
       "trophies": 0,
       "donations": 221,
-      "donationsReceived": 601,
+      "donationsReceived": 638,
       "capitalContributions": 0
     },
     {
@@ -375,7 +375,7 @@
       "expLevel": 123,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 112,
+      "donationsReceived": 154,
       "capitalContributions": 0
     },
     {
@@ -473,7 +473,7 @@
       "th": 18,
       "expLevel": 240,
       "trophies": 0,
-      "donations": 1069,
+      "donations": 1101,
       "donationsReceived": 687,
       "capitalContributions": 0
     }
