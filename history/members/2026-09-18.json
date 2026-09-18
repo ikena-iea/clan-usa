@@ -1,13 +1,13 @@
 {
   "date": "2026-09-18",
-  "capturedAt": "2026-09-18T20:48:39.063Z",
+  "capturedAt": "2026-09-18T23:11:12.070Z",
   "clanLevel": 7,
-  "memberCount": 43,
+  "memberCount": 42,
   "members": [
     {
       "tag": "#9Y8JCVPGL",
       "name": ",,,",
-      "role": "member",
+      "role": "admin",
       "th": 18,
       "expLevel": 199,
       "trophies": 224,
@@ -100,7 +100,7 @@
       "expLevel": 120,
       "trophies": 388,
       "donations": 357,
-      "donationsReceived": 1121,
+      "donationsReceived": 1126,
       "capitalContributions": 0
     },
     {
@@ -119,7 +119,7 @@
       "name": "Didetz",
       "role": "leader",
       "th": 14,
-      "expLevel": 104,
+      "expLevel": 105,
       "trophies": 0,
       "donations": 371,
       "donationsReceived": 0,
@@ -172,7 +172,7 @@
     {
       "tag": "#QU8CP2CU0",
       "name": "AS gaming",
-      "role": "member",
+      "role": "admin",
       "th": 13,
       "expLevel": 85,
       "trophies": 0,
@@ -302,20 +302,9 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#QR2QYUJV9",
-      "name": "Alexluidriana",
-      "role": "admin",
-      "th": 12,
-      "expLevel": 101,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#YUR99QV",
       "name": "PvtPaul",
-      "role": "member",
+      "role": "admin",
       "th": 12,
       "expLevel": 87,
       "trophies": 0,
@@ -352,7 +341,7 @@
       "th": 17,
       "expLevel": 152,
       "trophies": 0,
-      "donations": 834,
+      "donations": 839,
       "donationsReceived": 551,
       "capitalContributions": 0
     },

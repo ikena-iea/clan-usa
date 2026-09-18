@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T20:48:39.559Z",
+  "generatedAt": "2026-09-18T23:11:12.531Z",
   "snapshotDate": "2026-09-18",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -574,40 +574,6 @@
       }
     },
     {
-      "tag": "#QR2QYUJV9",
-      "name": "Alexluidriana",
-      "role": "admin",
-      "th": 12,
-      "firstSeen": "2026-08-29",
-      "daysPresent": 20,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 8,
-      "warsTotal": 23,
-      "clan": {
-        "total": 54.5,
-        "pillars": {
-          "donations": 27,
-          "raids": 71,
-          "loot": 77
-        },
-        "tier": "Uncommon"
-      },
-      "war": {
-        "total": 56.7,
-        "status": null,
-        "cap": "Uncommon",
-        "pillars": {
-          "reliability": 67,
-          "performance": 42
-        },
-        "available": 9,
-        "used": 6,
-        "misses": 3,
-        "tier": "Uncommon"
-      }
-    },
-    {
       "tag": "#R8J082Y0J",
       "name": "arroz",
       "role": "admin",
@@ -1115,7 +1081,7 @@
     {
       "tag": "#9Y8JCVPGL",
       "name": ",,,",
-      "role": "member",
+      "role": "admin",
       "th": 18,
       "firstSeen": "2026-09-18",
       "daysPresent": 1,
@@ -1247,7 +1213,7 @@
     {
       "tag": "#QU8CP2CU0",
       "name": "AS gaming",
-      "role": "member",
+      "role": "admin",
       "th": 13,
       "firstSeen": "2026-09-18",
       "daysPresent": 1,
@@ -1346,7 +1312,7 @@
     {
       "tag": "#YUR99QV",
       "name": "PvtPaul",
-      "role": "member",
+      "role": "admin",
       "th": 12,
       "firstSeen": "2026-09-17",
       "daysPresent": 1,
