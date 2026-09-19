@@ -1,0 +1,663 @@
+{
+  "id": "20260917141434000_2CGG82GUJ_vs_CC0PVVYG",
+  "source": "regular",
+  "state": "warEnded",
+  "endTime": "20260919T131434.000Z",
+  "teamSize": 20,
+  "attacksPerMember": 2,
+  "opponent": {
+    "tag": "#CC0PVVYG",
+    "name": "عـاشـــــقانــه"
+  },
+  "result": {
+    "ourStars": 55,
+    "theirStars": 54,
+    "ourDestruction": 93,
+    "theirDestruction": 95
+  },
+  "roster": [
+    {
+      "tag": "#LCVCL0LU0",
+      "name": "Limeranch",
+      "th": 17,
+      "mapPosition": 3
+    },
+    {
+      "tag": "#QVPQ8G2VQ",
+      "name": "your mom",
+      "th": 13,
+      "mapPosition": 15
+    },
+    {
+      "tag": "#QLV80QQCY",
+      "name": "THE ROCK",
+      "th": 14,
+      "mapPosition": 5
+    },
+    {
+      "tag": "#Y8LVGUR8Q",
+      "name": "gantushig",
+      "th": 13,
+      "mapPosition": 12
+    },
+    {
+      "tag": "#Q8QPY2L2",
+      "name": "Aaron",
+      "th": 18,
+      "mapPosition": 1
+    },
+    {
+      "tag": "#QV9QYJ09G",
+      "name": "Gobinath.N",
+      "th": 13,
+      "mapPosition": 13
+    },
+    {
+      "tag": "#YUUVCQR2C",
+      "name": "Ronald",
+      "th": 13,
+      "mapPosition": 14
+    },
+    {
+      "tag": "#GYC8Q2R20",
+      "name": "lucky",
+      "th": 12,
+      "mapPosition": 19
+    },
+    {
+      "tag": "#GVV89RJYQ",
+      "name": "DevilIguana",
+      "th": 12,
+      "mapPosition": 17
+    },
+    {
+      "tag": "#R292L228Q",
+      "name": "Ikena",
+      "th": 13,
+      "mapPosition": 7
+    },
+    {
+      "tag": "#CVLPRGYY",
+      "name": "Schlitz",
+      "th": 15,
+      "mapPosition": 4
+    },
+    {
+      "tag": "#R00YJ900G",
+      "name": "Lakers",
+      "th": 12,
+      "mapPosition": 18
+    },
+    {
+      "tag": "#P02U2U9GC",
+      "name": "Diego",
+      "th": 13,
+      "mapPosition": 9
+    },
+    {
+      "tag": "#GYVPLJRRL",
+      "name": "DaHairyVeer2",
+      "th": 13,
+      "mapPosition": 11
+    },
+    {
+      "tag": "#PGQVCVYPJ",
+      "name": "ben",
+      "th": 18,
+      "mapPosition": 2
+    },
+    {
+      "tag": "#R8GPLGRVQ",
+      "name": "LegitN00b98",
+      "th": 12,
+      "mapPosition": 16
+    },
+    {
+      "tag": "#R8PJY0U0J",
+      "name": "Didetz",
+      "th": 14,
+      "mapPosition": 8
+    },
+    {
+      "tag": "#GVCC8LY9Y",
+      "name": "MDTanvir",
+      "th": 12,
+      "mapPosition": 20
+    },
+    {
+      "tag": "#GGRR02GLG",
+      "name": "jude",
+      "th": 14,
+      "mapPosition": 6
+    },
+    {
+      "tag": "#Q8P8R8UQQ",
+      "name": "vale",
+      "th": 13,
+      "mapPosition": 10
+    }
+  ],
+  "attacks": [
+    {
+      "attackerTag": "#Y8LVGUR8Q",
+      "attackerName": "gantushig",
+      "attackerTH": 13,
+      "defenderTH": 13,
+      "stars": 3,
+      "dest": 100,
+      "starsGained": 3,
+      "destGained": 100,
+      "order": 4,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#Q8P8R8UQQ",
+      "attackerName": "vale",
+      "attackerTH": 13,
+      "defenderTH": 13,
+      "stars": 3,
+      "dest": 100,
+      "starsGained": 3,
+      "destGained": 100,
+      "order": 6,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#YUUVCQR2C",
+      "attackerName": "Ronald",
+      "attackerTH": 13,
+      "defenderTH": 12,
+      "stars": 2,
+      "dest": 59,
+      "starsGained": 2,
+      "destGained": 59,
+      "order": 16,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#Q8P8R8UQQ",
+      "attackerName": "vale",
+      "attackerTH": 13,
+      "defenderTH": 13,
+      "stars": 2,
+      "dest": 96,
+      "starsGained": 2,
+      "destGained": 96,
+      "order": 17,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#GVCC8LY9Y",
+      "attackerName": "MDTanvir",
+      "attackerTH": 12,
+      "defenderTH": 10,
+      "stars": 3,
+      "dest": 100,
+      "starsGained": 3,
+      "destGained": 100,
+      "order": 18,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#GVCC8LY9Y",
+      "attackerName": "MDTanvir",
+      "attackerTH": 12,
+      "defenderTH": 12,
+      "stars": 3,
+      "dest": 100,
+      "starsGained": 3,
+      "destGained": 100,
+      "order": 21,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#QV9QYJ09G",
+      "attackerName": "Gobinath.N",
+      "attackerTH": 13,
+      "defenderTH": 11,
+      "stars": 3,
+      "dest": 100,
+      "starsGained": 3,
+      "destGained": 100,
+      "order": 24,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#QV9QYJ09G",
+      "attackerName": "Gobinath.N",
+      "attackerTH": 13,
+      "defenderTH": 11,
+      "stars": 3,
+      "dest": 100,
+      "starsGained": 3,
+      "destGained": 100,
+      "order": 25,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#YUUVCQR2C",
+      "attackerName": "Ronald",
+      "attackerTH": 13,
+      "defenderTH": 12,
+      "stars": 1,
+      "dest": 72,
+      "starsGained": 1,
+      "destGained": 72,
+      "order": 35,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#GGRR02GLG",
+      "attackerName": "jude",
+      "attackerTH": 14,
+      "defenderTH": 14,
+      "stars": 2,
+      "dest": 90,
+      "starsGained": 2,
+      "destGained": 90,
+      "order": 36,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#LCVCL0LU0",
+      "attackerName": "Limeranch",
+      "attackerTH": 17,
+      "defenderTH": 13,
+      "stars": 3,
+      "dest": 100,
+      "starsGained": 3,
+      "destGained": 100,
+      "order": 37,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#GYVPLJRRL",
+      "attackerName": "DaHairyVeer2",
+      "attackerTH": 13,
+      "defenderTH": 13,
+      "stars": 2,
+      "dest": 88,
+      "starsGained": 2,
+      "destGained": 88,
+      "order": 38,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#LCVCL0LU0",
+      "attackerName": "Limeranch",
+      "attackerTH": 17,
+      "defenderTH": 13,
+      "stars": 3,
+      "dest": 100,
+      "starsGained": 3,
+      "destGained": 100,
+      "order": 39,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#GVV89RJYQ",
+      "attackerName": "DevilIguana",
+      "attackerTH": 12,
+      "defenderTH": 12,
+      "stars": 2,
+      "dest": 75,
+      "starsGained": 1,
+      "destGained": 3,
+      "order": 40,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#R8PJY0U0J",
+      "attackerName": "Didetz",
+      "attackerTH": 14,
+      "defenderTH": 13,
+      "stars": 1,
+      "dest": 78,
+      "starsGained": 1,
+      "destGained": 78,
+      "order": 42,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#GGRR02GLG",
+      "attackerName": "jude",
+      "attackerTH": 14,
+      "defenderTH": 13,
+      "stars": 3,
+      "dest": 100,
+      "starsGained": 3,
+      "destGained": 100,
+      "order": 43,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#GYVPLJRRL",
+      "attackerName": "DaHairyVeer2",
+      "attackerTH": 13,
+      "defenderTH": 13,
+      "stars": 2,
+      "dest": 87,
+      "starsGained": 1,
+      "destGained": 9,
+      "order": 44,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#CVLPRGYY",
+      "attackerName": "Schlitz",
+      "attackerTH": 15,
+      "defenderTH": 16,
+      "stars": 3,
+      "dest": 100,
+      "starsGained": 3,
+      "destGained": 100,
+      "order": 45,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#CVLPRGYY",
+      "attackerName": "Schlitz",
+      "attackerTH": 15,
+      "defenderTH": 16,
+      "stars": 3,
+      "dest": 100,
+      "starsGained": 3,
+      "destGained": 100,
+      "order": 46,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#PGQVCVYPJ",
+      "attackerName": "ben",
+      "attackerTH": 18,
+      "defenderTH": 16,
+      "stars": 1,
+      "dest": 47,
+      "starsGained": 1,
+      "destGained": 47,
+      "order": 47,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#PGQVCVYPJ",
+      "attackerName": "ben",
+      "attackerTH": 18,
+      "defenderTH": 17,
+      "stars": 0,
+      "dest": 28,
+      "starsGained": 0,
+      "destGained": 28,
+      "order": 48,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#R8GPLGRVQ",
+      "attackerName": "LegitN00b98",
+      "attackerTH": 12,
+      "defenderTH": 17,
+      "stars": 0,
+      "dest": 33,
+      "starsGained": 0,
+      "destGained": 5,
+      "order": 51,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#R8GPLGRVQ",
+      "attackerName": "LegitN00b98",
+      "attackerTH": 12,
+      "defenderTH": 12,
+      "stars": 3,
+      "dest": 100,
+      "starsGained": 1,
+      "destGained": 41,
+      "order": 52,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#GYC8Q2R20",
+      "attackerName": "lucky",
+      "attackerTH": 12,
+      "defenderTH": 12,
+      "stars": 3,
+      "dest": 100,
+      "starsGained": 1,
+      "destGained": 25,
+      "order": 53,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#GYC8Q2R20",
+      "attackerName": "lucky",
+      "attackerTH": 12,
+      "defenderTH": 13,
+      "stars": 1,
+      "dest": 54,
+      "starsGained": 0,
+      "destGained": 0,
+      "order": 54,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#R00YJ900G",
+      "attackerName": "Lakers",
+      "attackerTH": 12,
+      "defenderTH": 18,
+      "stars": 0,
+      "dest": 24,
+      "starsGained": 0,
+      "destGained": 24,
+      "order": 55,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#R292L228Q",
+      "attackerName": "Ikena",
+      "attackerTH": 13,
+      "defenderTH": 13,
+      "stars": 3,
+      "dest": 100,
+      "starsGained": 1,
+      "destGained": 4,
+      "order": 56,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#R292L228Q",
+      "attackerName": "Ikena",
+      "attackerTH": 13,
+      "defenderTH": 14,
+      "stars": 3,
+      "dest": 100,
+      "starsGained": 1,
+      "destGained": 10,
+      "order": 57,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#Y8LVGUR8Q",
+      "attackerName": "gantushig",
+      "attackerTH": 13,
+      "defenderTH": 13,
+      "stars": 1,
+      "dest": 75,
+      "starsGained": 0,
+      "destGained": 0,
+      "order": 58,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#QLV80QQCY",
+      "attackerName": "THE ROCK",
+      "attackerTH": 14,
+      "defenderTH": 13,
+      "stars": 1,
+      "dest": 86,
+      "starsGained": 0,
+      "destGained": 0,
+      "order": 59,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#Q8QPY2L2",
+      "attackerName": "Aaron",
+      "attackerTH": 18,
+      "defenderTH": 18,
+      "stars": 2,
+      "dest": 50,
+      "starsGained": 2,
+      "destGained": 26,
+      "order": 60,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#QLV80QQCY",
+      "attackerName": "THE ROCK",
+      "attackerTH": 14,
+      "defenderTH": 13,
+      "stars": 3,
+      "dest": 100,
+      "starsGained": 1,
+      "destGained": 12,
+      "order": 61,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#Q8QPY2L2",
+      "attackerName": "Aaron",
+      "attackerTH": 18,
+      "defenderTH": 17,
+      "stars": 2,
+      "dest": 76,
+      "starsGained": 2,
+      "destGained": 43,
+      "order": 62,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#QVPQ8G2VQ",
+      "attackerName": "your mom",
+      "attackerTH": 13,
+      "defenderTH": null,
+      "stars": 0,
+      "dest": 0,
+      "starsGained": 0,
+      "destGained": 0,
+      "order": null,
+      "missed": true,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#QVPQ8G2VQ",
+      "attackerName": "your mom",
+      "attackerTH": 13,
+      "defenderTH": null,
+      "stars": 0,
+      "dest": 0,
+      "starsGained": 0,
+      "destGained": 0,
+      "order": null,
+      "missed": true,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#GVV89RJYQ",
+      "attackerName": "DevilIguana",
+      "attackerTH": 12,
+      "defenderTH": null,
+      "stars": 0,
+      "dest": 0,
+      "starsGained": 0,
+      "destGained": 0,
+      "order": null,
+      "missed": true,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#R00YJ900G",
+      "attackerName": "Lakers",
+      "attackerTH": 12,
+      "defenderTH": null,
+      "stars": 0,
+      "dest": 0,
+      "starsGained": 0,
+      "destGained": 0,
+      "order": null,
+      "missed": true,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#P02U2U9GC",
+      "attackerName": "Diego",
+      "attackerTH": 13,
+      "defenderTH": null,
+      "stars": 0,
+      "dest": 0,
+      "starsGained": 0,
+      "destGained": 0,
+      "order": null,
+      "missed": true,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#P02U2U9GC",
+      "attackerName": "Diego",
+      "attackerTH": 13,
+      "defenderTH": null,
+      "stars": 0,
+      "dest": 0,
+      "starsGained": 0,
+      "destGained": 0,
+      "order": null,
+      "missed": true,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#R8PJY0U0J",
+      "attackerName": "Didetz",
+      "attackerTH": 14,
+      "defenderTH": null,
+      "stars": 0,
+      "dest": 0,
+      "starsGained": 0,
+      "destGained": 0,
+      "order": null,
+      "missed": true,
+      "source": "regular"
+    }
+  ],
+  "archivedAt": "2026-09-19T13:51:18.539Z"
+}

@@ -1,6 +1,6 @@
 {
   "date": "2026-09-19",
-  "capturedAt": "2026-09-19T09:21:54.128Z",
+  "capturedAt": "2026-09-19T13:51:18.396Z",
   "clanLevel": 7,
   "memberCount": 43,
   "members": [
@@ -42,7 +42,7 @@
       "name": "pitek",
       "role": "admin",
       "th": 16,
-      "expLevel": 170,
+      "expLevel": 171,
       "trophies": 631,
       "donations": 718,
       "donationsReceived": 161,
@@ -55,7 +55,7 @@
       "th": 13,
       "expLevel": 124,
       "trophies": 427,
-      "donations": 889,
+      "donations": 948,
       "donationsReceived": 304,
       "capitalContributions": 0
     },
@@ -65,7 +65,7 @@
       "role": "admin",
       "th": 14,
       "expLevel": 151,
-      "trophies": 256,
+      "trophies": 284,
       "donations": 5,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -89,7 +89,7 @@
       "expLevel": 154,
       "trophies": 64,
       "donations": 389,
-      "donationsReceived": 1045,
+      "donationsReceived": 1093,
       "capitalContributions": 0
     },
     {
@@ -385,8 +385,8 @@
       "th": 18,
       "expLevel": 256,
       "trophies": 0,
-      "donations": 546,
-      "donationsReceived": 448,
+      "donations": 576,
+      "donationsReceived": 562,
       "capitalContributions": 0
     },
     {
@@ -396,7 +396,7 @@
       "th": 15,
       "expLevel": 171,
       "trophies": 0,
-      "donations": 841,
+      "donations": 914,
       "donationsReceived": 236,
       "capitalContributions": 0
     },
