@@ -1,6 +1,6 @@
 {
   "date": "2026-09-19",
-  "capturedAt": "2026-09-19T04:23:39.696Z",
+  "capturedAt": "2026-09-19T09:21:54.128Z",
   "clanLevel": 7,
   "memberCount": 43,
   "members": [
@@ -53,9 +53,9 @@
       "name": "Ikena",
       "role": "coLeader",
       "th": 13,
-      "expLevel": 123,
+      "expLevel": 124,
       "trophies": 427,
-      "donations": 797,
+      "donations": 889,
       "donationsReceived": 304,
       "capitalContributions": 0
     },
@@ -100,7 +100,7 @@
       "expLevel": 120,
       "trophies": 388,
       "donations": 357,
-      "donationsReceived": 1201,
+      "donationsReceived": 1203,
       "capitalContributions": 0
     },
     {
@@ -219,7 +219,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 136,
-      "trophies": 266,
+      "trophies": 378,
       "donations": 106,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -241,7 +241,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 134,
-      "trophies": 86,
+      "trophies": 103,
       "donations": 130,
       "donationsReceived": 77,
       "capitalContributions": 0
@@ -265,7 +265,7 @@
       "expLevel": 119,
       "trophies": 0,
       "donations": 3,
-      "donationsReceived": 1139,
+      "donationsReceived": 1231,
       "capitalContributions": 0
     },
     {
@@ -276,7 +276,7 @@
       "expLevel": 91,
       "trophies": 0,
       "donations": 156,
-      "donationsReceived": 0,
+      "donationsReceived": 72,
       "capitalContributions": 0
     },
     {
@@ -306,7 +306,7 @@
       "name": "DevilIguana",
       "role": "admin",
       "th": 12,
-      "expLevel": 104,
+      "expLevel": 105,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -385,7 +385,7 @@
       "th": 18,
       "expLevel": 256,
       "trophies": 0,
-      "donations": 472,
+      "donations": 546,
       "donationsReceived": 448,
       "capitalContributions": 0
     },
