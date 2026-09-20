@@ -1,8 +1,8 @@
 {
   "date": "2026-09-20",
-  "capturedAt": "2026-09-20T16:44:44.723Z",
+  "capturedAt": "2026-09-20T19:20:15.169Z",
   "clanLevel": 7,
-  "memberCount": 44,
+  "memberCount": 45,
   "members": [
     {
       "tag": "#9Y8JCVPGL",
@@ -44,7 +44,7 @@
       "th": 16,
       "expLevel": 171,
       "trophies": 645,
-      "donations": 802,
+      "donations": 847,
       "donationsReceived": 161,
       "capitalContributions": 0
     },
@@ -71,6 +71,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#QLV80QQCY",
+      "name": "THE ROCK",
+      "role": "admin",
+      "th": 14,
+      "expLevel": 154,
+      "trophies": 146,
+      "donations": 600,
+      "donationsReceived": 1327,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#GGRR02GLG",
       "name": "jude",
       "role": "admin",
@@ -82,17 +93,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#QLV80QQCY",
-      "name": "THE ROCK",
-      "role": "admin",
-      "th": 14,
-      "expLevel": 154,
-      "trophies": 134,
-      "donations": 592,
-      "donationsReceived": 1282,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#GYVPLJRRL",
       "name": "DaHairyVeer2",
       "role": "coLeader",
@@ -101,6 +101,17 @@
       "trophies": 388,
       "donations": 521,
       "donationsReceived": 1302,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#GQJYV208R",
+      "name": "بهیر",
+      "role": "member",
+      "th": 14,
+      "expLevel": 80,
+      "trophies": 144,
+      "donations": 0,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -331,7 +342,7 @@
       "expLevel": 61,
       "trophies": 0,
       "donations": 221,
-      "donationsReceived": 683,
+      "donationsReceived": 691,
       "capitalContributions": 0
     },
     {

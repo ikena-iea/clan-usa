@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T16:44:45.205Z",
+  "generatedAt": "2026-09-20T19:20:15.605Z",
   "snapshotDate": "2026-09-20",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1225,6 +1225,39 @@
         "total": null,
         "pillars": {
           "donations": 99,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#GQJYV208R",
+      "name": "بهیر",
+      "role": "member",
+      "th": 14,
+      "firstSeen": "2026-09-20",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 24,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
           "raids": null,
           "loot": null
         },
