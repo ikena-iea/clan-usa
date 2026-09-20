@@ -1,6 +1,6 @@
 {
   "date": "2026-09-20",
-  "capturedAt": "2026-09-20T06:02:16.418Z",
+  "capturedAt": "2026-09-20T12:12:37.476Z",
   "clanLevel": 7,
   "memberCount": 43,
   "members": [
@@ -21,7 +21,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 173,
-      "trophies": 283,
+      "trophies": 298,
       "donations": 406,
       "donationsReceived": 433,
       "capitalContributions": 0
@@ -87,9 +87,9 @@
       "role": "admin",
       "th": 14,
       "expLevel": 154,
-      "trophies": 64,
-      "donations": 389,
-      "donationsReceived": 1141,
+      "trophies": 134,
+      "donations": 501,
+      "donationsReceived": 1189,
       "capitalContributions": 0
     },
     {
@@ -133,7 +133,7 @@
       "expLevel": 72,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 198,
+      "donationsReceived": 264,
       "capitalContributions": 0
     },
     {
@@ -265,7 +265,7 @@
       "expLevel": 119,
       "trophies": 0,
       "donations": 3,
-      "donationsReceived": 1400,
+      "donationsReceived": 1446,
       "capitalContributions": 0
     },
     {
@@ -296,7 +296,7 @@
       "role": "admin",
       "th": 11,
       "expLevel": 89,
-      "trophies": 81,
+      "trophies": 151,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -317,7 +317,7 @@
       "name": "PvtPaul",
       "role": "admin",
       "th": 12,
-      "expLevel": 87,
+      "expLevel": 88,
       "trophies": 0,
       "donations": 47,
       "donationsReceived": 134,
@@ -352,7 +352,7 @@
       "th": 17,
       "expLevel": 152,
       "trophies": 0,
-      "donations": 843,
+      "donations": 891,
       "donationsReceived": 551,
       "capitalContributions": 0
     },
