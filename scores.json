@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T12:12:38.008Z",
+  "generatedAt": "2026-09-20T16:44:45.205Z",
   "snapshotDate": "2026-09-20",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -550,9 +550,9 @@
       "warsJoined": 18,
       "warsTotal": 24,
       "clan": {
-        "total": 60.3,
+        "total": 60.6,
         "pillars": {
-          "donations": 74,
+          "donations": 75,
           "raids": 52,
           "loot": 50
         },
@@ -1470,6 +1470,39 @@
         },
         "available": 2,
         "used": 2,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#GRG2PPL22",
+      "name": "pheak",
+      "role": "member",
+      "th": 12,
+      "firstSeen": "2026-09-20",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 24,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
         "misses": 0,
         "tier": null
       }
