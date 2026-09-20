@@ -1,6 +1,6 @@
 {
   "date": "2026-09-20",
-  "capturedAt": "2026-09-20T00:56:34.685Z",
+  "capturedAt": "2026-09-20T06:02:16.418Z",
   "clanLevel": 7,
   "memberCount": 43,
   "members": [
@@ -32,7 +32,7 @@
       "role": "admin",
       "th": 16,
       "expLevel": 155,
-      "trophies": 110,
+      "trophies": 138,
       "donations": 214,
       "donationsReceived": 247,
       "capitalContributions": 0
@@ -55,7 +55,7 @@
       "th": 13,
       "expLevel": 124,
       "trophies": 427,
-      "donations": 1072,
+      "donations": 1142,
       "donationsReceived": 304,
       "capitalContributions": 0
     },
@@ -66,7 +66,7 @@
       "th": 14,
       "expLevel": 151,
       "trophies": 284,
-      "donations": 5,
+      "donations": 71,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -99,8 +99,8 @@
       "th": 13,
       "expLevel": 120,
       "trophies": 388,
-      "donations": 357,
-      "donationsReceived": 1213,
+      "donations": 403,
+      "donationsReceived": 1257,
       "capitalContributions": 0
     },
     {
@@ -130,10 +130,10 @@
       "name": "Mgkyaw",
       "role": "member",
       "th": 14,
-      "expLevel": 70,
+      "expLevel": 72,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 66,
+      "donationsReceived": 198,
       "capitalContributions": 0
     },
     {
@@ -219,7 +219,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 136,
-      "trophies": 378,
+      "trophies": 406,
       "donations": 106,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -240,7 +240,7 @@
       "name": "Ditto",
       "role": "admin",
       "th": 13,
-      "expLevel": 134,
+      "expLevel": 135,
       "trophies": 103,
       "donations": 130,
       "donationsReceived": 77,
@@ -265,7 +265,7 @@
       "expLevel": 119,
       "trophies": 0,
       "donations": 3,
-      "donationsReceived": 1354,
+      "donationsReceived": 1400,
       "capitalContributions": 0
     },
     {
@@ -296,7 +296,7 @@
       "role": "admin",
       "th": 11,
       "expLevel": 89,
-      "trophies": 45,
+      "trophies": 81,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -328,10 +328,10 @@
       "name": "MDTanvir",
       "role": "admin",
       "th": 12,
-      "expLevel": 60,
+      "expLevel": 61,
       "trophies": 0,
       "donations": 221,
-      "donationsReceived": 679,
+      "donationsReceived": 683,
       "capitalContributions": 0
     },
     {
@@ -352,7 +352,7 @@
       "th": 17,
       "expLevel": 152,
       "trophies": 0,
-      "donations": 839,
+      "donations": 843,
       "donationsReceived": 551,
       "capitalContributions": 0
     },
@@ -385,8 +385,8 @@
       "th": 18,
       "expLevel": 256,
       "trophies": 0,
-      "donations": 576,
-      "donationsReceived": 562,
+      "donations": 577,
+      "donationsReceived": 566,
       "capitalContributions": 0
     },
     {
@@ -396,7 +396,7 @@
       "th": 15,
       "expLevel": 171,
       "trophies": 0,
-      "donations": 981,
+      "donations": 1024,
       "donationsReceived": 236,
       "capitalContributions": 0
     },
