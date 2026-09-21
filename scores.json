@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T00:58:52.504Z",
+  "generatedAt": "2026-09-21T06:11:52.113Z",
   "snapshotDate": "2026-09-21",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -433,40 +433,6 @@
         "available": 10,
         "used": 7,
         "misses": 3,
-        "tier": "Uncommon"
-      }
-    },
-    {
-      "tag": "#L8GUP0C8G",
-      "name": "Ditto",
-      "role": "admin",
-      "th": 13,
-      "firstSeen": "2026-08-27",
-      "daysPresent": 25,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 7,
-      "warsTotal": 24,
-      "clan": {
-        "total": 69.6,
-        "pillars": {
-          "donations": 100,
-          "raids": 38,
-          "loot": 66
-        },
-        "tier": "Rare"
-      },
-      "war": {
-        "total": 43.6,
-        "status": null,
-        "cap": "Uncommon",
-        "pillars": {
-          "reliability": 44,
-          "performance": 43
-        },
-        "available": 7,
-        "used": 3,
-        "misses": 4,
         "tier": "Uncommon"
       }
     },
