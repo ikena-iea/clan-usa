@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T13:54:00.037Z",
+  "generatedAt": "2026-09-21T19:15:34.685Z",
   "snapshotDate": "2026-09-21",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -584,7 +584,7 @@
       "warsJoined": 11,
       "warsTotal": 24,
       "clan": {
-        "total": 53.7,
+        "total": 53.9,
         "pillars": {
           "donations": 1,
           "raids": 100,
@@ -1190,7 +1190,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 85,
+          "donations": 100,
           "raids": 100,
           "loot": 70
         },
@@ -1272,39 +1272,6 @@
         "available": 2,
         "used": 0,
         "misses": 2,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#GUQY0PRQQ",
-      "name": "Mgkyaw",
-      "role": "member",
-      "th": 14,
-      "firstSeen": "2026-09-19",
-      "daysPresent": 2,
-      "inGrace": true,
-      "gracePeriodEndsIn": 12,
-      "warsJoined": 0,
-      "warsTotal": 24,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
         "tier": null
       }
     },
