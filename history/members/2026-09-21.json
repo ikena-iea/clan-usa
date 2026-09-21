@@ -1,8 +1,8 @@
 {
   "date": "2026-09-21",
-  "capturedAt": "2026-09-21T19:15:34.189Z",
+  "capturedAt": "2026-09-21T23:10:22.838Z",
   "clanLevel": 7,
-  "memberCount": 44,
+  "memberCount": 45,
   "members": [
     {
       "tag": "#9Y8JCVPGL",
@@ -32,8 +32,8 @@
       "role": "admin",
       "th": 16,
       "expLevel": 171,
-      "trophies": 302,
-      "donations": 927,
+      "trophies": 426,
+      "donations": 984,
       "donationsReceived": 161,
       "capitalContributions": 0
     },
@@ -76,7 +76,7 @@
       "role": "admin",
       "th": 14,
       "expLevel": 118,
-      "trophies": 29,
+      "trophies": 45,
       "donations": 360,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -98,9 +98,9 @@
       "role": "coLeader",
       "th": 13,
       "expLevel": 121,
-      "trophies": 11,
+      "trophies": 130,
       "donations": 533,
-      "donationsReceived": 1512,
+      "donationsReceived": 1587,
       "capitalContributions": 0
     },
     {
@@ -126,17 +126,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#LGRC8CP9U",
-      "name": "Big dog",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 152,
-      "trophies": 0,
-      "donations": 760,
-      "donationsReceived": 77,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#R8PJY0U0J",
       "name": "Didetz",
       "role": "leader",
@@ -144,6 +133,17 @@
       "expLevel": 105,
       "trophies": 0,
       "donations": 371,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#Q90GYJLVQ",
+      "name": "AMIRKH Z",
+      "role": "member",
+      "th": 12,
+      "expLevel": 113,
+      "trophies": 95,
+      "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -374,8 +374,19 @@
       "th": 18,
       "expLevel": 256,
       "trophies": 0,
-      "donations": 577,
+      "donations": 595,
       "donationsReceived": 682,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#YJCYRGRU",
+      "name": "JoAaKeR",
+      "role": "member",
+      "th": 18,
+      "expLevel": 203,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {

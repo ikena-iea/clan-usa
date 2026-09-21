@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T19:15:34.685Z",
+  "generatedAt": "2026-09-21T23:10:23.401Z",
   "snapshotDate": "2026-09-21",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -127,40 +127,6 @@
         },
         "available": 10,
         "used": 9,
-        "misses": 1,
-        "tier": "Rare"
-      }
-    },
-    {
-      "tag": "#LGRC8CP9U",
-      "name": "Big dog",
-      "role": "admin",
-      "th": 13,
-      "firstSeen": "2026-08-14",
-      "daysPresent": 38,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 2,
-      "warsTotal": 24,
-      "clan": {
-        "total": 90.7,
-        "pillars": {
-          "donations": 100,
-          "raids": 96,
-          "loot": 69
-        },
-        "tier": "Legendary"
-      },
-      "war": {
-        "total": 64.6,
-        "status": null,
-        "cap": null,
-        "pillars": {
-          "reliability": 63,
-          "performance": 68
-        },
-        "available": 4,
-        "used": 3,
         "misses": 1,
         "tier": "Rare"
       }
@@ -1276,6 +1242,39 @@
       }
     },
     {
+      "tag": "#Q90GYJLVQ",
+      "name": "AMIRKH Z",
+      "role": "member",
+      "th": 12,
+      "firstSeen": "2026-09-21",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 24,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": 0,
+          "loot": 0
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#QU8CP2CU0",
       "name": "AS gaming",
       "role": "admin",
@@ -1436,6 +1435,39 @@
         },
         "available": 2,
         "used": 2,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#YJCYRGRU",
+      "name": "JoAaKeR",
+      "role": "member",
+      "th": 18,
+      "firstSeen": "2026-09-21",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 24,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": 0,
+          "loot": 0
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
         "misses": 0,
         "tier": null
       }
