@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T09:49:17.521Z",
+  "generatedAt": "2026-09-22T14:38:40.436Z",
   "snapshotDate": "2026-09-22",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1090,7 +1090,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 0,
+          "donations": 100,
           "raids": 0,
           "loot": 0
         },
@@ -1477,6 +1477,39 @@
       "name": "Derrick",
       "role": "member",
       "th": 13,
+      "firstSeen": "2026-09-22",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 24,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#PGQ8J8UJC",
+      "name": "Bxxndit",
+      "role": "member",
+      "th": 12,
       "firstSeen": "2026-09-22",
       "daysPresent": 1,
       "inGrace": true,
