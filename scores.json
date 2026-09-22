@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T14:38:40.436Z",
+  "generatedAt": "2026-09-22T18:43:36.933Z",
   "snapshotDate": "2026-09-22",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1341,22 +1341,22 @@
       }
     },
     {
-      "tag": "#QU8CP2CU0",
-      "name": "AS gaming",
+      "tag": "#GGJY8JJQ0",
+      "name": "Hazkie",
       "role": "admin",
       "th": 13,
-      "firstSeen": "2026-09-18",
-      "daysPresent": 4,
+      "firstSeen": "2026-09-11",
+      "daysPresent": 11,
       "inGrace": true,
-      "gracePeriodEndsIn": 10,
+      "gracePeriodEndsIn": 3,
       "warsJoined": 0,
       "warsTotal": 24,
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 0,
-          "raids": 0,
-          "loot": 0
+          "donations": 72,
+          "raids": 100,
+          "loot": 78
         },
         "tier": null
       },
@@ -1374,22 +1374,22 @@
       }
     },
     {
-      "tag": "#GGJY8JJQ0",
-      "name": "Hazkie",
+      "tag": "#QU8CP2CU0",
+      "name": "AS gaming",
       "role": "admin",
       "th": 13,
-      "firstSeen": "2026-09-11",
-      "daysPresent": 11,
+      "firstSeen": "2026-09-18",
+      "daysPresent": 4,
       "inGrace": true,
-      "gracePeriodEndsIn": 3,
+      "gracePeriodEndsIn": 10,
       "warsJoined": 0,
       "warsTotal": 24,
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 72,
-          "raids": 100,
-          "loot": 78
+          "donations": 0,
+          "raids": 0,
+          "loot": 0
         },
         "tier": null
       },
@@ -1618,7 +1618,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 0,
+          "donations": 100,
           "raids": 0,
           "loot": 0
         },

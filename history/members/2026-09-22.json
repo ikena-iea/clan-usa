@@ -1,6 +1,6 @@
 {
   "date": "2026-09-22",
-  "capturedAt": "2026-09-22T14:38:39.822Z",
+  "capturedAt": "2026-09-22T18:43:36.459Z",
   "clanLevel": 7,
   "memberCount": 50,
   "members": [
@@ -10,7 +10,7 @@
       "role": "admin",
       "th": 18,
       "expLevel": 200,
-      "trophies": 85,
+      "trophies": 115,
       "donations": 72,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -120,9 +120,9 @@
       "role": "coLeader",
       "th": 13,
       "expLevel": 121,
-      "trophies": 211,
-      "donations": 573,
-      "donationsReceived": 1951,
+      "trophies": 223,
+      "donations": 582,
+      "donationsReceived": 1970,
       "capitalContributions": 0
     },
     {
@@ -165,7 +165,7 @@
       "th": 13,
       "expLevel": 113,
       "trophies": 0,
-      "donations": 996,
+      "donations": 1220,
       "donationsReceived": 925,
       "capitalContributions": 0
     },
@@ -192,6 +192,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GGJY8JJQ0",
+      "name": "Hazkie",
+      "role": "admin",
+      "th": 13,
+      "expLevel": 137,
+      "trophies": 25,
+      "donations": 106,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#QU8CP2CU0",
       "name": "AS gaming",
       "role": "admin",
@@ -211,17 +222,6 @@
       "trophies": 0,
       "donations": 257,
       "donationsReceived": 752,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GGJY8JJQ0",
-      "name": "Hazkie",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 137,
-      "trophies": 0,
-      "donations": 106,
-      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -276,7 +276,7 @@
       "expLevel": 100,
       "trophies": 17,
       "donations": 61,
-      "donationsReceived": 67,
+      "donationsReceived": 144,
       "capitalContributions": 0
     },
     {
@@ -298,7 +298,7 @@
       "expLevel": 119,
       "trophies": 0,
       "donations": 3,
-      "donationsReceived": 1799,
+      "donationsReceived": 1877,
       "capitalContributions": 0
     },
     {
@@ -375,7 +375,7 @@
       "expLevel": 61,
       "trophies": 0,
       "donations": 221,
-      "donationsReceived": 723,
+      "donationsReceived": 764,
       "capitalContributions": 0
     },
     {
@@ -440,7 +440,7 @@
       "th": 18,
       "expLevel": 203,
       "trophies": 0,
-      "donations": 0,
+      "donations": 54,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -460,10 +460,10 @@
       "name": "pheak",
       "role": "member",
       "th": 12,
-      "expLevel": 96,
+      "expLevel": 97,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 67,
+      "donationsReceived": 139,
       "capitalContributions": 0
     },
     {
