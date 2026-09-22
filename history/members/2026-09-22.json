@@ -1,8 +1,8 @@
 {
   "date": "2026-09-22",
-  "capturedAt": "2026-09-22T04:36:39.851Z",
+  "capturedAt": "2026-09-22T09:49:17.102Z",
   "clanLevel": 7,
-  "memberCount": 46,
+  "memberCount": 49,
   "members": [
     {
       "tag": "#9Y8JCVPGL",
@@ -43,7 +43,7 @@
       "role": "admin",
       "th": 16,
       "expLevel": 171,
-      "trophies": 426,
+      "trophies": 453,
       "donations": 1014,
       "donationsReceived": 161,
       "capitalContributions": 0
@@ -66,8 +66,19 @@
       "th": 13,
       "expLevel": 124,
       "trophies": 0,
-      "donations": 1239,
+      "donations": 1330,
       "donationsReceived": 304,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#Q00LJ80VU",
+      "name": "chjc",
+      "role": "member",
+      "th": 17,
+      "expLevel": 97,
+      "trophies": 30,
+      "donations": 0,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -77,7 +88,7 @@
       "th": 14,
       "expLevel": 152,
       "trophies": 135,
-      "donations": 175,
+      "donations": 245,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -99,7 +110,7 @@
       "th": 14,
       "expLevel": 154,
       "trophies": 0,
-      "donations": 645,
+      "donations": 651,
       "donationsReceived": 1423,
       "capitalContributions": 0
     },
@@ -111,7 +122,7 @@
       "expLevel": 121,
       "trophies": 180,
       "donations": 573,
-      "donationsReceived": 1774,
+      "donationsReceived": 1817,
       "capitalContributions": 0
     },
     {
@@ -170,11 +181,22 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#QY22C880U",
+      "name": "Destruction",
+      "role": "member",
+      "th": 13,
+      "expLevel": 171,
+      "trophies": 31,
+      "donations": 0,
+      "donationsReceived": 76,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#QU8CP2CU0",
       "name": "AS gaming",
       "role": "admin",
       "th": 13,
-      "expLevel": 85,
+      "expLevel": 86,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -241,7 +263,7 @@
       "role": "admin",
       "th": 12,
       "expLevel": 99,
-      "trophies": 40,
+      "trophies": 65,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -288,6 +310,17 @@
       "trophies": 0,
       "donations": 156,
       "donationsReceived": 72,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#2Y0VYRY0",
+      "name": "Derrick",
+      "role": "member",
+      "th": 13,
+      "expLevel": 102,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 67,
       "capitalContributions": 0
     },
     {
@@ -506,7 +539,7 @@
       "th": 18,
       "expLevel": 240,
       "trophies": 0,
-      "donations": 1281,
+      "donations": 1300,
       "donationsReceived": 806,
       "capitalContributions": 0
     }

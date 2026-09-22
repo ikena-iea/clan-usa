@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T04:36:40.307Z",
+  "generatedAt": "2026-09-22T09:49:17.521Z",
   "snapshotDate": "2026-09-22",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1176,6 +1176,39 @@
       }
     },
     {
+      "tag": "#Q00LJ80VU",
+      "name": "chjc",
+      "role": "member",
+      "th": 17,
+      "firstSeen": "2026-09-22",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 24,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#L80R0CC0",
       "name": "RoboHobo",
       "role": "admin",
@@ -1258,6 +1291,39 @@
           "donations": 0,
           "raids": 0,
           "loot": 0
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#QY22C880U",
+      "name": "Destruction",
+      "role": "member",
+      "th": 13,
+      "firstSeen": "2026-09-22",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 24,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
         },
         "tier": null
       },
@@ -1402,6 +1468,39 @@
         },
         "available": 2,
         "used": 2,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#2Y0VYRY0",
+      "name": "Derrick",
+      "role": "member",
+      "th": 13,
+      "firstSeen": "2026-09-22",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 24,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
         "misses": 0,
         "tier": null
       }
