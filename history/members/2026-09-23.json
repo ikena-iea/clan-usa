@@ -1,8 +1,8 @@
 {
   "date": "2026-09-23",
-  "capturedAt": "2026-09-23T16:43:44.889Z",
+  "capturedAt": "2026-09-23T20:08:45.372Z",
   "clanLevel": 7,
-  "memberCount": 50,
+  "memberCount": 49,
   "members": [
     {
       "tag": "#9Y8JCVPGL",
@@ -11,7 +11,7 @@
       "th": 18,
       "expLevel": 200,
       "trophies": 216,
-      "donations": 201,
+      "donations": 233,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -21,9 +21,9 @@
       "role": "admin",
       "th": 15,
       "expLevel": 173,
-      "trophies": 87,
-      "donations": 498,
-      "donationsReceived": 575,
+      "trophies": 166,
+      "donations": 545,
+      "donationsReceived": 578,
       "capitalContributions": 0
     },
     {
@@ -44,8 +44,8 @@
       "th": 16,
       "expLevel": 171,
       "trophies": 453,
-      "donations": 1143,
-      "donationsReceived": 161,
+      "donations": 1188,
+      "donationsReceived": 244,
       "capitalContributions": 0
     },
     {
@@ -121,7 +121,7 @@
       "th": 13,
       "expLevel": 121,
       "trophies": 223,
-      "donations": 584,
+      "donations": 640,
       "donationsReceived": 2121,
       "capitalContributions": 0
     },
@@ -163,9 +163,9 @@
       "name": "vale",
       "role": "admin",
       "th": 13,
-      "expLevel": 113,
+      "expLevel": 114,
       "trophies": 0,
-      "donations": 1227,
+      "donations": 1334,
       "donationsReceived": 925,
       "capitalContributions": 0
     },
@@ -209,8 +209,8 @@
       "th": 13,
       "expLevel": 150,
       "trophies": 0,
-      "donations": 263,
-      "donationsReceived": 799,
+      "donations": 272,
+      "donationsReceived": 846,
       "capitalContributions": 0
     },
     {
@@ -222,17 +222,6 @@
       "trophies": 0,
       "donations": 10,
       "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#YUPP00GUU",
-      "name": "damiano",
-      "role": "member",
-      "th": 12,
-      "expLevel": 132,
-      "trophies": 0,
-      "donations": 47,
-      "donationsReceived": 156,
       "capitalContributions": 0
     },
     {
@@ -262,7 +251,7 @@
       "name": "Ronald",
       "role": "admin",
       "th": 13,
-      "expLevel": 100,
+      "expLevel": 101,
       "trophies": 46,
       "donations": 61,
       "donationsReceived": 144,
@@ -287,7 +276,7 @@
       "expLevel": 119,
       "trophies": 0,
       "donations": 3,
-      "donationsReceived": 1954,
+      "donationsReceived": 2076,
       "capitalContributions": 0
     },
     {
@@ -353,7 +342,7 @@
       "expLevel": 61,
       "trophies": 0,
       "donations": 221,
-      "donationsReceived": 764,
+      "donationsReceived": 805,
       "capitalContributions": 0
     },
     {

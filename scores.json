@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T16:43:45.585Z",
+  "generatedAt": "2026-09-23T20:08:45.905Z",
   "snapshotDate": "2026-09-23",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -536,40 +536,6 @@
         "used": 10,
         "misses": 0,
         "tier": "Legendary"
-      }
-    },
-    {
-      "tag": "#YUPP00GUU",
-      "name": "damiano",
-      "role": "member",
-      "th": 12,
-      "firstSeen": "2026-08-14",
-      "daysPresent": 40,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 8,
-      "warsTotal": 24,
-      "clan": {
-        "total": 56.1,
-        "pillars": {
-          "donations": 38,
-          "raids": 70,
-          "loot": 66
-        },
-        "tier": "Rare"
-      },
-      "war": {
-        "total": 86.7,
-        "status": null,
-        "cap": "Rare",
-        "pillars": {
-          "reliability": 78,
-          "performance": 100
-        },
-        "available": 9,
-        "used": 7,
-        "misses": 2,
-        "tier": "Rare"
       }
     },
     {
