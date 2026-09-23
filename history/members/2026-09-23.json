@@ -1,6 +1,6 @@
 {
   "date": "2026-09-23",
-  "capturedAt": "2026-09-23T20:08:45.372Z",
+  "capturedAt": "2026-09-23T23:34:23.114Z",
   "clanLevel": 7,
   "memberCount": 49,
   "members": [
@@ -11,7 +11,7 @@
       "th": 18,
       "expLevel": 200,
       "trophies": 216,
-      "donations": 233,
+      "donations": 236,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -23,7 +23,7 @@
       "expLevel": 173,
       "trophies": 166,
       "donations": 545,
-      "donationsReceived": 578,
+      "donationsReceived": 658,
       "capitalContributions": 0
     },
     {
@@ -44,7 +44,7 @@
       "th": 16,
       "expLevel": 171,
       "trophies": 453,
-      "donations": 1188,
+      "donations": 1200,
       "donationsReceived": 244,
       "capitalContributions": 0
     },
@@ -98,7 +98,7 @@
       "role": "admin",
       "th": 14,
       "expLevel": 152,
-      "trophies": 340,
+      "trophies": 367,
       "donations": 248,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -111,7 +111,7 @@
       "expLevel": 155,
       "trophies": 0,
       "donations": 845,
-      "donationsReceived": 1606,
+      "donationsReceived": 1609,
       "capitalContributions": 0
     },
     {
@@ -210,7 +210,7 @@
       "expLevel": 150,
       "trophies": 0,
       "donations": 272,
-      "donationsReceived": 846,
+      "donationsReceived": 848,
       "capitalContributions": 0
     },
     {
@@ -220,7 +220,7 @@
       "th": 12,
       "expLevel": 93,
       "trophies": 0,
-      "donations": 10,
+      "donations": 12,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -252,7 +252,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 101,
-      "trophies": 46,
+      "trophies": 67,
       "donations": 61,
       "donationsReceived": 144,
       "capitalContributions": 0
@@ -306,7 +306,7 @@
       "name": "DevilIguana",
       "role": "admin",
       "th": 12,
-      "expLevel": 105,
+      "expLevel": 106,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -318,7 +318,7 @@
       "role": "member",
       "th": 12,
       "expLevel": 117,
-      "trophies": 108,
+      "trophies": 138,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -363,7 +363,7 @@
       "th": 17,
       "expLevel": 153,
       "trophies": 0,
-      "donations": 1036,
+      "donations": 1039,
       "donationsReceived": 757,
       "capitalContributions": 0
     },
@@ -416,9 +416,9 @@
       "name": "JoAaKeR",
       "role": "member",
       "th": 18,
-      "expLevel": 203,
+      "expLevel": 204,
       "trophies": 0,
-      "donations": 159,
+      "donations": 224,
       "donationsReceived": 189,
       "capitalContributions": 0
     },
