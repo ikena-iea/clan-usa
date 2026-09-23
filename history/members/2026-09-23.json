@@ -1,6 +1,6 @@
 {
   "date": "2026-09-23",
-  "capturedAt": "2026-09-23T00:20:23.344Z",
+  "capturedAt": "2026-09-23T05:48:03.488Z",
   "clanLevel": 7,
   "memberCount": 50,
   "members": [
@@ -49,6 +49,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#R292L228Q",
+      "name": "Ikena",
+      "role": "coLeader",
+      "th": 13,
+      "expLevel": 124,
+      "trophies": 40,
+      "donations": 1383,
+      "donationsReceived": 304,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#GQUQV0PJV",
       "name": "mustafa",
       "role": "admin",
@@ -57,17 +68,6 @@
       "trophies": 0,
       "donations": 214,
       "donationsReceived": 247,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#R292L228Q",
-      "name": "Ikena",
-      "role": "coLeader",
-      "th": 13,
-      "expLevel": 124,
-      "trophies": 0,
-      "donations": 1383,
-      "donationsReceived": 304,
       "capitalContributions": 0
     },
     {
@@ -82,6 +82,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GGRR02GLG",
+      "name": "jude",
+      "role": "admin",
+      "th": 14,
+      "expLevel": 119,
+      "trophies": 357,
+      "donations": 524,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#L80R0CC0",
       "name": "RoboHobo",
       "role": "admin",
@@ -89,17 +100,6 @@
       "expLevel": 152,
       "trophies": 340,
       "donations": 248,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GGRR02GLG",
-      "name": "jude",
-      "role": "admin",
-      "th": 14,
-      "expLevel": 119,
-      "trophies": 73,
-      "donations": 384,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -121,8 +121,8 @@
       "th": 13,
       "expLevel": 121,
       "trophies": 223,
-      "donations": 582,
-      "donationsReceived": 2045,
+      "donations": 584,
+      "donationsReceived": 2046,
       "capitalContributions": 0
     },
     {
@@ -165,7 +165,7 @@
       "th": 13,
       "expLevel": 113,
       "trophies": 0,
-      "donations": 1221,
+      "donations": 1222,
       "donationsReceived": 925,
       "capitalContributions": 0
     },
@@ -176,7 +176,7 @@
       "th": 12,
       "expLevel": 93,
       "trophies": 271,
-      "donations": 2,
+      "donations": 37,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -187,8 +187,8 @@
       "th": 13,
       "expLevel": 171,
       "trophies": 45,
-      "donations": 0,
-      "donationsReceived": 122,
+      "donations": 55,
+      "donationsReceived": 169,
       "capitalContributions": 0
     },
     {
@@ -313,17 +313,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#2Y0VYRY0",
-      "name": "Derrick",
-      "role": "member",
-      "th": 13,
-      "expLevel": 103,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 67,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#GLUJVJGGV",
       "name": "allis",
       "role": "admin",
@@ -364,7 +353,7 @@
       "expLevel": 88,
       "trophies": 0,
       "donations": 50,
-      "donationsReceived": 271,
+      "donationsReceived": 373,
       "capitalContributions": 0
     },
     {
@@ -412,6 +401,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#8YCVGRC08",
+      "name": "Checheng.",
+      "role": "member",
+      "th": 17,
+      "expLevel": 270,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 9,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#Y8LVGUR8Q",
       "name": "gantushig",
       "role": "admin",
@@ -429,8 +429,8 @@
       "th": 18,
       "expLevel": 256,
       "trophies": 0,
-      "donations": 595,
-      "donationsReceived": 682,
+      "donations": 662,
+      "donationsReceived": 737,
       "capitalContributions": 0
     },
     {
@@ -440,8 +440,8 @@
       "th": 18,
       "expLevel": 203,
       "trophies": 0,
-      "donations": 113,
-      "donationsReceived": 0,
+      "donations": 159,
+      "donationsReceived": 140,
       "capitalContributions": 0
     },
     {
@@ -449,7 +449,7 @@
       "name": "Schlitz",
       "role": "admin",
       "th": 15,
-      "expLevel": 171,
+      "expLevel": 172,
       "trophies": 0,
       "donations": 1110,
       "donationsReceived": 392,
@@ -539,7 +539,7 @@
       "th": 18,
       "expLevel": 217,
       "trophies": 0,
-      "donations": 367,
+      "donations": 375,
       "donationsReceived": 500,
       "capitalContributions": 0
     },
