@@ -1,6 +1,6 @@
 {
   "date": "2026-09-24",
-  "capturedAt": "2026-09-24T18:59:33.761Z",
+  "capturedAt": "2026-09-24T22:17:28.491Z",
   "clanLevel": 7,
   "memberCount": 49,
   "members": [
@@ -21,7 +21,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 173,
-      "trophies": 166,
+      "trophies": 217,
       "donations": 545,
       "donationsReceived": 658,
       "capitalContributions": 0
@@ -76,7 +76,7 @@
       "role": "admin",
       "th": 16,
       "expLevel": 155,
-      "trophies": 0,
+      "trophies": 40,
       "donations": 214,
       "donationsReceived": 247,
       "capitalContributions": 0
@@ -142,7 +142,7 @@
       "role": "member",
       "th": 14,
       "expLevel": 129,
-      "trophies": 83,
+      "trophies": 208,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -163,7 +163,7 @@
       "name": "Didetz",
       "role": "leader",
       "th": 14,
-      "expLevel": 105,
+      "expLevel": 106,
       "trophies": 0,
       "donations": 371,
       "donationsReceived": 0,
@@ -187,7 +187,7 @@
       "th": 13,
       "expLevel": 114,
       "trophies": 0,
-      "donations": 0,
+      "donations": 47,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -243,7 +243,7 @@
       "expLevel": 150,
       "trophies": 0,
       "donations": 276,
-      "donationsReceived": 893,
+      "donationsReceived": 940,
       "capitalContributions": 0
     },
     {
@@ -274,7 +274,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 101,
-      "trophies": 67,
+      "trophies": 78,
       "donations": 61,
       "donationsReceived": 144,
       "capitalContributions": 0
