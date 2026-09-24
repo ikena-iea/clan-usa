@@ -1,6 +1,6 @@
 {
   "date": "2026-09-24",
-  "capturedAt": "2026-09-24T14:52:25.374Z",
+  "capturedAt": "2026-09-24T18:59:33.761Z",
   "clanLevel": 7,
   "memberCount": 49,
   "members": [
@@ -10,7 +10,7 @@
       "role": "admin",
       "th": 18,
       "expLevel": 200,
-      "trophies": 216,
+      "trophies": 243,
       "donations": 236,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -24,6 +24,17 @@
       "trophies": 166,
       "donations": 545,
       "donationsReceived": 658,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#8YCVGRC08",
+      "name": "Checheng.",
+      "role": "member",
+      "th": 17,
+      "expLevel": 270,
+      "trophies": 433,
+      "donations": 210,
+      "donationsReceived": 174,
       "capitalContributions": 0
     },
     {
@@ -110,8 +121,8 @@
       "th": 14,
       "expLevel": 155,
       "trophies": 0,
-      "donations": 845,
-      "donationsReceived": 1657,
+      "donations": 848,
+      "donationsReceived": 1702,
       "capitalContributions": 0
     },
     {
@@ -126,23 +137,23 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#292V8GCG",
+      "name": "sr7",
+      "role": "member",
+      "th": 14,
+      "expLevel": 129,
+      "trophies": 83,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#890GLU9Y0",
       "name": "selfless",
       "role": "member",
       "th": 13,
       "expLevel": 170,
       "trophies": 21,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#292V8GCG",
-      "name": "sr7",
-      "role": "member",
-      "th": 14,
-      "expLevel": 129,
-      "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -231,7 +242,7 @@
       "th": 13,
       "expLevel": 150,
       "trophies": 0,
-      "donations": 272,
+      "donations": 276,
       "donationsReceived": 893,
       "capitalContributions": 0
     },
@@ -284,10 +295,10 @@
       "name": "Gobinath.N",
       "role": "admin",
       "th": 13,
-      "expLevel": 119,
+      "expLevel": 120,
       "trophies": 0,
       "donations": 3,
-      "donationsReceived": 2076,
+      "donationsReceived": 2121,
       "capitalContributions": 0
     },
     {
@@ -376,17 +387,6 @@
       "trophies": 0,
       "donations": 1039,
       "donationsReceived": 757,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#8YCVGRC08",
-      "name": "Checheng.",
-      "role": "member",
-      "th": 17,
-      "expLevel": 270,
-      "trophies": 0,
-      "donations": 120,
-      "donationsReceived": 167,
       "capitalContributions": 0
     },
     {

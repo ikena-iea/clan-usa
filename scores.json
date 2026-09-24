@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T14:52:25.857Z",
+  "generatedAt": "2026-09-24T18:59:34.511Z",
   "snapshotDate": "2026-09-24",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1042,6 +1042,39 @@
       }
     },
     {
+      "tag": "#8YCVGRC08",
+      "name": "Checheng.",
+      "role": "member",
+      "th": 17,
+      "firstSeen": "2026-09-23",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 24,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 100,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#GGCQGUPPU",
       "name": "innovaman53",
       "role": "member",
@@ -1174,39 +1207,6 @@
       }
     },
     {
-      "tag": "#890GLU9Y0",
-      "name": "selfless",
-      "role": "member",
-      "th": 13,
-      "firstSeen": "2026-09-11",
-      "daysPresent": 13,
-      "inGrace": true,
-      "gracePeriodEndsIn": 1,
-      "warsJoined": 1,
-      "warsTotal": 24,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 2,
-        "used": 0,
-        "misses": 2,
-        "tier": null
-      }
-    },
-    {
       "tag": "#292V8GCG",
       "name": "sr7",
       "role": "member",
@@ -1236,6 +1236,39 @@
         "available": 0,
         "used": 0,
         "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#890GLU9Y0",
+      "name": "selfless",
+      "role": "member",
+      "th": 13,
+      "firstSeen": "2026-09-11",
+      "daysPresent": 13,
+      "inGrace": true,
+      "gracePeriodEndsIn": 1,
+      "warsJoined": 1,
+      "warsTotal": 24,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": 0,
+          "loot": 0
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 2,
+        "used": 0,
+        "misses": 2,
         "tier": null
       }
     },
@@ -1454,39 +1487,6 @@
           "donations": 3,
           "raids": 100,
           "loot": 59
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#8YCVGRC08",
-      "name": "Checheng.",
-      "role": "member",
-      "th": 17,
-      "firstSeen": "2026-09-23",
-      "daysPresent": 1,
-      "inGrace": true,
-      "gracePeriodEndsIn": 13,
-      "warsJoined": 0,
-      "warsTotal": 24,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 100,
-          "raids": null,
-          "loot": null
         },
         "tier": null
       },
