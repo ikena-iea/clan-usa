@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T09:52:07.485Z",
+  "generatedAt": "2026-09-24T14:52:25.857Z",
   "snapshotDate": "2026-09-24",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -400,6 +400,40 @@
         "used": 7,
         "misses": 3,
         "tier": "Uncommon"
+      }
+    },
+    {
+      "tag": "#Q8P8R8UQQ",
+      "name": "vale",
+      "role": "member",
+      "th": 13,
+      "firstSeen": "2026-08-14",
+      "daysPresent": 41,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 8,
+      "warsTotal": 24,
+      "clan": {
+        "total": 59.4,
+        "pillars": {
+          "donations": 100,
+          "raids": 14,
+          "loot": 57
+        },
+        "tier": "Rare"
+      },
+      "war": {
+        "total": 93,
+        "status": null,
+        "cap": null,
+        "pillars": {
+          "reliability": 89,
+          "performance": 99
+        },
+        "available": 9,
+        "used": 8,
+        "misses": 1,
+        "tier": "Legendary"
       }
     },
     {
@@ -941,40 +975,6 @@
       }
     },
     {
-      "tag": "#GPC8J2YLY",
-      "name": "IDONTKNOW",
-      "role": "member",
-      "th": 11,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 58,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 8,
-      "warsTotal": 24,
-      "clan": {
-        "total": 0,
-        "pillars": {
-          "donations": 0,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": "Common"
-      },
-      "war": {
-        "total": 63.7,
-        "status": null,
-        "cap": "Rare",
-        "pillars": {
-          "reliability": 78,
-          "performance": 42
-        },
-        "available": 9,
-        "used": 7,
-        "misses": 2,
-        "tier": "Rare"
-      }
-    },
-    {
       "tag": "#R9R2RV892",
       "name": "jadav m",
       "role": "admin",
@@ -1203,6 +1203,39 @@
         "available": 2,
         "used": 0,
         "misses": 2,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#292V8GCG",
+      "name": "sr7",
+      "role": "member",
+      "th": 14,
+      "firstSeen": "2026-09-24",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 24,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
         "tier": null
       }
     },

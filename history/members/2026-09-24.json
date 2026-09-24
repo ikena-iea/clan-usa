@@ -1,8 +1,8 @@
 {
   "date": "2026-09-24",
-  "capturedAt": "2026-09-24T09:52:07.082Z",
+  "capturedAt": "2026-09-24T14:52:25.374Z",
   "clanLevel": 7,
-  "memberCount": 48,
+  "memberCount": 49,
   "members": [
     {
       "tag": "#9Y8JCVPGL",
@@ -76,7 +76,7 @@
       "role": "member",
       "th": 17,
       "expLevel": 97,
-      "trophies": 30,
+      "trophies": 56,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -121,7 +121,7 @@
       "th": 13,
       "expLevel": 122,
       "trophies": 223,
-      "donations": 640,
+      "donations": 641,
       "donationsReceived": 2121,
       "capitalContributions": 0
     },
@@ -132,6 +132,17 @@
       "th": 13,
       "expLevel": 170,
       "trophies": 21,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#292V8GCG",
+      "name": "sr7",
+      "role": "member",
+      "th": 14,
+      "expLevel": 129,
+      "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -159,13 +170,13 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#PJ22QYY22",
-      "name": "thegodlynoob",
-      "role": "admin",
-      "th": 12,
-      "expLevel": 93,
-      "trophies": 271,
-      "donations": 37,
+      "tag": "#Q8P8R8UQQ",
+      "name": "vale",
+      "role": "member",
+      "th": 13,
+      "expLevel": 114,
+      "trophies": 0,
+      "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -175,8 +186,19 @@
       "role": "admin",
       "th": 13,
       "expLevel": 137,
-      "trophies": 25,
+      "trophies": 313,
       "donations": 106,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#PJ22QYY22",
+      "name": "thegodlynoob",
+      "role": "admin",
+      "th": 12,
+      "expLevel": 94,
+      "trophies": 271,
+      "donations": 37,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -219,7 +241,7 @@
       "role": "member",
       "th": 13,
       "expLevel": 126,
-      "trophies": 127,
+      "trophies": 156,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -357,17 +379,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#GPC8J2YLY",
-      "name": "IDONTKNOW",
-      "role": "member",
-      "th": 11,
-      "expLevel": 92,
-      "trophies": 0,
-      "donations": 2,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#8YCVGRC08",
       "name": "Checheng.",
       "role": "member",
@@ -397,7 +408,7 @@
       "expLevel": 256,
       "trophies": 0,
       "donations": 921,
-      "donationsReceived": 796,
+      "donationsReceived": 851,
       "capitalContributions": 0
     },
     {
@@ -407,7 +418,7 @@
       "th": 18,
       "expLevel": 204,
       "trophies": 0,
-      "donations": 274,
+      "donations": 328,
       "donationsReceived": 189,
       "capitalContributions": 0
     },
