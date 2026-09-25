@@ -1,6 +1,6 @@
 {
   "date": "2026-09-25",
-  "capturedAt": "2026-09-25T13:35:58.151Z",
+  "capturedAt": "2026-09-25T18:27:36.498Z",
   "clanLevel": 7,
   "memberCount": 50,
   "members": [
@@ -93,24 +93,24 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#L80R0CC0",
+      "name": "RoboHobo",
+      "role": "admin",
+      "th": 14,
+      "expLevel": 152,
+      "trophies": 385,
+      "donations": 248,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#GGRR02GLG",
       "name": "jude",
       "role": "admin",
       "th": 14,
       "expLevel": 119,
       "trophies": 379,
-      "donations": 554,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#L80R0CC0",
-      "name": "RoboHobo",
-      "role": "admin",
-      "th": 14,
-      "expLevel": 152,
-      "trophies": 375,
-      "donations": 248,
+      "donations": 599,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -121,8 +121,8 @@
       "th": 14,
       "expLevel": 155,
       "trophies": 0,
-      "donations": 848,
-      "donationsReceived": 1792,
+      "donations": 898,
+      "donationsReceived": 1840,
       "capitalContributions": 0
     },
     {
@@ -132,7 +132,7 @@
       "th": 13,
       "expLevel": 122,
       "trophies": 235,
-      "donations": 703,
+      "donations": 705,
       "donationsReceived": 2255,
       "capitalContributions": 0
     },
@@ -187,8 +187,8 @@
       "th": 13,
       "expLevel": 114,
       "trophies": 0,
-      "donations": 168,
-      "donationsReceived": 77,
+      "donations": 262,
+      "donationsReceived": 152,
       "capitalContributions": 0
     },
     {
@@ -219,7 +219,7 @@
       "role": "coLeader",
       "th": 12,
       "expLevel": 93,
-      "trophies": 18,
+      "trophies": 39,
       "donations": 12,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -229,7 +229,7 @@
       "name": "ian",
       "role": "member",
       "th": 13,
-      "expLevel": 89,
+      "expLevel": 90,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -253,8 +253,8 @@
       "th": 13,
       "expLevel": 150,
       "trophies": 0,
-      "donations": 321,
-      "donationsReceived": 987,
+      "donations": 368,
+      "donationsReceived": 1081,
       "capitalContributions": 0
     },
     {
@@ -273,8 +273,8 @@
       "name": "Ronald",
       "role": "admin",
       "th": 13,
-      "expLevel": 101,
-      "trophies": 105,
+      "expLevel": 102,
+      "trophies": 116,
       "donations": 61,
       "donationsReceived": 144,
       "capitalContributions": 0
@@ -309,7 +309,7 @@
       "expLevel": 120,
       "trophies": 0,
       "donations": 3,
-      "donationsReceived": 2166,
+      "donationsReceived": 2305,
       "capitalContributions": 0
     },
     {
@@ -385,7 +385,7 @@
       "th": 17,
       "expLevel": 153,
       "trophies": 0,
-      "donations": 1084,
+      "donations": 1114,
       "donationsReceived": 757,
       "capitalContributions": 0
     },
@@ -429,8 +429,8 @@
       "th": 15,
       "expLevel": 172,
       "trophies": 0,
-      "donations": 1110,
-      "donationsReceived": 443,
+      "donations": 1233,
+      "donationsReceived": 480,
       "capitalContributions": 0
     },
     {
@@ -539,7 +539,7 @@
       "th": 13,
       "expLevel": 92,
       "trophies": 0,
-      "donations": 0,
+      "donations": 2,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
