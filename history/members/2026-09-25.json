@@ -1,8 +1,8 @@
 {
   "date": "2026-09-25",
-  "capturedAt": "2026-09-25T07:36:20.503Z",
+  "capturedAt": "2026-09-25T13:35:58.151Z",
   "clanLevel": 7,
-  "memberCount": 49,
+  "memberCount": 50,
   "members": [
     {
       "tag": "#9Y8JCVPGL",
@@ -11,7 +11,7 @@
       "th": 18,
       "expLevel": 200,
       "trophies": 243,
-      "donations": 295,
+      "donations": 479,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -32,9 +32,9 @@
       "role": "member",
       "th": 17,
       "expLevel": 270,
-      "trophies": 433,
-      "donations": 252,
-      "donationsReceived": 174,
+      "trophies": 447,
+      "donations": 332,
+      "donationsReceived": 234,
       "capitalContributions": 0
     },
     {
@@ -42,7 +42,7 @@
       "name": "innovaman53",
       "role": "member",
       "th": 17,
-      "expLevel": 168,
+      "expLevel": 169,
       "trophies": 58,
       "donations": 50,
       "donationsReceived": 0,
@@ -77,8 +77,8 @@
       "th": 16,
       "expLevel": 155,
       "trophies": 40,
-      "donations": 214,
-      "donationsReceived": 247,
+      "donations": 291,
+      "donationsReceived": 357,
       "capitalContributions": 0
     },
     {
@@ -87,7 +87,7 @@
       "role": "member",
       "th": 17,
       "expLevel": 97,
-      "trophies": 56,
+      "trophies": 73,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -99,7 +99,7 @@
       "th": 14,
       "expLevel": 119,
       "trophies": 379,
-      "donations": 524,
+      "donations": 554,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -122,7 +122,7 @@
       "expLevel": 155,
       "trophies": 0,
       "donations": 848,
-      "donationsReceived": 1702,
+      "donationsReceived": 1792,
       "capitalContributions": 0
     },
     {
@@ -132,8 +132,8 @@
       "th": 13,
       "expLevel": 122,
       "trophies": 235,
-      "donations": 643,
-      "donationsReceived": 2197,
+      "donations": 703,
+      "donationsReceived": 2255,
       "capitalContributions": 0
     },
     {
@@ -175,8 +175,8 @@
       "role": "member",
       "th": 12,
       "expLevel": 113,
-      "trophies": 110,
-      "donations": 3,
+      "trophies": 118,
+      "donations": 36,
       "donationsReceived": 72,
       "capitalContributions": 0
     },
@@ -187,8 +187,8 @@
       "th": 13,
       "expLevel": 114,
       "trophies": 0,
-      "donations": 92,
-      "donationsReceived": 0,
+      "donations": 168,
+      "donationsReceived": 77,
       "capitalContributions": 0
     },
     {
@@ -197,7 +197,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 137,
-      "trophies": 313,
+      "trophies": 324,
       "donations": 106,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -208,7 +208,7 @@
       "role": "admin",
       "th": 12,
       "expLevel": 94,
-      "trophies": 271,
+      "trophies": 293,
       "donations": 37,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -353,7 +353,7 @@
       "expLevel": 117,
       "trophies": 138,
       "donations": 0,
-      "donationsReceived": 42,
+      "donationsReceived": 72,
       "capitalContributions": 0
     },
     {
@@ -385,7 +385,7 @@
       "th": 17,
       "expLevel": 153,
       "trophies": 0,
-      "donations": 1039,
+      "donations": 1084,
       "donationsReceived": 757,
       "capitalContributions": 0
     },
@@ -394,7 +394,7 @@
       "name": "gantushig",
       "role": "admin",
       "th": 13,
-      "expLevel": 123,
+      "expLevel": 124,
       "trophies": 0,
       "donations": 3,
       "donationsReceived": 154,
@@ -407,8 +407,8 @@
       "th": 18,
       "expLevel": 256,
       "trophies": 0,
-      "donations": 997,
-      "donationsReceived": 910,
+      "donations": 1077,
+      "donationsReceived": 969,
       "capitalContributions": 0
     },
     {
@@ -419,7 +419,7 @@
       "expLevel": 204,
       "trophies": 0,
       "donations": 328,
-      "donationsReceived": 189,
+      "donationsReceived": 307,
       "capitalContributions": 0
     },
     {
@@ -430,7 +430,7 @@
       "expLevel": 172,
       "trophies": 0,
       "donations": 1110,
-      "donationsReceived": 392,
+      "donationsReceived": 443,
       "capitalContributions": 0
     },
     {
@@ -438,10 +438,10 @@
       "name": "pheak",
       "role": "member",
       "th": 12,
-      "expLevel": 97,
+      "expLevel": 98,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 283,
+      "donationsReceived": 355,
       "capitalContributions": 0
     },
     {
@@ -464,6 +464,17 @@
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#8C2G2C2UV",
+      "name": "masoud(iranian)",
+      "role": "member",
+      "th": 16,
+      "expLevel": 213,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 3,
       "capitalContributions": 0
     },
     {
@@ -517,7 +528,7 @@
       "th": 18,
       "expLevel": 217,
       "trophies": 0,
-      "donations": 375,
+      "donations": 438,
       "donationsReceived": 500,
       "capitalContributions": 0
     },
