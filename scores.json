@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T01:22:19.380Z",
+  "generatedAt": "2026-09-25T07:36:20.929Z",
   "snapshotDate": "2026-09-25",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1372,6 +1372,39 @@
       }
     },
     {
+      "tag": "#PLL2VG8UU",
+      "name": "ian",
+      "role": "member",
+      "th": 13,
+      "firstSeen": "2026-09-25",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 24,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#QU8CP2CU0",
       "name": "AS gaming",
       "role": "admin",
@@ -1454,39 +1487,6 @@
           "donations": 0,
           "raids": null,
           "loot": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#YUR99QV",
-      "name": "PvtPaul",
-      "role": "admin",
-      "th": 12,
-      "firstSeen": "2026-09-17",
-      "daysPresent": 8,
-      "inGrace": true,
-      "gracePeriodEndsIn": 6,
-      "warsJoined": 0,
-      "warsTotal": 24,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 3,
-          "raids": 100,
-          "loot": 59
         },
         "tier": null
       },
