@@ -1,6 +1,6 @@
 {
   "date": "2026-09-25",
-  "capturedAt": "2026-09-25T18:27:36.498Z",
+  "capturedAt": "2026-09-25T22:11:30.139Z",
   "clanLevel": 7,
   "memberCount": 50,
   "members": [
@@ -11,7 +11,7 @@
       "th": 18,
       "expLevel": 200,
       "trophies": 243,
-      "donations": 479,
+      "donations": 489,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -34,7 +34,7 @@
       "expLevel": 270,
       "trophies": 447,
       "donations": 332,
-      "donationsReceived": 234,
+      "donationsReceived": 284,
       "capitalContributions": 0
     },
     {
@@ -53,9 +53,9 @@
       "name": "pitek",
       "role": "admin",
       "th": 16,
-      "expLevel": 171,
+      "expLevel": 172,
       "trophies": 453,
-      "donations": 1200,
+      "donations": 1201,
       "donationsReceived": 244,
       "capitalContributions": 0
     },
@@ -66,7 +66,7 @@
       "th": 13,
       "expLevel": 124,
       "trophies": 379,
-      "donations": 1418,
+      "donations": 1468,
       "donationsReceived": 304,
       "capitalContributions": 0
     },
@@ -76,9 +76,9 @@
       "role": "admin",
       "th": 16,
       "expLevel": 155,
-      "trophies": 40,
+      "trophies": 71,
       "donations": 291,
-      "donationsReceived": 357,
+      "donationsReceived": 360,
       "capitalContributions": 0
     },
     {
@@ -121,7 +121,7 @@
       "th": 14,
       "expLevel": 155,
       "trophies": 0,
-      "donations": 898,
+      "donations": 965,
       "donationsReceived": 1840,
       "capitalContributions": 0
     },
@@ -132,8 +132,8 @@
       "th": 13,
       "expLevel": 122,
       "trophies": 235,
-      "donations": 705,
-      "donationsReceived": 2255,
+      "donations": 711,
+      "donationsReceived": 2274,
       "capitalContributions": 0
     },
     {
@@ -274,7 +274,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 102,
-      "trophies": 116,
+      "trophies": 126,
       "donations": 61,
       "donationsReceived": 144,
       "capitalContributions": 0
@@ -308,8 +308,8 @@
       "th": 13,
       "expLevel": 120,
       "trophies": 0,
-      "donations": 3,
-      "donationsReceived": 2305,
+      "donations": 10,
+      "donationsReceived": 2446,
       "capitalContributions": 0
     },
     {
@@ -361,10 +361,10 @@
       "name": "MDTanvir",
       "role": "admin",
       "th": 12,
-      "expLevel": 61,
+      "expLevel": 62,
       "trophies": 0,
-      "donations": 221,
-      "donationsReceived": 805,
+      "donations": 315,
+      "donationsReceived": 854,
       "capitalContributions": 0
     },
     {
@@ -407,7 +407,7 @@
       "th": 18,
       "expLevel": 256,
       "trophies": 0,
-      "donations": 1077,
+      "donations": 1126,
       "donationsReceived": 969,
       "capitalContributions": 0
     },
@@ -418,8 +418,8 @@
       "th": 18,
       "expLevel": 204,
       "trophies": 0,
-      "donations": 328,
-      "donationsReceived": 307,
+      "donations": 432,
+      "donationsReceived": 423,
       "capitalContributions": 0
     },
     {
@@ -430,7 +430,7 @@
       "expLevel": 172,
       "trophies": 0,
       "donations": 1233,
-      "donationsReceived": 480,
+      "donationsReceived": 490,
       "capitalContributions": 0
     },
     {
@@ -460,7 +460,7 @@
       "name": "Lakers",
       "role": "coLeader",
       "th": 12,
-      "expLevel": 92,
+      "expLevel": 93,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,

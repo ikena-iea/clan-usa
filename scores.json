@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T18:27:36.976Z",
+  "generatedAt": "2026-09-25T22:11:30.554Z",
   "snapshotDate": "2026-09-25",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -773,6 +773,39 @@
       }
     },
     {
+      "tag": "#GVCC8LY9Y",
+      "name": "MDTanvir",
+      "role": "admin",
+      "th": 12,
+      "firstSeen": "2026-09-05",
+      "daysPresent": 20,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 1,
+      "warsTotal": 24,
+      "clan": {
+        "total": 40,
+        "pillars": {
+          "donations": 100,
+          "raids": 0,
+          "loot": 0
+        },
+        "tier": "Uncommon"
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 2,
+        "used": 2,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#LCVCL0LU0",
       "name": "Limeranch",
       "role": "coLeader",
@@ -907,39 +940,6 @@
       }
     },
     {
-      "tag": "#GVCC8LY9Y",
-      "name": "MDTanvir",
-      "role": "admin",
-      "th": 12,
-      "firstSeen": "2026-09-05",
-      "daysPresent": 20,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 1,
-      "warsTotal": 24,
-      "clan": {
-        "total": 37.7,
-        "pillars": {
-          "donations": 94,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": "Common"
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 2,
-        "used": 2,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
       "tag": "#GRYL9G0PJ",
       "name": "ijsjsjw",
       "role": "coLeader",
@@ -1051,9 +1051,9 @@
       "warsJoined": 9,
       "warsTotal": 24,
       "clan": {
-        "total": 0.3,
+        "total": 1,
         "pillars": {
-          "donations": 1,
+          "donations": 3,
           "raids": 0,
           "loot": 0
         },
