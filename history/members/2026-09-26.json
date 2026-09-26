@@ -1,6 +1,6 @@
 {
   "date": "2026-09-26",
-  "capturedAt": "2026-09-26T20:59:32.560Z",
+  "capturedAt": "2026-09-26T23:32:29.828Z",
   "clanLevel": 8,
   "memberCount": 49,
   "members": [
@@ -11,7 +11,7 @@
       "th": 18,
       "expLevel": 200,
       "trophies": 260,
-      "donations": 539,
+      "donations": 616,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -66,7 +66,7 @@
       "th": 14,
       "expLevel": 125,
       "trophies": 388,
-      "donations": 1647,
+      "donations": 1694,
       "donationsReceived": 304,
       "capitalContributions": 0
     },
@@ -93,6 +93,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GGRR02GLG",
+      "name": "jude",
+      "role": "admin",
+      "th": 14,
+      "expLevel": 119,
+      "trophies": 402,
+      "donations": 646,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#L80R0CC0",
       "name": "RoboHobo",
       "role": "admin",
@@ -104,17 +115,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#GGRR02GLG",
-      "name": "jude",
-      "role": "admin",
-      "th": 14,
-      "expLevel": 119,
-      "trophies": 379,
-      "donations": 646,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#QLV80QQCY",
       "name": "THE ROCK",
       "role": "admin",
@@ -122,7 +122,7 @@
       "expLevel": 155,
       "trophies": 0,
       "donations": 1031,
-      "donationsReceived": 1885,
+      "donationsReceived": 1930,
       "capitalContributions": 0
     },
     {
@@ -309,7 +309,7 @@
       "expLevel": 120,
       "trophies": 0,
       "donations": 56,
-      "donationsReceived": 2838,
+      "donationsReceived": 2885,
       "capitalContributions": 0
     },
     {
@@ -342,7 +342,7 @@
       "expLevel": 62,
       "trophies": 0,
       "donations": 315,
-      "donationsReceived": 864,
+      "donationsReceived": 896,
       "capitalContributions": 0
     },
     {
