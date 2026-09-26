@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T07:28:48.623Z",
+  "generatedAt": "2026-09-26T12:57:45.055Z",
   "snapshotDate": "2026-09-26",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -331,40 +331,6 @@
         "used": 0,
         "misses": 0,
         "tier": null
-      }
-    },
-    {
-      "tag": "#R0QQVRP22",
-      "name": "zeko lelo",
-      "role": "member",
-      "th": 12,
-      "firstSeen": "2026-09-01",
-      "daysPresent": 25,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 7,
-      "warsTotal": 24,
-      "clan": {
-        "total": 74.6,
-        "pillars": {
-          "donations": 52,
-          "raids": 100,
-          "loot": 75
-        },
-        "tier": "Epic"
-      },
-      "war": {
-        "total": 76.6,
-        "status": null,
-        "cap": null,
-        "pillars": {
-          "reliability": 81,
-          "performance": 70
-        },
-        "available": 7,
-        "used": 6,
-        "misses": 1,
-        "tier": "Epic"
       }
     },
     {
