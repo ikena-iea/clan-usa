@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T17:04:07.977Z",
+  "generatedAt": "2026-09-26T20:59:33.249Z",
   "snapshotDate": "2026-09-26",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -972,6 +972,40 @@
       }
     },
     {
+      "tag": "#QV9QYJ09G",
+      "name": "Gobinath.N",
+      "role": "admin",
+      "th": 13,
+      "firstSeen": "2026-08-07",
+      "daysPresent": 50,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 9,
+      "warsTotal": 24,
+      "clan": {
+        "total": 5.6,
+        "pillars": {
+          "donations": 14,
+          "raids": 0,
+          "loot": 0
+        },
+        "tier": "Common"
+      },
+      "war": {
+        "total": 46,
+        "status": null,
+        "cap": "Uncommon",
+        "pillars": {
+          "reliability": 50,
+          "performance": 40
+        },
+        "available": 10,
+        "used": 5,
+        "misses": 5,
+        "tier": "Uncommon"
+      }
+    },
+    {
       "tag": "#R00YJ900G",
       "name": "Lakers",
       "role": "coLeader",
@@ -1006,46 +1040,45 @@
       }
     },
     {
-      "tag": "#QV9QYJ09G",
-      "name": "Gobinath.N",
-      "role": "admin",
-      "th": 13,
-      "firstSeen": "2026-08-07",
-      "daysPresent": 50,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 9,
-      "warsTotal": 24,
-      "clan": {
-        "total": 1,
-        "pillars": {
-          "donations": 3,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": "Common"
-      },
-      "war": {
-        "total": 46,
-        "status": null,
-        "cap": "Uncommon",
-        "pillars": {
-          "reliability": 50,
-          "performance": 40
-        },
-        "available": 10,
-        "used": 5,
-        "misses": 5,
-        "tier": "Uncommon"
-      }
-    },
-    {
       "tag": "#890GLU9Y0",
       "name": "selfless",
       "role": "member",
       "th": 13,
       "firstSeen": "2026-09-11",
       "daysPresent": 15,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 1,
+      "warsTotal": 24,
+      "clan": {
+        "total": 0,
+        "pillars": {
+          "donations": 0,
+          "raids": 0,
+          "loot": 0
+        },
+        "tier": "Common"
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 2,
+        "used": 0,
+        "misses": 2,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#QLYC20U2J",
+      "name": "Tap Tap",
+      "role": "member",
+      "th": 13,
+      "firstSeen": "2026-08-25",
+      "daysPresent": 32,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 1,

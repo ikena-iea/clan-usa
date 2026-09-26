@@ -1,8 +1,8 @@
 {
   "date": "2026-09-26",
-  "capturedAt": "2026-09-26T17:04:07.541Z",
+  "capturedAt": "2026-09-26T20:59:32.560Z",
   "clanLevel": 8,
-  "memberCount": 48,
+  "memberCount": 49,
   "members": [
     {
       "tag": "#9Y8JCVPGL",
@@ -54,8 +54,8 @@
       "role": "admin",
       "th": 16,
       "expLevel": 172,
-      "trophies": 453,
-      "donations": 1246,
+      "trophies": 498,
+      "donations": 1303,
       "donationsReceived": 244,
       "capitalContributions": 0
     },
@@ -66,7 +66,7 @@
       "th": 14,
       "expLevel": 125,
       "trophies": 388,
-      "donations": 1470,
+      "donations": 1647,
       "donationsReceived": 304,
       "capitalContributions": 0
     },
@@ -174,7 +174,7 @@
       "name": "AMIRKH Z",
       "role": "member",
       "th": 12,
-      "expLevel": 113,
+      "expLevel": 114,
       "trophies": 118,
       "donations": 36,
       "donationsReceived": 72,
@@ -274,7 +274,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 102,
-      "trophies": 126,
+      "trophies": 152,
       "donations": 61,
       "donationsReceived": 144,
       "capitalContributions": 0
@@ -308,8 +308,8 @@
       "th": 13,
       "expLevel": 120,
       "trophies": 0,
-      "donations": 10,
-      "donationsReceived": 2615,
+      "donations": 56,
+      "donationsReceived": 2838,
       "capitalContributions": 0
     },
     {
@@ -342,7 +342,7 @@
       "expLevel": 62,
       "trophies": 0,
       "donations": 315,
-      "donationsReceived": 854,
+      "donationsReceived": 864,
       "capitalContributions": 0
     },
     {
@@ -475,6 +475,17 @@
       "trophies": 0,
       "donations": 702,
       "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#QLYC20U2J",
+      "name": "Tap Tap",
+      "role": "member",
+      "th": 13,
+      "expLevel": 124,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 47,
       "capitalContributions": 0
     },
     {
