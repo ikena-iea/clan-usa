@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T12:57:45.055Z",
+  "generatedAt": "2026-09-26T17:04:07.977Z",
   "snapshotDate": "2026-09-26",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -33,7 +33,7 @@
       "tag": "#R292L228Q",
       "name": "Ikena",
       "role": "coLeader",
-      "th": 13,
+      "th": 14,
       "firstSeen": "2026-07-28",
       "daysPresent": 60,
       "inGrace": false,
@@ -514,7 +514,7 @@
       "warsJoined": 12,
       "warsTotal": 24,
       "clan": {
-        "total": 56.3,
+        "total": 56.5,
         "pillars": {
           "donations": 1,
           "raids": 100,
@@ -1186,7 +1186,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 0,
+          "donations": 4,
           "raids": null,
           "loot": null
         },
@@ -1408,39 +1408,6 @@
       "name": "no",
       "role": "member",
       "th": 13,
-      "firstSeen": "2026-09-22",
-      "daysPresent": 4,
-      "inGrace": true,
-      "gracePeriodEndsIn": 10,
-      "warsJoined": 0,
-      "warsTotal": 24,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "loot": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#PGQ8J8UJC",
-      "name": "Bxxndit",
-      "role": "member",
-      "th": 12,
       "firstSeen": "2026-09-22",
       "daysPresent": 4,
       "inGrace": true,
