@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T05:06:23.510Z",
+  "generatedAt": "2026-09-27T11:53:04.871Z",
   "snapshotDate": "2026-09-27",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -412,13 +412,13 @@
       "warsJoined": 20,
       "warsTotal": 24,
       "clan": {
-        "total": 62.9,
+        "total": 72.9,
         "pillars": {
-          "donations": 31,
+          "donations": 56,
           "raids": 100,
           "loot": 63
         },
-        "tier": "Rare"
+        "tier": "Epic"
       },
       "war": {
         "total": 61.6,
@@ -1671,7 +1671,7 @@
       "tag": "#QJYJQUU28",
       "name": "jason",
       "role": "member",
-      "th": 13,
+      "th": 15,
       "firstSeen": "2026-09-23",
       "daysPresent": 4,
       "inGrace": true,
