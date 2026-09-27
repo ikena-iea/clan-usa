@@ -1,6 +1,6 @@
 {
   "date": "2026-09-27",
-  "capturedAt": "2026-09-27T11:53:04.317Z",
+  "capturedAt": "2026-09-27T16:51:46.453Z",
   "clanLevel": 8,
   "memberCount": 50,
   "members": [
@@ -34,7 +34,7 @@
       "expLevel": 270,
       "trophies": 465,
       "donations": 579,
-      "donationsReceived": 569,
+      "donationsReceived": 624,
       "capitalContributions": 0
     },
     {
@@ -66,8 +66,8 @@
       "th": 16,
       "expLevel": 172,
       "trophies": 498,
-      "donations": 1303,
-      "donationsReceived": 244,
+      "donations": 1350,
+      "donationsReceived": 327,
       "capitalContributions": 0
     },
     {
@@ -132,8 +132,8 @@
       "th": 14,
       "expLevel": 155,
       "trophies": 0,
-      "donations": 1031,
-      "donationsReceived": 1930,
+      "donations": 1173,
+      "donationsReceived": 1978,
       "capitalContributions": 0
     },
     {
@@ -242,7 +242,7 @@
       "th": 13,
       "expLevel": 90,
       "trophies": 9,
-      "donations": 0,
+      "donations": 5,
       "donationsReceived": 66,
       "capitalContributions": 0
     },
@@ -269,6 +269,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GYC8Q2R20",
+      "name": "lucky",
+      "role": "admin",
+      "th": 12,
+      "expLevel": 100,
+      "trophies": 257,
+      "donations": 9,
+      "donationsReceived": 72,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#YUUVCQR2C",
       "name": "Ronald",
       "role": "admin",
@@ -291,17 +302,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#GYC8Q2R20",
-      "name": "lucky",
-      "role": "admin",
-      "th": 12,
-      "expLevel": 100,
-      "trophies": 98,
-      "donations": 2,
-      "donationsReceived": 72,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#QVPQ8G2VQ",
       "name": "your mom",
       "role": "member",
@@ -320,7 +320,7 @@
       "expLevel": 120,
       "trophies": 0,
       "donations": 56,
-      "donationsReceived": 2930,
+      "donationsReceived": 3024,
       "capitalContributions": 0
     },
     {
@@ -361,7 +361,7 @@
       "name": "arroz",
       "role": "admin",
       "th": 10,
-      "expLevel": 69,
+      "expLevel": 70,
       "trophies": 0,
       "donations": 3,
       "donationsReceived": 0,
@@ -396,8 +396,8 @@
       "th": 18,
       "expLevel": 256,
       "trophies": 0,
-      "donations": 1364,
-      "donationsReceived": 1024,
+      "donations": 1412,
+      "donationsReceived": 1083,
       "capitalContributions": 0
     },
     {
@@ -407,7 +407,7 @@
       "th": 18,
       "expLevel": 204,
       "trophies": 0,
-      "donations": 554,
+      "donations": 655,
       "donationsReceived": 545,
       "capitalContributions": 0
     },
@@ -419,7 +419,7 @@
       "expLevel": 172,
       "trophies": 0,
       "donations": 1378,
-      "donationsReceived": 490,
+      "donationsReceived": 497,
       "capitalContributions": 0
     },
     {
@@ -550,8 +550,8 @@
       "th": 18,
       "expLevel": 240,
       "trophies": 0,
-      "donations": 1795,
-      "donationsReceived": 1090,
+      "donations": 1850,
+      "donationsReceived": 1149,
       "capitalContributions": 0
     }
   ]

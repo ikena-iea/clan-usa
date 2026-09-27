@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T11:53:04.871Z",
+  "generatedAt": "2026-09-27T16:51:46.897Z",
   "snapshotDate": "2026-09-27",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -514,9 +514,9 @@
       "warsJoined": 12,
       "warsTotal": 24,
       "clan": {
-        "total": 56.5,
+        "total": 57.2,
         "pillars": {
-          "donations": 1,
+          "donations": 3,
           "raids": 100,
           "loot": 84
         },
@@ -1417,7 +1417,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 0,
+          "donations": 19,
           "raids": null,
           "loot": null
         },
