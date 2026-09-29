@@ -1,6 +1,6 @@
 {
   "date": "2026-09-29",
-  "capturedAt": "2026-09-29T06:46:40.004Z",
+  "capturedAt": "2026-09-29T13:57:06.365Z",
   "clanLevel": 8,
   "memberCount": 50,
   "members": [
@@ -21,9 +21,9 @@
       "role": "member",
       "th": 17,
       "expLevel": 270,
-      "trophies": 64,
-      "donations": 903,
-      "donationsReceived": 878,
+      "trophies": 88,
+      "donations": 948,
+      "donationsReceived": 928,
       "capitalContributions": 0
     },
     {
@@ -86,7 +86,7 @@
       "name": "mustafa",
       "role": "admin",
       "th": 16,
-      "expLevel": 155,
+      "expLevel": 156,
       "trophies": 0,
       "donations": 291,
       "donationsReceived": 360,
@@ -164,7 +164,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 138,
-      "trophies": 205,
+      "trophies": 232,
       "donations": 106,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -265,7 +265,7 @@
       "expLevel": 120,
       "trophies": 19,
       "donations": 56,
-      "donationsReceived": 3473,
+      "donationsReceived": 3518,
       "capitalContributions": 0
     },
     {
@@ -396,7 +396,7 @@
       "th": 18,
       "expLevel": 204,
       "trophies": 0,
-      "donations": 841,
+      "donations": 891,
       "donationsReceived": 545,
       "capitalContributions": 0
     },
@@ -460,7 +460,7 @@
       "name": "Lakers",
       "role": "coLeader",
       "th": 12,
-      "expLevel": 93,
+      "expLevel": 94,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
