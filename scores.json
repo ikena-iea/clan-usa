@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T19:18:21.709Z",
+  "generatedAt": "2026-09-29T23:36:52.265Z",
   "snapshotDate": "2026-09-29",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -265,39 +265,6 @@
         "used": 10,
         "misses": 0,
         "tier": "Rare"
-      }
-    },
-    {
-      "tag": "#YP2CQUVQ9",
-      "name": "pitek",
-      "role": "admin",
-      "th": 16,
-      "firstSeen": "2026-09-11",
-      "daysPresent": 18,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 1,
-      "warsTotal": 25,
-      "clan": {
-        "total": 80.9,
-        "pillars": {
-          "donations": 100,
-          "raids": 71,
-          "loot": 65
-        },
-        "tier": "Epic"
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 2,
-        "used": 2,
-        "misses": 0,
-        "tier": null
       }
     },
     {
@@ -583,9 +550,9 @@
       "warsJoined": 3,
       "warsTotal": 25,
       "clan": {
-        "total": 46.1,
+        "total": 46.3,
         "pillars": {
-          "donations": 0,
+          "donations": 1,
           "raids": 78,
           "loot": 75
         },
