@@ -1,6 +1,6 @@
 {
   "date": "2026-09-29",
-  "capturedAt": "2026-09-29T13:57:06.365Z",
+  "capturedAt": "2026-09-29T19:18:20.797Z",
   "clanLevel": 8,
   "memberCount": 50,
   "members": [
@@ -10,7 +10,7 @@
       "role": "admin",
       "th": 18,
       "expLevel": 200,
-      "trophies": 9,
+      "trophies": 39,
       "donations": 648,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -22,7 +22,7 @@
       "th": 17,
       "expLevel": 270,
       "trophies": 88,
-      "donations": 948,
+      "donations": 1240,
       "donationsReceived": 928,
       "capitalContributions": 0
     },
@@ -32,7 +32,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 174,
-      "trophies": 52,
+      "trophies": 80,
       "donations": 602,
       "donationsReceived": 870,
       "capitalContributions": 0
@@ -110,8 +110,8 @@
       "th": 14,
       "expLevel": 156,
       "trophies": 0,
-      "donations": 1185,
-      "donationsReceived": 2071,
+      "donations": 1392,
+      "donationsReceived": 2210,
       "capitalContributions": 0
     },
     {
@@ -121,8 +121,8 @@
       "th": 13,
       "expLevel": 123,
       "trophies": 319,
-      "donations": 768,
-      "donationsReceived": 2334,
+      "donations": 815,
+      "donationsReceived": 2392,
       "capitalContributions": 0
     },
     {
@@ -148,6 +148,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GGJY8JJQ0",
+      "name": "Hazkie",
+      "role": "admin",
+      "th": 13,
+      "expLevel": 138,
+      "trophies": 259,
+      "donations": 106,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#PJ22QYY22",
       "name": "thegodlynoob",
       "role": "admin",
@@ -155,17 +166,6 @@
       "expLevel": 96,
       "trophies": 234,
       "donations": 37,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GGJY8JJQ0",
-      "name": "Hazkie",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 138,
-      "trophies": 232,
-      "donations": 106,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -208,7 +208,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 102,
-      "trophies": 22,
+      "trophies": 51,
       "donations": 61,
       "donationsReceived": 144,
       "capitalContributions": 0
@@ -258,25 +258,25 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#QV9QYJ09G",
-      "name": "Gobinath.N",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 120,
-      "trophies": 19,
-      "donations": 56,
-      "donationsReceived": 3518,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#QLYC20U2J",
       "name": "Tap Tap",
       "role": "member",
       "th": 13,
       "expLevel": 124,
-      "trophies": 17,
+      "trophies": 45,
       "donations": 0,
       "donationsReceived": 47,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#QV9QYJ09G",
+      "name": "Gobinath.N",
+      "role": "admin",
+      "th": 13,
+      "expLevel": 120,
+      "trophies": 39,
+      "donations": 56,
+      "donationsReceived": 3888,
       "capitalContributions": 0
     },
     {
@@ -350,7 +350,7 @@
       "name": "arroz",
       "role": "admin",
       "th": 10,
-      "expLevel": 70,
+      "expLevel": 71,
       "trophies": 18,
       "donations": 3,
       "donationsReceived": 0,
@@ -418,7 +418,7 @@
       "th": 15,
       "expLevel": 172,
       "trophies": 0,
-      "donations": 1470,
+      "donations": 1563,
       "donationsReceived": 611,
       "capitalContributions": 0
     },
@@ -438,10 +438,10 @@
       "name": "pheak",
       "role": "member",
       "th": 12,
-      "expLevel": 98,
+      "expLevel": 99,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 499,
+      "donationsReceived": 571,
       "capitalContributions": 0
     },
     {
