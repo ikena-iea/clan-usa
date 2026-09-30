@@ -1,6 +1,6 @@
 {
   "date": "2026-09-30",
-  "capturedAt": "2026-09-30T18:22:13.421Z",
+  "capturedAt": "2026-09-30T22:55:01.838Z",
   "clanLevel": 8,
   "memberCount": 50,
   "members": [
@@ -21,9 +21,9 @@
       "role": "member",
       "th": 17,
       "expLevel": 270,
-      "trophies": 227,
-      "donations": 1469,
-      "donationsReceived": 1333,
+      "trophies": 267,
+      "donations": 1472,
+      "donationsReceived": 1421,
       "capitalContributions": 0
     },
     {
@@ -32,9 +32,9 @@
       "role": "admin",
       "th": 15,
       "expLevel": 174,
-      "trophies": 120,
-      "donations": 602,
-      "donationsReceived": 870,
+      "trophies": 180,
+      "donations": 605,
+      "donationsReceived": 923,
       "capitalContributions": 0
     },
     {
@@ -99,8 +99,8 @@
       "th": 14,
       "expLevel": 156,
       "trophies": 0,
-      "donations": 1392,
-      "donationsReceived": 2210,
+      "donations": 1516,
+      "donationsReceived": 2213,
       "capitalContributions": 0
     },
     {
@@ -110,7 +110,7 @@
       "th": 13,
       "expLevel": 123,
       "trophies": 328,
-      "donations": 882,
+      "donations": 885,
       "donationsReceived": 2422,
       "capitalContributions": 0
     },
@@ -153,9 +153,9 @@
       "role": "member",
       "th": 13,
       "expLevel": 114,
-      "trophies": 263,
-      "donations": 507,
-      "donationsReceived": 458,
+      "trophies": 369,
+      "donations": 559,
+      "donationsReceived": 537,
       "capitalContributions": 0
     },
     {
@@ -254,7 +254,7 @@
       "expLevel": 121,
       "trophies": 210,
       "donations": 56,
-      "donationsReceived": 4027,
+      "donationsReceived": 4074,
       "capitalContributions": 0
     },
     {
@@ -353,7 +353,7 @@
       "expLevel": 36,
       "trophies": 280,
       "donations": 0,
-      "donationsReceived": 25,
+      "donationsReceived": 26,
       "capitalContributions": 0
     },
     {
@@ -407,7 +407,7 @@
       "th": 18,
       "expLevel": 204,
       "trophies": 0,
-      "donations": 921,
+      "donations": 1007,
       "donationsReceived": 753,
       "capitalContributions": 0
     },
