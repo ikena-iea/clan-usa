@@ -1,8 +1,8 @@
 {
   "date": "2026-09-30",
-  "capturedAt": "2026-09-30T05:19:59.228Z",
+  "capturedAt": "2026-09-30T12:24:34.881Z",
   "clanLevel": 8,
-  "memberCount": 50,
+  "memberCount": 49,
   "members": [
     {
       "tag": "#9Y8JCVPGL",
@@ -10,9 +10,20 @@
       "role": "admin",
       "th": 18,
       "expLevel": 200,
-      "trophies": 39,
-      "donations": 648,
+      "trophies": 67,
+      "donations": 706,
       "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#8YCVGRC08",
+      "name": "Checheng.",
+      "role": "member",
+      "th": 17,
+      "expLevel": 270,
+      "trophies": 146,
+      "donations": 1347,
+      "donationsReceived": 1214,
       "capitalContributions": 0
     },
     {
@@ -24,17 +35,6 @@
       "trophies": 120,
       "donations": 602,
       "donationsReceived": 870,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#8YCVGRC08",
-      "name": "Checheng.",
-      "role": "member",
-      "th": 17,
-      "expLevel": 270,
-      "trophies": 88,
-      "donations": 1290,
-      "donationsReceived": 1038,
       "capitalContributions": 0
     },
     {
@@ -142,7 +142,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 138,
-      "trophies": 394,
+      "trophies": 435,
       "donations": 106,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -247,6 +247,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#QV9QYJ09G",
+      "name": "Gobinath.N",
+      "role": "admin",
+      "th": 13,
+      "expLevel": 120,
+      "trophies": 79,
+      "donations": 56,
+      "donationsReceived": 3888,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#QLYC20U2J",
       "name": "Tap Tap",
       "role": "member",
@@ -255,17 +266,6 @@
       "trophies": 45,
       "donations": 0,
       "donationsReceived": 47,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#QV9QYJ09G",
-      "name": "Gobinath.N",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 120,
-      "trophies": 39,
-      "donations": 56,
-      "donationsReceived": 3888,
       "capitalContributions": 0
     },
     {
@@ -297,7 +297,7 @@
       "th": 12,
       "expLevel": 94,
       "trophies": 0,
-      "donations": 112,
+      "donations": 200,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -349,8 +349,8 @@
       "tag": "#QU0VVP8RJ",
       "name": "DaHairyVeer",
       "role": "member",
-      "th": 7,
-      "expLevel": 33,
+      "th": 8,
+      "expLevel": 34,
       "trophies": 280,
       "donations": 0,
       "donationsReceived": 0,
@@ -386,7 +386,7 @@
       "expLevel": 256,
       "trophies": 0,
       "donations": 1608,
-      "donationsReceived": 1142,
+      "donationsReceived": 1199,
       "capitalContributions": 0
     },
     {
@@ -396,8 +396,8 @@
       "th": 18,
       "expLevel": 204,
       "trophies": 0,
-      "donations": 891,
-      "donationsReceived": 664,
+      "donations": 921,
+      "donationsReceived": 753,
       "capitalContributions": 0
     },
     {
@@ -478,17 +478,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#GRYL9G0PJ",
-      "name": "ijsjsjw",
-      "role": "coLeader",
-      "th": 7,
-      "expLevel": 27,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#L9P9CY20G",
       "name": "Limerence",
       "role": "coLeader",
@@ -550,7 +539,7 @@
       "th": 18,
       "expLevel": 240,
       "trophies": 0,
-      "donations": 2066,
+      "donations": 2155,
       "donationsReceived": 1271,
       "capitalContributions": 0
     }
