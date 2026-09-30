@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T12:24:35.427Z",
+  "generatedAt": "2026-09-30T18:22:13.945Z",
   "snapshotDate": "2026-09-30",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -607,6 +607,39 @@
       }
     },
     {
+      "tag": "#G8VGPGY8J",
+      "name": "asap",
+      "role": "admin",
+      "th": 14,
+      "firstSeen": "2026-08-14",
+      "daysPresent": 47,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 0,
+      "warsTotal": 25,
+      "clan": {
+        "total": 45.8,
+        "pillars": {
+          "donations": 31,
+          "raids": 50,
+          "loot": 63
+        },
+        "tier": "Uncommon"
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#GVV89RJYQ",
       "name": "DevilIguana",
       "role": "admin",
@@ -638,39 +671,6 @@
         "used": 8,
         "misses": 2,
         "tier": "Rare"
-      }
-    },
-    {
-      "tag": "#G8VGPGY8J",
-      "name": "asap",
-      "role": "admin",
-      "th": 14,
-      "firstSeen": "2026-08-14",
-      "daysPresent": 47,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 0,
-      "warsTotal": 25,
-      "clan": {
-        "total": 40.8,
-        "pillars": {
-          "donations": 19,
-          "raids": 50,
-          "loot": 63
-        },
-        "tier": "Uncommon"
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
       }
     },
     {
@@ -1388,7 +1388,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 8,
+          "donations": 78,
           "raids": 0,
           "loot": 0
         },
@@ -1412,6 +1412,39 @@
       "name": "DaHairyVeer",
       "role": "member",
       "th": 8,
+      "firstSeen": "2026-09-30",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 25,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#RYLL90GG",
+      "name": "FHM",
+      "role": "member",
+      "th": 15,
       "firstSeen": "2026-09-30",
       "daysPresent": 1,
       "inGrace": true,
