@@ -1,6 +1,6 @@
 {
   "date": "2026-10-01",
-  "capturedAt": "2026-10-01T08:46:56.062Z",
+  "capturedAt": "2026-10-01T16:16:33.791Z",
   "clanLevel": 8,
   "memberCount": 50,
   "members": [
@@ -9,9 +9,9 @@
       "name": ",,,",
       "role": "admin",
       "th": 18,
-      "expLevel": 200,
-      "trophies": 67,
-      "donations": 706,
+      "expLevel": 201,
+      "trophies": 161,
+      "donations": 810,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -23,7 +23,7 @@
       "expLevel": 270,
       "trophies": 337,
       "donations": 1522,
-      "donationsReceived": 1479,
+      "donationsReceived": 1529,
       "capitalContributions": 0
     },
     {
@@ -35,6 +35,17 @@
       "trophies": 180,
       "donations": 605,
       "donationsReceived": 923,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#G08JR29PJ",
+      "name": "mikey",
+      "role": "member",
+      "th": 16,
+      "expLevel": 180,
+      "trophies": 291,
+      "donations": 0,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -87,7 +98,7 @@
       "role": "admin",
       "th": 14,
       "expLevel": 120,
-      "trophies": 467,
+      "trophies": 493,
       "donations": 789,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -126,17 +137,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#R8PJY0U0J",
-      "name": "Didetz",
-      "role": "leader",
-      "th": 14,
-      "expLevel": 106,
-      "trophies": 0,
-      "donations": 371,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#GGJY8JJQ0",
       "name": "Hazkie",
       "role": "admin",
@@ -154,7 +154,7 @@
       "th": 13,
       "expLevel": 114,
       "trophies": 381,
-      "donations": 559,
+      "donations": 630,
       "donationsReceived": 612,
       "capitalContributions": 0
     },
@@ -175,7 +175,7 @@
       "role": "member",
       "th": 12,
       "expLevel": 114,
-      "trophies": 58,
+      "trophies": 86,
       "donations": 36,
       "donationsReceived": 72,
       "capitalContributions": 0
@@ -297,8 +297,8 @@
       "th": 13,
       "expLevel": 91,
       "trophies": 0,
-      "donations": 52,
-      "donationsReceived": 102,
+      "donations": 72,
+      "donationsReceived": 168,
       "capitalContributions": 0
     },
     {
@@ -307,7 +307,7 @@
       "role": "admin",
       "th": 11,
       "expLevel": 92,
-      "trophies": 24,
+      "trophies": 38,
       "donations": 2,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -374,7 +374,7 @@
       "th": 17,
       "expLevel": 153,
       "trophies": 0,
-      "donations": 1152,
+      "donations": 1172,
       "donationsReceived": 757,
       "capitalContributions": 0
     },
@@ -396,7 +396,7 @@
       "th": 18,
       "expLevel": 256,
       "trophies": 0,
-      "donations": 1608,
+      "donations": 1661,
       "donationsReceived": 1199,
       "capitalContributions": 0
     },
@@ -449,10 +449,10 @@
       "name": "pheak",
       "role": "member",
       "th": 12,
-      "expLevel": 99,
+      "expLevel": 100,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 571,
+      "donationsReceived": 611,
       "capitalContributions": 0
     },
     {
@@ -470,7 +470,7 @@
       "tag": "#R00YJ900G",
       "name": "Lakers",
       "role": "coLeader",
-      "th": 12,
+      "th": 13,
       "expLevel": 94,
       "trophies": 0,
       "donations": 0,
@@ -511,17 +511,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#R9R2RV892",
-      "name": "jadav m",
-      "role": "admin",
-      "th": 11,
-      "expLevel": 79,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#PGQVCVYPJ",
       "name": "ben",
       "role": "admin",
@@ -529,7 +518,18 @@
       "expLevel": 217,
       "trophies": 0,
       "donations": 503,
-      "donationsReceived": 603,
+      "donationsReceived": 656,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#R8PJY0U0J",
+      "name": "Didetz",
+      "role": "leader",
+      "th": 14,
+      "expLevel": 106,
+      "trophies": 0,
+      "donations": 371,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -551,7 +551,7 @@
       "expLevel": 240,
       "trophies": 0,
       "donations": 2156,
-      "donationsReceived": 1271,
+      "donationsReceived": 1330,
       "capitalContributions": 0
     }
   ]
