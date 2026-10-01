@@ -1,6 +1,6 @@
 {
   "date": "2026-10-01",
-  "capturedAt": "2026-10-01T01:58:52.569Z",
+  "capturedAt": "2026-10-01T08:46:56.062Z",
   "clanLevel": 8,
   "memberCount": 50,
   "members": [
@@ -21,9 +21,9 @@
       "role": "member",
       "th": 17,
       "expLevel": 270,
-      "trophies": 267,
-      "donations": 1472,
-      "donationsReceived": 1476,
+      "trophies": 337,
+      "donations": 1522,
+      "donationsReceived": 1479,
       "capitalContributions": 0
     },
     {
@@ -53,7 +53,7 @@
       "name": "innovaman53",
       "role": "member",
       "th": 17,
-      "expLevel": 169,
+      "expLevel": 170,
       "trophies": 0,
       "donations": 52,
       "donationsReceived": 0,
@@ -65,7 +65,7 @@
       "role": "coLeader",
       "th": 14,
       "expLevel": 125,
-      "trophies": 394,
+      "trophies": 405,
       "donations": 1803,
       "donationsReceived": 383,
       "capitalContributions": 0
@@ -142,7 +142,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 138,
-      "trophies": 435,
+      "trophies": 475,
       "donations": 106,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -153,7 +153,7 @@
       "role": "member",
       "th": 13,
       "expLevel": 114,
-      "trophies": 369,
+      "trophies": 381,
       "donations": 559,
       "donationsReceived": 612,
       "capitalContributions": 0
@@ -163,8 +163,8 @@
       "name": "thegodlynoob",
       "role": "admin",
       "th": 12,
-      "expLevel": 96,
-      "trophies": 244,
+      "expLevel": 97,
+      "trophies": 254,
       "donations": 37,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -198,7 +198,7 @@
       "th": 12,
       "expLevel": 101,
       "trophies": 61,
-      "donations": 9,
+      "donations": 12,
       "donationsReceived": 72,
       "capitalContributions": 0
     },
@@ -218,18 +218,7 @@
       "name": "no",
       "role": "member",
       "th": 13,
-      "expLevel": 126,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#QU8CP2CU0",
-      "name": "AS gaming",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 86,
+      "expLevel": 127,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -258,12 +247,23 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#QU8CP2CU0",
+      "name": "AS gaming",
+      "role": "admin",
+      "th": 13,
+      "expLevel": 86,
+      "trophies": 147,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#QLYC20U2J",
       "name": "Tap Tap",
       "role": "member",
       "th": 13,
       "expLevel": 124,
-      "trophies": 45,
+      "trophies": 66,
       "donations": 0,
       "donationsReceived": 47,
       "capitalContributions": 0
@@ -306,7 +306,7 @@
       "name": "allis",
       "role": "admin",
       "th": 11,
-      "expLevel": 91,
+      "expLevel": 92,
       "trophies": 24,
       "donations": 2,
       "donationsReceived": 0,
@@ -350,7 +350,7 @@
       "name": "DaHairyVeer",
       "role": "member",
       "th": 8,
-      "expLevel": 36,
+      "expLevel": 37,
       "trophies": 280,
       "donations": 0,
       "donationsReceived": 26,
@@ -529,7 +529,7 @@
       "expLevel": 217,
       "trophies": 0,
       "donations": 503,
-      "donationsReceived": 553,
+      "donationsReceived": 603,
       "capitalContributions": 0
     },
     {
