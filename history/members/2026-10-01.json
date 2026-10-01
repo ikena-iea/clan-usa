@@ -1,6 +1,6 @@
 {
   "date": "2026-10-01",
-  "capturedAt": "2026-10-01T16:16:33.791Z",
+  "capturedAt": "2026-10-01T21:44:15.895Z",
   "clanLevel": 8,
   "memberCount": 50,
   "members": [
@@ -23,7 +23,7 @@
       "expLevel": 270,
       "trophies": 337,
       "donations": 1522,
-      "donationsReceived": 1529,
+      "donationsReceived": 1584,
       "capitalContributions": 0
     },
     {
@@ -32,9 +32,9 @@
       "role": "admin",
       "th": 15,
       "expLevel": 174,
-      "trophies": 180,
-      "donations": 605,
-      "donationsReceived": 923,
+      "trophies": 253,
+      "donations": 710,
+      "donationsReceived": 961,
       "capitalContributions": 0
     },
     {
@@ -75,9 +75,9 @@
       "name": "Ikena",
       "role": "coLeader",
       "th": 14,
-      "expLevel": 125,
+      "expLevel": 126,
       "trophies": 405,
-      "donations": 1803,
+      "donations": 1850,
       "donationsReceived": 383,
       "capitalContributions": 0
     },
@@ -110,8 +110,8 @@
       "th": 14,
       "expLevel": 156,
       "trophies": 0,
-      "donations": 1516,
-      "donationsReceived": 2213,
+      "donations": 1610,
+      "donationsReceived": 2258,
       "capitalContributions": 0
     },
     {
@@ -121,8 +121,8 @@
       "th": 13,
       "expLevel": 124,
       "trophies": 328,
-      "donations": 885,
-      "donationsReceived": 2422,
+      "donations": 933,
+      "donationsReceived": 2452,
       "capitalContributions": 0
     },
     {
@@ -154,8 +154,8 @@
       "th": 13,
       "expLevel": 114,
       "trophies": 381,
-      "donations": 630,
-      "donationsReceived": 612,
+      "donations": 697,
+      "donationsReceived": 736,
       "capitalContributions": 0
     },
     {
@@ -243,7 +243,7 @@
       "expLevel": 121,
       "trophies": 210,
       "donations": 56,
-      "donationsReceived": 4074,
+      "donationsReceived": 4216,
       "capitalContributions": 0
     },
     {
@@ -340,7 +340,7 @@
       "role": "admin",
       "th": 10,
       "expLevel": 71,
-      "trophies": 18,
+      "trophies": 27,
       "donations": 3,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -352,7 +352,7 @@
       "th": 8,
       "expLevel": 37,
       "trophies": 280,
-      "donations": 0,
+      "donations": 47,
       "donationsReceived": 26,
       "capitalContributions": 0
     },
@@ -407,8 +407,8 @@
       "th": 18,
       "expLevel": 204,
       "trophies": 0,
-      "donations": 1137,
-      "donationsReceived": 753,
+      "donations": 1230,
+      "donationsReceived": 820,
       "capitalContributions": 0
     },
     {
