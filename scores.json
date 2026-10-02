@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T01:31:45.604Z",
+  "generatedAt": "2026-10-02T08:20:56.897Z",
   "snapshotDate": "2026-10-02",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1387,7 +1387,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 77,
+          "donations": 100,
           "raids": 0,
           "loot": 0
         },
@@ -1409,7 +1409,7 @@
     {
       "tag": "#QU0VVP8RJ",
       "name": "DaHairyVeer",
-      "role": "member",
+      "role": "coLeader",
       "th": 8,
       "firstSeen": "2026-09-30",
       "daysPresent": 2,
