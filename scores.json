@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T20:57:00.285Z",
+  "generatedAt": "2026-10-03T23:43:59.195Z",
   "snapshotDate": "2026-10-03",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -608,6 +608,39 @@
       }
     },
     {
+      "tag": "#G8VGPGY8J",
+      "name": "asap",
+      "role": "admin",
+      "th": 14,
+      "firstSeen": "2026-08-14",
+      "daysPresent": 50,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 0,
+      "warsTotal": 26,
+      "clan": {
+        "total": 48.8,
+        "pillars": {
+          "donations": 39,
+          "raids": 50,
+          "loot": 63
+        },
+        "tier": "Uncommon"
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#GLUJVJGGV",
       "name": "allis",
       "role": "admin",
@@ -639,39 +672,6 @@
         "used": 2,
         "misses": 6,
         "tier": "Common"
-      }
-    },
-    {
-      "tag": "#G8VGPGY8J",
-      "name": "asap",
-      "role": "admin",
-      "th": 14,
-      "firstSeen": "2026-08-14",
-      "daysPresent": 50,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 0,
-      "warsTotal": 26,
-      "clan": {
-        "total": 45.8,
-        "pillars": {
-          "donations": 31,
-          "raids": 50,
-          "loot": 63
-        },
-        "tier": "Uncommon"
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
       }
     },
     {
