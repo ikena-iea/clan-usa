@@ -1,6 +1,6 @@
 {
   "date": "2026-10-03",
-  "capturedAt": "2026-10-03T06:19:52.097Z",
+  "capturedAt": "2026-10-03T12:25:00.789Z",
   "clanLevel": 8,
   "memberCount": 50,
   "members": [
@@ -22,8 +22,8 @@
       "th": 17,
       "expLevel": 270,
       "trophies": 349,
-      "donations": 1737,
-      "donationsReceived": 1700,
+      "donations": 1757,
+      "donationsReceived": 1758,
       "capitalContributions": 0
     },
     {
@@ -40,7 +40,7 @@
     {
       "tag": "#G08JR29PJ",
       "name": "mikey",
-      "role": "member",
+      "role": "admin",
       "th": 16,
       "expLevel": 180,
       "trophies": 320,
@@ -98,7 +98,7 @@
       "role": "admin",
       "th": 14,
       "expLevel": 121,
-      "trophies": 493,
+      "trophies": 507,
       "donations": 881,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -119,7 +119,7 @@
       "name": "DaHairyVeer2",
       "role": "coLeader",
       "th": 13,
-      "expLevel": 124,
+      "expLevel": 125,
       "trophies": 328,
       "donations": 947,
       "donationsReceived": 2527,
@@ -139,7 +139,7 @@
     {
       "tag": "#LYCV9J2QJ",
       "name": "_AzE_CeKo™⚜",
-      "role": "member",
+      "role": "admin",
       "th": 14,
       "expLevel": 173,
       "trophies": 0,
@@ -165,7 +165,7 @@
       "th": 13,
       "expLevel": 114,
       "trophies": 394,
-      "donations": 796,
+      "donations": 868,
       "donationsReceived": 813,
       "capitalContributions": 0
     },
@@ -174,7 +174,7 @@
       "name": "thegodlynoob",
       "role": "admin",
       "th": 12,
-      "expLevel": 97,
+      "expLevel": 98,
       "trophies": 266,
       "donations": 37,
       "donationsReceived": 0,
@@ -353,13 +353,13 @@
       "expLevel": 40,
       "trophies": 309,
       "donations": 47,
-      "donationsReceived": 83,
+      "donationsReceived": 103,
       "capitalContributions": 0
     },
     {
       "tag": "#RYLL90GG",
       "name": "FHM",
-      "role": "member",
+      "role": "admin",
       "th": 15,
       "expLevel": 222,
       "trophies": 0,
@@ -396,7 +396,7 @@
       "th": 18,
       "expLevel": 256,
       "trophies": 0,
-      "donations": 1713,
+      "donations": 1802,
       "donationsReceived": 1315,
       "capitalContributions": 0
     },
@@ -430,7 +430,7 @@
       "expLevel": 173,
       "trophies": 0,
       "donations": 1810,
-      "donationsReceived": 748,
+      "donationsReceived": 779,
       "capitalContributions": 0
     },
     {
@@ -438,7 +438,7 @@
       "name": "kongo",
       "role": "member",
       "th": 13,
-      "expLevel": 162,
+      "expLevel": 163,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -452,7 +452,7 @@
       "expLevel": 100,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 755,
+      "donationsReceived": 827,
       "capitalContributions": 0
     },
     {
