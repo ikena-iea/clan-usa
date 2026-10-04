@@ -1,8 +1,8 @@
 {
   "date": "2026-10-04",
-  "capturedAt": "2026-10-04T12:12:31.715Z",
+  "capturedAt": "2026-10-04T17:25:46.111Z",
   "clanLevel": 8,
-  "memberCount": 48,
+  "memberCount": 47,
   "members": [
     {
       "tag": "#9Y8JCVPGL",
@@ -11,7 +11,7 @@
       "th": 18,
       "expLevel": 201,
       "trophies": 161,
-      "donations": 810,
+      "donations": 932,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -23,7 +23,7 @@
       "expLevel": 270,
       "trophies": 368,
       "donations": 1809,
-      "donationsReceived": 1811,
+      "donationsReceived": 1866,
       "capitalContributions": 0
     },
     {
@@ -111,7 +111,7 @@
       "expLevel": 157,
       "trophies": 0,
       "donations": 2098,
-      "donationsReceived": 2400,
+      "donationsReceived": 2448,
       "capitalContributions": 0
     },
     {
@@ -181,23 +181,12 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#890GLU9Y0",
-      "name": "selfless",
-      "role": "member",
-      "th": 13,
-      "expLevel": 170,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#YUUVCQR2C",
       "name": "Ronald",
       "role": "admin",
       "th": 13,
       "expLevel": 104,
-      "trophies": 101,
+      "trophies": 127,
       "donations": 61,
       "donationsReceived": 144,
       "capitalContributions": 0
@@ -339,7 +328,7 @@
       "name": "DaHairyVeer",
       "role": "coLeader",
       "th": 8,
-      "expLevel": 42,
+      "expLevel": 43,
       "trophies": 309,
       "donations": 47,
       "donationsReceived": 103,
@@ -396,7 +385,7 @@
       "th": 18,
       "expLevel": 204,
       "trophies": 0,
-      "donations": 1494,
+      "donations": 1499,
       "donationsReceived": 979,
       "capitalContributions": 0
     },
@@ -418,7 +407,7 @@
       "th": 15,
       "expLevel": 173,
       "trophies": 0,
-      "donations": 1810,
+      "donations": 1858,
       "donationsReceived": 779,
       "capitalContributions": 0
     },
@@ -441,7 +430,7 @@
       "expLevel": 101,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 899,
+      "donationsReceived": 971,
       "capitalContributions": 0
     },
     {

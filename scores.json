@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T12:12:32.255Z",
+  "generatedAt": "2026-10-04T17:25:46.657Z",
   "snapshotDate": "2026-10-04",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1043,39 +1043,6 @@
         "used": 5,
         "misses": 5,
         "tier": "Uncommon"
-      }
-    },
-    {
-      "tag": "#890GLU9Y0",
-      "name": "selfless",
-      "role": "member",
-      "th": 13,
-      "firstSeen": "2026-09-11",
-      "daysPresent": 23,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 1,
-      "warsTotal": 26,
-      "clan": {
-        "total": 0,
-        "pillars": {
-          "donations": 0,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": "Common"
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 2,
-        "used": 0,
-        "misses": 2,
-        "tier": null
       }
     },
     {
