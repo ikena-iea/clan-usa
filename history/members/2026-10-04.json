@@ -1,6 +1,6 @@
 {
   "date": "2026-10-04",
-  "capturedAt": "2026-10-04T17:25:46.111Z",
+  "capturedAt": "2026-10-04T21:13:12.205Z",
   "clanLevel": 8,
   "memberCount": 47,
   "members": [
@@ -110,7 +110,7 @@
       "th": 14,
       "expLevel": 157,
       "trophies": 0,
-      "donations": 2098,
+      "donations": 2192,
       "donationsReceived": 2448,
       "capitalContributions": 0
     },
@@ -152,7 +152,7 @@
       "name": "Hazkie",
       "role": "admin",
       "th": 13,
-      "expLevel": 138,
+      "expLevel": 139,
       "trophies": 530,
       "donations": 106,
       "donationsReceived": 0,
@@ -232,7 +232,7 @@
       "expLevel": 121,
       "trophies": 210,
       "donations": 56,
-      "donationsReceived": 4807,
+      "donationsReceived": 4901,
       "capitalContributions": 0
     },
     {
@@ -247,6 +247,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#R8GPLGRVQ",
+      "name": "LegitN00b98",
+      "role": "coLeader",
+      "th": 12,
+      "expLevel": 94,
+      "trophies": 72,
+      "donations": 200,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#QLYC20U2J",
       "name": "Tap Tap",
       "role": "member",
@@ -255,17 +266,6 @@
       "trophies": 66,
       "donations": 0,
       "donationsReceived": 47,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#R8GPLGRVQ",
-      "name": "LegitN00b98",
-      "role": "coLeader",
-      "th": 12,
-      "expLevel": 94,
-      "trophies": 42,
-      "donations": 200,
-      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -328,7 +328,7 @@
       "name": "DaHairyVeer",
       "role": "coLeader",
       "th": 8,
-      "expLevel": 43,
+      "expLevel": 44,
       "trophies": 309,
       "donations": 47,
       "donationsReceived": 103,
