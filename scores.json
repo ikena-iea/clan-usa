@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T00:42:07.902Z",
+  "generatedAt": "2026-10-05T06:49:23.287Z",
   "snapshotDate": "2026-10-05",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1429,6 +1429,39 @@
           "donations": 0,
           "raids": 0,
           "loot": 0
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#R2UGP0U8P",
+      "name": "HongSar",
+      "role": "member",
+      "th": 13,
+      "firstSeen": "2026-10-05",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 26,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
         },
         "tier": null
       },
