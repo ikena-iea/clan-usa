@@ -1,8 +1,8 @@
 {
   "date": "2026-10-05",
-  "capturedAt": "2026-10-05T06:49:22.758Z",
+  "capturedAt": "2026-10-05T15:50:47.339Z",
   "clanLevel": 8,
-  "memberCount": 48,
+  "memberCount": 46,
   "members": [
     {
       "tag": "#9Y8JCVPGL",
@@ -22,8 +22,8 @@
       "th": 17,
       "expLevel": 270,
       "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 5,
+      "donations": 116,
+      "donationsReceived": 223,
       "capitalContributions": 0
     },
     {
@@ -99,7 +99,7 @@
       "th": 14,
       "expLevel": 121,
       "trophies": 0,
-      "donations": 0,
+      "donations": 65,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -121,8 +121,8 @@
       "th": 13,
       "expLevel": 125,
       "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
+      "donations": 66,
+      "donationsReceived": 30,
       "capitalContributions": 0
     },
     {
@@ -165,8 +165,8 @@
       "th": 13,
       "expLevel": 114,
       "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
+      "donations": 1,
+      "donationsReceived": 45,
       "capitalContributions": 0
     },
     {
@@ -251,10 +251,10 @@
       "name": "HongSar",
       "role": "member",
       "th": 13,
-      "expLevel": 68,
+      "expLevel": 69,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 0,
+      "donationsReceived": 396,
       "capitalContributions": 0
     },
     {
@@ -263,17 +263,6 @@
       "role": "admin",
       "th": 12,
       "expLevel": 102,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#QLYC20U2J",
-      "name": "Tap Tap",
-      "role": "member",
-      "th": 13,
-      "expLevel": 124,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -385,7 +374,7 @@
       "th": 18,
       "expLevel": 256,
       "trophies": 0,
-      "donations": 59,
+      "donations": 346,
       "donationsReceived": 55,
       "capitalContributions": 0
     },
@@ -401,25 +390,14 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#GU0YLYCJ",
-      "name": "BlueCharger",
-      "role": "member",
-      "th": 16,
-      "expLevel": 239,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#CVLPRGYY",
       "name": "Schlitz",
       "role": "admin",
       "th": 15,
       "expLevel": 173,
       "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
+      "donations": 183,
+      "donationsReceived": 50,
       "capitalContributions": 0
     },
     {
@@ -528,8 +506,8 @@
       "th": 18,
       "expLevel": 240,
       "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 58,
+      "donations": 80,
+      "donationsReceived": 117,
       "capitalContributions": 0
     }
   ]

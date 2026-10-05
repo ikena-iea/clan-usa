@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T06:49:23.287Z",
+  "generatedAt": "2026-10-05T15:50:47.870Z",
   "snapshotDate": "2026-10-05",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -41,11 +41,11 @@
       "warsJoined": 20,
       "warsTotal": 26,
       "clan": {
-        "total": 97.8,
+        "total": 98.3,
         "pillars": {
           "donations": 100,
           "raids": 100,
-          "loot": 91
+          "loot": 93
         },
         "tier": "Legendary"
       },
@@ -64,6 +64,40 @@
       }
     },
     {
+      "tag": "#CVLPRGYY",
+      "name": "Schlitz",
+      "role": "admin",
+      "th": 15,
+      "firstSeen": "2026-09-06",
+      "daysPresent": 29,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 3,
+      "warsTotal": 26,
+      "clan": {
+        "total": 97.7,
+        "pillars": {
+          "donations": 100,
+          "raids": 100,
+          "loot": 91
+        },
+        "tier": "Legendary"
+      },
+      "war": {
+        "total": 77.6,
+        "status": null,
+        "cap": null,
+        "pillars": {
+          "reliability": 75,
+          "performance": 82
+        },
+        "available": 6,
+        "used": 5,
+        "misses": 1,
+        "tier": "Epic"
+      }
+    },
+    {
       "tag": "#R292L228Q",
       "name": "Ikena",
       "role": "coLeader",
@@ -75,11 +109,11 @@
       "warsJoined": 23,
       "warsTotal": 26,
       "clan": {
-        "total": 96.2,
+        "total": 96.5,
         "pillars": {
           "donations": 100,
           "raids": 100,
-          "loot": 85
+          "loot": 86
         },
         "tier": "Legendary"
       },
@@ -109,11 +143,11 @@
       "warsJoined": 12,
       "warsTotal": 26,
       "clan": {
-        "total": 93.2,
+        "total": 92.4,
         "pillars": {
           "donations": 100,
           "raids": 100,
-          "loot": 73
+          "loot": 69
         },
         "tier": "Legendary"
       },
@@ -132,74 +166,6 @@
       }
     },
     {
-      "tag": "#Q8QPY2L2",
-      "name": "Aaron",
-      "role": "admin",
-      "th": 18,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 69,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 22,
-      "warsTotal": 26,
-      "clan": {
-        "total": 91.5,
-        "pillars": {
-          "donations": 100,
-          "raids": 100,
-          "loot": 66
-        },
-        "tier": "Legendary"
-      },
-      "war": {
-        "total": 75.7,
-        "status": null,
-        "cap": "Rare",
-        "pillars": {
-          "reliability": 100,
-          "performance": 39
-        },
-        "available": 10,
-        "used": 10,
-        "misses": 0,
-        "tier": "Rare"
-      }
-    },
-    {
-      "tag": "#CVLPRGYY",
-      "name": "Schlitz",
-      "role": "admin",
-      "th": 15,
-      "firstSeen": "2026-09-06",
-      "daysPresent": 29,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 3,
-      "warsTotal": 26,
-      "clan": {
-        "total": 90.7,
-        "pillars": {
-          "donations": 100,
-          "raids": 78,
-          "loot": 93
-        },
-        "tier": "Legendary"
-      },
-      "war": {
-        "total": 77.6,
-        "status": null,
-        "cap": null,
-        "pillars": {
-          "reliability": 75,
-          "performance": 82
-        },
-        "available": 6,
-        "used": 5,
-        "misses": 1,
-        "tier": "Epic"
-      }
-    },
-    {
       "tag": "#QLV80QQCY",
       "name": "THE ROCK",
       "role": "admin",
@@ -211,11 +177,11 @@
       "warsJoined": 13,
       "warsTotal": 26,
       "clan": {
-        "total": 89.1,
+        "total": 91.1,
         "pillars": {
           "donations": 100,
           "raids": 100,
-          "loot": 56
+          "loot": 64
         },
         "tier": "Legendary"
       },
@@ -226,6 +192,40 @@
         "pillars": {
           "reliability": 100,
           "performance": 33
+        },
+        "available": 10,
+        "used": 10,
+        "misses": 0,
+        "tier": "Rare"
+      }
+    },
+    {
+      "tag": "#Q8QPY2L2",
+      "name": "Aaron",
+      "role": "admin",
+      "th": 18,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 69,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 22,
+      "warsTotal": 26,
+      "clan": {
+        "total": 91,
+        "pillars": {
+          "donations": 100,
+          "raids": 100,
+          "loot": 64
+        },
+        "tier": "Legendary"
+      },
+      "war": {
+        "total": 75.7,
+        "status": null,
+        "cap": "Rare",
+        "pillars": {
+          "reliability": 100,
+          "performance": 39
         },
         "available": 10,
         "used": 10,
@@ -245,11 +245,11 @@
       "warsJoined": 18,
       "warsTotal": 26,
       "clan": {
-        "total": 89,
+        "total": 90.4,
         "pillars": {
           "donations": 100,
           "raids": 100,
-          "loot": 56
+          "loot": 62
         },
         "tier": "Legendary"
       },
@@ -279,13 +279,13 @@
       "warsJoined": 14,
       "warsTotal": 26,
       "clan": {
-        "total": 80.1,
+        "total": 87.7,
         "pillars": {
           "donations": 100,
-          "raids": 78,
+          "raids": 100,
           "loot": 51
         },
-        "tier": "Epic"
+        "tier": "Legendary"
       },
       "war": {
         "total": 86.4,
@@ -302,40 +302,6 @@
       }
     },
     {
-      "tag": "#R8PJY0U0J",
-      "name": "Didetz",
-      "role": "leader",
-      "th": 14,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 69,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 18,
-      "warsTotal": 26,
-      "clan": {
-        "total": 75.4,
-        "pillars": {
-          "donations": 100,
-          "raids": 52,
-          "loot": 68
-        },
-        "tier": "Epic"
-      },
-      "war": {
-        "total": 63.8,
-        "status": null,
-        "cap": "Rare",
-        "pillars": {
-          "reliability": 80,
-          "performance": 39
-        },
-        "available": 10,
-        "used": 8,
-        "misses": 2,
-        "tier": "Rare"
-      }
-    },
-    {
       "tag": "#9Y8JCVPGL",
       "name": ",,,",
       "role": "admin",
@@ -347,11 +313,11 @@
       "warsJoined": 2,
       "warsTotal": 26,
       "clan": {
-        "total": 71.9,
+        "total": 79.8,
         "pillars": {
           "donations": 100,
-          "raids": 55,
-          "loot": 51
+          "raids": 71,
+          "loot": 61
         },
         "tier": "Epic"
       },
@@ -370,6 +336,40 @@
       }
     },
     {
+      "tag": "#R8PJY0U0J",
+      "name": "Didetz",
+      "role": "leader",
+      "th": 14,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 69,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 18,
+      "warsTotal": 26,
+      "clan": {
+        "total": 75,
+        "pillars": {
+          "donations": 100,
+          "raids": 52,
+          "loot": 67
+        },
+        "tier": "Epic"
+      },
+      "war": {
+        "total": 63.8,
+        "status": null,
+        "cap": "Rare",
+        "pillars": {
+          "reliability": 80,
+          "performance": 39
+        },
+        "available": 10,
+        "used": 8,
+        "misses": 2,
+        "tier": "Rare"
+      }
+    },
+    {
       "tag": "#R8GPLGRVQ",
       "name": "LegitN00b98",
       "role": "coLeader",
@@ -381,13 +381,13 @@
       "warsJoined": 22,
       "warsTotal": 26,
       "clan": {
-        "total": 70.3,
+        "total": 69.3,
         "pillars": {
           "donations": 50,
           "raids": 100,
-          "loot": 61
+          "loot": 57
         },
-        "tier": "Epic"
+        "tier": "Rare"
       },
       "war": {
         "total": 72.7,
@@ -415,10 +415,10 @@
       "warsJoined": 2,
       "warsTotal": 26,
       "clan": {
-        "total": 67.1,
+        "total": 59.5,
         "pillars": {
           "donations": 33,
-          "raids": 100,
+          "raids": 78,
           "loot": 75
         },
         "tier": "Rare"
@@ -483,11 +483,11 @@
       "warsJoined": 13,
       "warsTotal": 26,
       "clan": {
-        "total": 57.2,
+        "total": 57.9,
         "pillars": {
           "donations": 9,
           "raids": 100,
-          "loot": 74
+          "loot": 77
         },
         "tier": "Rare"
       },
@@ -517,11 +517,11 @@
       "warsJoined": 14,
       "warsTotal": 26,
       "clan": {
-        "total": 56,
+        "total": 56.6,
         "pillars": {
           "donations": 3,
           "raids": 100,
-          "loot": 79
+          "loot": 82
         },
         "tier": "Rare"
       },
@@ -540,40 +540,6 @@
       }
     },
     {
-      "tag": "#Y8LVGUR8Q",
-      "name": "gantushig",
-      "role": "admin",
-      "th": 13,
-      "firstSeen": "2026-09-16",
-      "daysPresent": 19,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 2,
-      "warsTotal": 26,
-      "clan": {
-        "total": 53.6,
-        "pillars": {
-          "donations": 1,
-          "raids": 100,
-          "loot": 73
-        },
-        "tier": "Uncommon"
-      },
-      "war": {
-        "total": 67.6,
-        "status": null,
-        "cap": null,
-        "pillars": {
-          "reliability": 75,
-          "performance": 56
-        },
-        "available": 4,
-        "used": 4,
-        "misses": 0,
-        "tier": "Rare"
-      }
-    },
-    {
       "tag": "#R8J082Y0J",
       "name": "arroz",
       "role": "admin",
@@ -585,11 +551,11 @@
       "warsJoined": 7,
       "warsTotal": 26,
       "clan": {
-        "total": 49.9,
+        "total": 50,
         "pillars": {
           "donations": 1,
           "raids": 100,
-          "loot": 58
+          "loot": 59
         },
         "tier": "Uncommon"
       },
@@ -652,11 +618,11 @@
       "warsJoined": 4,
       "warsTotal": 26,
       "clan": {
-        "total": 46.3,
+        "total": 46,
         "pillars": {
           "donations": 1,
           "raids": 78,
-          "loot": 75
+          "loot": 74
         },
         "tier": "Uncommon"
       },
@@ -675,70 +641,37 @@
       }
     },
     {
-      "tag": "#G2GJP9UL0",
-      "name": "aaahhhh",
-      "role": "member",
-      "th": 13,
-      "firstSeen": "2026-09-21",
-      "daysPresent": 14,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 1,
-      "warsTotal": 26,
-      "clan": {
-        "total": 44.1,
-        "pillars": {
-          "donations": 0,
-          "raids": 55,
-          "loot": 100
-        },
-        "tier": "Uncommon"
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 2,
-        "used": 0,
-        "misses": 2,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#GVV89RJYQ",
-      "name": "DevilIguana",
+      "tag": "#Y8LVGUR8Q",
+      "name": "gantushig",
       "role": "admin",
-      "th": 12,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 69,
+      "th": 13,
+      "firstSeen": "2026-09-16",
+      "daysPresent": 19,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
-      "warsJoined": 20,
+      "warsJoined": 2,
       "warsTotal": 26,
       "clan": {
-        "total": 42,
+        "total": 43.3,
         "pillars": {
-          "donations": 0,
-          "raids": 74,
-          "loot": 64
+          "donations": 1,
+          "raids": 71,
+          "loot": 73
         },
         "tier": "Uncommon"
       },
       "war": {
-        "total": 54.7,
+        "total": 67.6,
         "status": null,
-        "cap": "Uncommon",
+        "cap": null,
         "pillars": {
-          "reliability": 60,
-          "performance": 47
+          "reliability": 75,
+          "performance": 56
         },
-        "available": 10,
-        "used": 6,
-        "misses": 4,
-        "tier": "Uncommon"
+        "available": 4,
+        "used": 4,
+        "misses": 0,
+        "tier": "Rare"
       }
     },
     {
@@ -943,6 +876,73 @@
       }
     },
     {
+      "tag": "#G2GJP9UL0",
+      "name": "aaahhhh",
+      "role": "member",
+      "th": 13,
+      "firstSeen": "2026-09-21",
+      "daysPresent": 14,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 1,
+      "warsTotal": 26,
+      "clan": {
+        "total": 38.1,
+        "pillars": {
+          "donations": 0,
+          "raids": 38,
+          "loot": 100
+        },
+        "tier": "Common"
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 2,
+        "used": 0,
+        "misses": 2,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#GVV89RJYQ",
+      "name": "DevilIguana",
+      "role": "admin",
+      "th": 12,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 69,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 20,
+      "warsTotal": 26,
+      "clan": {
+        "total": 36.1,
+        "pillars": {
+          "donations": 0,
+          "raids": 50,
+          "loot": 74
+        },
+        "tier": "Common"
+      },
+      "war": {
+        "total": 54.7,
+        "status": null,
+        "cap": "Uncommon",
+        "pillars": {
+          "reliability": 60,
+          "performance": 47
+        },
+        "available": 10,
+        "used": 6,
+        "misses": 4,
+        "tier": "Uncommon"
+      }
+    },
+    {
       "tag": "#GQUQV0PJV",
       "name": "mustafa",
       "role": "admin",
@@ -977,40 +977,6 @@
       }
     },
     {
-      "tag": "#QVPQ8G2VQ",
-      "name": "your mom",
-      "role": "member",
-      "th": 13,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 69,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 18,
-      "warsTotal": 26,
-      "clan": {
-        "total": 22.5,
-        "pillars": {
-          "donations": 1,
-          "raids": 27,
-          "loot": 51
-        },
-        "tier": "Common"
-      },
-      "war": {
-        "total": 30.4,
-        "status": null,
-        "cap": "Uncommon",
-        "pillars": {
-          "reliability": 30,
-          "performance": 31
-        },
-        "available": 10,
-        "used": 3,
-        "misses": 7,
-        "tier": "Common"
-      }
-    },
-    {
       "tag": "#YUUVCQR2C",
       "name": "Ronald",
       "role": "admin",
@@ -1022,10 +988,10 @@
       "warsJoined": 3,
       "warsTotal": 26,
       "clan": {
-        "total": 18.9,
+        "total": 17.9,
         "pillars": {
           "donations": 19,
-          "raids": 13,
+          "raids": 10,
           "loot": 28
         },
         "tier": "Common"
@@ -1042,6 +1008,40 @@
         "used": 4,
         "misses": 2,
         "tier": "Rare"
+      }
+    },
+    {
+      "tag": "#QVPQ8G2VQ",
+      "name": "your mom",
+      "role": "member",
+      "th": 13,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 69,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 18,
+      "warsTotal": 26,
+      "clan": {
+        "total": 16.7,
+        "pillars": {
+          "donations": 1,
+          "raids": 14,
+          "loot": 46
+        },
+        "tier": "Common"
+      },
+      "war": {
+        "total": 30.4,
+        "status": null,
+        "cap": "Uncommon",
+        "pillars": {
+          "reliability": 30,
+          "performance": 31
+        },
+        "available": 10,
+        "used": 3,
+        "misses": 7,
+        "tier": "Common"
       }
     },
     {
@@ -1085,39 +1085,6 @@
       "th": 13,
       "firstSeen": "2026-09-18",
       "daysPresent": 17,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 1,
-      "warsTotal": 26,
-      "clan": {
-        "total": 0,
-        "pillars": {
-          "donations": 0,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": "Common"
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 2,
-        "used": 0,
-        "misses": 2,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#QLYC20U2J",
-      "name": "Tap Tap",
-      "role": "member",
-      "th": 13,
-      "firstSeen": "2026-08-25",
-      "daysPresent": 41,
       "inGrace": false,
       "gracePeriodEndsIn": 0,
       "warsJoined": 1,
@@ -1261,8 +1228,8 @@
         "total": null,
         "pillars": {
           "donations": 0,
-          "raids": null,
-          "loot": null
+          "raids": 0,
+          "loot": 0
         },
         "tier": null
       },
@@ -1328,7 +1295,7 @@
         "pillars": {
           "donations": 1,
           "raids": 100,
-          "loot": 73
+          "loot": 79
         },
         "tier": null
       },
@@ -1361,7 +1328,7 @@
         "total": null,
         "pillars": {
           "donations": 0,
-          "raids": 100,
+          "raids": 55,
           "loot": 64
         },
         "tier": null
@@ -1394,8 +1361,8 @@
         "total": null,
         "pillars": {
           "donations": 0,
-          "raids": null,
-          "loot": null
+          "raids": 0,
+          "loot": 0
         },
         "tier": null
       },
@@ -1460,8 +1427,8 @@
         "total": null,
         "pillars": {
           "donations": 0,
-          "raids": null,
-          "loot": null
+          "raids": 0,
+          "loot": 0
         },
         "tier": null
       },
@@ -1493,8 +1460,8 @@
         "total": null,
         "pillars": {
           "donations": 71,
-          "raids": null,
-          "loot": null
+          "raids": 100,
+          "loot": 85
         },
         "tier": null
       },
@@ -1526,8 +1493,8 @@
         "total": null,
         "pillars": {
           "donations": 0,
-          "raids": null,
-          "loot": null
+          "raids": 40,
+          "loot": 81
         },
         "tier": null
       },
@@ -1540,39 +1507,6 @@
         },
         "available": 2,
         "used": 2,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#GU0YLYCJ",
-      "name": "BlueCharger",
-      "role": "member",
-      "th": 16,
-      "firstSeen": "2026-09-28",
-      "daysPresent": 7,
-      "inGrace": true,
-      "gracePeriodEndsIn": 7,
-      "warsJoined": 0,
-      "warsTotal": 26,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
         "misses": 0,
         "tier": null
       }
@@ -1625,8 +1559,8 @@
         "total": null,
         "pillars": {
           "donations": 0,
-          "raids": 0,
-          "loot": 0
+          "raids": 55,
+          "loot": 70
         },
         "tier": null
       },
