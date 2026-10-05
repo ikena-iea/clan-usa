@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T15:50:47.870Z",
+  "generatedAt": "2026-10-05T22:30:08.887Z",
   "snapshotDate": "2026-10-05",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -440,7 +440,7 @@
     {
       "tag": "#Q8P8R8UQQ",
       "name": "vale",
-      "role": "member",
+      "role": "admin",
       "th": 13,
       "firstSeen": "2026-08-14",
       "daysPresent": 52,
@@ -1180,6 +1180,39 @@
       }
     },
     {
+      "tag": "#2L2LGVR0Y",
+      "name": "Sekhon",
+      "role": "member",
+      "th": 18,
+      "firstSeen": "2026-10-05",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 26,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": 0,
+          "loot": 0
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#8YCVGRC08",
       "name": "Checheng.",
       "role": "member",
@@ -1561,6 +1594,39 @@
           "donations": 0,
           "raids": 55,
           "loot": 70
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#GPQCCCP9J",
+      "name": "JD",
+      "role": "member",
+      "th": 12,
+      "firstSeen": "2026-10-05",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 26,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": 0,
+          "loot": 0
         },
         "tier": null
       },

@@ -1,8 +1,8 @@
 {
   "date": "2026-10-05",
-  "capturedAt": "2026-10-05T15:50:47.339Z",
+  "capturedAt": "2026-10-05T22:30:08.269Z",
   "clanLevel": 8,
-  "memberCount": 46,
+  "memberCount": 48,
   "members": [
     {
       "tag": "#9Y8JCVPGL",
@@ -10,8 +10,19 @@
       "role": "admin",
       "th": 18,
       "expLevel": 201,
-      "trophies": 0,
+      "trophies": 27,
       "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#2L2LGVR0Y",
+      "name": "Sekhon",
+      "role": "member",
+      "th": 18,
+      "expLevel": 254,
+      "trophies": 0,
+      "donations": 47,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -21,9 +32,9 @@
       "role": "member",
       "th": 17,
       "expLevel": 270,
-      "trophies": 0,
+      "trophies": 8,
       "donations": 116,
-      "donationsReceived": 223,
+      "donationsReceived": 228,
       "capitalContributions": 0
     },
     {
@@ -32,7 +43,7 @@
       "role": "admin",
       "th": 16,
       "expLevel": 180,
-      "trophies": 0,
+      "trophies": 20,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -64,7 +75,7 @@
       "name": "Ikena",
       "role": "coLeader",
       "th": 14,
-      "expLevel": 126,
+      "expLevel": 127,
       "trophies": 0,
       "donations": 59,
       "donationsReceived": 0,
@@ -108,10 +119,10 @@
       "name": "THE ROCK",
       "role": "admin",
       "th": 14,
-      "expLevel": 157,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
+      "expLevel": 158,
+      "trophies": 26,
+      "donations": 131,
+      "donationsReceived": 48,
       "capitalContributions": 0
     },
     {
@@ -121,8 +132,8 @@
       "th": 13,
       "expLevel": 125,
       "trophies": 0,
-      "donations": 66,
-      "donationsReceived": 30,
+      "donations": 71,
+      "donationsReceived": 106,
       "capitalContributions": 0
     },
     {
@@ -142,9 +153,20 @@
       "role": "admin",
       "th": 14,
       "expLevel": 173,
-      "trophies": 0,
+      "trophies": 21,
       "donations": 0,
       "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#Q8P8R8UQQ",
+      "name": "vale",
+      "role": "admin",
+      "th": 13,
+      "expLevel": 114,
+      "trophies": 90,
+      "donations": 318,
+      "donationsReceived": 242,
       "capitalContributions": 0
     },
     {
@@ -159,23 +181,23 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#Q8P8R8UQQ",
-      "name": "vale",
-      "role": "member",
-      "th": 13,
-      "expLevel": 114,
-      "trophies": 0,
-      "donations": 1,
-      "donationsReceived": 45,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#PJ22QYY22",
       "name": "thegodlynoob",
       "role": "admin",
       "th": 12,
-      "expLevel": 98,
+      "expLevel": 99,
       "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#YUUVCQR2C",
+      "name": "Ronald",
+      "role": "admin",
+      "th": 13,
+      "expLevel": 104,
+      "trophies": 71,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -199,18 +221,7 @@
       "expLevel": 121,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#YUUVCQR2C",
-      "name": "Ronald",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 104,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
+      "donationsReceived": 185,
       "capitalContributions": 0
     },
     {
@@ -236,6 +247,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#R2UGP0U8P",
+      "name": "HongSar",
+      "role": "member",
+      "th": 13,
+      "expLevel": 69,
+      "trophies": 103,
+      "donations": 87,
+      "donationsReceived": 660,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#QVPQ8G2VQ",
       "name": "your mom",
       "role": "member",
@@ -244,17 +266,6 @@
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#R2UGP0U8P",
-      "name": "HongSar",
-      "role": "member",
-      "th": 13,
-      "expLevel": 69,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 396,
       "capitalContributions": 0
     },
     {
@@ -309,7 +320,7 @@
       "expLevel": 63,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 0,
+      "donationsReceived": 72,
       "capitalContributions": 0
     },
     {
@@ -328,10 +339,10 @@
       "name": "DaHairyVeer",
       "role": "coLeader",
       "th": 8,
-      "expLevel": 44,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
+      "expLevel": 45,
+      "trophies": 29,
+      "donations": 1,
+      "donationsReceived": 5,
       "capitalContributions": 0
     },
     {
@@ -385,8 +396,8 @@
       "th": 18,
       "expLevel": 204,
       "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
+      "donations": 72,
+      "donationsReceived": 119,
       "capitalContributions": 0
     },
     {
@@ -396,8 +407,8 @@
       "th": 15,
       "expLevel": 173,
       "trophies": 0,
-      "donations": 183,
-      "donationsReceived": 50,
+      "donations": 482,
+      "donationsReceived": 133,
       "capitalContributions": 0
     },
     {
@@ -419,7 +430,7 @@
       "expLevel": 101,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 0,
+      "donationsReceived": 72,
       "capitalContributions": 0
     },
     {
@@ -478,6 +489,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GPQCCCP9J",
+      "name": "JD",
+      "role": "member",
+      "th": 12,
+      "expLevel": 86,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 40,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#PGQVCVYPJ",
       "name": "ben",
       "role": "admin",
@@ -506,8 +528,8 @@
       "th": 18,
       "expLevel": 240,
       "trophies": 0,
-      "donations": 80,
-      "donationsReceived": 117,
+      "donations": 288,
+      "donationsReceived": 118,
       "capitalContributions": 0
     }
   ]
