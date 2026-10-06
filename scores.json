@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T10:03:26.168Z",
+  "generatedAt": "2026-10-06T17:07:56.880Z",
   "snapshotDate": "2026-10-06",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -779,7 +779,7 @@
       "tag": "#LCVCL0LU0",
       "name": "Limeranch",
       "role": "coLeader",
-      "th": 17,
+      "th": 18,
       "firstSeen": "2026-07-28",
       "daysPresent": 70,
       "inGrace": false,
@@ -941,40 +941,6 @@
         "used": 0,
         "misses": 4,
         "tier": "Common"
-      }
-    },
-    {
-      "tag": "#GVV89RJYQ",
-      "name": "DevilIguana",
-      "role": "admin",
-      "th": 12,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 70,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 21,
-      "warsTotal": 27,
-      "clan": {
-        "total": 36.1,
-        "pillars": {
-          "donations": 0,
-          "raids": 50,
-          "loot": 74
-        },
-        "tier": "Common"
-      },
-      "war": {
-        "total": 40.6,
-        "status": null,
-        "cap": "Uncommon",
-        "pillars": {
-          "reliability": 40,
-          "performance": 42
-        },
-        "available": 10,
-        "used": 4,
-        "misses": 6,
-        "tier": "Uncommon"
       }
     },
     {
@@ -1284,7 +1250,7 @@
     {
       "tag": "#2L2LGVR0Y",
       "name": "Sekhon",
-      "role": "member",
+      "role": "admin",
       "th": 18,
       "firstSeen": "2026-10-05",
       "daysPresent": 1,
@@ -1344,6 +1310,39 @@
         },
         "available": 6,
         "used": 6,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#92L2Y2JG",
+      "name": "Seth",
+      "role": "member",
+      "th": 16,
+      "firstSeen": "2026-10-06",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 27,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
         "misses": 0,
         "tier": null
       }
@@ -1428,7 +1427,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 38,
+          "donations": 100,
           "raids": 0,
           "loot": 0
         },
@@ -1451,7 +1450,7 @@
       "tag": "#QU0VVP8RJ",
       "name": "DaHairyVeer",
       "role": "coLeader",
-      "th": 8,
+      "th": 9,
       "firstSeen": "2026-09-30",
       "daysPresent": 6,
       "inGrace": true,

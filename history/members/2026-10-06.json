@@ -1,6 +1,6 @@
 {
   "date": "2026-10-06",
-  "capturedAt": "2026-10-06T10:03:25.734Z",
+  "capturedAt": "2026-10-06T17:07:56.444Z",
   "clanLevel": 8,
   "memberCount": 47,
   "members": [
@@ -18,7 +18,7 @@
     {
       "tag": "#2L2LGVR0Y",
       "name": "Sekhon",
-      "role": "member",
+      "role": "admin",
       "th": 18,
       "expLevel": 254,
       "trophies": 0,
@@ -32,9 +32,20 @@
       "role": "member",
       "th": 17,
       "expLevel": 270,
-      "trophies": 90,
+      "trophies": 130,
       "donations": 182,
-      "donationsReceived": 374,
+      "donationsReceived": 454,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#92L2Y2JG",
+      "name": "Seth",
+      "role": "member",
+      "th": 16,
+      "expLevel": 215,
+      "trophies": 11,
+      "donations": 99,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -109,9 +120,9 @@
       "role": "admin",
       "th": 14,
       "expLevel": 158,
-      "trophies": 26,
-      "donations": 131,
-      "donationsReceived": 48,
+      "trophies": 66,
+      "donations": 263,
+      "donationsReceived": 96,
       "capitalContributions": 0
     },
     {
@@ -120,7 +131,7 @@
       "role": "coLeader",
       "th": 13,
       "expLevel": 125,
-      "trophies": 10,
+      "trophies": 23,
       "donations": 139,
       "donationsReceived": 106,
       "capitalContributions": 0
@@ -131,7 +142,7 @@
       "role": "member",
       "th": 14,
       "expLevel": 164,
-      "trophies": 45,
+      "trophies": 64,
       "donations": 3,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -154,8 +165,8 @@
       "th": 13,
       "expLevel": 114,
       "trophies": 90,
-      "donations": 318,
-      "donationsReceived": 319,
+      "donations": 384,
+      "donationsReceived": 406,
       "capitalContributions": 0
     },
     {
@@ -164,7 +175,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 139,
-      "trophies": 29,
+      "trophies": 55,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -175,7 +186,7 @@
       "role": "admin",
       "th": 12,
       "expLevel": 99,
-      "trophies": 0,
+      "trophies": 19,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -231,7 +242,7 @@
       "th": 13,
       "expLevel": 151,
       "trophies": 0,
-      "donations": 45,
+      "donations": 92,
       "donationsReceived": 47,
       "capitalContributions": 0
     },
@@ -241,9 +252,9 @@
       "role": "member",
       "th": 13,
       "expLevel": 69,
-      "trophies": 103,
-      "donations": 92,
-      "donationsReceived": 924,
+      "trophies": 131,
+      "donations": 127,
+      "donationsReceived": 1188,
       "capitalContributions": 0
     },
     {
@@ -291,17 +302,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#GVV89RJYQ",
-      "name": "DevilIguana",
-      "role": "admin",
-      "th": 12,
-      "expLevel": 106,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#GVCC8LY9Y",
       "name": "MDTanvir",
       "role": "admin",
@@ -309,7 +309,7 @@
       "expLevel": 63,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 72,
+      "donationsReceived": 144,
       "capitalContributions": 0
     },
     {
@@ -317,7 +317,7 @@
       "name": "arroz",
       "role": "admin",
       "th": 10,
-      "expLevel": 72,
+      "expLevel": 73,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -327,9 +327,9 @@
       "tag": "#QU0VVP8RJ",
       "name": "DaHairyVeer",
       "role": "coLeader",
-      "th": 8,
-      "expLevel": 45,
-      "trophies": 29,
+      "th": 9,
+      "expLevel": 46,
+      "trophies": 97,
       "donations": 1,
       "donationsReceived": 26,
       "capitalContributions": 0
@@ -349,10 +349,10 @@
       "tag": "#LCVCL0LU0",
       "name": "Limeranch",
       "role": "coLeader",
-      "th": 17,
+      "th": 18,
       "expLevel": 154,
       "trophies": 0,
-      "donations": 0,
+      "donations": 115,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -396,7 +396,7 @@
       "th": 15,
       "expLevel": 173,
       "trophies": 0,
-      "donations": 532,
+      "donations": 534,
       "donationsReceived": 183,
       "capitalContributions": 0
     },
@@ -427,7 +427,7 @@
       "name": "aaahhhh",
       "role": "member",
       "th": 13,
-      "expLevel": 141,
+      "expLevel": 142,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -504,7 +504,7 @@
       "name": "Didetz",
       "role": "leader",
       "th": 14,
-      "expLevel": 106,
+      "expLevel": 107,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -517,8 +517,8 @@
       "th": 18,
       "expLevel": 240,
       "trophies": 0,
-      "donations": 421,
-      "donationsReceived": 172,
+      "donations": 535,
+      "donationsReceived": 231,
       "capitalContributions": 0
     }
   ]
