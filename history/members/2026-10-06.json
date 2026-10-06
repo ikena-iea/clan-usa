@@ -1,6 +1,6 @@
 {
   "date": "2026-10-06",
-  "capturedAt": "2026-10-06T17:07:56.444Z",
+  "capturedAt": "2026-10-06T22:35:20.286Z",
   "clanLevel": 8,
   "memberCount": 47,
   "members": [
@@ -32,9 +32,9 @@
       "role": "member",
       "th": 17,
       "expLevel": 270,
-      "trophies": 130,
-      "donations": 182,
-      "donationsReceived": 454,
+      "trophies": 160,
+      "donations": 274,
+      "donationsReceived": 459,
       "capitalContributions": 0
     },
     {
@@ -43,7 +43,7 @@
       "role": "member",
       "th": 16,
       "expLevel": 215,
-      "trophies": 11,
+      "trophies": 51,
       "donations": 99,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -53,10 +53,10 @@
       "name": "gangster1000000",
       "role": "admin",
       "th": 15,
-      "expLevel": 174,
-      "trophies": 17,
-      "donations": 0,
-      "donationsReceived": 0,
+      "expLevel": 175,
+      "trophies": 99,
+      "donations": 48,
+      "donationsReceived": 53,
       "capitalContributions": 0
     },
     {
@@ -120,9 +120,9 @@
       "role": "admin",
       "th": 14,
       "expLevel": 158,
-      "trophies": 66,
-      "donations": 263,
-      "donationsReceived": 96,
+      "trophies": 80,
+      "donations": 309,
+      "donationsReceived": 189,
       "capitalContributions": 0
     },
     {
@@ -164,9 +164,9 @@
       "role": "admin",
       "th": 13,
       "expLevel": 114,
-      "trophies": 90,
-      "donations": 384,
-      "donationsReceived": 406,
+      "trophies": 160,
+      "donations": 484,
+      "donationsReceived": 513,
       "capitalContributions": 0
     },
     {
@@ -186,7 +186,7 @@
       "role": "admin",
       "th": 12,
       "expLevel": 99,
-      "trophies": 19,
+      "trophies": 28,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -218,10 +218,10 @@
       "name": "Gobinath.N",
       "role": "admin",
       "th": 13,
-      "expLevel": 121,
+      "expLevel": 122,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 185,
+      "donationsReceived": 372,
       "capitalContributions": 0
     },
     {
@@ -328,9 +328,9 @@
       "name": "DaHairyVeer",
       "role": "coLeader",
       "th": 9,
-      "expLevel": 46,
-      "trophies": 97,
-      "donations": 1,
+      "expLevel": 47,
+      "trophies": 337,
+      "donations": 48,
       "donationsReceived": 26,
       "capitalContributions": 0
     },
@@ -383,9 +383,9 @@
       "name": "JoAaKeR",
       "role": "member",
       "th": 18,
-      "expLevel": 204,
+      "expLevel": 205,
       "trophies": 0,
-      "donations": 72,
+      "donations": 154,
       "donationsReceived": 119,
       "capitalContributions": 0
     },
@@ -438,7 +438,7 @@
       "name": "Lakers",
       "role": "coLeader",
       "th": 13,
-      "expLevel": 94,
+      "expLevel": 95,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -495,7 +495,7 @@
       "th": 18,
       "expLevel": 218,
       "trophies": 0,
-      "donations": 0,
+      "donations": 30,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
