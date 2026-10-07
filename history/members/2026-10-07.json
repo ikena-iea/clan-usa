@@ -1,8 +1,8 @@
 {
   "date": "2026-10-07",
-  "capturedAt": "2026-10-07T02:13:23.192Z",
+  "capturedAt": "2026-10-07T10:07:39.932Z",
   "clanLevel": 8,
-  "memberCount": 47,
+  "memberCount": 48,
   "members": [
     {
       "tag": "#9Y8JCVPGL",
@@ -11,7 +11,7 @@
       "th": 18,
       "expLevel": 201,
       "trophies": 42,
-      "donations": 0,
+      "donations": 106,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -43,9 +43,9 @@
       "role": "member",
       "th": 17,
       "expLevel": 270,
-      "trophies": 261,
-      "donations": 349,
-      "donationsReceived": 630,
+      "trophies": 316,
+      "donations": 360,
+      "donationsReceived": 736,
       "capitalContributions": 0
     },
     {
@@ -66,7 +66,7 @@
       "th": 14,
       "expLevel": 127,
       "trophies": 11,
-      "donations": 128,
+      "donations": 131,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -75,7 +75,7 @@
       "name": "chjc",
       "role": "member",
       "th": 17,
-      "expLevel": 99,
+      "expLevel": 100,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -108,9 +108,9 @@
       "name": "jude",
       "role": "admin",
       "th": 14,
-      "expLevel": 121,
-      "trophies": 27,
-      "donations": 112,
+      "expLevel": 122,
+      "trophies": 39,
+      "donations": 114,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -132,7 +132,7 @@
       "th": 13,
       "expLevel": 125,
       "trophies": 23,
-      "donations": 139,
+      "donations": 140,
       "donationsReceived": 106,
       "capitalContributions": 0
     },
@@ -142,7 +142,7 @@
       "role": "member",
       "th": 14,
       "expLevel": 164,
-      "trophies": 64,
+      "trophies": 90,
       "donations": 3,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -176,6 +176,17 @@
       "th": 13,
       "expLevel": 139,
       "trophies": 55,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#9LJY2YURQ",
+      "name": "DARKLUDE707",
+      "role": "member",
+      "th": 14,
+      "expLevel": 107,
+      "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -342,7 +353,7 @@
       "expLevel": 222,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 0,
+      "donationsReceived": 53,
       "capitalContributions": 0
     },
     {
@@ -496,7 +507,7 @@
       "expLevel": 218,
       "trophies": 0,
       "donations": 30,
-      "donationsReceived": 0,
+      "donationsReceived": 53,
       "capitalContributions": 0
     },
     {
@@ -517,8 +528,8 @@
       "th": 18,
       "expLevel": 240,
       "trophies": 0,
-      "donations": 535,
-      "donationsReceived": 231,
+      "donations": 638,
+      "donationsReceived": 286,
       "capitalContributions": 0
     }
   ]

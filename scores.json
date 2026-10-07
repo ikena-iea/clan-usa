@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T02:13:23.882Z",
+  "generatedAt": "2026-10-07T10:07:58.998Z",
   "snapshotDate": "2026-10-07",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1410,6 +1410,39 @@
         "available": 2,
         "used": 0,
         "misses": 2,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#9LJY2YURQ",
+      "name": "DARKLUDE707",
+      "role": "member",
+      "th": 14,
+      "firstSeen": "2026-10-07",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 27,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
         "tier": null
       }
     },
