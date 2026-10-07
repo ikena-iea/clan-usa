@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T10:07:58.998Z",
+  "generatedAt": "2026-10-07T17:45:19.147Z",
   "snapshotDate": "2026-10-07",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -585,9 +585,9 @@
       "warsJoined": 8,
       "warsTotal": 27,
       "clan": {
-        "total": 50,
+        "total": 50.5,
         "pillars": {
-          "donations": 1,
+          "donations": 2,
           "raids": 100,
           "loot": 59
         },
@@ -1463,6 +1463,72 @@
           "donations": 100,
           "raids": 0,
           "loot": 0
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#GQQL0RV9Y",
+      "name": "rKib",
+      "role": "member",
+      "th": 12,
+      "firstSeen": "2026-10-07",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 27,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#Q2GP90LQ0",
+      "name": "RAVEEN",
+      "role": "member",
+      "th": 12,
+      "firstSeen": "2026-10-07",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 27,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
         },
         "tier": null
       },
