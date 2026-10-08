@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T02:39:33.301Z",
+  "generatedAt": "2026-10-08T10:22:14.738Z",
   "snapshotDate": "2026-10-08",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1091,9 +1091,9 @@
       "warsJoined": 11,
       "warsTotal": 27,
       "clan": {
-        "total": 5.6,
+        "total": 9.4,
         "pillars": {
-          "donations": 14,
+          "donations": 24,
           "raids": 0,
           "loot": 0
         },
@@ -1480,10 +1480,10 @@
       }
     },
     {
-      "tag": "#GQQL0RV9Y",
-      "name": "rKib",
+      "tag": "#Q2GP90LQ0",
+      "name": "RAVEEN",
       "role": "member",
-      "th": 12,
+      "th": 13,
       "firstSeen": "2026-10-07",
       "daysPresent": 1,
       "inGrace": true,
@@ -1513,8 +1513,8 @@
       }
     },
     {
-      "tag": "#Q2GP90LQ0",
-      "name": "RAVEEN",
+      "tag": "#GQQL0RV9Y",
+      "name": "rKib",
       "role": "member",
       "th": 12,
       "firstSeen": "2026-10-07",
@@ -1593,7 +1593,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 0,
+          "donations": 72,
           "raids": 40,
           "loot": 81
         },
