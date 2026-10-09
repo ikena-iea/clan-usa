@@ -1,6 +1,6 @@
 {
   "date": "2026-10-09",
-  "capturedAt": "2026-10-09T19:24:48.733Z",
+  "capturedAt": "2026-10-09T23:57:39.692Z",
   "clanLevel": 8,
   "memberCount": 50,
   "members": [
@@ -33,7 +33,7 @@
       "th": 17,
       "expLevel": 270,
       "trophies": 642,
-      "donations": 1360,
+      "donations": 1410,
       "donationsReceived": 1494,
       "capitalContributions": 0
     },
@@ -67,7 +67,7 @@
       "expLevel": 127,
       "trophies": 363,
       "donations": 202,
-      "donationsReceived": 10,
+      "donationsReceived": 48,
       "capitalContributions": 0
     },
     {
@@ -132,8 +132,8 @@
       "th": 14,
       "expLevel": 158,
       "trophies": 259,
-      "donations": 441,
-      "donationsReceived": 663,
+      "donations": 477,
+      "donationsReceived": 708,
       "capitalContributions": 0
     },
     {
@@ -208,7 +208,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 122,
-      "trophies": 220,
+      "trophies": 248,
       "donations": 38,
       "donationsReceived": 1195,
       "capitalContributions": 0
@@ -265,7 +265,7 @@
       "expLevel": 73,
       "trophies": 131,
       "donations": 688,
-      "donationsReceived": 2059,
+      "donationsReceived": 2064,
       "capitalContributions": 0
     },
     {
@@ -274,19 +274,8 @@
       "role": "coLeader",
       "th": 12,
       "expLevel": 95,
-      "trophies": 38,
+      "trophies": 61,
       "donations": 1,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#QVPQ8G2VQ",
-      "name": "your mom",
-      "role": "member",
-      "th": 13,
-      "expLevel": 79,
-      "trophies": 0,
-      "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -390,6 +379,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#QVPQ8G2VQ",
+      "name": "your mom",
+      "role": "member",
+      "th": 13,
+      "expLevel": 80,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#Y8LVGUR8Q",
       "name": "gantushig",
       "role": "admin",
@@ -418,7 +418,7 @@
       "th": 18,
       "expLevel": 205,
       "trophies": 0,
-      "donations": 549,
+      "donations": 551,
       "donationsReceived": 245,
       "capitalContributions": 0
     },
@@ -504,7 +504,7 @@
       "name": "asap",
       "role": "admin",
       "th": 14,
-      "expLevel": 149,
+      "expLevel": 150,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
