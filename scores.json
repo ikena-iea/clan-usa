@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T12:20:19.497Z",
+  "generatedAt": "2026-10-10T17:45:13.938Z",
   "snapshotDate": "2026-10-10",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -537,40 +537,6 @@
         "used": 10,
         "misses": 0,
         "tier": "Legendary"
-      }
-    },
-    {
-      "tag": "#GGCQGUPPU",
-      "name": "innovaman53",
-      "role": "member",
-      "th": 17,
-      "firstSeen": "2026-09-22",
-      "daysPresent": 18,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 3,
-      "warsTotal": 27,
-      "clan": {
-        "total": 55.1,
-        "pillars": {
-          "donations": 1,
-          "raids": 100,
-          "loot": 79
-        },
-        "tier": "Rare"
-      },
-      "war": {
-        "total": 44.5,
-        "status": null,
-        "cap": "Uncommon",
-        "pillars": {
-          "reliability": 38,
-          "performance": 55
-        },
-        "available": 6,
-        "used": 2,
-        "misses": 4,
-        "tier": "Uncommon"
       }
     },
     {
@@ -1381,6 +1347,39 @@
       }
     },
     {
+      "tag": "#28UUJQGVC",
+      "name": "Kickass",
+      "role": "member",
+      "th": 17,
+      "firstSeen": "2026-10-10",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 27,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#YUJ22CV28",
       "name": "Angel",
       "role": "member",
@@ -1427,7 +1426,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 9,
+          "donations": 100,
           "raids": 0,
           "loot": 0
         },
@@ -1626,7 +1625,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 58,
+          "donations": 100,
           "raids": 40,
           "loot": 81
         },

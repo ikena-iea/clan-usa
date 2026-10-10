@@ -1,6 +1,6 @@
 {
   "date": "2026-10-10",
-  "capturedAt": "2026-10-10T12:20:19.045Z",
+  "capturedAt": "2026-10-10T17:45:13.531Z",
   "clanLevel": 8,
   "memberCount": 50,
   "members": [
@@ -33,7 +33,7 @@
       "th": 17,
       "expLevel": 270,
       "trophies": 642,
-      "donations": 1486,
+      "donations": 1552,
       "donationsReceived": 1554,
       "capitalContributions": 0
     },
@@ -45,6 +45,17 @@
       "expLevel": 216,
       "trophies": 383,
       "donations": 762,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#28UUJQGVC",
+      "name": "Kickass",
+      "role": "member",
+      "th": 17,
+      "expLevel": 216,
+      "trophies": 117,
+      "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -66,7 +77,7 @@
       "th": 14,
       "expLevel": 127,
       "trophies": 372,
-      "donations": 268,
+      "donations": 351,
       "donationsReceived": 48,
       "capitalContributions": 0
     },
@@ -76,17 +87,6 @@
       "role": "member",
       "th": 17,
       "expLevel": 101,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GGCQGUPPU",
-      "name": "innovaman53",
-      "role": "member",
-      "th": 17,
-      "expLevel": 170,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -122,7 +122,7 @@
       "expLevel": 127,
       "trophies": 349,
       "donations": 433,
-      "donationsReceived": 910,
+      "donationsReceived": 911,
       "capitalContributions": 0
     },
     {
@@ -133,7 +133,7 @@
       "expLevel": 158,
       "trophies": 259,
       "donations": 477,
-      "donationsReceived": 708,
+      "donationsReceived": 723,
       "capitalContributions": 0
     },
     {
@@ -153,8 +153,8 @@
       "role": "admin",
       "th": 14,
       "expLevel": 173,
-      "trophies": 166,
-      "donations": 8,
+      "trophies": 184,
+      "donations": 121,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -210,7 +210,7 @@
       "expLevel": 122,
       "trophies": 248,
       "donations": 38,
-      "donationsReceived": 1289,
+      "donationsReceived": 1383,
       "capitalContributions": 0
     },
     {
@@ -265,7 +265,7 @@
       "expLevel": 73,
       "trophies": 131,
       "donations": 790,
-      "donationsReceived": 2328,
+      "donationsReceived": 2526,
       "capitalContributions": 0
     },
     {
@@ -319,7 +319,7 @@
       "th": 12,
       "expLevel": 105,
       "trophies": 0,
-      "donations": 176,
+      "donations": 237,
       "donationsReceived": 184,
       "capitalContributions": 0
     },
@@ -328,10 +328,10 @@
       "name": "MDTanvir",
       "role": "admin",
       "th": 12,
-      "expLevel": 63,
+      "expLevel": 64,
       "trophies": 0,
       "donations": 78,
-      "donationsReceived": 144,
+      "donationsReceived": 320,
       "capitalContributions": 0
     },
     {
@@ -363,8 +363,8 @@
       "th": 15,
       "expLevel": 222,
       "trophies": 0,
-      "donations": 77,
-      "donationsReceived": 136,
+      "donations": 243,
+      "donationsReceived": 219,
       "capitalContributions": 0
     },
     {
@@ -407,8 +407,8 @@
       "th": 18,
       "expLevel": 256,
       "trophies": 0,
-      "donations": 942,
-      "donationsReceived": 225,
+      "donations": 1009,
+      "donationsReceived": 280,
       "capitalContributions": 0
     },
     {
@@ -429,7 +429,7 @@
       "th": 15,
       "expLevel": 174,
       "trophies": 0,
-      "donations": 818,
+      "donations": 884,
       "donationsReceived": 348,
       "capitalContributions": 0
     },
