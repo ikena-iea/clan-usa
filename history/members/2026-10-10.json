@@ -1,6 +1,6 @@
 {
   "date": "2026-10-10",
-  "capturedAt": "2026-10-10T17:45:13.531Z",
+  "capturedAt": "2026-10-10T21:30:52.386Z",
   "clanLevel": 8,
   "memberCount": 50,
   "members": [
@@ -55,7 +55,7 @@
       "th": 17,
       "expLevel": 216,
       "trophies": 117,
-      "donations": 0,
+      "donations": 142,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -121,7 +121,7 @@
       "th": 13,
       "expLevel": 127,
       "trophies": 349,
-      "donations": 433,
+      "donations": 434,
       "donationsReceived": 911,
       "capitalContributions": 0
     },
@@ -130,9 +130,9 @@
       "name": "THE ROCK",
       "role": "admin",
       "th": 14,
-      "expLevel": 158,
+      "expLevel": 159,
       "trophies": 259,
-      "donations": 477,
+      "donations": 482,
       "donationsReceived": 723,
       "capitalContributions": 0
     },
@@ -153,9 +153,9 @@
       "role": "admin",
       "th": 14,
       "expLevel": 173,
-      "trophies": 184,
+      "trophies": 268,
       "donations": 121,
-      "donationsReceived": 0,
+      "donationsReceived": 77,
       "capitalContributions": 0
     },
     {
@@ -306,8 +306,8 @@
       "name": "allis",
       "role": "admin",
       "th": 11,
-      "expLevel": 93,
-      "trophies": 129,
+      "expLevel": 94,
+      "trophies": 141,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -319,7 +319,7 @@
       "th": 12,
       "expLevel": 105,
       "trophies": 0,
-      "donations": 237,
+      "donations": 239,
       "donationsReceived": 184,
       "capitalContributions": 0
     },
@@ -339,7 +339,7 @@
       "name": "arroz",
       "role": "admin",
       "th": 10,
-      "expLevel": 73,
+      "expLevel": 74,
       "trophies": 0,
       "donations": 5,
       "donationsReceived": 0,
@@ -353,7 +353,7 @@
       "expLevel": 49,
       "trophies": 393,
       "donations": 96,
-      "donationsReceived": 161,
+      "donationsReceived": 162,
       "capitalContributions": 0
     },
     {
@@ -449,10 +449,10 @@
       "name": "pheak",
       "role": "member",
       "th": 12,
-      "expLevel": 101,
+      "expLevel": 102,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 144,
+      "donationsReceived": 216,
       "capitalContributions": 0
     },
     {
