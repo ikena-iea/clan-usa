@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T05:39:40.744Z",
+  "generatedAt": "2026-10-10T12:20:19.497Z",
   "snapshotDate": "2026-10-10",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -370,6 +370,40 @@
       }
     },
     {
+      "tag": "#PJ22QYY22",
+      "name": "thegodlynoob",
+      "role": "admin",
+      "th": 12,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 74,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 14,
+      "warsTotal": 27,
+      "clan": {
+        "total": 66.9,
+        "pillars": {
+          "donations": 32,
+          "raids": 100,
+          "loot": 77
+        },
+        "tier": "Rare"
+      },
+      "war": {
+        "total": 91.2,
+        "status": null,
+        "cap": null,
+        "pillars": {
+          "reliability": 100,
+          "performance": 78
+        },
+        "available": 10,
+        "used": 10,
+        "misses": 0,
+        "tier": "Legendary"
+      }
+    },
+    {
       "tag": "#R8PJY0U0J",
       "name": "Didetz",
       "role": "leader",
@@ -435,40 +469,6 @@
         "used": 8,
         "misses": 2,
         "tier": "Rare"
-      }
-    },
-    {
-      "tag": "#PJ22QYY22",
-      "name": "thegodlynoob",
-      "role": "admin",
-      "th": 12,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 74,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 14,
-      "warsTotal": 27,
-      "clan": {
-        "total": 58.1,
-        "pillars": {
-          "donations": 10,
-          "raids": 100,
-          "loot": 77
-        },
-        "tier": "Rare"
-      },
-      "war": {
-        "total": 91.2,
-        "status": null,
-        "cap": null,
-        "pillars": {
-          "reliability": 100,
-          "performance": 78
-        },
-        "available": 10,
-        "used": 10,
-        "misses": 0,
-        "tier": "Legendary"
       }
     },
     {
@@ -1559,7 +1559,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 38,
+          "donations": 100,
           "raids": null,
           "loot": null
         },
