@@ -1,8 +1,8 @@
 {
   "date": "2026-10-11",
-  "capturedAt": "2026-10-11T07:00:06.938Z",
+  "capturedAt": "2026-10-11T13:57:17.162Z",
   "clanLevel": 8,
-  "memberCount": 48,
+  "memberCount": 47,
   "members": [
     {
       "tag": "#9Y8JCVPGL",
@@ -10,7 +10,7 @@
       "role": "admin",
       "th": 18,
       "expLevel": 201,
-      "trophies": 95,
+      "trophies": 331,
       "donations": 106,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -32,8 +32,8 @@
       "role": "member",
       "th": 17,
       "expLevel": 270,
-      "trophies": 642,
-      "donations": 1824,
+      "trophies": 682,
+      "donations": 1978,
       "donationsReceived": 1554,
       "capitalContributions": 0
     },
@@ -55,8 +55,8 @@
       "th": 17,
       "expLevel": 216,
       "trophies": 155,
-      "donations": 234,
-      "donationsReceived": 0,
+      "donations": 309,
+      "donationsReceived": 118,
       "capitalContributions": 0
     },
     {
@@ -77,7 +77,7 @@
       "th": 14,
       "expLevel": 127,
       "trophies": 372,
-      "donations": 351,
+      "donations": 417,
       "donationsReceived": 48,
       "capitalContributions": 0
     },
@@ -159,25 +159,25 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GGJY8JJQ0",
+      "name": "Hazkie",
+      "role": "admin",
+      "th": 13,
+      "expLevel": 139,
+      "trophies": 207,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#Q8P8R8UQQ",
       "name": "vale",
       "role": "admin",
       "th": 13,
       "expLevel": 115,
       "trophies": 160,
-      "donations": 968,
+      "donations": 1034,
       "donationsReceived": 1108,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GGJY8JJQ0",
-      "name": "Hazkie",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 139,
-      "trophies": 152,
-      "donations": 0,
-      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -207,10 +207,10 @@
       "name": "Gobinath.N",
       "role": "admin",
       "th": 13,
-      "expLevel": 122,
-      "trophies": 248,
+      "expLevel": 123,
+      "trophies": 276,
       "donations": 38,
-      "donationsReceived": 1383,
+      "donationsReceived": 1430,
       "capitalContributions": 0
     },
     {
@@ -250,11 +250,11 @@
       "tag": "#R2UGP0U8P",
       "name": "HongSar",
       "role": "member",
-      "th": 13,
-      "expLevel": 73,
+      "th": 14,
+      "expLevel": 74,
       "trophies": 131,
-      "donations": 790,
-      "donationsReceived": 2825,
+      "donations": 909,
+      "donationsReceived": 3190,
       "capitalContributions": 0
     },
     {
@@ -302,14 +302,14 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#GQQL0RV9Y",
-      "name": "rKib",
+      "tag": "#GPQCCCP9J",
+      "name": "JD",
       "role": "member",
       "th": 12,
-      "expLevel": 105,
+      "expLevel": 87,
       "trophies": 0,
-      "donations": 239,
-      "donationsReceived": 184,
+      "donations": 0,
+      "donationsReceived": 80,
       "capitalContributions": 0
     },
     {
@@ -396,7 +396,7 @@
       "th": 18,
       "expLevel": 205,
       "trophies": 0,
-      "donations": 636,
+      "donations": 666,
       "donationsReceived": 483,
       "capitalContributions": 0
     },
@@ -407,7 +407,7 @@
       "th": 15,
       "expLevel": 174,
       "trophies": 0,
-      "donations": 902,
+      "donations": 968,
       "donationsReceived": 453,
       "capitalContributions": 0
     },
@@ -430,7 +430,7 @@
       "expLevel": 102,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 216,
+      "donationsReceived": 288,
       "capitalContributions": 0
     },
     {
@@ -486,17 +486,6 @@
       "trophies": 0,
       "donations": 70,
       "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GPQCCCP9J",
-      "name": "JD",
-      "role": "member",
-      "th": 12,
-      "expLevel": 87,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 40,
       "capitalContributions": 0
     },
     {
