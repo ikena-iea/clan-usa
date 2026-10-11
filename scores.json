@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T00:48:09.156Z",
+  "generatedAt": "2026-10-11T07:00:07.360Z",
   "snapshotDate": "2026-10-11",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -584,9 +584,9 @@
       "warsJoined": 8,
       "warsTotal": 27,
       "clan": {
-        "total": 50.5,
+        "total": 53.5,
         "pillars": {
-          "donations": 2,
+          "donations": 10,
           "raids": 100,
           "loot": 59
         },
@@ -638,40 +638,6 @@
         "used": 2,
         "misses": 8,
         "tier": "Common"
-      }
-    },
-    {
-      "tag": "#Y8LVGUR8Q",
-      "name": "gantushig",
-      "role": "admin",
-      "th": 13,
-      "firstSeen": "2026-09-16",
-      "daysPresent": 25,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 3,
-      "warsTotal": 27,
-      "clan": {
-        "total": 43.2,
-        "pillars": {
-          "donations": 1,
-          "raids": 71,
-          "loot": 73
-        },
-        "tier": "Uncommon"
-      },
-      "war": {
-        "total": 60.1,
-        "status": null,
-        "cap": "Rare",
-        "pillars": {
-          "reliability": 62,
-          "performance": 56
-        },
-        "available": 6,
-        "used": 4,
-        "misses": 2,
-        "tier": "Rare"
       }
     },
     {
@@ -1180,39 +1146,6 @@
       }
     },
     {
-      "tag": "#QU8CP2CU0",
-      "name": "AS gaming",
-      "role": "admin",
-      "th": 13,
-      "firstSeen": "2026-09-18",
-      "daysPresent": 23,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 1,
-      "warsTotal": 27,
-      "clan": {
-        "total": 0,
-        "pillars": {
-          "donations": 0,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": "Common"
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 2,
-        "used": 0,
-        "misses": 2,
-        "tier": null
-      }
-    },
-    {
       "tag": "#GRG2PPL22",
       "name": "pheak",
       "role": "member",
@@ -1360,7 +1293,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 0,
+          "donations": 100,
           "raids": null,
           "loot": null
         },
