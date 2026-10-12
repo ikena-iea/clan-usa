@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T10:36:19.134Z",
+  "generatedAt": "2026-10-12T20:13:24.032Z",
   "snapshotDate": "2026-10-12",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -674,40 +674,6 @@
       }
     },
     {
-      "tag": "#Q8P8R8UQQ",
-      "name": "vale",
-      "role": "admin",
-      "th": 13,
-      "firstSeen": "2026-08-14",
-      "daysPresent": 59,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 11,
-      "warsTotal": 27,
-      "clan": {
-        "total": 40,
-        "pillars": {
-          "donations": 100,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": "Uncommon"
-      },
-      "war": {
-        "total": 88,
-        "status": null,
-        "cap": "Rare",
-        "pillars": {
-          "reliability": 80,
-          "performance": 100
-        },
-        "available": 10,
-        "used": 8,
-        "misses": 2,
-        "tier": "Rare"
-      }
-    },
-    {
       "tag": "#LCVCL0LU0",
       "name": "Limeranch",
       "role": "coLeader",
@@ -910,39 +876,6 @@
       }
     },
     {
-      "tag": "#8C2G2C2UV",
-      "name": "masoud(iranian)",
-      "role": "member",
-      "th": 16,
-      "firstSeen": "2026-09-25",
-      "daysPresent": 17,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 0,
-      "warsTotal": 27,
-      "clan": {
-        "total": 30.6,
-        "pillars": {
-          "donations": 0,
-          "raids": 38,
-          "loot": 70
-        },
-        "tier": "Common"
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
       "tag": "#YUUVCQR2C",
       "name": "Ronald",
       "role": "admin",
@@ -1008,40 +941,6 @@
         "used": 8,
         "misses": 2,
         "tier": "Rare"
-      }
-    },
-    {
-      "tag": "#GQUQV0PJV",
-      "name": "mustafa",
-      "role": "admin",
-      "th": 16,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 76,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 20,
-      "warsTotal": 27,
-      "clan": {
-        "total": 8.2,
-        "pillars": {
-          "donations": 21,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": "Common"
-      },
-      "war": {
-        "total": 52,
-        "status": null,
-        "cap": "Uncommon",
-        "pillars": {
-          "reliability": 60,
-          "performance": 40
-        },
-        "available": 10,
-        "used": 6,
-        "misses": 4,
-        "tier": "Uncommon"
       }
     },
     {
@@ -1280,14 +1179,14 @@
       }
     },
     {
-      "tag": "#92L2Y2JG",
-      "name": "Seth",
+      "tag": "#28UUJQGVC",
+      "name": "Kickass",
       "role": "member",
-      "th": 16,
-      "firstSeen": "2026-10-06",
-      "daysPresent": 6,
+      "th": 17,
+      "firstSeen": "2026-10-10",
+      "daysPresent": 2,
       "inGrace": true,
-      "gracePeriodEndsIn": 8,
+      "gracePeriodEndsIn": 12,
       "warsJoined": 0,
       "warsTotal": 27,
       "clan": {
@@ -1313,14 +1212,14 @@
       }
     },
     {
-      "tag": "#28UUJQGVC",
-      "name": "Kickass",
+      "tag": "#92L2Y2JG",
+      "name": "Seth",
       "role": "member",
-      "th": 17,
-      "firstSeen": "2026-10-10",
-      "daysPresent": 2,
+      "th": 16,
+      "firstSeen": "2026-10-06",
+      "daysPresent": 6,
       "inGrace": true,
-      "gracePeriodEndsIn": 12,
+      "gracePeriodEndsIn": 8,
       "warsJoined": 0,
       "warsTotal": 27,
       "clan": {
@@ -1511,39 +1410,6 @@
       }
     },
     {
-      "tag": "#Q2GP90LQ0",
-      "name": "RAVEEN",
-      "role": "member",
-      "th": 13,
-      "firstSeen": "2026-10-07",
-      "daysPresent": 5,
-      "inGrace": true,
-      "gracePeriodEndsIn": 9,
-      "warsJoined": 0,
-      "warsTotal": 27,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": 100,
-          "loot": 49
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
       "tag": "#GPQCCCP9J",
       "name": "JD",
       "role": "member",
@@ -1590,7 +1456,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 89,
+          "donations": 100,
           "raids": 100,
           "loot": 75
         },
