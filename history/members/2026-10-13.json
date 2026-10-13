@@ -1,8 +1,8 @@
 {
   "date": "2026-10-13",
-  "capturedAt": "2026-10-13T18:06:12.690Z",
+  "capturedAt": "2026-10-13T23:14:41.539Z",
   "clanLevel": 8,
-  "memberCount": 45,
+  "memberCount": 46,
   "members": [
     {
       "tag": "#9Y8JCVPGL",
@@ -20,9 +20,9 @@
       "name": "zaman777",
       "role": "member",
       "th": 17,
-      "expLevel": 165,
+      "expLevel": 166,
       "trophies": 36,
-      "donations": 59,
+      "donations": 107,
       "donationsReceived": 113,
       "capitalContributions": 0
     },
@@ -34,7 +34,7 @@
       "expLevel": 271,
       "trophies": 121,
       "donations": 2367,
-      "donationsReceived": 2051,
+      "donationsReceived": 2139,
       "capitalContributions": 0
     },
     {
@@ -54,7 +54,7 @@
       "role": "member",
       "th": 16,
       "expLevel": 216,
-      "trophies": 332,
+      "trophies": 345,
       "donations": 999,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -65,8 +65,8 @@
       "role": "member",
       "th": 17,
       "expLevel": 216,
-      "trophies": 51,
-      "donations": 785,
+      "trophies": 61,
+      "donations": 835,
       "donationsReceived": 206,
       "capitalContributions": 0
     },
@@ -87,7 +87,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 176,
-      "trophies": 110,
+      "trophies": 230,
       "donations": 284,
       "donationsReceived": 348,
       "capitalContributions": 0
@@ -120,8 +120,8 @@
       "role": "coLeader",
       "th": 13,
       "expLevel": 128,
-      "trophies": 268,
-      "donations": 625,
+      "trophies": 337,
+      "donations": 628,
       "donationsReceived": 1168,
       "capitalContributions": 0
     },
@@ -142,9 +142,9 @@
       "role": "admin",
       "th": 14,
       "expLevel": 174,
-      "trophies": 80,
+      "trophies": 211,
       "donations": 160,
-      "donationsReceived": 155,
+      "donationsReceived": 203,
       "capitalContributions": 0
     },
     {
@@ -153,7 +153,7 @@
       "role": "member",
       "th": 14,
       "expLevel": 164,
-      "trophies": 224,
+      "trophies": 242,
       "donations": 3,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -269,13 +269,24 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GPGVL9VGP",
+      "name": "Bot",
+      "role": "member",
+      "th": 13,
+      "expLevel": 113,
+      "trophies": 107,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#GYC8Q2R20",
       "name": "lucky",
       "role": "admin",
       "th": 12,
       "expLevel": 104,
       "trophies": 0,
-      "donations": 0,
+      "donations": 31,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -298,7 +309,7 @@
       "expLevel": 87,
       "trophies": 54,
       "donations": 92,
-      "donationsReceived": 157,
+      "donationsReceived": 197,
       "capitalContributions": 0
     },
     {
@@ -317,10 +328,10 @@
       "name": "DaHairyVeer",
       "role": "coLeader",
       "th": 9,
-      "expLevel": 52,
+      "expLevel": 53,
       "trophies": 240,
       "donations": 129,
-      "donationsReceived": 255,
+      "donationsReceived": 286,
       "capitalContributions": 0
     },
     {

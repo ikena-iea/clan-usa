@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T18:06:13.908Z",
+  "generatedAt": "2026-10-13T23:14:42.037Z",
   "snapshotDate": "2026-10-13",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -448,9 +448,9 @@
       "warsJoined": 15,
       "warsTotal": 27,
       "clan": {
-        "total": 56.1,
+        "total": 59.2,
         "pillars": {
-          "donations": 3,
+          "donations": 11,
           "raids": 100,
           "loot": 79
         },
@@ -1426,6 +1426,39 @@
           "donations": 0,
           "raids": 0,
           "loot": 0
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#GPGVL9VGP",
+      "name": "Bot",
+      "role": "member",
+      "th": 13,
+      "firstSeen": "2026-10-13",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 27,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
         },
         "tier": null
       },
