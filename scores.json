@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T10:24:22.812Z",
+  "generatedAt": "2026-10-13T18:06:13.908Z",
   "snapshotDate": "2026-10-13",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -169,7 +169,7 @@
       "tag": "#QLV80QQCY",
       "name": "THE ROCK",
       "role": "admin",
-      "th": 14,
+      "th": 15,
       "firstSeen": "2026-08-04",
       "daysPresent": 70,
       "inGrace": false,
@@ -979,7 +979,7 @@
     },
     {
       "tag": "#Q00LJ80VU",
-      "name": "chjc",
+      "name": "NES",
       "role": "member",
       "th": 17,
       "firstSeen": "2026-09-22",
@@ -1212,14 +1212,14 @@
       }
     },
     {
-      "tag": "#28UUJQGVC",
-      "name": "Kickass",
+      "tag": "#92L2Y2JG",
+      "name": "Seth",
       "role": "member",
-      "th": 17,
-      "firstSeen": "2026-10-10",
-      "daysPresent": 3,
+      "th": 16,
+      "firstSeen": "2026-10-06",
+      "daysPresent": 7,
       "inGrace": true,
-      "gracePeriodEndsIn": 11,
+      "gracePeriodEndsIn": 7,
       "warsJoined": 0,
       "warsTotal": 27,
       "clan": {
@@ -1245,14 +1245,14 @@
       }
     },
     {
-      "tag": "#92L2Y2JG",
-      "name": "Seth",
+      "tag": "#28UUJQGVC",
+      "name": "Kickass",
       "role": "member",
-      "th": 16,
-      "firstSeen": "2026-10-06",
-      "daysPresent": 7,
+      "th": 17,
+      "firstSeen": "2026-10-10",
+      "daysPresent": 3,
       "inGrace": true,
-      "gracePeriodEndsIn": 7,
+      "gracePeriodEndsIn": 11,
       "warsJoined": 0,
       "warsTotal": 27,
       "clan": {
@@ -1456,7 +1456,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 57,
+          "donations": 86,
           "raids": 0,
           "loot": 0
         },
