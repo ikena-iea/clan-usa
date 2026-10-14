@@ -1,8 +1,8 @@
 {
   "date": "2026-10-14",
-  "capturedAt": "2026-10-14T04:39:00.645Z",
+  "capturedAt": "2026-10-14T10:02:10.468Z",
   "clanLevel": 8,
-  "memberCount": 47,
+  "memberCount": 49,
   "members": [
     {
       "tag": "#9Y8JCVPGL",
@@ -32,9 +32,9 @@
       "role": "member",
       "th": 17,
       "expLevel": 271,
-      "trophies": 161,
+      "trophies": 187,
       "donations": 2391,
-      "donationsReceived": 2155,
+      "donationsReceived": 2210,
       "capitalContributions": 0
     },
     {
@@ -65,7 +65,7 @@
       "role": "member",
       "th": 17,
       "expLevel": 216,
-      "trophies": 61,
+      "trophies": 72,
       "donations": 835,
       "donationsReceived": 206,
       "capitalContributions": 0
@@ -87,7 +87,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 176,
-      "trophies": 230,
+      "trophies": 270,
       "donations": 284,
       "donationsReceived": 348,
       "capitalContributions": 0
@@ -101,6 +101,17 @@
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#YCUPQPCY2",
+      "name": "DROGBA",
+      "role": "member",
+      "th": 16,
+      "expLevel": 139,
+      "trophies": 73,
+      "donations": 35,
+      "donationsReceived": 111,
       "capitalContributions": 0
     },
     {
@@ -177,7 +188,7 @@
       "expLevel": 76,
       "trophies": 0,
       "donations": 1073,
-      "donationsReceived": 3717,
+      "donationsReceived": 3788,
       "capitalContributions": 0
     },
     {
@@ -208,7 +219,7 @@
       "role": "admin",
       "th": 12,
       "expLevel": 102,
-      "trophies": 228,
+      "trophies": 268,
       "donations": 171,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -219,9 +230,9 @@
       "role": "member",
       "th": 13,
       "expLevel": 141,
-      "trophies": 57,
-      "donations": 0,
-      "donationsReceived": 77,
+      "trophies": 70,
+      "donations": 111,
+      "donationsReceived": 122,
       "capitalContributions": 0
     },
     {
@@ -352,8 +363,8 @@
       "th": 15,
       "expLevel": 222,
       "trophies": 0,
-      "donations": 335,
-      "donationsReceived": 219,
+      "donations": 337,
+      "donationsReceived": 299,
       "capitalContributions": 0
     },
     {
@@ -385,7 +396,7 @@
       "th": 18,
       "expLevel": 256,
       "trophies": 0,
-      "donations": 1176,
+      "donations": 1309,
       "donationsReceived": 397,
       "capitalContributions": 0
     },
@@ -485,7 +496,7 @@
       "expLevel": 218,
       "trophies": 0,
       "donations": 270,
-      "donationsReceived": 254,
+      "donationsReceived": 257,
       "capitalContributions": 0
     },
     {
@@ -506,8 +517,19 @@
       "th": 12,
       "expLevel": 65,
       "trophies": 0,
-      "donations": 111,
-      "donationsReceived": 536,
+      "donations": 267,
+      "donationsReceived": 608,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#2V8JYR20J",
+      "name": "-=PREDATOR=-",
+      "role": "member",
+      "th": 14,
+      "expLevel": 152,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {

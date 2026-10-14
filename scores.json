@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T04:39:01.282Z",
+  "generatedAt": "2026-10-14T10:02:10.944Z",
   "snapshotDate": "2026-10-14",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -742,6 +742,40 @@
       }
     },
     {
+      "tag": "#GVCC8LY9Y",
+      "name": "MDTanvir",
+      "role": "admin",
+      "th": 12,
+      "firstSeen": "2026-09-05",
+      "daysPresent": 39,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 3,
+      "warsTotal": 27,
+      "clan": {
+        "total": 40,
+        "pillars": {
+          "donations": 100,
+          "raids": 0,
+          "loot": 0
+        },
+        "tier": "Uncommon"
+      },
+      "war": {
+        "total": 64.9,
+        "status": null,
+        "cap": "Rare",
+        "pillars": {
+          "reliability": 75,
+          "performance": 50
+        },
+        "available": 6,
+        "used": 5,
+        "misses": 1,
+        "tier": "Rare"
+      }
+    },
+    {
       "tag": "#LJLLP2GR8",
       "name": "surje",
       "role": "admin",
@@ -772,40 +806,6 @@
         "used": 0,
         "misses": 0,
         "tier": null
-      }
-    },
-    {
-      "tag": "#GVCC8LY9Y",
-      "name": "MDTanvir",
-      "role": "admin",
-      "th": 12,
-      "firstSeen": "2026-09-05",
-      "daysPresent": 39,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 3,
-      "warsTotal": 27,
-      "clan": {
-        "total": 39.7,
-        "pillars": {
-          "donations": 99,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": "Common"
-      },
-      "war": {
-        "total": 64.9,
-        "status": null,
-        "cap": "Rare",
-        "pillars": {
-          "reliability": 75,
-          "performance": 50
-        },
-        "available": 6,
-        "used": 5,
-        "misses": 1,
-        "tier": "Rare"
       }
     },
     {
@@ -1346,6 +1346,39 @@
       }
     },
     {
+      "tag": "#YCUPQPCY2",
+      "name": "DROGBA",
+      "role": "member",
+      "th": 16,
+      "firstSeen": "2026-10-14",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 27,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#LYCV9J2QJ",
       "name": "_AzE_CeKo™⚜",
       "role": "admin",
@@ -1524,7 +1557,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 0,
+          "donations": 100,
           "raids": 0,
           "loot": 0
         },
@@ -1593,6 +1626,39 @@
           "donations": 77,
           "raids": 0,
           "loot": 0
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#2V8JYR20J",
+      "name": "-=PREDATOR=-",
+      "role": "member",
+      "th": 14,
+      "firstSeen": "2026-10-14",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 27,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
         },
         "tier": null
       },
