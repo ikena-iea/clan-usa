@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T15:46:54.620Z",
+  "generatedAt": "2026-10-14T20:07:46.279Z",
   "snapshotDate": "2026-10-14",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -381,9 +381,9 @@
       "warsJoined": 14,
       "warsTotal": 27,
       "clan": {
-        "total": 74.6,
+        "total": 74.8,
         "pillars": {
-          "donations": 52,
+          "donations": 53,
           "raids": 100,
           "loot": 75
         },
@@ -1379,39 +1379,6 @@
       }
     },
     {
-      "tag": "#8R2GYC09J",
-      "name": "immortal soul",
-      "role": "member",
-      "th": 14,
-      "firstSeen": "2026-10-14",
-      "daysPresent": 1,
-      "inGrace": true,
-      "gracePeriodEndsIn": 13,
-      "warsJoined": 0,
-      "warsTotal": 27,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "loot": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
       "tag": "#LYCV9J2QJ",
       "name": "_AzE_CeKo™⚜",
       "role": "admin",
@@ -1441,6 +1408,39 @@
         "available": 2,
         "used": 0,
         "misses": 2,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#8R2GYC09J",
+      "name": "immortal soul",
+      "role": "member",
+      "th": 14,
+      "firstSeen": "2026-10-14",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 27,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
         "tier": null
       }
     },
@@ -1544,6 +1544,39 @@
       }
     },
     {
+      "tag": "#8J0UU8GPQ",
+      "name": "cnt",
+      "role": "member",
+      "th": 13,
+      "firstSeen": "2026-10-14",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 27,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#GPQCCCP9J",
       "name": "JD",
       "role": "member",
@@ -1560,6 +1593,39 @@
           "donations": 77,
           "raids": 0,
           "loot": 0
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#9G8Q89G92",
+      "name": "Farooq Ahmed",
+      "role": "member",
+      "th": 15,
+      "firstSeen": "2026-10-14",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 27,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
         },
         "tier": null
       },

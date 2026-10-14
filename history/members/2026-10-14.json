@@ -1,8 +1,8 @@
 {
   "date": "2026-10-14",
-  "capturedAt": "2026-10-14T15:46:53.839Z",
+  "capturedAt": "2026-10-14T20:07:45.654Z",
   "clanLevel": 8,
-  "memberCount": 47,
+  "memberCount": 49,
   "members": [
     {
       "tag": "#9Y8JCVPGL",
@@ -65,8 +65,8 @@
       "role": "member",
       "th": 17,
       "expLevel": 216,
-      "trophies": 72,
-      "donations": 930,
+      "trophies": 82,
+      "donations": 936,
       "donationsReceived": 324,
       "capitalContributions": 0
     },
@@ -87,7 +87,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 176,
-      "trophies": 270,
+      "trophies": 316,
       "donations": 284,
       "donationsReceived": 348,
       "capitalContributions": 0
@@ -131,7 +131,7 @@
       "role": "coLeader",
       "th": 13,
       "expLevel": 128,
-      "trophies": 337,
+      "trophies": 346,
       "donations": 676,
       "donationsReceived": 1243,
       "capitalContributions": 0
@@ -148,6 +148,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#LYCV9J2QJ",
+      "name": "_AzE_CeKo™⚜",
+      "role": "admin",
+      "th": 14,
+      "expLevel": 174,
+      "trophies": 237,
+      "donations": 160,
+      "donationsReceived": 233,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#8R2GYC09J",
       "name": "immortal soul",
       "role": "member",
@@ -156,17 +167,6 @@
       "trophies": 230,
       "donations": 1,
       "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#LYCV9J2QJ",
-      "name": "_AzE_CeKo™⚜",
-      "role": "admin",
-      "th": 14,
-      "expLevel": 174,
-      "trophies": 222,
-      "donations": 160,
-      "donationsReceived": 233,
       "capitalContributions": 0
     },
     {
@@ -209,7 +209,7 @@
       "th": 12,
       "expLevel": 102,
       "trophies": 268,
-      "donations": 171,
+      "donations": 173,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -219,9 +219,9 @@
       "role": "admin",
       "th": 13,
       "expLevel": 123,
-      "trophies": 74,
+      "trophies": 102,
       "donations": 38,
-      "donationsReceived": 1847,
+      "donationsReceived": 1924,
       "capitalContributions": 0
     },
     {
@@ -242,7 +242,7 @@
       "th": 13,
       "expLevel": 153,
       "trophies": 369,
-      "donations": 342,
+      "donations": 450,
       "donationsReceived": 141,
       "capitalContributions": 0
     },
@@ -263,7 +263,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 106,
-      "trophies": 29,
+      "trophies": 69,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -275,6 +275,17 @@
       "th": 13,
       "expLevel": 127,
       "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#8J0UU8GPQ",
+      "name": "cnt",
+      "role": "member",
+      "th": 13,
+      "expLevel": 108,
+      "trophies": 104,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -331,7 +342,7 @@
       "expLevel": 53,
       "trophies": 240,
       "donations": 129,
-      "donationsReceived": 317,
+      "donationsReceived": 348,
       "capitalContributions": 0
     },
     {
@@ -397,7 +408,7 @@
       "expLevel": 174,
       "trophies": 0,
       "donations": 1164,
-      "donationsReceived": 483,
+      "donationsReceived": 491,
       "capitalContributions": 0
     },
     {
@@ -439,6 +450,17 @@
       "role": "coLeader",
       "th": 13,
       "expLevel": 96,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#9G8Q89G92",
+      "name": "Farooq Ahmed",
+      "role": "member",
+      "th": 15,
+      "expLevel": 185,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
