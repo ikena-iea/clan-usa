@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T10:02:10.944Z",
+  "generatedAt": "2026-10-14T15:46:54.620Z",
   "snapshotDate": "2026-10-14",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1260,7 +1260,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 46,
+          "donations": 91,
           "raids": 45,
           "loot": 98
         },
@@ -1379,39 +1379,6 @@
       }
     },
     {
-      "tag": "#LYCV9J2QJ",
-      "name": "_AzE_CeKo™⚜",
-      "role": "admin",
-      "th": 14,
-      "firstSeen": "2026-10-03",
-      "daysPresent": 11,
-      "inGrace": true,
-      "gracePeriodEndsIn": 3,
-      "warsJoined": 1,
-      "warsTotal": 27,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 100,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 2,
-        "used": 0,
-        "misses": 2,
-        "tier": null
-      }
-    },
-    {
       "tag": "#8R2GYC09J",
       "name": "immortal soul",
       "role": "member",
@@ -1441,6 +1408,39 @@
         "available": 0,
         "used": 0,
         "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#LYCV9J2QJ",
+      "name": "_AzE_CeKo™⚜",
+      "role": "admin",
+      "th": 14,
+      "firstSeen": "2026-10-03",
+      "daysPresent": 11,
+      "inGrace": true,
+      "gracePeriodEndsIn": 3,
+      "warsJoined": 1,
+      "warsTotal": 27,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 100,
+          "raids": 0,
+          "loot": 0
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 2,
+        "used": 0,
+        "misses": 2,
         "tier": null
       }
     },
@@ -1511,39 +1511,6 @@
       }
     },
     {
-      "tag": "#9LJY2YURQ",
-      "name": "DARKLUDE707",
-      "role": "member",
-      "th": 14,
-      "firstSeen": "2026-10-07",
-      "daysPresent": 7,
-      "inGrace": true,
-      "gracePeriodEndsIn": 7,
-      "warsJoined": 0,
-      "warsTotal": 27,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
       "tag": "#2299L899V",
       "name": "Dr.B00m",
       "role": "member",
@@ -1560,39 +1527,6 @@
           "donations": 100,
           "raids": 0,
           "loot": 0
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#GPGVL9VGP",
-      "name": "Bot",
-      "role": "member",
-      "th": 13,
-      "firstSeen": "2026-10-13",
-      "daysPresent": 1,
-      "inGrace": true,
-      "gracePeriodEndsIn": 13,
-      "warsJoined": 0,
-      "warsTotal": 27,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "loot": null
         },
         "tier": null
       },
