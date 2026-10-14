@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T20:07:46.279Z",
+  "generatedAt": "2026-10-14T23:50:18.479Z",
   "snapshotDate": "2026-10-14",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -166,6 +166,40 @@
       }
     },
     {
+      "tag": "#QU0VVP8RJ",
+      "name": "DaHairyVeer",
+      "role": "coLeader",
+      "th": 9,
+      "firstSeen": "2026-09-30",
+      "daysPresent": 14,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 2,
+      "warsTotal": 27,
+      "clan": {
+        "total": 91.7,
+        "pillars": {
+          "donations": 95,
+          "raids": 100,
+          "loot": 75
+        },
+        "tier": "Legendary"
+      },
+      "war": {
+        "total": 46.6,
+        "status": null,
+        "cap": "Rare",
+        "pillars": {
+          "reliability": 75,
+          "performance": 4
+        },
+        "available": 4,
+        "used": 4,
+        "misses": 0,
+        "tier": "Uncommon"
+      }
+    },
+    {
       "tag": "#QLV80QQCY",
       "name": "THE ROCK",
       "role": "admin",
@@ -231,40 +265,6 @@
         "used": 10,
         "misses": 0,
         "tier": "Rare"
-      }
-    },
-    {
-      "tag": "#QU0VVP8RJ",
-      "name": "DaHairyVeer",
-      "role": "coLeader",
-      "th": 9,
-      "firstSeen": "2026-09-30",
-      "daysPresent": 14,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 2,
-      "warsTotal": 27,
-      "clan": {
-        "total": 91.2,
-        "pillars": {
-          "donations": 94,
-          "raids": 100,
-          "loot": 75
-        },
-        "tier": "Legendary"
-      },
-      "war": {
-        "total": 46.6,
-        "status": null,
-        "cap": "Rare",
-        "pillars": {
-          "reliability": 75,
-          "performance": 4
-        },
-        "available": 4,
-        "used": 4,
-        "misses": 0,
-        "tier": "Uncommon"
       }
     },
     {

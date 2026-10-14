@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "capturedAt": "2026-10-14T20:07:45.654Z",
+  "capturedAt": "2026-10-14T23:50:18.015Z",
   "clanLevel": 8,
   "memberCount": 49,
   "members": [
@@ -10,7 +10,7 @@
       "role": "admin",
       "th": 18,
       "expLevel": 201,
-      "trophies": 146,
+      "trophies": 167,
       "donations": 366,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -54,8 +54,8 @@
       "role": "member",
       "th": 16,
       "expLevel": 216,
-      "trophies": 345,
-      "donations": 1069,
+      "trophies": 365,
+      "donations": 1134,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -65,7 +65,7 @@
       "role": "member",
       "th": 17,
       "expLevel": 216,
-      "trophies": 82,
+      "trophies": 94,
       "donations": 936,
       "donationsReceived": 324,
       "capitalContributions": 0
@@ -76,7 +76,7 @@
       "role": "coLeader",
       "th": 14,
       "expLevel": 128,
-      "trophies": 383,
+      "trophies": 409,
       "donations": 516,
       "donationsReceived": 48,
       "capitalContributions": 0
@@ -87,7 +87,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 176,
-      "trophies": 316,
+      "trophies": 342,
       "donations": 284,
       "donationsReceived": 348,
       "capitalContributions": 0
@@ -341,7 +341,7 @@
       "th": 9,
       "expLevel": 53,
       "trophies": 240,
-      "donations": 129,
+      "donations": 131,
       "donationsReceived": 348,
       "capitalContributions": 0
     },
@@ -408,7 +408,7 @@
       "expLevel": 174,
       "trophies": 0,
       "donations": 1164,
-      "donationsReceived": 491,
+      "donationsReceived": 556,
       "capitalContributions": 0
     },
     {
@@ -515,10 +515,10 @@
       "name": "MDTanvir",
       "role": "admin",
       "th": 12,
-      "expLevel": 65,
+      "expLevel": 66,
       "trophies": 0,
       "donations": 267,
-      "donationsReceived": 680,
+      "donationsReceived": 682,
       "capitalContributions": 0
     },
     {
