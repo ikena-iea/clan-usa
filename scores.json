@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T04:21:41.600Z",
+  "generatedAt": "2026-10-15T09:44:48.459Z",
   "snapshotDate": "2026-10-15",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -483,7 +483,7 @@
       "warsJoined": 15,
       "warsTotal": 27,
       "clan": {
-        "total": 59.2,
+        "total": 59.3,
         "pillars": {
           "donations": 11,
           "raids": 100,
@@ -1227,7 +1227,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 0,
+          "donations": 100,
           "raids": null,
           "loot": null
         },
@@ -1359,6 +1359,39 @@
       "clan": {
         "total": null,
         "pillars": {
+          "donations": 100,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#8R2GYC09J",
+      "name": "immortal soul",
+      "role": "member",
+      "th": 14,
+      "firstSeen": "2026-10-14",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 27,
+      "clan": {
+        "total": null,
+        "pillars": {
           "donations": 0,
           "raids": null,
           "loot": null
@@ -1408,39 +1441,6 @@
         "available": 2,
         "used": 0,
         "misses": 2,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#8R2GYC09J",
-      "name": "immortal soul",
-      "role": "member",
-      "th": 14,
-      "firstSeen": "2026-10-14",
-      "daysPresent": 1,
-      "inGrace": true,
-      "gracePeriodEndsIn": 13,
-      "warsJoined": 0,
-      "warsTotal": 27,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "loot": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
         "tier": null
       }
     },

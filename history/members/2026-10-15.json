@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "capturedAt": "2026-10-15T04:21:40.928Z",
+  "capturedAt": "2026-10-15T09:44:42.256Z",
   "clanLevel": 8,
   "memberCount": 49,
   "members": [
@@ -11,7 +11,7 @@
       "th": 18,
       "expLevel": 201,
       "trophies": 167,
-      "donations": 366,
+      "donations": 416,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -21,9 +21,9 @@
       "role": "member",
       "th": 17,
       "expLevel": 166,
-      "trophies": 36,
-      "donations": 107,
-      "donationsReceived": 113,
+      "trophies": 48,
+      "donations": 203,
+      "donationsReceived": 171,
       "capitalContributions": 0
     },
     {
@@ -32,9 +32,9 @@
       "role": "member",
       "th": 17,
       "expLevel": 271,
-      "trophies": 187,
-      "donations": 2617,
-      "donationsReceived": 2406,
+      "trophies": 230,
+      "donations": 2619,
+      "donationsReceived": 2556,
       "capitalContributions": 0
     },
     {
@@ -65,8 +65,8 @@
       "role": "member",
       "th": 17,
       "expLevel": 216,
-      "trophies": 110,
-      "donations": 1018,
+      "trophies": 164,
+      "donations": 1068,
       "donationsReceived": 324,
       "capitalContributions": 0
     },
@@ -77,7 +77,7 @@
       "th": 14,
       "expLevel": 128,
       "trophies": 409,
-      "donations": 575,
+      "donations": 576,
       "donationsReceived": 48,
       "capitalContributions": 0
     },
@@ -109,8 +109,8 @@
       "role": "member",
       "th": 16,
       "expLevel": 139,
-      "trophies": 87,
-      "donations": 189,
+      "trophies": 198,
+      "donations": 321,
       "donationsReceived": 113,
       "capitalContributions": 0
     },
@@ -148,6 +148,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#8R2GYC09J",
+      "name": "immortal soul",
+      "role": "member",
+      "th": 14,
+      "expLevel": 154,
+      "trophies": 241,
+      "donations": 1,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#LYCV9J2QJ",
       "name": "_AzE_CeKo™⚜",
       "role": "admin",
@@ -159,23 +170,12 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#8R2GYC09J",
-      "name": "immortal soul",
-      "role": "member",
-      "th": 14,
-      "expLevel": 154,
-      "trophies": 230,
-      "donations": 1,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#YUJ22CV28",
       "name": "Angel",
       "role": "member",
       "th": 14,
       "expLevel": 164,
-      "trophies": 272,
+      "trophies": 317,
       "donations": 3,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -188,7 +188,7 @@
       "expLevel": 76,
       "trophies": 0,
       "donations": 1073,
-      "donationsReceived": 4021,
+      "donationsReceived": 4153,
       "capitalContributions": 0
     },
     {
@@ -297,7 +297,7 @@
       "th": 12,
       "expLevel": 104,
       "trophies": 0,
-      "donations": 31,
+      "donations": 32,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -307,7 +307,7 @@
       "role": "admin",
       "th": 11,
       "expLevel": 94,
-      "trophies": 39,
+      "trophies": 139,
       "donations": 1,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -385,7 +385,7 @@
       "th": 18,
       "expLevel": 256,
       "trophies": 0,
-      "donations": 1378,
+      "donations": 1383,
       "donationsReceived": 514,
       "capitalContributions": 0
     },
@@ -408,7 +408,7 @@
       "expLevel": 174,
       "trophies": 0,
       "donations": 1194,
-      "donationsReceived": 614,
+      "donationsReceived": 644,
       "capitalContributions": 0
     },
     {
@@ -495,7 +495,7 @@
       "th": 18,
       "expLevel": 218,
       "trophies": 0,
-      "donations": 270,
+      "donations": 283,
       "donationsReceived": 257,
       "capitalContributions": 0
     },
@@ -517,8 +517,8 @@
       "th": 12,
       "expLevel": 66,
       "trophies": 0,
-      "donations": 267,
-      "donationsReceived": 682,
+      "donations": 325,
+      "donationsReceived": 724,
       "capitalContributions": 0
     },
     {
@@ -539,8 +539,8 @@
       "th": 18,
       "expLevel": 241,
       "trophies": 0,
-      "donations": 1374,
-      "donationsReceived": 575,
+      "donations": 1434,
+      "donationsReceived": 631,
       "capitalContributions": 0
     }
   ]
