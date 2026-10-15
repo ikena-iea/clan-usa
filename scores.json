@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T09:44:48.459Z",
+  "generatedAt": "2026-10-15T14:50:05.479Z",
   "snapshotDate": "2026-10-15",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -947,7 +947,7 @@
       "tag": "#YUUVCQR2C",
       "name": "Ronald",
       "role": "admin",
-      "th": 13,
+      "th": 14,
       "firstSeen": "2026-09-11",
       "daysPresent": 34,
       "inGrace": false,
@@ -1549,6 +1549,39 @@
       "role": "member",
       "th": 13,
       "firstSeen": "2026-10-14",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 27,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#2Q8Y9GJ8U",
+      "name": "Rabi3",
+      "role": "member",
+      "th": 13,
+      "firstSeen": "2026-10-15",
       "daysPresent": 1,
       "inGrace": true,
       "gracePeriodEndsIn": 13,
