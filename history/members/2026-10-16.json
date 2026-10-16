@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "capturedAt": "2026-10-16T17:56:07.681Z",
+  "capturedAt": "2026-10-16T20:54:36.872Z",
   "clanLevel": 8,
   "memberCount": 49,
   "members": [
@@ -130,9 +130,9 @@
       "name": "DaHairyVeer2",
       "role": "coLeader",
       "th": 13,
-      "expLevel": 128,
+      "expLevel": 129,
       "trophies": 379,
-      "donations": 1006,
+      "donations": 1008,
       "donationsReceived": 1320,
       "capitalContributions": 0
     },
@@ -219,7 +219,7 @@
       "role": "admin",
       "th": 14,
       "expLevel": 123,
-      "trophies": 338,
+      "trophies": 366,
       "donations": 38,
       "donationsReceived": 2420,
       "capitalContributions": 0
@@ -308,8 +308,8 @@
       "th": 12,
       "expLevel": 105,
       "trophies": 0,
-      "donations": 39,
-      "donationsReceived": 0,
+      "donations": 81,
+      "donationsReceived": 2,
       "capitalContributions": 0
     },
     {
@@ -518,7 +518,7 @@
       "expLevel": 66,
       "trophies": 0,
       "donations": 325,
-      "donationsReceived": 724,
+      "donationsReceived": 766,
       "capitalContributions": 0
     },
     {
