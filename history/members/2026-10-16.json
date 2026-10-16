@@ -1,8 +1,8 @@
 {
   "date": "2026-10-16",
-  "capturedAt": "2026-10-16T13:10:21.265Z",
+  "capturedAt": "2026-10-16T17:56:07.681Z",
   "clanLevel": 8,
-  "memberCount": 50,
+  "memberCount": 49,
   "members": [
     {
       "tag": "#9Y8JCVPGL",
@@ -32,9 +32,9 @@
       "role": "member",
       "th": 17,
       "expLevel": 271,
-      "trophies": 323,
+      "trophies": 363,
       "donations": 2619,
-      "donationsReceived": 2854,
+      "donationsReceived": 2942,
       "capitalContributions": 0
     },
     {
@@ -55,7 +55,7 @@
       "th": 16,
       "expLevel": 216,
       "trophies": 413,
-      "donations": 1234,
+      "donations": 1317,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -66,7 +66,7 @@
       "th": 17,
       "expLevel": 216,
       "trophies": 192,
-      "donations": 1229,
+      "donations": 1300,
       "donationsReceived": 324,
       "capitalContributions": 0
     },
@@ -87,7 +87,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 176,
-      "trophies": 387,
+      "trophies": 402,
       "donations": 284,
       "donationsReceived": 401,
       "capitalContributions": 0
@@ -108,10 +108,10 @@
       "name": "DROGBA",
       "role": "member",
       "th": 16,
-      "expLevel": 139,
-      "trophies": 295,
-      "donations": 436,
-      "donationsReceived": 226,
+      "expLevel": 140,
+      "trophies": 320,
+      "donations": 771,
+      "donationsReceived": 421,
       "capitalContributions": 0
     },
     {
@@ -131,8 +131,8 @@
       "role": "coLeader",
       "th": 13,
       "expLevel": 128,
-      "trophies": 362,
-      "donations": 1003,
+      "trophies": 379,
+      "donations": 1006,
       "donationsReceived": 1320,
       "capitalContributions": 0
     },
@@ -143,8 +143,8 @@
       "th": 15,
       "expLevel": 159,
       "trophies": 0,
-      "donations": 581,
-      "donationsReceived": 958,
+      "donations": 633,
+      "donationsReceived": 1003,
       "capitalContributions": 0
     },
     {
@@ -154,7 +154,7 @@
       "th": 15,
       "expLevel": 123,
       "trophies": 391,
-      "donations": 699,
+      "donations": 845,
       "donationsReceived": 425,
       "capitalContributions": 0
     },
@@ -199,7 +199,7 @@
       "expLevel": 77,
       "trophies": 0,
       "donations": 1548,
-      "donationsReceived": 4518,
+      "donationsReceived": 4584,
       "capitalContributions": 0
     },
     {
@@ -217,11 +217,11 @@
       "tag": "#QV9QYJ09G",
       "name": "Gobinath.N",
       "role": "admin",
-      "th": 13,
+      "th": 14,
       "expLevel": 123,
       "trophies": 338,
       "donations": 38,
-      "donationsReceived": 2157,
+      "donationsReceived": 2420,
       "capitalContributions": 0
     },
     {
@@ -263,7 +263,7 @@
       "role": "coLeader",
       "th": 12,
       "expLevel": 96,
-      "trophies": 306,
+      "trophies": 334,
       "donations": 79,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -320,7 +320,7 @@
       "expLevel": 151,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 77,
+      "donationsReceived": 82,
       "capitalContributions": 0
     },
     {
@@ -416,10 +416,10 @@
       "name": "JoAaKeR",
       "role": "member",
       "th": 18,
-      "expLevel": 205,
+      "expLevel": 206,
       "trophies": 0,
       "donations": 1028,
-      "donationsReceived": 810,
+      "donationsReceived": 929,
       "capitalContributions": 0
     },
     {
@@ -467,17 +467,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#9G8Q89G92",
-      "name": "Farooq Ahmed",
-      "role": "member",
-      "th": 15,
-      "expLevel": 185,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#L9P9CY20G",
       "name": "Limerence",
       "role": "coLeader",
@@ -506,8 +495,8 @@
       "th": 18,
       "expLevel": 218,
       "trophies": 0,
-      "donations": 283,
-      "donationsReceived": 257,
+      "donations": 288,
+      "donationsReceived": 284,
       "capitalContributions": 0
     },
     {
@@ -550,7 +539,7 @@
       "th": 18,
       "expLevel": 241,
       "trophies": 0,
-      "donations": 1489,
+      "donations": 1602,
       "donationsReceived": 686,
       "capitalContributions": 0
     }

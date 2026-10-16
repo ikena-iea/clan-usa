@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T13:10:21.777Z",
+  "generatedAt": "2026-10-16T17:56:08.378Z",
   "snapshotDate": "2026-10-16",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -981,7 +981,7 @@
       "tag": "#QV9QYJ09G",
       "name": "Gobinath.N",
       "role": "admin",
-      "th": 13,
+      "th": 14,
       "firstSeen": "2026-08-07",
       "daysPresent": 70,
       "inGrace": false,
@@ -1626,39 +1626,6 @@
           "donations": 63,
           "raids": 0,
           "loot": 0
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#9G8Q89G92",
-      "name": "Farooq Ahmed",
-      "role": "member",
-      "th": 15,
-      "firstSeen": "2026-10-14",
-      "daysPresent": 2,
-      "inGrace": true,
-      "gracePeriodEndsIn": 12,
-      "warsJoined": 0,
-      "warsTotal": 27,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "loot": null
         },
         "tier": null
       },
