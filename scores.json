@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T01:13:02.869Z",
+  "generatedAt": "2026-10-16T07:00:37.884Z",
   "snapshotDate": "2026-10-16",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -370,6 +370,40 @@
       }
     },
     {
+      "tag": "#R8GPLGRVQ",
+      "name": "LegitN00b98",
+      "role": "coLeader",
+      "th": 12,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 80,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 23,
+      "warsTotal": 27,
+      "clan": {
+        "total": 76.6,
+        "pillars": {
+          "donations": 69,
+          "raids": 100,
+          "loot": 56
+        },
+        "tier": "Epic"
+      },
+      "war": {
+        "total": 82,
+        "status": null,
+        "cap": null,
+        "pillars": {
+          "reliability": 90,
+          "performance": 70
+        },
+        "available": 10,
+        "used": 9,
+        "misses": 1,
+        "tier": "Epic"
+      }
+    },
+    {
       "tag": "#PJ22QYY22",
       "name": "thegodlynoob",
       "role": "admin",
@@ -438,40 +472,6 @@
       }
     },
     {
-      "tag": "#R8GPLGRVQ",
-      "name": "LegitN00b98",
-      "role": "coLeader",
-      "th": 12,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 80,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 23,
-      "warsTotal": 27,
-      "clan": {
-        "total": 68.8,
-        "pillars": {
-          "donations": 49,
-          "raids": 100,
-          "loot": 56
-        },
-        "tier": "Rare"
-      },
-      "war": {
-        "total": 82,
-        "status": null,
-        "cap": null,
-        "pillars": {
-          "reliability": 90,
-          "performance": 70
-        },
-        "available": 10,
-        "used": 9,
-        "misses": 1,
-        "tier": "Epic"
-      }
-    },
-    {
       "tag": "#GYC8Q2R20",
       "name": "lucky",
       "role": "admin",
@@ -483,9 +483,9 @@
       "warsJoined": 15,
       "warsTotal": 27,
       "clan": {
-        "total": 59.3,
+        "total": 59.8,
         "pillars": {
-          "donations": 11,
+          "donations": 12,
           "raids": 100,
           "loot": 79
         },
