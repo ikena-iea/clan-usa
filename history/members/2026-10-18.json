@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "capturedAt": "2026-10-18T17:58:47.764Z",
+  "capturedAt": "2026-10-18T20:33:01.030Z",
   "clanLevel": 8,
   "memberCount": 50,
   "members": [
@@ -21,7 +21,7 @@
       "role": "member",
       "th": 17,
       "expLevel": 166,
-      "trophies": 128,
+      "trophies": 156,
       "donations": 203,
       "donationsReceived": 339,
       "capitalContributions": 0
@@ -33,7 +33,7 @@
       "th": 17,
       "expLevel": 271,
       "trophies": 425,
-      "donations": 2946,
+      "donations": 3063,
       "donationsReceived": 3120,
       "capitalContributions": 0
     },
@@ -143,7 +143,7 @@
       "th": 15,
       "expLevel": 159,
       "trophies": 0,
-      "donations": 742,
+      "donations": 787,
       "donationsReceived": 1138,
       "capitalContributions": 0
     },
@@ -221,7 +221,7 @@
       "expLevel": 123,
       "trophies": 366,
       "donations": 38,
-      "donationsReceived": 2698,
+      "donationsReceived": 2788,
       "capitalContributions": 0
     },
     {
@@ -372,9 +372,9 @@
       "name": "DaHairyVeer",
       "role": "coLeader",
       "th": 9,
-      "expLevel": 55,
-      "trophies": 240,
-      "donations": 165,
+      "expLevel": 56,
+      "trophies": 262,
+      "donations": 207,
       "donationsReceived": 409,
       "capitalContributions": 0
     },
@@ -529,7 +529,7 @@
       "expLevel": 66,
       "trophies": 0,
       "donations": 327,
-      "donationsReceived": 796,
+      "donationsReceived": 910,
       "capitalContributions": 0
     },
     {
