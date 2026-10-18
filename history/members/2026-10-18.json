@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "capturedAt": "2026-10-18T00:49:16.179Z",
+  "capturedAt": "2026-10-18T05:41:19.151Z",
   "clanLevel": 8,
   "memberCount": 50,
   "members": [
@@ -33,8 +33,8 @@
       "th": 17,
       "expLevel": 271,
       "trophies": 425,
-      "donations": 2853,
-      "donationsReceived": 2945,
+      "donations": 2854,
+      "donationsReceived": 3021,
       "capitalContributions": 0
     },
     {
@@ -66,7 +66,7 @@
       "th": 17,
       "expLevel": 216,
       "trophies": 296,
-      "donations": 1425,
+      "donations": 1475,
       "donationsReceived": 372,
       "capitalContributions": 0
     },
@@ -132,7 +132,7 @@
       "th": 13,
       "expLevel": 129,
       "trophies": 379,
-      "donations": 1069,
+      "donations": 1070,
       "donationsReceived": 1396,
       "capitalContributions": 0
     },
@@ -152,10 +152,10 @@
       "name": "TbSeikChan",
       "role": "member",
       "th": 15,
-      "expLevel": 123,
+      "expLevel": 124,
       "trophies": 391,
-      "donations": 1235,
-      "donationsReceived": 947,
+      "donations": 1301,
+      "donationsReceived": 994,
       "capitalContributions": 0
     },
     {
@@ -199,7 +199,7 @@
       "expLevel": 78,
       "trophies": 0,
       "donations": 1903,
-      "donationsReceived": 4949,
+      "donationsReceived": 5015,
       "capitalContributions": 0
     },
     {
@@ -241,7 +241,7 @@
       "role": "member",
       "th": 13,
       "expLevel": 141,
-      "trophies": 117,
+      "trophies": 133,
       "donations": 177,
       "donationsReceived": 122,
       "capitalContributions": 0
@@ -252,7 +252,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 153,
-      "trophies": 438,
+      "trophies": 465,
       "donations": 450,
       "donationsReceived": 141,
       "capitalContributions": 0
@@ -284,7 +284,7 @@
       "name": "no",
       "role": "member",
       "th": 13,
-      "expLevel": 127,
+      "expLevel": 128,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -418,7 +418,7 @@
       "th": 18,
       "expLevel": 256,
       "trophies": 0,
-      "donations": 1708,
+      "donations": 1733,
       "donationsReceived": 628,
       "capitalContributions": 0
     },
@@ -517,7 +517,7 @@
       "th": 14,
       "expLevel": 107,
       "trophies": 0,
-      "donations": 0,
+      "donations": 46,
       "donationsReceived": 0,
       "capitalContributions": 0
     },

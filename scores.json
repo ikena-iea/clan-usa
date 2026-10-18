@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T00:49:16.721Z",
+  "generatedAt": "2026-10-18T05:41:19.741Z",
   "snapshotDate": "2026-10-18",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -877,6 +877,40 @@
       }
     },
     {
+      "tag": "#R8PJY0U0J",
+      "name": "Didetz",
+      "role": "leader",
+      "th": 14,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 82,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 18,
+      "warsTotal": 28,
+      "clan": {
+        "total": 34.2,
+        "pillars": {
+          "donations": 21,
+          "raids": 29,
+          "loot": 64
+        },
+        "tier": "Common"
+      },
+      "war": {
+        "total": 63.8,
+        "status": null,
+        "cap": "Rare",
+        "pillars": {
+          "reliability": 80,
+          "performance": 39
+        },
+        "available": 10,
+        "used": 8,
+        "misses": 2,
+        "tier": "Rare"
+      }
+    },
+    {
       "tag": "#LYCV9J2QJ",
       "name": "_AzE_CeKo™⚜",
       "role": "admin",
@@ -907,40 +941,6 @@
         "used": 0,
         "misses": 2,
         "tier": null
-      }
-    },
-    {
-      "tag": "#R8PJY0U0J",
-      "name": "Didetz",
-      "role": "leader",
-      "th": 14,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 82,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 18,
-      "warsTotal": 28,
-      "clan": {
-        "total": 29.6,
-        "pillars": {
-          "donations": 9,
-          "raids": 29,
-          "loot": 64
-        },
-        "tier": "Common"
-      },
-      "war": {
-        "total": 63.8,
-        "status": null,
-        "cap": "Rare",
-        "pillars": {
-          "reliability": 80,
-          "performance": 39
-        },
-        "available": 10,
-        "used": 8,
-        "misses": 2,
-        "tier": "Rare"
       }
     },
     {
