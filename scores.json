@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T20:33:01.550Z",
+  "generatedAt": "2026-10-18T22:58:11.158Z",
   "snapshotDate": "2026-10-18",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1379,39 +1379,6 @@
       }
     },
     {
-      "tag": "#GCPGCRCPR",
-      "name": "TbSeikChan",
-      "role": "member",
-      "th": 15,
-      "firstSeen": "2026-10-16",
-      "daysPresent": 2,
-      "inGrace": true,
-      "gracePeriodEndsIn": 12,
-      "warsJoined": 0,
-      "warsTotal": 28,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 100,
-          "raids": null,
-          "loot": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
       "tag": "#8R2GYC09J",
       "name": "immortal soul",
       "role": "member",
@@ -1441,6 +1408,39 @@
         "available": 2,
         "used": 0,
         "misses": 2,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#GCPGCRCPR",
+      "name": "TbSeikChan",
+      "role": "member",
+      "th": 15,
+      "firstSeen": "2026-10-16",
+      "daysPresent": 2,
+      "inGrace": true,
+      "gracePeriodEndsIn": 12,
+      "warsJoined": 0,
+      "warsTotal": 28,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 100,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
         "tier": null
       }
     },
