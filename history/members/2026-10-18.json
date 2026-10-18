@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "capturedAt": "2026-10-18T05:41:19.151Z",
+  "capturedAt": "2026-10-18T10:51:29.977Z",
   "clanLevel": 8,
   "memberCount": 50,
   "members": [
@@ -34,7 +34,7 @@
       "expLevel": 271,
       "trophies": 425,
       "donations": 2854,
-      "donationsReceived": 3021,
+      "donationsReceived": 3026,
       "capitalContributions": 0
     },
     {
@@ -131,7 +131,7 @@
       "role": "coLeader",
       "th": 13,
       "expLevel": 129,
-      "trophies": 379,
+      "trophies": 393,
       "donations": 1070,
       "donationsReceived": 1396,
       "capitalContributions": 0
@@ -154,8 +154,8 @@
       "th": 15,
       "expLevel": 124,
       "trophies": 391,
-      "donations": 1301,
-      "donationsReceived": 994,
+      "donations": 1414,
+      "donationsReceived": 1088,
       "capitalContributions": 0
     },
     {
@@ -185,7 +185,7 @@
       "name": "Angel",
       "role": "member",
       "th": 14,
-      "expLevel": 164,
+      "expLevel": 165,
       "trophies": 426,
       "donations": 34,
       "donationsReceived": 0,
@@ -198,8 +198,8 @@
       "th": 14,
       "expLevel": 78,
       "trophies": 0,
-      "donations": 1903,
-      "donationsReceived": 5015,
+      "donations": 1993,
+      "donationsReceived": 5081,
       "capitalContributions": 0
     },
     {
@@ -221,7 +221,7 @@
       "expLevel": 123,
       "trophies": 366,
       "donations": 38,
-      "donationsReceived": 2651,
+      "donationsReceived": 2698,
       "capitalContributions": 0
     },
     {
@@ -440,7 +440,7 @@
       "th": 15,
       "expLevel": 175,
       "trophies": 0,
-      "donations": 1270,
+      "donations": 1272,
       "donationsReceived": 644,
       "capitalContributions": 0
     },
@@ -550,7 +550,7 @@
       "th": 18,
       "expLevel": 241,
       "trophies": 0,
-      "donations": 1711,
+      "donations": 1718,
       "donationsReceived": 745,
       "capitalContributions": 0
     }
