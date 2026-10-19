@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T07:38:41.385Z",
+  "generatedAt": "2026-10-19T15:30:08.743Z",
   "snapshotDate": "2026-10-19",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -516,7 +516,7 @@
       "warsJoined": 16,
       "warsTotal": 28,
       "clan": {
-        "total": 68.1,
+        "total": 68.3,
         "pillars": {
           "donations": 31,
           "raids": 100,
@@ -1107,40 +1107,6 @@
         "used": 8,
         "misses": 2,
         "tier": "Rare"
-      }
-    },
-    {
-      "tag": "#QVPQ8G2VQ",
-      "name": "your mom",
-      "role": "member",
-      "th": 13,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 83,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 19,
-      "warsTotal": 28,
-      "clan": {
-        "total": 0.3,
-        "pillars": {
-          "donations": 1,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": "Common"
-      },
-      "war": {
-        "total": 28,
-        "status": null,
-        "cap": "Uncommon",
-        "pillars": {
-          "reliability": 20,
-          "performance": 40
-        },
-        "available": 10,
-        "used": 2,
-        "misses": 8,
-        "tier": "Common"
       }
     },
     {

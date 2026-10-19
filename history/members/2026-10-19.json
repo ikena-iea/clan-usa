@@ -1,8 +1,8 @@
 {
   "date": "2026-10-19",
-  "capturedAt": "2026-10-19T07:38:40.795Z",
+  "capturedAt": "2026-10-19T15:30:08.265Z",
   "clanLevel": 8,
-  "memberCount": 50,
+  "memberCount": 49,
   "members": [
     {
       "tag": "#9Y8JCVPGL",
@@ -42,9 +42,9 @@
       "name": "Seth",
       "role": "member",
       "th": 16,
-      "expLevel": 216,
+      "expLevel": 217,
       "trophies": 0,
-      "donations": 1372,
+      "donations": 1391,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -110,7 +110,7 @@
       "th": 16,
       "expLevel": 140,
       "trophies": 0,
-      "donations": 1224,
+      "donations": 1279,
       "donationsReceived": 556,
       "capitalContributions": 0
     },
@@ -132,7 +132,7 @@
       "th": 13,
       "expLevel": 129,
       "trophies": 0,
-      "donations": 1137,
+      "donations": 1139,
       "donationsReceived": 1473,
       "capitalContributions": 0
     },
@@ -165,8 +165,8 @@
       "th": 15,
       "expLevel": 125,
       "trophies": 0,
-      "donations": 1638,
-      "donationsReceived": 1364,
+      "donations": 1643,
+      "donationsReceived": 1503,
       "capitalContributions": 0
     },
     {
@@ -198,7 +198,7 @@
       "th": 14,
       "expLevel": 78,
       "trophies": 0,
-      "donations": 2263,
+      "donations": 2398,
       "donationsReceived": 5283,
       "capitalContributions": 0
     },
@@ -207,10 +207,10 @@
       "name": "Gobinath.N",
       "role": "admin",
       "th": 14,
-      "expLevel": 123,
+      "expLevel": 124,
       "trophies": 0,
       "donations": 38,
-      "donationsReceived": 2788,
+      "donationsReceived": 2887,
       "capitalContributions": 0
     },
     {
@@ -308,7 +308,7 @@
       "th": 13,
       "expLevel": 105,
       "trophies": 0,
-      "donations": 111,
+      "donations": 113,
       "donationsReceived": 114,
       "capitalContributions": 0
     },
@@ -397,17 +397,6 @@
       "expLevel": 154,
       "trophies": 0,
       "donations": 187,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#QVPQ8G2VQ",
-      "name": "your mom",
-      "role": "member",
-      "th": 13,
-      "expLevel": 80,
-      "trophies": 0,
-      "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -507,7 +496,7 @@
       "expLevel": 218,
       "trophies": 0,
       "donations": 456,
-      "donationsReceived": 319,
+      "donationsReceived": 346,
       "capitalContributions": 0
     },
     {
@@ -550,7 +539,7 @@
       "th": 18,
       "expLevel": 241,
       "trophies": 0,
-      "donations": 1822,
+      "donations": 1869,
       "donationsReceived": 745,
       "capitalContributions": 0
     }
