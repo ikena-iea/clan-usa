@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T15:30:08.743Z",
+  "generatedAt": "2026-10-19T20:58:57.465Z",
   "snapshotDate": "2026-10-19",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -710,7 +710,7 @@
       "tag": "#G2G8R9RPC",
       "name": "gangster1000000",
       "role": "admin",
-      "th": 15,
+      "th": 16,
       "firstSeen": "2026-08-07",
       "daysPresent": 73,
       "inGrace": false,
@@ -1543,6 +1543,39 @@
       }
     },
     {
+      "tag": "#LP082VQVY",
+      "name": "ТИТАН",
+      "role": "member",
+      "th": 13,
+      "firstSeen": "2026-10-17",
+      "daysPresent": 2,
+      "inGrace": true,
+      "gracePeriodEndsIn": 12,
+      "warsJoined": 0,
+      "warsTotal": 28,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": 0,
+          "loot": 0
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#8J0UU8GPQ",
       "name": "cnt",
       "role": "member",
@@ -1584,39 +1617,6 @@
       "daysPresent": 4,
       "inGrace": true,
       "gracePeriodEndsIn": 10,
-      "warsJoined": 0,
-      "warsTotal": 28,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#LP082VQVY",
-      "name": "ТИТАН",
-      "role": "member",
-      "th": 13,
-      "firstSeen": "2026-10-17",
-      "daysPresent": 2,
-      "inGrace": true,
-      "gracePeriodEndsIn": 12,
       "warsJoined": 0,
       "warsTotal": 28,
       "clan": {
