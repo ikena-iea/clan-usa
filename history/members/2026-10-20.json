@@ -1,8 +1,8 @@
 {
   "date": "2026-10-20",
-  "capturedAt": "2026-10-20T05:51:58.701Z",
+  "capturedAt": "2026-10-20T11:22:01.896Z",
   "clanLevel": 8,
-  "memberCount": 49,
+  "memberCount": 50,
   "members": [
     {
       "tag": "#9Y8JCVPGL",
@@ -23,7 +23,7 @@
       "expLevel": 271,
       "trophies": 70,
       "donations": 3121,
-      "donationsReceived": 3286,
+      "donationsReceived": 3291,
       "capitalContributions": 0
     },
     {
@@ -34,7 +34,7 @@
       "expLevel": 166,
       "trophies": 0,
       "donations": 203,
-      "donationsReceived": 452,
+      "donationsReceived": 507,
       "capitalContributions": 0
     },
     {
@@ -76,7 +76,7 @@
       "role": "member",
       "th": 17,
       "expLevel": 216,
-      "trophies": 124,
+      "trophies": 142,
       "donations": 1708,
       "donationsReceived": 372,
       "capitalContributions": 0
@@ -87,7 +87,7 @@
       "role": "admin",
       "th": 16,
       "expLevel": 176,
-      "trophies": 75,
+      "trophies": 84,
       "donations": 284,
       "donationsReceived": 567,
       "capitalContributions": 0
@@ -148,6 +148,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GCPGCRCPR",
+      "name": "TbSeikChan",
+      "role": "member",
+      "th": 15,
+      "expLevel": 126,
+      "trophies": 11,
+      "donations": 1843,
+      "donationsReceived": 1640,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#8R2GYC09J",
       "name": "immortal soul",
       "role": "member",
@@ -156,17 +167,6 @@
       "trophies": 0,
       "donations": 1,
       "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GCPGCRCPR",
-      "name": "TbSeikChan",
-      "role": "member",
-      "th": 15,
-      "expLevel": 126,
-      "trophies": 0,
-      "donations": 1709,
-      "donationsReceived": 1595,
       "capitalContributions": 0
     },
     {
@@ -197,7 +197,7 @@
       "role": "admin",
       "th": 14,
       "expLevel": 107,
-      "trophies": 68,
+      "trophies": 78,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -220,8 +220,8 @@
       "th": 14,
       "expLevel": 79,
       "trophies": 25,
-      "donations": 2443,
-      "donationsReceived": 5384,
+      "donations": 2488,
+      "donationsReceived": 5516,
       "capitalContributions": 0
     },
     {
@@ -274,7 +274,7 @@
       "role": "member",
       "th": 13,
       "expLevel": 141,
-      "trophies": 28,
+      "trophies": 55,
       "donations": 179,
       "donationsReceived": 274,
       "capitalContributions": 0
@@ -308,6 +308,17 @@
       "th": 13,
       "expLevel": 108,
       "trophies": 28,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#GRGL2UUUJ",
+      "name": "Toslim",
+      "role": "member",
+      "th": 12,
+      "expLevel": 110,
+      "trophies": 26,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -375,7 +386,7 @@
       "expLevel": 56,
       "trophies": 270,
       "donations": 207,
-      "donationsReceived": 470,
+      "donationsReceived": 500,
       "capitalContributions": 0
     },
     {
@@ -407,8 +418,8 @@
       "th": 18,
       "expLevel": 256,
       "trophies": 0,
-      "donations": 1962,
-      "donationsReceived": 686,
+      "donations": 2022,
+      "donationsReceived": 688,
       "capitalContributions": 0
     },
     {
@@ -515,9 +526,9 @@
       "name": "MDTanvir",
       "role": "admin",
       "th": 12,
-      "expLevel": 66,
+      "expLevel": 67,
       "trophies": 0,
-      "donations": 327,
+      "donations": 357,
       "donationsReceived": 952,
       "capitalContributions": 0
     },
