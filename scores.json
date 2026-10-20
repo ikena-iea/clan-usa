@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T11:22:02.368Z",
+  "generatedAt": "2026-10-20T16:46:48.087Z",
   "snapshotDate": "2026-10-20",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1543,39 +1543,6 @@
       }
     },
     {
-      "tag": "#LP082VQVY",
-      "name": "ТИТАН",
-      "role": "member",
-      "th": 13,
-      "firstSeen": "2026-10-17",
-      "daysPresent": 3,
-      "inGrace": true,
-      "gracePeriodEndsIn": 11,
-      "warsJoined": 0,
-      "warsTotal": 28,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
       "tag": "#8J0UU8GPQ",
       "name": "cnt",
       "role": "member",
@@ -1604,6 +1571,39 @@
         },
         "available": 2,
         "used": 2,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#LP082VQVY",
+      "name": "ТИТАН",
+      "role": "member",
+      "th": 13,
+      "firstSeen": "2026-10-17",
+      "daysPresent": 3,
+      "inGrace": true,
+      "gracePeriodEndsIn": 11,
+      "warsJoined": 0,
+      "warsTotal": 28,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": 0,
+          "loot": 0
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
         "misses": 0,
         "tier": null
       }

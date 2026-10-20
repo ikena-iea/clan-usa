@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "capturedAt": "2026-10-20T11:22:01.896Z",
+  "capturedAt": "2026-10-20T16:46:47.423Z",
   "clanLevel": 8,
   "memberCount": 50,
   "members": [
@@ -21,9 +21,9 @@
       "role": "member",
       "th": 17,
       "expLevel": 271,
-      "trophies": 70,
-      "donations": 3121,
-      "donationsReceived": 3291,
+      "trophies": 128,
+      "donations": 3126,
+      "donationsReceived": 3391,
       "capitalContributions": 0
     },
     {
@@ -32,9 +32,9 @@
       "role": "member",
       "th": 17,
       "expLevel": 166,
-      "trophies": 0,
-      "donations": 203,
-      "donationsReceived": 507,
+      "trophies": 97,
+      "donations": 286,
+      "donationsReceived": 562,
       "capitalContributions": 0
     },
     {
@@ -44,7 +44,7 @@
       "th": 16,
       "expLevel": 217,
       "trophies": 0,
-      "donations": 1396,
+      "donations": 1496,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -76,7 +76,7 @@
       "role": "member",
       "th": 17,
       "expLevel": 216,
-      "trophies": 142,
+      "trophies": 155,
       "donations": 1708,
       "donationsReceived": 372,
       "capitalContributions": 0
@@ -109,8 +109,8 @@
       "role": "member",
       "th": 16,
       "expLevel": 140,
-      "trophies": 19,
-      "donations": 1279,
+      "trophies": 71,
+      "donations": 1333,
       "donationsReceived": 556,
       "capitalContributions": 0
     },
@@ -131,8 +131,8 @@
       "role": "coLeader",
       "th": 13,
       "expLevel": 129,
-      "trophies": 336,
-      "donations": 1140,
+      "trophies": 350,
+      "donations": 1172,
       "donationsReceived": 1473,
       "capitalContributions": 0
     },
@@ -192,6 +192,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GGJY8JJQ0",
+      "name": "Hazkie",
+      "role": "admin",
+      "th": 13,
+      "expLevel": 140,
+      "trophies": 150,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#YUUVCQR2C",
       "name": "Ronald",
       "role": "admin",
@@ -225,17 +236,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#GGJY8JJQ0",
-      "name": "Hazkie",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 140,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#R8GPLGRVQ",
       "name": "LegitN00b98",
       "role": "coLeader",
@@ -264,7 +264,7 @@
       "th": 13,
       "expLevel": 153,
       "trophies": 0,
-      "donations": 516,
+      "donations": 518,
       "donationsReceived": 141,
       "capitalContributions": 0
     },
@@ -274,7 +274,7 @@
       "role": "member",
       "th": 13,
       "expLevel": 141,
-      "trophies": 55,
+      "trophies": 84,
       "donations": 179,
       "donationsReceived": 274,
       "capitalContributions": 0
@@ -291,23 +291,23 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#LP082VQVY",
-      "name": "ТИТАН",
-      "role": "member",
-      "th": 13,
-      "expLevel": 146,
-      "trophies": 30,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#8J0UU8GPQ",
       "name": "cnt",
       "role": "member",
       "th": 13,
       "expLevel": 108,
-      "trophies": 28,
+      "trophies": 155,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#LP082VQVY",
+      "name": "ТИТАН",
+      "role": "member",
+      "th": 13,
+      "expLevel": 146,
+      "trophies": 41,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -319,7 +319,7 @@
       "th": 12,
       "expLevel": 110,
       "trophies": 26,
-      "donations": 0,
+      "donations": 2,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -384,9 +384,9 @@
       "role": "coLeader",
       "th": 9,
       "expLevel": 56,
-      "trophies": 270,
+      "trophies": 282,
       "donations": 207,
-      "donationsReceived": 500,
+      "donationsReceived": 531,
       "capitalContributions": 0
     },
     {
@@ -397,7 +397,7 @@
       "expLevel": 222,
       "trophies": 0,
       "donations": 444,
-      "donationsReceived": 1062,
+      "donationsReceived": 1145,
       "capitalContributions": 0
     },
     {
@@ -550,8 +550,8 @@
       "th": 18,
       "expLevel": 241,
       "trophies": 0,
-      "donations": 1869,
-      "donationsReceived": 745,
+      "donations": 1919,
+      "donationsReceived": 804,
       "capitalContributions": 0
     }
   ]
