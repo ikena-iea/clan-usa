@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "capturedAt": "2026-10-20T16:46:47.423Z",
+  "capturedAt": "2026-10-20T20:25:18.465Z",
   "clanLevel": 8,
   "memberCount": 50,
   "members": [
@@ -10,7 +10,7 @@
       "role": "admin",
       "th": 18,
       "expLevel": 202,
-      "trophies": 0,
+      "trophies": 11,
       "donations": 495,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -23,7 +23,7 @@
       "expLevel": 271,
       "trophies": 128,
       "donations": 3126,
-      "donationsReceived": 3391,
+      "donationsReceived": 3441,
       "capitalContributions": 0
     },
     {
@@ -76,8 +76,8 @@
       "role": "member",
       "th": 17,
       "expLevel": 216,
-      "trophies": 155,
-      "donations": 1708,
+      "trophies": 176,
+      "donations": 1848,
       "donationsReceived": 372,
       "capitalContributions": 0
     },
@@ -120,7 +120,7 @@
       "role": "admin",
       "th": 14,
       "expLevel": 123,
-      "trophies": 0,
+      "trophies": 12,
       "donations": 636,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -132,7 +132,7 @@
       "th": 13,
       "expLevel": 129,
       "trophies": 350,
-      "donations": 1172,
+      "donations": 1214,
       "donationsReceived": 1473,
       "capitalContributions": 0
     },
@@ -143,8 +143,8 @@
       "th": 15,
       "expLevel": 159,
       "trophies": 0,
-      "donations": 787,
-      "donationsReceived": 1138,
+      "donations": 873,
+      "donationsReceived": 1186,
       "capitalContributions": 0
     },
     {
@@ -154,8 +154,8 @@
       "th": 15,
       "expLevel": 126,
       "trophies": 11,
-      "donations": 1843,
-      "donationsReceived": 1640,
+      "donations": 2010,
+      "donationsReceived": 1732,
       "capitalContributions": 0
     },
     {
@@ -219,7 +219,7 @@
       "role": "admin",
       "th": 14,
       "expLevel": 124,
-      "trophies": 53,
+      "trophies": 65,
       "donations": 38,
       "donationsReceived": 2887,
       "capitalContributions": 0
@@ -231,8 +231,8 @@
       "th": 14,
       "expLevel": 79,
       "trophies": 25,
-      "donations": 2488,
-      "donationsReceived": 5516,
+      "donations": 2578,
+      "donationsReceived": 5683,
       "capitalContributions": 0
     },
     {
@@ -449,10 +449,10 @@
       "name": "pheak",
       "role": "member",
       "th": 12,
-      "expLevel": 102,
+      "expLevel": 103,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 432,
+      "donationsReceived": 504,
       "capitalContributions": 0
     },
     {
@@ -528,8 +528,8 @@
       "th": 12,
       "expLevel": 67,
       "trophies": 0,
-      "donations": 357,
-      "donationsReceived": 952,
+      "donations": 429,
+      "donationsReceived": 1120,
       "capitalContributions": 0
     },
     {
