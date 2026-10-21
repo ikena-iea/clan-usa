@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T15:08:04.232Z",
+  "generatedAt": "2026-10-21T20:02:47.315Z",
   "snapshotDate": "2026-10-21",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -132,6 +132,40 @@
       }
     },
     {
+      "tag": "#QU0VVP8RJ",
+      "name": "DaHairyVeer",
+      "role": "coLeader",
+      "th": 9,
+      "firstSeen": "2026-09-30",
+      "daysPresent": 21,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 4,
+      "warsTotal": 29,
+      "clan": {
+        "total": 94.7,
+        "pillars": {
+          "donations": 97,
+          "raids": 100,
+          "loot": 83
+        },
+        "tier": "Legendary"
+      },
+      "war": {
+        "total": 79.3,
+        "status": null,
+        "cap": "Rare",
+        "pillars": {
+          "reliability": 100,
+          "performance": 48
+        },
+        "available": 8,
+        "used": 8,
+        "misses": 0,
+        "tier": "Rare"
+      }
+    },
+    {
       "tag": "#P02U2U9GC",
       "name": "Diego",
       "role": "admin",
@@ -229,40 +263,6 @@
         },
         "available": 10,
         "used": 10,
-        "misses": 0,
-        "tier": "Rare"
-      }
-    },
-    {
-      "tag": "#QU0VVP8RJ",
-      "name": "DaHairyVeer",
-      "role": "coLeader",
-      "th": 9,
-      "firstSeen": "2026-09-30",
-      "daysPresent": 21,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 4,
-      "warsTotal": 29,
-      "clan": {
-        "total": 92,
-        "pillars": {
-          "donations": 90,
-          "raids": 100,
-          "loot": 83
-        },
-        "tier": "Legendary"
-      },
-      "war": {
-        "total": 79.3,
-        "status": null,
-        "cap": "Rare",
-        "pillars": {
-          "reliability": 100,
-          "performance": 48
-        },
-        "available": 8,
-        "used": 8,
         "misses": 0,
         "tier": "Rare"
       }
@@ -1550,39 +1550,6 @@
       }
     },
     {
-      "tag": "#8J0UU8GPQ",
-      "name": "cnt",
-      "role": "member",
-      "th": 13,
-      "firstSeen": "2026-10-14",
-      "daysPresent": 7,
-      "inGrace": true,
-      "gracePeriodEndsIn": 7,
-      "warsJoined": 1,
-      "warsTotal": 29,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": 33,
-          "loot": 94
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 2,
-        "used": 2,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
       "tag": "#GRGL2UUUJ",
       "name": "Toslim",
       "role": "member",
@@ -1611,6 +1578,39 @@
         },
         "available": 0,
         "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#8J0UU8GPQ",
+      "name": "cnt",
+      "role": "member",
+      "th": 13,
+      "firstSeen": "2026-10-14",
+      "daysPresent": 7,
+      "inGrace": true,
+      "gracePeriodEndsIn": 7,
+      "warsJoined": 1,
+      "warsTotal": 29,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": 33,
+          "loot": 94
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 2,
+        "used": 2,
         "misses": 0,
         "tier": null
       }
