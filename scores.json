@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T09:59:46.344Z",
+  "generatedAt": "2026-10-22T15:08:44.157Z",
   "snapshotDate": "2026-10-22",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -940,40 +940,6 @@
         "used": 4,
         "misses": 4,
         "tier": "Uncommon"
-      }
-    },
-    {
-      "tag": "#G2GJP9UL0",
-      "name": "aaahhhh",
-      "role": "member",
-      "th": 13,
-      "firstSeen": "2026-09-21",
-      "daysPresent": 31,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 3,
-      "warsTotal": 29,
-      "clan": {
-        "total": 35,
-        "pillars": {
-          "donations": 0,
-          "raids": 29,
-          "loot": 100
-        },
-        "tier": "Common"
-      },
-      "war": {
-        "total": 12.5,
-        "status": null,
-        "cap": "Uncommon",
-        "pillars": {
-          "reliability": 13,
-          "performance": null
-        },
-        "available": 6,
-        "used": 0,
-        "misses": 6,
-        "tier": "Common"
       }
     },
     {
