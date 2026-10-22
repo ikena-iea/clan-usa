@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T15:08:44.157Z",
+  "generatedAt": "2026-10-22T19:56:26.172Z",
   "snapshotDate": "2026-10-22",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -299,40 +299,6 @@
         "used": 10,
         "misses": 0,
         "tier": "Legendary"
-      }
-    },
-    {
-      "tag": "#PGQVCVYPJ",
-      "name": "ben",
-      "role": "admin",
-      "th": 18,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 86,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 21,
-      "warsTotal": 29,
-      "clan": {
-        "total": 89.7,
-        "pillars": {
-          "donations": 100,
-          "raids": 100,
-          "loot": 59
-        },
-        "tier": "Legendary"
-      },
-      "war": {
-        "total": 55.1,
-        "status": null,
-        "cap": "Uncommon",
-        "pillars": {
-          "reliability": 70,
-          "performance": 33
-        },
-        "available": 10,
-        "used": 7,
-        "misses": 3,
-        "tier": "Uncommon"
       }
     },
     {

@@ -1,8 +1,8 @@
 {
   "date": "2026-10-22",
-  "capturedAt": "2026-10-22T15:08:43.556Z",
+  "capturedAt": "2026-10-22T19:56:25.655Z",
   "clanLevel": 8,
-  "memberCount": 49,
+  "memberCount": 48,
   "members": [
     {
       "tag": "#9Y8JCVPGL",
@@ -21,9 +21,9 @@
       "role": "member",
       "th": 17,
       "expLevel": 271,
-      "trophies": 190,
+      "trophies": 209,
       "donations": 3209,
-      "donationsReceived": 3812,
+      "donationsReceived": 3955,
       "capitalContributions": 0
     },
     {
@@ -44,7 +44,7 @@
       "th": 16,
       "expLevel": 217,
       "trophies": 0,
-      "donations": 2025,
+      "donations": 2060,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -64,9 +64,9 @@
       "name": "Ikena",
       "role": "coLeader",
       "th": 14,
-      "expLevel": 129,
+      "expLevel": 130,
       "trophies": 406,
-      "donations": 687,
+      "donations": 757,
       "donationsReceived": 48,
       "capitalContributions": 0
     },
@@ -88,7 +88,7 @@
       "th": 17,
       "expLevel": 216,
       "trophies": 194,
-      "donations": 1936,
+      "donations": 2076,
       "donationsReceived": 373,
       "capitalContributions": 0
     },
@@ -109,8 +109,8 @@
       "role": "member",
       "th": 16,
       "expLevel": 141,
-      "trophies": 265,
-      "donations": 1383,
+      "trophies": 421,
+      "donations": 1415,
       "donationsReceived": 743,
       "capitalContributions": 0
     },
@@ -132,7 +132,7 @@
       "th": 13,
       "expLevel": 130,
       "trophies": 358,
-      "donations": 1267,
+      "donations": 1269,
       "donationsReceived": 1627,
       "capitalContributions": 0
     },
@@ -144,7 +144,7 @@
       "expLevel": 160,
       "trophies": 0,
       "donations": 943,
-      "donationsReceived": 1261,
+      "donationsReceived": 1291,
       "capitalContributions": 0
     },
     {
@@ -252,7 +252,7 @@
       "role": "admin",
       "th": 12,
       "expLevel": 103,
-      "trophies": 36,
+      "trophies": 44,
       "donations": 173,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -264,7 +264,7 @@
       "th": 13,
       "expLevel": 154,
       "trophies": 28,
-      "donations": 548,
+      "donations": 549,
       "donationsReceived": 141,
       "capitalContributions": 0
     },
@@ -297,8 +297,8 @@
       "th": 12,
       "expLevel": 110,
       "trophies": 312,
-      "donations": 243,
-      "donationsReceived": 205,
+      "donations": 316,
+      "donationsReceived": 317,
       "capitalContributions": 0
     },
     {
@@ -351,7 +351,7 @@
       "role": "admin",
       "th": 11,
       "expLevel": 95,
-      "trophies": 124,
+      "trophies": 132,
       "donations": 3,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -386,7 +386,7 @@
       "expLevel": 57,
       "trophies": 322,
       "donations": 226,
-      "donationsReceived": 531,
+      "donationsReceived": 562,
       "capitalContributions": 0
     },
     {
@@ -489,17 +489,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#PGQVCVYPJ",
-      "name": "ben",
-      "role": "admin",
-      "th": 18,
-      "expLevel": 218,
-      "trophies": 0,
-      "donations": 486,
-      "donationsReceived": 346,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#R8PJY0U0J",
       "name": "Didetz",
       "role": "leader",
@@ -518,7 +507,7 @@
       "expLevel": 68,
       "trophies": 0,
       "donations": 683,
-      "donationsReceived": 1380,
+      "donationsReceived": 1422,
       "capitalContributions": 0
     },
     {
