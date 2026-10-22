@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T19:56:26.172Z",
+  "generatedAt": "2026-10-22T23:12:57.423Z",
   "snapshotDate": "2026-10-22",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1597,6 +1597,39 @@
           "donations": 0,
           "raids": 0,
           "loot": 0
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#L0RL88QUU",
+      "name": "mofateh",
+      "role": "member",
+      "th": 16,
+      "firstSeen": "2026-10-22",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 29,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
         },
         "tier": null
       },

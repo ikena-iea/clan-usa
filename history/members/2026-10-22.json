@@ -1,8 +1,8 @@
 {
   "date": "2026-10-22",
-  "capturedAt": "2026-10-22T19:56:25.655Z",
+  "capturedAt": "2026-10-22T23:12:56.783Z",
   "clanLevel": 8,
-  "memberCount": 48,
+  "memberCount": 49,
   "members": [
     {
       "tag": "#9Y8JCVPGL",
@@ -22,8 +22,8 @@
       "th": 17,
       "expLevel": 271,
       "trophies": 209,
-      "donations": 3209,
-      "donationsReceived": 3955,
+      "donations": 3269,
+      "donationsReceived": 4043,
       "capitalContributions": 0
     },
     {
@@ -76,9 +76,9 @@
       "role": "admin",
       "th": 16,
       "expLevel": 176,
-      "trophies": 243,
-      "donations": 332,
-      "donationsReceived": 673,
+      "trophies": 305,
+      "donations": 363,
+      "donationsReceived": 726,
       "capitalContributions": 0
     },
     {
@@ -110,7 +110,7 @@
       "th": 16,
       "expLevel": 141,
       "trophies": 421,
-      "donations": 1415,
+      "donations": 1470,
       "donationsReceived": 743,
       "capitalContributions": 0
     },
@@ -133,7 +133,7 @@
       "expLevel": 130,
       "trophies": 358,
       "donations": 1269,
-      "donationsReceived": 1627,
+      "donationsReceived": 1702,
       "capitalContributions": 0
     },
     {
@@ -229,10 +229,21 @@
       "name": "HongSar",
       "role": "member",
       "th": 15,
-      "expLevel": 81,
+      "expLevel": 82,
       "trophies": 55,
       "donations": 2717,
       "donationsReceived": 5916,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#P02U2U9GC",
+      "name": "Diego",
+      "role": "admin",
+      "th": 13,
+      "expLevel": 154,
+      "trophies": 108,
+      "donations": 592,
+      "donationsReceived": 141,
       "capitalContributions": 0
     },
     {
@@ -242,7 +253,7 @@
       "th": 12,
       "expLevel": 97,
       "trophies": 106,
-      "donations": 239,
+      "donations": 241,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -255,17 +266,6 @@
       "trophies": 44,
       "donations": 173,
       "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#P02U2U9GC",
-      "name": "Diego",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 154,
-      "trophies": 28,
-      "donations": 549,
-      "donationsReceived": 141,
       "capitalContributions": 0
     },
     {
@@ -295,10 +295,10 @@
       "name": "Toslim",
       "role": "member",
       "th": 12,
-      "expLevel": 110,
-      "trophies": 312,
-      "donations": 316,
-      "donationsReceived": 317,
+      "expLevel": 111,
+      "trophies": 321,
+      "donations": 358,
+      "donationsReceived": 389,
       "capitalContributions": 0
     },
     {
@@ -418,8 +418,8 @@
       "th": 18,
       "expLevel": 256,
       "trophies": 0,
-      "donations": 2288,
-      "donationsReceived": 802,
+      "donations": 2324,
+      "donationsReceived": 857,
       "capitalContributions": 0
     },
     {
@@ -429,8 +429,19 @@
       "th": 18,
       "expLevel": 206,
       "trophies": 0,
-      "donations": 1132,
+      "donations": 1243,
       "donationsReceived": 1265,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#L0RL88QUU",
+      "name": "mofateh",
+      "role": "member",
+      "th": 16,
+      "expLevel": 198,
+      "trophies": 0,
+      "donations": 35,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -507,7 +518,7 @@
       "expLevel": 68,
       "trophies": 0,
       "donations": 683,
-      "donationsReceived": 1422,
+      "donationsReceived": 1494,
       "capitalContributions": 0
     },
     {
