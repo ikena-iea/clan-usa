@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T14:52:47.802Z",
+  "generatedAt": "2026-10-23T23:01:40.815Z",
   "snapshotDate": "2026-10-23",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -774,6 +774,40 @@
       }
     },
     {
+      "tag": "#LCVCL0LU0",
+      "name": "Limeranch",
+      "role": "coLeader",
+      "th": 18,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 87,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 20,
+      "warsTotal": 29,
+      "clan": {
+        "total": 40,
+        "pillars": {
+          "donations": 100,
+          "raids": 0,
+          "loot": 0
+        },
+        "tier": "Uncommon"
+      },
+      "war": {
+        "total": 68.4,
+        "status": null,
+        "cap": "Rare",
+        "pillars": {
+          "reliability": 90,
+          "performance": 36
+        },
+        "available": 10,
+        "used": 9,
+        "misses": 1,
+        "tier": "Rare"
+      }
+    },
+    {
       "tag": "#YJCYRGRU",
       "name": "JoAaKeR",
       "role": "member",
@@ -939,40 +973,6 @@
         "available": 10,
         "used": 8,
         "misses": 2,
-        "tier": "Rare"
-      }
-    },
-    {
-      "tag": "#LCVCL0LU0",
-      "name": "Limeranch",
-      "role": "coLeader",
-      "th": 18,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 87,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 20,
-      "warsTotal": 29,
-      "clan": {
-        "total": 32.3,
-        "pillars": {
-          "donations": 81,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": "Common"
-      },
-      "war": {
-        "total": 68.4,
-        "status": null,
-        "cap": "Rare",
-        "pillars": {
-          "reliability": 90,
-          "performance": 36
-        },
-        "available": 10,
-        "used": 9,
-        "misses": 1,
         "tier": "Rare"
       }
     },
@@ -1382,6 +1382,39 @@
       }
     },
     {
+      "tag": "#LLJR9JJJV",
+      "name": "SWARAJ04",
+      "role": "member",
+      "th": 15,
+      "firstSeen": "2026-10-23",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 29,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#GCPGCRCPR",
       "name": "TbSeikChan",
       "role": "member",
@@ -1543,72 +1576,6 @@
         },
         "available": 2,
         "used": 2,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#LP082VQVY",
-      "name": "ТИТАН",
-      "role": "member",
-      "th": 13,
-      "firstSeen": "2026-10-17",
-      "daysPresent": 6,
-      "inGrace": true,
-      "gracePeriodEndsIn": 8,
-      "warsJoined": 0,
-      "warsTotal": 29,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#2Q8Y9GJ8U",
-      "name": "Rabi3",
-      "role": "member",
-      "th": 13,
-      "firstSeen": "2026-10-15",
-      "daysPresent": 8,
-      "inGrace": true,
-      "gracePeriodEndsIn": 6,
-      "warsJoined": 0,
-      "warsTotal": 29,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
         "misses": 0,
         "tier": null
       }
