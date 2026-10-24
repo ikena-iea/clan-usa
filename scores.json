@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T13:56:06.259Z",
+  "generatedAt": "2026-10-24T17:20:47.693Z",
   "snapshotDate": "2026-10-24",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1482,6 +1482,39 @@
       }
     },
     {
+      "tag": "#QPGLPPR29",
+      "name": "mojo",
+      "role": "member",
+      "th": 13,
+      "firstSeen": "2026-10-24",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 29,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#GRGL2UUUJ",
       "name": "Toslim",
       "role": "member",
@@ -1543,6 +1576,39 @@
         },
         "available": 2,
         "used": 2,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#QVVQL0PVV",
+      "name": "mobina",
+      "role": "member",
+      "th": 12,
+      "firstSeen": "2026-10-24",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 29,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
         "misses": 0,
         "tier": null
       }
