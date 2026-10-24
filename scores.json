@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T04:21:06.567Z",
+  "generatedAt": "2026-10-24T13:56:06.259Z",
   "snapshotDate": "2026-10-24",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -438,6 +438,40 @@
       }
     },
     {
+      "tag": "#GYC8Q2R20",
+      "name": "lucky",
+      "role": "admin",
+      "th": 13,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 88,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 17,
+      "warsTotal": 29,
+      "clan": {
+        "total": 73,
+        "pillars": {
+          "donations": 43,
+          "raids": 100,
+          "loot": 83
+        },
+        "tier": "Epic"
+      },
+      "war": {
+        "total": 83.1,
+        "status": null,
+        "cap": null,
+        "pillars": {
+          "reliability": 100,
+          "performance": 58
+        },
+        "available": 10,
+        "used": 10,
+        "misses": 0,
+        "tier": "Epic"
+      }
+    },
+    {
       "tag": "#GGRR02GLG",
       "name": "jude",
       "role": "admin",
@@ -503,40 +537,6 @@
         "used": 8,
         "misses": 2,
         "tier": "Rare"
-      }
-    },
-    {
-      "tag": "#GYC8Q2R20",
-      "name": "lucky",
-      "role": "admin",
-      "th": 13,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 88,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 17,
-      "warsTotal": 29,
-      "clan": {
-        "total": 68.3,
-        "pillars": {
-          "donations": 31,
-          "raids": 100,
-          "loot": 83
-        },
-        "tier": "Rare"
-      },
-      "war": {
-        "total": 83.1,
-        "status": null,
-        "cap": null,
-        "pillars": {
-          "reliability": 100,
-          "performance": 58
-        },
-        "available": 10,
-        "used": 10,
-        "misses": 0,
-        "tier": "Epic"
       }
     },
     {
@@ -1410,39 +1410,6 @@
         },
         "available": 2,
         "used": 2,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#LLJR9JJJV",
-      "name": "SWARAJ04",
-      "role": "member",
-      "th": 15,
-      "firstSeen": "2026-10-23",
-      "daysPresent": 1,
-      "inGrace": true,
-      "gracePeriodEndsIn": 13,
-      "warsJoined": 0,
-      "warsTotal": 29,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "loot": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
         "misses": 0,
         "tier": null
       }
