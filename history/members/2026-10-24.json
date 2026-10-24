@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "capturedAt": "2026-10-24T17:20:34.228Z",
+  "capturedAt": "2026-10-24T20:35:54.283Z",
   "clanLevel": 9,
   "memberCount": 50,
   "members": [
@@ -87,7 +87,7 @@
       "role": "member",
       "th": 17,
       "expLevel": 216,
-      "trophies": 292,
+      "trophies": 327,
       "donations": 2280,
       "donationsReceived": 491,
       "capitalContributions": 0
@@ -111,7 +111,7 @@
       "expLevel": 141,
       "trophies": 435,
       "donations": 1990,
-      "donationsReceived": 1043,
+      "donationsReceived": 1075,
       "capitalContributions": 0
     },
     {
@@ -132,7 +132,7 @@
       "th": 13,
       "expLevel": 131,
       "trophies": 367,
-      "donations": 1634,
+      "donations": 1666,
       "donationsReceived": 1779,
       "capitalContributions": 0
     },
@@ -164,7 +164,7 @@
       "role": "member",
       "th": 14,
       "expLevel": 154,
-      "trophies": 25,
+      "trophies": 52,
       "donations": 1,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -174,7 +174,7 @@
       "name": "_AzE_CeKo™⚜",
       "role": "admin",
       "th": 14,
-      "expLevel": 174,
+      "expLevel": 175,
       "trophies": 0,
       "donations": 162,
       "donationsReceived": 233,
@@ -199,7 +199,7 @@
       "expLevel": 124,
       "trophies": 332,
       "donations": 38,
-      "donationsReceived": 3710,
+      "donationsReceived": 3852,
       "capitalContributions": 0
     },
     {
@@ -286,7 +286,7 @@
       "th": 13,
       "expLevel": 92,
       "trophies": 370,
-      "donations": 42,
+      "donations": 82,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -308,7 +308,7 @@
       "th": 12,
       "expLevel": 111,
       "trophies": 321,
-      "donations": 505,
+      "donations": 647,
       "donationsReceived": 499,
       "capitalContributions": 0
     },
@@ -335,6 +335,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GLUJVJGGV",
+      "name": "allis",
+      "role": "admin",
+      "th": 11,
+      "expLevel": 96,
+      "trophies": 158,
+      "donations": 3,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#QVVQL0PVV",
       "name": "mobina",
       "role": "member",
@@ -343,17 +354,6 @@
       "trophies": 151,
       "donations": 51,
       "donationsReceived": 67,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GLUJVJGGV",
-      "name": "allis",
-      "role": "admin",
-      "th": 11,
-      "expLevel": 96,
-      "trophies": 132,
-      "donations": 3,
-      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -529,7 +529,7 @@
       "expLevel": 69,
       "trophies": 0,
       "donations": 683,
-      "donationsReceived": 1662,
+      "donationsReceived": 1702,
       "capitalContributions": 0
     },
     {
