@@ -1,9 +1,20 @@
 {
   "date": "2026-10-26",
-  "capturedAt": "2026-10-26T12:47:21.081Z",
+  "capturedAt": "2026-10-26T19:08:48.280Z",
   "clanLevel": 9,
-  "memberCount": 47,
+  "memberCount": 49,
   "members": [
+    {
+      "tag": "#988PVCQ9G",
+      "name": "dana",
+      "role": "member",
+      "th": 18,
+      "expLevel": 243,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
     {
       "tag": "#8YCVGRC08",
       "name": "Checheng.",
@@ -12,7 +23,7 @@
       "expLevel": 271,
       "trophies": 0,
       "donations": 3561,
-      "donationsReceived": 4712,
+      "donationsReceived": 4767,
       "capitalContributions": 0
     },
     {
@@ -22,8 +33,8 @@
       "th": 17,
       "expLevel": 167,
       "trophies": 0,
-      "donations": 366,
-      "donationsReceived": 948,
+      "donations": 420,
+      "donationsReceived": 1003,
       "capitalContributions": 0
     },
     {
@@ -44,7 +55,7 @@
       "th": 16,
       "expLevel": 217,
       "trophies": 0,
-      "donations": 2324,
+      "donations": 2383,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -66,7 +77,7 @@
       "th": 17,
       "expLevel": 217,
       "trophies": 0,
-      "donations": 2430,
+      "donations": 2480,
       "donationsReceived": 606,
       "capitalContributions": 0
     },
@@ -192,6 +203,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#PQGPC9PG8",
+      "name": "Haiman saluja",
+      "role": "member",
+      "th": 14,
+      "expLevel": 147,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#YUJ22CV28",
       "name": "Angel",
       "role": "member",
@@ -231,7 +253,7 @@
       "th": 13,
       "expLevel": 154,
       "trophies": 0,
-      "donations": 759,
+      "donations": 819,
       "donationsReceived": 235,
       "capitalContributions": 0
     },
@@ -269,6 +291,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GRGL2UUUJ",
+      "name": "Toslim",
+      "role": "member",
+      "th": 12,
+      "expLevel": 112,
+      "trophies": 133,
+      "donations": 695,
+      "donationsReceived": 499,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#8J0UU8GPQ",
       "name": "cnt",
       "role": "member",
@@ -277,17 +310,6 @@
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GRGL2UUUJ",
-      "name": "Toslim",
-      "role": "member",
-      "th": 12,
-      "expLevel": 112,
-      "trophies": 0,
-      "donations": 695,
-      "donationsReceived": 499,
       "capitalContributions": 0
     },
     {
@@ -351,7 +373,7 @@
       "role": "coLeader",
       "th": 9,
       "expLevel": 59,
-      "trophies": 0,
+      "trophies": 27,
       "donations": 226,
       "donationsReceived": 655,
       "capitalContributions": 0
@@ -408,7 +430,7 @@
       "expLevel": 206,
       "trophies": 0,
       "donations": 1445,
-      "donationsReceived": 1265,
+      "donationsReceived": 1324,
       "capitalContributions": 0
     },
     {
@@ -517,8 +539,8 @@
       "th": 18,
       "expLevel": 241,
       "trophies": 0,
-      "donations": 2336,
-      "donationsReceived": 922,
+      "donations": 2341,
+      "donationsReceived": 981,
       "capitalContributions": 0
     }
   ]
