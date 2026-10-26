@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T19:08:48.834Z",
+  "generatedAt": "2026-10-26T23:43:19.964Z",
   "snapshotDate": "2026-10-26",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -911,40 +911,6 @@
       }
     },
     {
-      "tag": "#YUJ22CV28",
-      "name": "Angel",
-      "role": "member",
-      "th": 14,
-      "firstSeen": "2026-10-06",
-      "daysPresent": 20,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 2,
-      "warsTotal": 30,
-      "clan": {
-        "total": 36.2,
-        "pillars": {
-          "donations": 12,
-          "raids": 38,
-          "loot": 74
-        },
-        "tier": "Common"
-      },
-      "war": {
-        "total": 58.7,
-        "status": null,
-        "cap": "Rare",
-        "pillars": {
-          "reliability": 50,
-          "performance": 72
-        },
-        "available": 4,
-        "used": 2,
-        "misses": 2,
-        "tier": "Rare"
-      }
-    },
-    {
       "tag": "#LCVCL0LU0",
       "name": "Limeranch",
       "role": "coLeader",
@@ -1235,39 +1201,6 @@
           "loot": 0
         },
         "tier": "Common"
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#988PVCQ9G",
-      "name": "dana",
-      "role": "member",
-      "th": 18,
-      "firstSeen": "2026-10-26",
-      "daysPresent": 1,
-      "inGrace": true,
-      "gracePeriodEndsIn": 13,
-      "warsJoined": 0,
-      "warsTotal": 30,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": null
       },
       "war": {
         "total": null,
