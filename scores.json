@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T00:03:56.549Z",
+  "generatedAt": "2026-10-26T05:57:27.263Z",
   "snapshotDate": "2026-10-26",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1235,6 +1235,39 @@
           "loot": 0
         },
         "tier": "Common"
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#Y8C0QGG8C",
+      "name": "Ʀᴏʀᴏɴᴏᴀ ┊乙ᴏʀᴏ⚔️",
+      "role": "member",
+      "th": 18,
+      "firstSeen": "2026-10-26",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 30,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
       },
       "war": {
         "total": null,
