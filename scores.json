@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T16:23:23.013Z",
+  "generatedAt": "2026-10-27T21:11:57.704Z",
   "snapshotDate": "2026-10-27",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1283,6 +1283,39 @@
       }
     },
     {
+      "tag": "#2PJG29QG",
+      "name": "I AM GROOT",
+      "role": "member",
+      "th": 17,
+      "firstSeen": "2026-10-27",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 30,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#YCUPQPCY2",
       "name": "DROGBA",
       "role": "member",
@@ -1600,6 +1633,39 @@
           "donations": 54,
           "raids": 0,
           "loot": 0
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#PPPVQY8LL",
+      "name": "asessino",
+      "role": "member",
+      "th": 12,
+      "firstSeen": "2026-10-27",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 30,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
         },
         "tier": null
       },

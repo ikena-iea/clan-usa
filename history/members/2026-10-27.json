@@ -1,8 +1,8 @@
 {
   "date": "2026-10-27",
-  "capturedAt": "2026-10-27T16:23:22.237Z",
+  "capturedAt": "2026-10-27T21:11:57.102Z",
   "clanLevel": 9,
-  "memberCount": 48,
+  "memberCount": 50,
   "members": [
     {
       "tag": "#QUV9Q9VC",
@@ -10,9 +10,9 @@
       "role": "member",
       "th": 18,
       "expLevel": 236,
-      "trophies": 248,
-      "donations": 121,
-      "donationsReceived": 0,
+      "trophies": 398,
+      "donations": 275,
+      "donationsReceived": 58,
       "capitalContributions": 0
     },
     {
@@ -21,7 +21,7 @@
       "role": "member",
       "th": 17,
       "expLevel": 271,
-      "trophies": 68,
+      "trophies": 130,
       "donations": 3711,
       "donationsReceived": 5111,
       "capitalContributions": 0
@@ -32,7 +32,7 @@
       "role": "admin",
       "th": 18,
       "expLevel": 202,
-      "trophies": 93,
+      "trophies": 118,
       "donations": 545,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -55,7 +55,7 @@
       "th": 17,
       "expLevel": 217,
       "trophies": 0,
-      "donations": 2484,
+      "donations": 2549,
       "donationsReceived": 226,
       "capitalContributions": 0
     },
@@ -71,25 +71,25 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#G2G8R9RPC",
+      "name": "gangster1000000",
+      "role": "admin",
+      "th": 16,
+      "expLevel": 177,
+      "trophies": 184,
+      "donations": 551,
+      "donationsReceived": 1096,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#28UUJQGVC",
       "name": "Kickass",
       "role": "member",
       "th": 17,
       "expLevel": 217,
       "trophies": 124,
-      "donations": 2580,
+      "donations": 2590,
       "donationsReceived": 606,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#G2G8R9RPC",
-      "name": "gangster1000000",
-      "role": "admin",
-      "th": 16,
-      "expLevel": 177,
-      "trophies": 101,
-      "donations": 551,
-      "donationsReceived": 995,
       "capitalContributions": 0
     },
     {
@@ -99,8 +99,19 @@
       "th": 14,
       "expLevel": 131,
       "trophies": 0,
-      "donations": 757,
+      "donations": 772,
       "donationsReceived": 48,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#2PJG29QG",
+      "name": "I AM GROOT",
+      "role": "member",
+      "th": 17,
+      "expLevel": 219,
+      "trophies": 372,
+      "donations": 0,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -220,7 +231,7 @@
       "th": 13,
       "expLevel": 154,
       "trophies": 54,
-      "donations": 850,
+      "donations": 900,
       "donationsReceived": 235,
       "capitalContributions": 0
     },
@@ -230,7 +241,7 @@
       "role": "member",
       "th": 13,
       "expLevel": 121,
-      "trophies": 27,
+      "trophies": 39,
       "donations": 53,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -274,9 +285,9 @@
       "role": "member",
       "th": 12,
       "expLevel": 112,
-      "trophies": 162,
-      "donations": 737,
-      "donationsReceived": 612,
+      "trophies": 227,
+      "donations": 778,
+      "donationsReceived": 756,
       "capitalContributions": 0
     },
     {
@@ -361,7 +372,7 @@
       "name": "DaHairyVeer",
       "role": "coLeader",
       "th": 9,
-      "expLevel": 59,
+      "expLevel": 60,
       "trophies": 27,
       "donations": 226,
       "donationsReceived": 686,
@@ -441,7 +452,7 @@
       "expLevel": 176,
       "trophies": 0,
       "donations": 1707,
-      "donationsReceived": 1059,
+      "donationsReceived": 1142,
       "capitalContributions": 0
     },
     {
@@ -485,6 +496,17 @@
       "expLevel": 151,
       "trophies": 0,
       "donations": 70,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#PPPVQY8LL",
+      "name": "asessino",
+      "role": "member",
+      "th": 12,
+      "expLevel": 126,
+      "trophies": 0,
+      "donations": 51,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
