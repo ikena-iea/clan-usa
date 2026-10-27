@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T04:47:08.842Z",
+  "generatedAt": "2026-10-27T16:23:23.013Z",
   "snapshotDate": "2026-10-27",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -746,7 +746,7 @@
       "tag": "#92L2Y2JG",
       "name": "Seth",
       "role": "member",
-      "th": 16,
+      "th": 17,
       "firstSeen": "2026-10-06",
       "daysPresent": 21,
       "inGrace": false,
@@ -1250,6 +1250,39 @@
       }
     },
     {
+      "tag": "#QUV9Q9VC",
+      "name": "L Lawliet",
+      "role": "member",
+      "th": 18,
+      "firstSeen": "2026-10-27",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 30,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#YCUPQPCY2",
       "name": "DROGBA",
       "role": "member",
@@ -1468,6 +1501,39 @@
           "donations": 0,
           "raids": 0,
           "loot": 0
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#QVC0LLJGC",
+      "name": "mais Fw fgc",
+      "role": "member",
+      "th": 12,
+      "firstSeen": "2026-10-27",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 30,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
         },
         "tier": null
       },
