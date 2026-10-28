@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T15:53:56.611Z",
+  "generatedAt": "2026-10-28T20:56:45.123Z",
   "snapshotDate": "2026-10-28",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -949,7 +949,7 @@
       "tag": "#GVCC8LY9Y",
       "name": "MDTanvir",
       "role": "admin",
-      "th": 12,
+      "th": 13,
       "firstSeen": "2026-09-05",
       "daysPresent": 53,
       "inGrace": false,
@@ -1180,40 +1180,6 @@
         "used": 6,
         "misses": 4,
         "tier": "Uncommon"
-      }
-    },
-    {
-      "tag": "#LYCV9J2QJ",
-      "name": "_AzE_CeKo™⚜",
-      "role": "admin",
-      "th": 14,
-      "firstSeen": "2026-10-03",
-      "daysPresent": 25,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 3,
-      "warsTotal": 31,
-      "clan": {
-        "total": 19.8,
-        "pillars": {
-          "donations": 49,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": "Common"
-      },
-      "war": {
-        "total": 12.5,
-        "status": null,
-        "cap": "Uncommon",
-        "pillars": {
-          "reliability": 13,
-          "performance": null
-        },
-        "available": 6,
-        "used": 0,
-        "misses": 6,
-        "tier": "Common"
       }
     },
     {
