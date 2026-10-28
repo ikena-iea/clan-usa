@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "capturedAt": "2026-10-28T08:15:55.061Z",
+  "capturedAt": "2026-10-28T15:53:55.296Z",
   "clanLevel": 9,
   "memberCount": 50,
   "members": [
@@ -11,8 +11,8 @@
       "th": 18,
       "expLevel": 236,
       "trophies": 437,
-      "donations": 275,
-      "donationsReceived": 58,
+      "donations": 310,
+      "donationsReceived": 116,
       "capitalContributions": 0
     },
     {
@@ -21,9 +21,9 @@
       "role": "member",
       "th": 17,
       "expLevel": 271,
-      "trophies": 152,
+      "trophies": 192,
       "donations": 3783,
-      "donationsReceived": 5166,
+      "donationsReceived": 5307,
       "capitalContributions": 0
     },
     {
@@ -43,7 +43,7 @@
       "role": "member",
       "th": 17,
       "expLevel": 168,
-      "trophies": 0,
+      "trophies": 15,
       "donations": 533,
       "donationsReceived": 1061,
       "capitalContributions": 0
@@ -71,25 +71,25 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#G2G8R9RPC",
-      "name": "gangster1000000",
-      "role": "admin",
-      "th": 16,
-      "expLevel": 177,
-      "trophies": 184,
-      "donations": 551,
-      "donationsReceived": 1128,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#28UUJQGVC",
       "name": "Kickass",
       "role": "member",
       "th": 17,
       "expLevel": 217,
-      "trophies": 145,
-      "donations": 2590,
+      "trophies": 235,
+      "donations": 2690,
       "donationsReceived": 606,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#G2G8R9RPC",
+      "name": "gangster1000000",
+      "role": "admin",
+      "th": 16,
+      "expLevel": 177,
+      "trophies": 203,
+      "donations": 551,
+      "donationsReceived": 1128,
       "capitalContributions": 0
     },
     {
@@ -108,9 +108,9 @@
       "name": "I AM GROOT",
       "role": "member",
       "th": 17,
-      "expLevel": 219,
+      "expLevel": 220,
       "trophies": 381,
-      "donations": 0,
+      "donations": 61,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -120,8 +120,8 @@
       "role": "member",
       "th": 16,
       "expLevel": 142,
-      "trophies": 234,
-      "donations": 2541,
+      "trophies": 243,
+      "donations": 2583,
       "donationsReceived": 1374,
       "capitalContributions": 0
     },
@@ -141,7 +141,7 @@
       "name": "DaHairyVeer2",
       "role": "coLeader",
       "th": 13,
-      "expLevel": 131,
+      "expLevel": 132,
       "trophies": 393,
       "donations": 1897,
       "donationsReceived": 1992,
@@ -208,7 +208,7 @@
       "role": "admin",
       "th": 14,
       "expLevel": 175,
-      "trophies": 54,
+      "trophies": 77,
       "donations": 165,
       "donationsReceived": 233,
       "capitalContributions": 0
@@ -263,7 +263,7 @@
       "role": "member",
       "th": 13,
       "expLevel": 142,
-      "trophies": 43,
+      "trophies": 193,
       "donations": 388,
       "donationsReceived": 441,
       "capitalContributions": 0
@@ -283,11 +283,11 @@
       "tag": "#GRGL2UUUJ",
       "name": "Toslim",
       "role": "member",
-      "th": 12,
+      "th": 13,
       "expLevel": 112,
       "trophies": 255,
-      "donations": 778,
-      "donationsReceived": 828,
+      "donations": 779,
+      "donationsReceived": 868,
       "capitalContributions": 0
     },
     {
@@ -296,7 +296,7 @@
       "role": "member",
       "th": 13,
       "expLevel": 109,
-      "trophies": 0,
+      "trophies": 8,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -318,7 +318,7 @@
       "role": "member",
       "th": 12,
       "expLevel": 99,
-      "trophies": 42,
+      "trophies": 59,
       "donations": 51,
       "donationsReceived": 67,
       "capitalContributions": 0
@@ -329,7 +329,7 @@
       "role": "admin",
       "th": 11,
       "expLevel": 96,
-      "trophies": 38,
+      "trophies": 55,
       "donations": 3,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -351,7 +351,7 @@
       "role": "member",
       "th": 12,
       "expLevel": 111,
-      "trophies": 32,
+      "trophies": 72,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -373,7 +373,7 @@
       "role": "coLeader",
       "th": 10,
       "expLevel": 60,
-      "trophies": 107,
+      "trophies": 165,
       "donations": 226,
       "donationsReceived": 747,
       "capitalContributions": 0
