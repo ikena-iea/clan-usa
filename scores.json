@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T06:55:47.257Z",
+  "generatedAt": "2026-10-29T14:06:01.849Z",
   "snapshotDate": "2026-10-29",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -302,6 +302,40 @@
       }
     },
     {
+      "tag": "#R8GPLGRVQ",
+      "name": "LegitN00b98",
+      "role": "coLeader",
+      "th": 12,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 93,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 27,
+      "warsTotal": 31,
+      "clan": {
+        "total": 87.3,
+        "pillars": {
+          "donations": 93,
+          "raids": 100,
+          "loot": 61
+        },
+        "tier": "Legendary"
+      },
+      "war": {
+        "total": 89.5,
+        "status": null,
+        "cap": null,
+        "pillars": {
+          "reliability": 100,
+          "performance": 74
+        },
+        "available": 10,
+        "used": 10,
+        "misses": 0,
+        "tier": "Legendary"
+      }
+    },
+    {
       "tag": "#QU0VVP8RJ",
       "name": "DaHairyVeer",
       "role": "coLeader",
@@ -333,40 +367,6 @@
         "used": 8,
         "misses": 2,
         "tier": "Rare"
-      }
-    },
-    {
-      "tag": "#R8GPLGRVQ",
-      "name": "LegitN00b98",
-      "role": "coLeader",
-      "th": 12,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 93,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 27,
-      "warsTotal": 31,
-      "clan": {
-        "total": 83.1,
-        "pillars": {
-          "donations": 82,
-          "raids": 100,
-          "loot": 61
-        },
-        "tier": "Epic"
-      },
-      "war": {
-        "total": 89.5,
-        "status": null,
-        "cap": null,
-        "pillars": {
-          "reliability": 100,
-          "performance": 74
-        },
-        "available": 10,
-        "used": 10,
-        "misses": 0,
-        "tier": "Legendary"
       }
     },
     {

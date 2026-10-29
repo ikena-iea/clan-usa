@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "capturedAt": "2026-10-29T06:55:46.623Z",
+  "capturedAt": "2026-10-29T14:06:01.198Z",
   "clanLevel": 9,
   "memberCount": 50,
   "members": [
@@ -10,7 +10,7 @@
       "role": "member",
       "th": 18,
       "expLevel": 236,
-      "trophies": 437,
+      "trophies": 454,
       "donations": 340,
       "donationsReceived": 116,
       "capitalContributions": 0
@@ -23,7 +23,7 @@
       "expLevel": 271,
       "trophies": 210,
       "donations": 3853,
-      "donationsReceived": 5367,
+      "donationsReceived": 5422,
       "capitalContributions": 0
     },
     {
@@ -43,7 +43,7 @@
       "role": "member",
       "th": 17,
       "expLevel": 168,
-      "trophies": 15,
+      "trophies": 41,
       "donations": 533,
       "donationsReceived": 1174,
       "capitalContributions": 0
@@ -55,7 +55,7 @@
       "th": 17,
       "expLevel": 217,
       "trophies": 0,
-      "donations": 2619,
+      "donations": 2624,
       "donationsReceived": 226,
       "capitalContributions": 0
     },
@@ -88,7 +88,7 @@
       "th": 17,
       "expLevel": 217,
       "trophies": 235,
-      "donations": 2743,
+      "donations": 2795,
       "donationsReceived": 606,
       "capitalContributions": 0
     },
@@ -109,7 +109,7 @@
       "role": "member",
       "th": 17,
       "expLevel": 220,
-      "trophies": 381,
+      "trophies": 389,
       "donations": 357,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -121,7 +121,7 @@
       "th": 16,
       "expLevel": 142,
       "trophies": 243,
-      "donations": 2678,
+      "donations": 2726,
       "donationsReceived": 1427,
       "capitalContributions": 0
     },
@@ -143,7 +143,7 @@
       "th": 13,
       "expLevel": 132,
       "trophies": 401,
-      "donations": 2069,
+      "donations": 2104,
       "donationsReceived": 2068,
       "capitalContributions": 0
     },
@@ -165,8 +165,8 @@
       "th": 15,
       "expLevel": 129,
       "trophies": 54,
-      "donations": 2920,
-      "donationsReceived": 2340,
+      "donations": 2986,
+      "donationsReceived": 2387,
       "capitalContributions": 0
     },
     {
@@ -174,10 +174,21 @@
       "name": "THE ROCK",
       "role": "admin",
       "th": 15,
-      "expLevel": 160,
+      "expLevel": 161,
       "trophies": 0,
-      "donations": 943,
-      "donationsReceived": 1467,
+      "donations": 990,
+      "donationsReceived": 1515,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#8R2GYC09J",
+      "name": "immortal soul",
+      "role": "member",
+      "th": 14,
+      "expLevel": 155,
+      "trophies": 29,
+      "donations": 98,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -188,18 +199,7 @@
       "expLevel": 84,
       "trophies": 26,
       "donations": 3033,
-      "donationsReceived": 6417,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#8R2GYC09J",
-      "name": "immortal soul",
-      "role": "member",
-      "th": 14,
-      "expLevel": 155,
-      "trophies": 0,
-      "donations": 98,
-      "donationsReceived": 0,
+      "donationsReceived": 6518,
       "capitalContributions": 0
     },
     {
@@ -236,6 +236,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#2299L899V",
+      "name": "Dr.B00m",
+      "role": "member",
+      "th": 13,
+      "expLevel": 142,
+      "trophies": 273,
+      "donations": 389,
+      "donationsReceived": 441,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#PJ22QYY22",
       "name": "thegodlynoob",
       "role": "admin",
@@ -247,24 +258,13 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#2299L899V",
-      "name": "Dr.B00m",
-      "role": "member",
-      "th": 13,
-      "expLevel": 142,
-      "trophies": 193,
-      "donations": 388,
-      "donationsReceived": 441,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#R8GPLGRVQ",
       "name": "LegitN00b98",
       "role": "coLeader",
       "th": 12,
       "expLevel": 97,
       "trophies": 0,
-      "donations": 241,
+      "donations": 283,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -273,10 +273,10 @@
       "name": "Toslim",
       "role": "member",
       "th": 13,
-      "expLevel": 112,
+      "expLevel": 113,
       "trophies": 285,
       "donations": 779,
-      "donationsReceived": 938,
+      "donationsReceived": 944,
       "capitalContributions": 0
     },
     {
@@ -307,7 +307,7 @@
       "role": "member",
       "th": 12,
       "expLevel": 99,
-      "trophies": 59,
+      "trophies": 87,
       "donations": 51,
       "donationsReceived": 67,
       "capitalContributions": 0
@@ -407,7 +407,7 @@
       "th": 18,
       "expLevel": 256,
       "trophies": 0,
-      "donations": 2844,
+      "donations": 2849,
       "donationsReceived": 1030,
       "capitalContributions": 0
     },
@@ -529,7 +529,7 @@
       "expLevel": 70,
       "trophies": 0,
       "donations": 792,
-      "donationsReceived": 1950,
+      "donationsReceived": 1994,
       "capitalContributions": 0
     },
     {
