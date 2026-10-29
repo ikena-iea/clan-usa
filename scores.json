@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T00:46:02.165Z",
+  "generatedAt": "2026-10-29T06:55:47.257Z",
   "snapshotDate": "2026-10-29",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -313,13 +313,13 @@
       "warsJoined": 6,
       "warsTotal": 31,
       "clan": {
-        "total": 83.4,
+        "total": 86.3,
         "pillars": {
-          "donations": 70,
+          "donations": 78,
           "raids": 100,
           "loot": 81
         },
-        "tier": "Epic"
+        "tier": "Legendary"
       },
       "war": {
         "total": 76.1,
@@ -1659,6 +1659,39 @@
       "daysPresent": 2,
       "inGrace": true,
       "gracePeriodEndsIn": 12,
+      "warsJoined": 0,
+      "warsTotal": 31,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#GCRJJR89L",
+      "name": "IRAQ",
+      "role": "member",
+      "th": 12,
+      "firstSeen": "2026-10-29",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
       "warsJoined": 0,
       "warsTotal": 31,
       "clan": {

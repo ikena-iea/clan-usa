@@ -1,8 +1,8 @@
 {
   "date": "2026-10-29",
-  "capturedAt": "2026-10-29T00:46:01.258Z",
+  "capturedAt": "2026-10-29T06:55:46.623Z",
   "clanLevel": 9,
-  "memberCount": 49,
+  "memberCount": 50,
   "members": [
     {
       "tag": "#QUV9Q9VC",
@@ -22,8 +22,8 @@
       "th": 17,
       "expLevel": 271,
       "trophies": 210,
-      "donations": 3783,
-      "donationsReceived": 5312,
+      "donations": 3853,
+      "donationsReceived": 5367,
       "capitalContributions": 0
     },
     {
@@ -45,7 +45,7 @@
       "expLevel": 168,
       "trophies": 15,
       "donations": 533,
-      "donationsReceived": 1061,
+      "donationsReceived": 1174,
       "capitalContributions": 0
     },
     {
@@ -55,7 +55,7 @@
       "th": 17,
       "expLevel": 217,
       "trophies": 0,
-      "donations": 2579,
+      "donations": 2619,
       "donationsReceived": 226,
       "capitalContributions": 0
     },
@@ -110,7 +110,7 @@
       "th": 17,
       "expLevel": 220,
       "trophies": 381,
-      "donations": 241,
+      "donations": 357,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -121,8 +121,8 @@
       "th": 16,
       "expLevel": 142,
       "trophies": 243,
-      "donations": 2583,
-      "donationsReceived": 1374,
+      "donations": 2678,
+      "donationsReceived": 1427,
       "capitalContributions": 0
     },
     {
@@ -144,7 +144,7 @@
       "expLevel": 132,
       "trophies": 401,
       "donations": 2069,
-      "donationsReceived": 1992,
+      "donationsReceived": 2068,
       "capitalContributions": 0
     },
     {
@@ -274,9 +274,9 @@
       "role": "member",
       "th": 13,
       "expLevel": 112,
-      "trophies": 255,
+      "trophies": 285,
       "donations": 779,
-      "donationsReceived": 868,
+      "donationsReceived": 938,
       "capitalContributions": 0
     },
     {
@@ -285,7 +285,7 @@
       "role": "member",
       "th": 13,
       "expLevel": 109,
-      "trophies": 8,
+      "trophies": 37,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -361,10 +361,10 @@
       "name": "DaHairyVeer",
       "role": "coLeader",
       "th": 10,
-      "expLevel": 60,
+      "expLevel": 61,
       "trophies": 285,
-      "donations": 226,
-      "donationsReceived": 837,
+      "donations": 254,
+      "donationsReceived": 898,
       "capitalContributions": 0
     },
     {
@@ -374,7 +374,7 @@
       "th": 15,
       "expLevel": 222,
       "trophies": 0,
-      "donations": 444,
+      "donations": 563,
       "donationsReceived": 1477,
       "capitalContributions": 0
     },
@@ -408,7 +408,7 @@
       "expLevel": 256,
       "trophies": 0,
       "donations": 2844,
-      "donationsReceived": 971,
+      "donationsReceived": 1030,
       "capitalContributions": 0
     },
     {
@@ -511,6 +511,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GCRJJR89L",
+      "name": "IRAQ",
+      "role": "member",
+      "th": 12,
+      "expLevel": 104,
+      "trophies": 0,
+      "donations": 59,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#GVCC8LY9Y",
       "name": "MDTanvir",
       "role": "admin",
@@ -518,7 +529,7 @@
       "expLevel": 70,
       "trophies": 0,
       "donations": 792,
-      "donationsReceived": 1910,
+      "donationsReceived": 1950,
       "capitalContributions": 0
     },
     {
@@ -539,8 +550,8 @@
       "th": 18,
       "expLevel": 241,
       "trophies": 0,
-      "donations": 2545,
-      "donationsReceived": 1095,
+      "donations": 2600,
+      "donationsReceived": 1150,
       "capitalContributions": 0
     }
   ]
