@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T06:58:26.312Z",
+  "generatedAt": "2026-10-30T19:53:40.307Z",
   "snapshotDate": "2026-10-30",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -234,40 +234,6 @@
       }
     },
     {
-      "tag": "#GCPGCRCPR",
-      "name": "TbSeikChan",
-      "role": "member",
-      "th": 15,
-      "firstSeen": "2026-10-16",
-      "daysPresent": 14,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 3,
-      "warsTotal": 31,
-      "clan": {
-        "total": 89.3,
-        "pillars": {
-          "donations": 100,
-          "raids": 100,
-          "loot": 57
-        },
-        "tier": "Legendary"
-      },
-      "war": {
-        "total": 65.1,
-        "status": null,
-        "cap": null,
-        "pillars": {
-          "reliability": 75,
-          "performance": 50
-        },
-        "available": 6,
-        "used": 5,
-        "misses": 1,
-        "tier": "Rare"
-      }
-    },
-    {
       "tag": "#GC28UJL8L",
       "name": "zaman777",
       "role": "member",
@@ -347,9 +313,9 @@
       "warsJoined": 6,
       "warsTotal": 31,
       "clan": {
-        "total": 85.2,
+        "total": 87.2,
         "pillars": {
-          "donations": 75,
+          "donations": 80,
           "raids": 100,
           "loot": 81
         },
@@ -367,6 +333,40 @@
         "used": 8,
         "misses": 2,
         "tier": "Rare"
+      }
+    },
+    {
+      "tag": "#R8GPLGRVQ",
+      "name": "LegitN00b98",
+      "role": "coLeader",
+      "th": 12,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 94,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 27,
+      "warsTotal": 31,
+      "clan": {
+        "total": 84,
+        "pillars": {
+          "donations": 85,
+          "raids": 100,
+          "loot": 61
+        },
+        "tier": "Epic"
+      },
+      "war": {
+        "total": 89.5,
+        "status": null,
+        "cap": null,
+        "pillars": {
+          "reliability": 100,
+          "performance": 74
+        },
+        "available": 10,
+        "used": 10,
+        "misses": 0,
+        "tier": "Legendary"
       }
     },
     {
@@ -503,40 +503,6 @@
         "used": 1,
         "misses": 9,
         "tier": "Common"
-      }
-    },
-    {
-      "tag": "#R8GPLGRVQ",
-      "name": "LegitN00b98",
-      "role": "coLeader",
-      "th": 12,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 94,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 27,
-      "warsTotal": 31,
-      "clan": {
-        "total": 78.5,
-        "pillars": {
-          "donations": 71,
-          "raids": 100,
-          "loot": 61
-        },
-        "tier": "Epic"
-      },
-      "war": {
-        "total": 89.5,
-        "status": null,
-        "cap": null,
-        "pillars": {
-          "reliability": 100,
-          "performance": 74
-        },
-        "available": 10,
-        "used": 10,
-        "misses": 0,
-        "tier": "Legendary"
       }
     },
     {
@@ -1532,7 +1498,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 0,
+          "donations": 6,
           "raids": 0,
           "loot": 0
         },
@@ -1631,9 +1597,42 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 34,
+          "donations": 100,
           "raids": 0,
           "loot": 0
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#9JV8R2QJC",
+      "name": "Shimanto",
+      "role": "member",
+      "th": 14,
+      "firstSeen": "2026-10-30",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 31,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
         },
         "tier": null
       },

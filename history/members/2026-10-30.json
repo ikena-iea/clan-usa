@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "capturedAt": "2026-10-30T06:58:25.747Z",
+  "capturedAt": "2026-10-30T19:53:39.631Z",
   "clanLevel": 9,
   "memberCount": 50,
   "members": [
@@ -21,9 +21,20 @@
       "role": "member",
       "th": 17,
       "expLevel": 271,
-      "trophies": 258,
+      "trophies": 549,
       "donations": 3908,
       "donationsReceived": 5546,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#GC28UJL8L",
+      "name": "zaman777",
+      "role": "member",
+      "th": 17,
+      "expLevel": 168,
+      "trophies": 206,
+      "donations": 535,
+      "donationsReceived": 1339,
       "capitalContributions": 0
     },
     {
@@ -35,17 +46,6 @@
       "trophies": 192,
       "donations": 545,
       "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GC28UJL8L",
-      "name": "zaman777",
-      "role": "member",
-      "th": 17,
-      "expLevel": 168,
-      "trophies": 178,
-      "donations": 535,
-      "donationsReceived": 1229,
       "capitalContributions": 0
     },
     {
@@ -76,8 +76,8 @@
       "role": "member",
       "th": 17,
       "expLevel": 217,
-      "trophies": 410,
-      "donations": 2926,
+      "trophies": 434,
+      "donations": 3026,
       "donationsReceived": 606,
       "capitalContributions": 0
     },
@@ -87,7 +87,7 @@
       "role": "admin",
       "th": 16,
       "expLevel": 178,
-      "trophies": 278,
+      "trophies": 298,
       "donations": 551,
       "donationsReceived": 1344,
       "capitalContributions": 0
@@ -110,7 +110,7 @@
       "th": 17,
       "expLevel": 220,
       "trophies": 403,
-      "donations": 360,
+      "donations": 402,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -119,7 +119,7 @@
       "name": "DROGBA",
       "role": "member",
       "th": 16,
-      "expLevel": 142,
+      "expLevel": 143,
       "trophies": 243,
       "donations": 2728,
       "donationsReceived": 1427,
@@ -142,8 +142,8 @@
       "role": "coLeader",
       "th": 14,
       "expLevel": 132,
-      "trophies": 401,
-      "donations": 2227,
+      "trophies": 415,
+      "donations": 2257,
       "donationsReceived": 2154,
       "capitalContributions": 0
     },
@@ -153,20 +153,9 @@
       "role": "admin",
       "th": 14,
       "expLevel": 123,
-      "trophies": 399,
+      "trophies": 415,
       "donations": 694,
       "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GCPGCRCPR",
-      "name": "TbSeikChan",
-      "role": "member",
-      "th": 15,
-      "expLevel": 130,
-      "trophies": 54,
-      "donations": 2989,
-      "donationsReceived": 2434,
       "capitalContributions": 0
     },
     {
@@ -177,7 +166,7 @@
       "expLevel": 161,
       "trophies": 0,
       "donations": 1045,
-      "donationsReceived": 1565,
+      "donationsReceived": 1615,
       "capitalContributions": 0
     },
     {
@@ -199,7 +188,7 @@
       "expLevel": 84,
       "trophies": 26,
       "donations": 3078,
-      "donationsReceived": 6553,
+      "donationsReceived": 6588,
       "capitalContributions": 0
     },
     {
@@ -240,8 +229,8 @@
       "name": "Dr.B00m",
       "role": "member",
       "th": 13,
-      "expLevel": 142,
-      "trophies": 273,
+      "expLevel": 143,
+      "trophies": 313,
       "donations": 389,
       "donationsReceived": 441,
       "capitalContributions": 0
@@ -264,7 +253,7 @@
       "th": 12,
       "expLevel": 97,
       "trophies": 0,
-      "donations": 283,
+      "donations": 338,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -276,7 +265,7 @@
       "expLevel": 113,
       "trophies": 285,
       "donations": 779,
-      "donationsReceived": 986,
+      "donationsReceived": 1028,
       "capitalContributions": 0
     },
     {
@@ -284,7 +273,7 @@
       "name": "cnt",
       "role": "member",
       "th": 13,
-      "expLevel": 109,
+      "expLevel": 110,
       "trophies": 45,
       "donations": 0,
       "donationsReceived": 0,
@@ -298,7 +287,7 @@
       "expLevel": 108,
       "trophies": 0,
       "donations": 160,
-      "donationsReceived": 325,
+      "donationsReceived": 396,
       "capitalContributions": 0
     },
     {
@@ -307,8 +296,8 @@
       "role": "member",
       "th": 12,
       "expLevel": 99,
-      "trophies": 87,
-      "donations": 51,
+      "trophies": 106,
+      "donations": 56,
       "donationsReceived": 67,
       "capitalContributions": 0
     },
@@ -340,7 +329,7 @@
       "role": "member",
       "th": 12,
       "expLevel": 111,
-      "trophies": 72,
+      "trophies": 100,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -363,7 +352,7 @@
       "th": 10,
       "expLevel": 61,
       "trophies": 285,
-      "donations": 254,
+      "donations": 274,
       "donationsReceived": 928,
       "capitalContributions": 0
     },
@@ -427,9 +416,9 @@
       "name": "mofateh",
       "role": "member",
       "th": 16,
-      "expLevel": 198,
+      "expLevel": 199,
       "trophies": 0,
-      "donations": 71,
+      "donations": 142,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -489,6 +478,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#9JV8R2QJC",
+      "name": "Shimanto",
+      "role": "member",
+      "th": 14,
+      "expLevel": 214,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#PPPVQY8LL",
       "name": "asessino",
       "role": "member",
@@ -526,10 +526,10 @@
       "name": "MDTanvir",
       "role": "admin",
       "th": 13,
-      "expLevel": 70,
+      "expLevel": 71,
       "trophies": 0,
       "donations": 794,
-      "donationsReceived": 2034,
+      "donationsReceived": 2124,
       "capitalContributions": 0
     },
     {
