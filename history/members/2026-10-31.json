@@ -1,6 +1,6 @@
 {
   "date": "2026-10-31",
-  "capturedAt": "2026-10-31T05:17:51.344Z",
+  "capturedAt": "2026-10-31T12:08:03.314Z",
   "clanLevel": 9,
   "memberCount": 50,
   "members": [
@@ -21,9 +21,9 @@
       "role": "member",
       "th": 17,
       "expLevel": 271,
-      "trophies": 549,
-      "donations": 3943,
-      "donationsReceived": 5634,
+      "trophies": 563,
+      "donations": 4001,
+      "donationsReceived": 5722,
       "capitalContributions": 0
     },
     {
@@ -33,8 +33,8 @@
       "th": 17,
       "expLevel": 168,
       "trophies": 206,
-      "donations": 535,
-      "donationsReceived": 1339,
+      "donations": 548,
+      "donationsReceived": 1397,
       "capitalContributions": 0
     },
     {
@@ -77,7 +77,7 @@
       "th": 17,
       "expLevel": 217,
       "trophies": 434,
-      "donations": 3062,
+      "donations": 3064,
       "donationsReceived": 606,
       "capitalContributions": 0
     },
@@ -87,7 +87,7 @@
       "role": "admin",
       "th": 16,
       "expLevel": 178,
-      "trophies": 298,
+      "trophies": 328,
       "donations": 551,
       "donationsReceived": 1344,
       "capitalContributions": 0
@@ -98,7 +98,7 @@
       "role": "coLeader",
       "th": 14,
       "expLevel": 132,
-      "trophies": 248,
+      "trophies": 261,
       "donations": 812,
       "donationsReceived": 48,
       "capitalContributions": 0
@@ -133,7 +133,7 @@
       "expLevel": 104,
       "trophies": 14,
       "donations": 0,
-      "donationsReceived": 0,
+      "donationsReceived": 42,
       "capitalContributions": 0
     },
     {
@@ -143,7 +143,7 @@
       "th": 14,
       "expLevel": 132,
       "trophies": 415,
-      "donations": 2295,
+      "donations": 2402,
       "donationsReceived": 2229,
       "capitalContributions": 0
     },
@@ -165,7 +165,7 @@
       "th": 15,
       "expLevel": 161,
       "trophies": 0,
-      "donations": 1045,
+      "donations": 1111,
       "donationsReceived": 1615,
       "capitalContributions": 0
     },
@@ -188,7 +188,7 @@
       "expLevel": 85,
       "trophies": 26,
       "donations": 3078,
-      "donationsReceived": 6654,
+      "donationsReceived": 6786,
       "capitalContributions": 0
     },
     {
@@ -230,9 +230,9 @@
       "role": "member",
       "th": 13,
       "expLevel": 143,
-      "trophies": 331,
-      "donations": 389,
-      "donationsReceived": 441,
+      "trophies": 517,
+      "donations": 429,
+      "donationsReceived": 518,
       "capitalContributions": 0
     },
     {
@@ -265,7 +265,7 @@
       "expLevel": 113,
       "trophies": 295,
       "donations": 779,
-      "donationsReceived": 1028,
+      "donationsReceived": 1030,
       "capitalContributions": 0
     },
     {
@@ -286,8 +286,8 @@
       "th": 13,
       "expLevel": 108,
       "trophies": 0,
-      "donations": 160,
-      "donationsReceived": 396,
+      "donations": 258,
+      "donationsReceived": 438,
       "capitalContributions": 0
     },
     {
@@ -353,7 +353,7 @@
       "expLevel": 61,
       "trophies": 285,
       "donations": 274,
-      "donationsReceived": 998,
+      "donationsReceived": 1063,
       "capitalContributions": 0
     },
     {
@@ -396,8 +396,8 @@
       "th": 18,
       "expLevel": 256,
       "trophies": 0,
-      "donations": 2909,
-      "donationsReceived": 1085,
+      "donations": 3062,
+      "donationsReceived": 1140,
       "capitalContributions": 0
     },
     {
@@ -528,8 +528,8 @@
       "th": 13,
       "expLevel": 71,
       "trophies": 0,
-      "donations": 794,
-      "donationsReceived": 2124,
+      "donations": 900,
+      "donationsReceived": 2206,
       "capitalContributions": 0
     },
     {
@@ -537,7 +537,7 @@
       "name": "-=PREDATOR=-",
       "role": "member",
       "th": 14,
-      "expLevel": 152,
+      "expLevel": 153,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 385,
@@ -548,7 +548,7 @@
       "name": "surje",
       "role": "admin",
       "th": 18,
-      "expLevel": 241,
+      "expLevel": 242,
       "trophies": 0,
       "donations": 2834,
       "donationsReceived": 1209,
