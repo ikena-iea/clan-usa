@@ -1,6 +1,6 @@
 {
   "date": "2026-10-31",
-  "capturedAt": "2026-10-31T12:08:03.314Z",
+  "capturedAt": "2026-10-31T17:37:17.181Z",
   "clanLevel": 9,
   "memberCount": 50,
   "members": [
@@ -27,6 +27,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#9Y8JCVPGL",
+      "name": ",,,",
+      "role": "admin",
+      "th": 18,
+      "expLevel": 202,
+      "trophies": 207,
+      "donations": 545,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#GC28UJL8L",
       "name": "zaman777",
       "role": "member",
@@ -35,17 +46,6 @@
       "trophies": 206,
       "donations": 548,
       "donationsReceived": 1397,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#9Y8JCVPGL",
-      "name": ",,,",
-      "role": "admin",
-      "th": 18,
-      "expLevel": 202,
-      "trophies": 192,
-      "donations": 545,
-      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -77,7 +77,7 @@
       "th": 17,
       "expLevel": 217,
       "trophies": 434,
-      "donations": 3064,
+      "donations": 3100,
       "donationsReceived": 606,
       "capitalContributions": 0
     },
@@ -98,7 +98,7 @@
       "role": "coLeader",
       "th": 14,
       "expLevel": 132,
-      "trophies": 261,
+      "trophies": 292,
       "donations": 812,
       "donationsReceived": 48,
       "capitalContributions": 0
@@ -121,7 +121,7 @@
       "th": 16,
       "expLevel": 143,
       "trophies": 243,
-      "donations": 2728,
+      "donations": 2841,
       "donationsReceived": 1623,
       "capitalContributions": 0
     },
@@ -131,9 +131,20 @@
       "role": "member",
       "th": 17,
       "expLevel": 104,
-      "trophies": 14,
+      "trophies": 23,
       "donations": 0,
       "donationsReceived": 42,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#GGRR02GLG",
+      "name": "jude",
+      "role": "admin",
+      "th": 14,
+      "expLevel": 124,
+      "trophies": 434,
+      "donations": 694,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -144,18 +155,7 @@
       "expLevel": 132,
       "trophies": 415,
       "donations": 2402,
-      "donationsReceived": 2229,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GGRR02GLG",
-      "name": "jude",
-      "role": "admin",
-      "th": 14,
-      "expLevel": 123,
-      "trophies": 415,
-      "donations": 694,
-      "donationsReceived": 0,
+      "donationsReceived": 2276,
       "capitalContributions": 0
     },
     {
@@ -166,7 +166,7 @@
       "expLevel": 161,
       "trophies": 0,
       "donations": 1111,
-      "donationsReceived": 1615,
+      "donationsReceived": 1668,
       "capitalContributions": 0
     },
     {
@@ -274,7 +274,7 @@
       "role": "member",
       "th": 13,
       "expLevel": 110,
-      "trophies": 45,
+      "trophies": 85,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -286,8 +286,8 @@
       "th": 13,
       "expLevel": 108,
       "trophies": 0,
-      "donations": 258,
-      "donationsReceived": 438,
+      "donations": 311,
+      "donationsReceived": 468,
       "capitalContributions": 0
     },
     {
@@ -296,8 +296,8 @@
       "role": "member",
       "th": 12,
       "expLevel": 99,
-      "trophies": 106,
-      "donations": 56,
+      "trophies": 123,
+      "donations": 96,
       "donationsReceived": 67,
       "capitalContributions": 0
     },
@@ -353,7 +353,7 @@
       "expLevel": 61,
       "trophies": 285,
       "donations": 274,
-      "donationsReceived": 1063,
+      "donationsReceived": 1064,
       "capitalContributions": 0
     },
     {
@@ -364,7 +364,7 @@
       "expLevel": 222,
       "trophies": 0,
       "donations": 625,
-      "donationsReceived": 1477,
+      "donationsReceived": 1643,
       "capitalContributions": 0
     },
     {
@@ -441,7 +441,7 @@
       "expLevel": 103,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 648,
+      "donationsReceived": 688,
       "capitalContributions": 0
     },
     {
@@ -449,7 +449,7 @@
       "name": "Lakers",
       "role": "coLeader",
       "th": 13,
-      "expLevel": 96,
+      "expLevel": 97,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -550,7 +550,7 @@
       "th": 18,
       "expLevel": 242,
       "trophies": 0,
-      "donations": 2834,
+      "donations": 2929,
       "donationsReceived": 1209,
       "capitalContributions": 0
     }
