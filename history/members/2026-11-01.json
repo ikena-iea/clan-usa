@@ -1,8 +1,8 @@
 {
   "date": "2026-11-01",
-  "capturedAt": "2026-11-01T14:56:22.968Z",
+  "capturedAt": "2026-11-01T19:30:15.251Z",
   "clanLevel": 9,
-  "memberCount": 49,
+  "memberCount": 50,
   "members": [
     {
       "tag": "#QUV9Q9VC",
@@ -126,6 +126,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GYVPLJRRL",
+      "name": "DaHairyVeer2",
+      "role": "coLeader",
+      "th": 14,
+      "expLevel": 132,
+      "trophies": 439,
+      "donations": 2497,
+      "donationsReceived": 2276,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#GGRR02GLG",
       "name": "jude",
       "role": "admin",
@@ -134,17 +145,6 @@
       "trophies": 434,
       "donations": 694,
       "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GYVPLJRRL",
-      "name": "DaHairyVeer2",
-      "role": "coLeader",
-      "th": 14,
-      "expLevel": 132,
-      "trophies": 415,
-      "donations": 2497,
-      "donationsReceived": 2276,
       "capitalContributions": 0
     },
     {
@@ -174,8 +174,8 @@
       "name": "HongSar",
       "role": "member",
       "th": 15,
-      "expLevel": 85,
-      "trophies": 26,
+      "expLevel": 86,
+      "trophies": 30,
       "donations": 3078,
       "donationsReceived": 6888,
       "capitalContributions": 0
@@ -219,7 +219,7 @@
       "role": "member",
       "th": 13,
       "expLevel": 144,
-      "trophies": 517,
+      "trophies": 533,
       "donations": 484,
       "donationsReceived": 595,
       "capitalContributions": 0
@@ -275,6 +275,17 @@
       "th": 13,
       "expLevel": 110,
       "trophies": 106,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#20YVV9Q99",
+      "name": "CupOfJoe",
+      "role": "member",
+      "th": 13,
+      "expLevel": 169,
+      "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0

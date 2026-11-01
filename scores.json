@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T14:56:23.646Z",
+  "generatedAt": "2026-11-01T19:30:15.799Z",
   "snapshotDate": "2026-11-01",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1480,6 +1480,39 @@
         },
         "available": 6,
         "used": 6,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#20YVV9Q99",
+      "name": "CupOfJoe",
+      "role": "member",
+      "th": 13,
+      "firstSeen": "2026-11-01",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 32,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
         "misses": 0,
         "tier": null
       }
