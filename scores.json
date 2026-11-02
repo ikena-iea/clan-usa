@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T15:31:57.962Z",
+  "generatedAt": "2026-11-02T23:24:44.087Z",
   "snapshotDate": "2026-11-02",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1149,40 +1149,6 @@
       }
     },
     {
-      "tag": "#GPQCCCP9J",
-      "name": "JD",
-      "role": "member",
-      "th": 12,
-      "firstSeen": "2026-10-05",
-      "daysPresent": 28,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 3,
-      "warsTotal": 32,
-      "clan": {
-        "total": 9.9,
-        "pillars": {
-          "donations": 25,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": "Common"
-      },
-      "war": {
-        "total": 12.5,
-        "status": null,
-        "cap": "Uncommon",
-        "pillars": {
-          "reliability": 13,
-          "performance": null
-        },
-        "available": 6,
-        "used": 0,
-        "misses": 6,
-        "tier": "Common"
-      }
-    },
-    {
       "tag": "#R8PJY0U0J",
       "name": "Didetz",
       "role": "leader",
@@ -1354,7 +1320,7 @@
       "tag": "#2PQLQG9RU",
       "name": "stranger08",
       "role": "member",
-      "th": 13,
+      "th": 14,
       "firstSeen": "2026-11-01",
       "daysPresent": 1,
       "inGrace": true,
@@ -1485,14 +1451,14 @@
       }
     },
     {
-      "tag": "#QVC0LLJGC",
-      "name": "mais Fw fgc",
+      "tag": "#GVR9JY0VU",
+      "name": "Lion",
       "role": "member",
       "th": 12,
-      "firstSeen": "2026-10-27",
-      "daysPresent": 6,
+      "firstSeen": "2026-11-02",
+      "daysPresent": 1,
       "inGrace": true,
-      "gracePeriodEndsIn": 8,
+      "gracePeriodEndsIn": 13,
       "warsJoined": 0,
       "warsTotal": 32,
       "clan": {
@@ -1592,39 +1558,6 @@
       "daysPresent": 3,
       "inGrace": true,
       "gracePeriodEndsIn": 11,
-      "warsJoined": 0,
-      "warsTotal": 32,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#PPPVQY8LL",
-      "name": "asessino",
-      "role": "member",
-      "th": 12,
-      "firstSeen": "2026-10-27",
-      "daysPresent": 6,
-      "inGrace": true,
-      "gracePeriodEndsIn": 8,
       "warsJoined": 0,
       "warsTotal": 32,
       "clan": {
