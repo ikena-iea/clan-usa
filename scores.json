@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T06:26:10.500Z",
+  "generatedAt": "2026-11-03T14:58:25.778Z",
   "snapshotDate": "2026-11-03",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -913,40 +913,6 @@
       }
     },
     {
-      "tag": "#GVCC8LY9Y",
-      "name": "MDTanvir",
-      "role": "admin",
-      "th": 13,
-      "firstSeen": "2026-09-05",
-      "daysPresent": 59,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 8,
-      "warsTotal": 32,
-      "clan": {
-        "total": 40,
-        "pillars": {
-          "donations": 100,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": "Uncommon"
-      },
-      "war": {
-        "total": 74.8,
-        "status": null,
-        "cap": null,
-        "pillars": {
-          "reliability": 90,
-          "performance": 52
-        },
-        "available": 10,
-        "used": 9,
-        "misses": 1,
-        "tier": "Epic"
-      }
-    },
-    {
       "tag": "#LJLLP2GR8",
       "name": "surje",
       "role": "admin",
@@ -1530,7 +1496,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 67,
+          "donations": 100,
           "raids": 0,
           "loot": 0
         },
