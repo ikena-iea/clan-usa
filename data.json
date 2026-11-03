@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-11-01",
-  "fetchedAt": "2026-11-03T14:58:23.612Z",
+  "fetchedAt": "2026-11-03T20:54:46.257Z",
   "totalRounds": 7,
   "rounds": [
     {
@@ -10,10 +10,10 @@
       "teamSize": 30,
       "opponent": "The Joes",
       "opponentTag": "#2CJP80982",
-      "ourStars": 63,
-      "theirStars": 22,
-      "ourDestruction": 71.43333333333334,
-      "theirDestruction": 30.6,
+      "ourStars": 75,
+      "theirStars": 25,
+      "ourDestruction": 84.76666666666667,
+      "theirDestruction": 33.93333333333333,
       "endTime": "20261103T235817.000Z"
     },
     {
@@ -74,13 +74,13 @@
       "name": "THE ROCK",
       "tag": "#QLV80QQCY",
       "ath": 15,
-      "dth": null,
+      "dth": 13,
       "amap": 14,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 14,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 1,
@@ -100,26 +100,26 @@
       "name": "Checheng.",
       "tag": "#8YCVGRC08",
       "ath": 17,
-      "dth": null,
+      "dth": 15,
       "amap": 4,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 4,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 1,
       "name": "Kickass",
       "tag": "#28UUJQGVC",
       "ath": 17,
-      "dth": null,
+      "dth": 13,
       "amap": 8,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 8,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 1,
@@ -178,13 +178,13 @@
       "name": "JoAaKeR",
       "tag": "#YJCYRGRU",
       "ath": 18,
-      "dth": null,
+      "dth": 14,
       "amap": 5,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 5,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 1,
