@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T08:56:16.398Z",
+  "generatedAt": "2026-11-04T17:03:17.708Z",
   "snapshotDate": "2026-11-04",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -370,6 +370,40 @@
       }
     },
     {
+      "tag": "#R8GPLGRVQ",
+      "name": "LegitN00b98",
+      "role": "coLeader",
+      "th": 12,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 99,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 29,
+      "warsTotal": 33,
+      "clan": {
+        "total": 87.4,
+        "pillars": {
+          "donations": 93,
+          "raids": 100,
+          "loot": 60
+        },
+        "tier": "Legendary"
+      },
+      "war": {
+        "total": 89.5,
+        "status": null,
+        "cap": null,
+        "pillars": {
+          "reliability": 100,
+          "performance": 74
+        },
+        "available": 10,
+        "used": 10,
+        "misses": 0,
+        "tier": "Legendary"
+      }
+    },
+    {
       "tag": "#CVLPRGYY",
       "name": "Schlitz",
       "role": "admin",
@@ -537,40 +571,6 @@
         "used": 8,
         "misses": 2,
         "tier": "Rare"
-      }
-    },
-    {
-      "tag": "#R8GPLGRVQ",
-      "name": "LegitN00b98",
-      "role": "coLeader",
-      "th": 12,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 99,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 29,
-      "warsTotal": 33,
-      "clan": {
-        "total": 83.9,
-        "pillars": {
-          "donations": 85,
-          "raids": 100,
-          "loot": 60
-        },
-        "tier": "Epic"
-      },
-      "war": {
-        "total": 89.5,
-        "status": null,
-        "cap": null,
-        "pillars": {
-          "reliability": 100,
-          "performance": 74
-        },
-        "available": 10,
-        "used": 10,
-        "misses": 0,
-        "tier": "Legendary"
       }
     },
     {
@@ -879,6 +879,40 @@
       }
     },
     {
+      "tag": "#LCVCL0LU0",
+      "name": "Limeranch",
+      "role": "coLeader",
+      "th": 18,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 99,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 20,
+      "warsTotal": 33,
+      "clan": {
+        "total": 40,
+        "pillars": {
+          "donations": 100,
+          "raids": 0,
+          "loot": 0
+        },
+        "tier": "Uncommon"
+      },
+      "war": {
+        "total": 68.4,
+        "status": null,
+        "cap": "Rare",
+        "pillars": {
+          "reliability": 90,
+          "performance": 36
+        },
+        "available": 10,
+        "used": 9,
+        "misses": 1,
+        "tier": "Rare"
+      }
+    },
+    {
       "tag": "#YJCYRGRU",
       "name": "JoAaKeR",
       "role": "member",
@@ -1010,40 +1044,6 @@
         "used": 0,
         "misses": 0,
         "tier": null
-      }
-    },
-    {
-      "tag": "#LCVCL0LU0",
-      "name": "Limeranch",
-      "role": "coLeader",
-      "th": 18,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 99,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 20,
-      "warsTotal": 33,
-      "clan": {
-        "total": 36.5,
-        "pillars": {
-          "donations": 91,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": "Common"
-      },
-      "war": {
-        "total": 68.4,
-        "status": null,
-        "cap": "Rare",
-        "pillars": {
-          "reliability": 90,
-          "performance": 36
-        },
-        "available": 10,
-        "used": 9,
-        "misses": 1,
-        "tier": "Rare"
       }
     },
     {

@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-11-01",
-  "fetchedAt": "2026-11-04T08:56:13.701Z",
+  "fetchedAt": "2026-11-04T17:03:12.586Z",
   "totalRounds": 7,
   "rounds": [
     {
@@ -22,10 +22,10 @@
       "teamSize": 30,
       "opponent": "PUROS 502",
       "opponentTag": "#2Y8C8YY9Q",
-      "ourStars": 50,
-      "theirStars": 14,
-      "ourDestruction": 55.833333333333336,
-      "theirDestruction": 18.733333333333334,
+      "ourStars": 71,
+      "theirStars": 16,
+      "ourDestruction": 79.16666666666667,
+      "theirDestruction": 22.533333333333335,
       "endTime": "20261105T002606.000Z"
     },
     {
@@ -450,13 +450,13 @@
       "name": "Limeranch",
       "tag": "#LCVCL0LU0",
       "ath": 18,
-      "dth": null,
+      "dth": 10,
       "amap": 9,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 15,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 2,
@@ -502,39 +502,39 @@
       "name": "stranger08",
       "tag": "#2PQLQG9RU",
       "ath": 14,
-      "dth": null,
+      "dth": 8,
       "amap": 18,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 18,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 2,
       "name": "Checheng.",
       "tag": "#8YCVGRC08",
       "ath": 17,
-      "dth": null,
+      "dth": 17,
       "amap": 4,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 4,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 2,
       "name": "Kickass",
       "tag": "#28UUJQGVC",
       "ath": 17,
-      "dth": null,
+      "dth": 14,
       "amap": 7,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 7,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 2,
@@ -580,13 +580,13 @@
       "name": "JoAaKeR",
       "tag": "#YJCYRGRU",
       "ath": 18,
-      "dth": null,
+      "dth": 15,
       "amap": 5,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 5,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 2,
@@ -645,13 +645,13 @@
       "name": "Schlitz",
       "tag": "#CVLPRGYY",
       "ath": 15,
-      "dth": null,
+      "dth": 12,
       "amap": 12,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 12,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 2,
@@ -723,13 +723,13 @@
       "name": "Dr.B00m",
       "tag": "#2299L899V",
       "ath": 13,
-      "dth": null,
+      "dth": 8,
       "amap": 20,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 20,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 2,
