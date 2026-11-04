@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T01:12:02.757Z",
+  "generatedAt": "2026-11-04T08:56:16.398Z",
   "snapshotDate": "2026-11-04",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -449,13 +449,13 @@
       "warsJoined": 6,
       "warsTotal": 33,
       "clan": {
-        "total": 84.9,
+        "total": 85,
         "pillars": {
           "donations": 78,
           "raids": 88,
           "loot": 93
         },
-        "tier": "Epic"
+        "tier": "Legendary"
       },
       "war": {
         "total": 77.1,
@@ -1417,6 +1417,39 @@
       }
     },
     {
+      "tag": "#Y9P09C9LR",
+      "name": "thenerve",
+      "role": "member",
+      "th": 13,
+      "firstSeen": "2026-11-04",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 33,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#GVR9JY0VU",
       "name": "Lion",
       "role": "member",
@@ -1486,7 +1519,7 @@
       "tag": "#L0RL88QUU",
       "name": "mofateh",
       "role": "member",
-      "th": 16,
+      "th": 17,
       "firstSeen": "2026-10-22",
       "daysPresent": 13,
       "inGrace": true,
@@ -1511,6 +1544,39 @@
         },
         "available": 1,
         "used": 1,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#9LVVLCYQC",
+      "name": "Shapoor H",
+      "role": "member",
+      "th": 14,
+      "firstSeen": "2026-11-04",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 33,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
         "misses": 0,
         "tier": null
       }

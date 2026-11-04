@@ -1,8 +1,8 @@
 {
   "date": "2026-11-04",
-  "capturedAt": "2026-11-04T01:11:59.935Z",
+  "capturedAt": "2026-11-04T08:56:14.000Z",
   "clanLevel": 9,
-  "memberCount": 48,
+  "memberCount": 50,
   "members": [
     {
       "tag": "#QUV9Q9VC",
@@ -22,8 +22,8 @@
       "th": 17,
       "expLevel": 271,
       "trophies": 0,
-      "donations": 100,
-      "donationsReceived": 196,
+      "donations": 103,
+      "donationsReceived": 226,
       "capitalContributions": 0
     },
     {
@@ -42,10 +42,10 @@
       "name": "zaman777",
       "role": "member",
       "th": 17,
-      "expLevel": 168,
-      "trophies": 42,
+      "expLevel": 169,
+      "trophies": 82,
       "donations": 1,
-      "donationsReceived": 188,
+      "donationsReceived": 191,
       "capitalContributions": 0
     },
     {
@@ -55,7 +55,7 @@
       "th": 17,
       "expLevel": 217,
       "trophies": 77,
-      "donations": 259,
+      "donations": 284,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -87,7 +87,7 @@
       "role": "coLeader",
       "th": 14,
       "expLevel": 133,
-      "trophies": 13,
+      "trophies": 16,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -110,8 +110,8 @@
       "th": 14,
       "expLevel": 133,
       "trophies": 330,
-      "donations": 316,
-      "donationsReceived": 124,
+      "donations": 369,
+      "donationsReceived": 125,
       "capitalContributions": 0
     },
     {
@@ -152,10 +152,21 @@
       "name": "HongSar",
       "role": "member",
       "th": 15,
-      "expLevel": 86,
+      "expLevel": 87,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 147,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#P02U2U9GC",
+      "name": "Diego",
+      "role": "admin",
+      "th": 13,
+      "expLevel": 155,
+      "trophies": 364,
+      "donations": 55,
+      "donationsReceived": 94,
       "capitalContributions": 0
     },
     {
@@ -167,17 +178,6 @@
       "trophies": 94,
       "donations": 0,
       "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#P02U2U9GC",
-      "name": "Diego",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 155,
-      "trophies": 57,
-      "donations": 55,
-      "donationsReceived": 47,
       "capitalContributions": 0
     },
     {
@@ -220,7 +220,7 @@
       "th": 13,
       "expLevel": 114,
       "trophies": 443,
-      "donations": 53,
+      "donations": 100,
       "donationsReceived": 257,
       "capitalContributions": 0
     },
@@ -241,7 +241,7 @@
       "role": "coLeader",
       "th": 12,
       "expLevel": 97,
-      "trophies": 48,
+      "trophies": 63,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -280,12 +280,23 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#Y9P09C9LR",
+      "name": "thenerve",
+      "role": "member",
+      "th": 13,
+      "expLevel": 112,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#GLUJVJGGV",
       "name": "allis",
       "role": "admin",
       "th": 11,
       "expLevel": 97,
-      "trophies": 0,
+      "trophies": 29,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -331,7 +342,7 @@
       "expLevel": 222,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 53,
+      "donationsReceived": 106,
       "capitalContributions": 0
     },
     {
@@ -382,10 +393,10 @@
       "tag": "#L0RL88QUU",
       "name": "mofateh",
       "role": "member",
-      "th": 16,
+      "th": 17,
       "expLevel": 199,
       "trophies": 0,
-      "donations": 167,
+      "donations": 172,
       "donationsReceived": 113,
       "capitalContributions": 0
     },
@@ -406,6 +417,17 @@
       "role": "member",
       "th": 12,
       "expLevel": 103,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#9LVVLCYQC",
+      "name": "Shapoor H",
+      "role": "member",
+      "th": 14,
+      "expLevel": 200,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -462,7 +484,7 @@
       "th": 18,
       "expLevel": 254,
       "trophies": 0,
-      "donations": 26,
+      "donations": 27,
       "donationsReceived": 0,
       "capitalContributions": 0
     },

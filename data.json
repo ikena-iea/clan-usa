@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-11-01",
-  "fetchedAt": "2026-11-04T01:11:59.610Z",
+  "fetchedAt": "2026-11-04T08:56:13.701Z",
   "totalRounds": 7,
   "rounds": [
     {
@@ -22,11 +22,11 @@
       "teamSize": 30,
       "opponent": "PUROS 502",
       "opponentTag": "#2Y8C8YY9Q",
-      "ourStars": 17,
-      "theirStars": 4,
-      "ourDestruction": 19.166666666666668,
-      "theirDestruction": 5.633333333333334,
-      "endTime": "20261105T000103.000Z"
+      "ourStars": 50,
+      "theirStars": 14,
+      "ourDestruction": 55.833333333333336,
+      "theirDestruction": 18.733333333333334,
+      "endTime": "20261105T002606.000Z"
     },
     {
       "round": 3,
@@ -38,7 +38,7 @@
       "theirStars": 0,
       "ourDestruction": 0,
       "theirDestruction": 0,
-      "endTime": "20261106T001121.000Z"
+      "endTime": "20261106T003655.000Z"
     }
   ],
   "attacks": [
@@ -437,13 +437,13 @@
       "name": "FHM",
       "tag": "#RYLL90GG",
       "ath": 15,
-      "dth": null,
+      "dth": 12,
       "amap": 11,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 11,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 2,
@@ -476,13 +476,13 @@
       "name": "THE ROCK",
       "tag": "#QLV80QQCY",
       "ath": 15,
-      "dth": null,
+      "dth": 11,
       "amap": 13,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 13,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 2,
@@ -593,13 +593,13 @@
       "name": "lucky",
       "tag": "#GYC8Q2R20",
       "ath": 13,
-      "dth": null,
+      "dth": 8,
       "amap": 26,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 26,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 2,
@@ -658,39 +658,39 @@
       "name": "L Lawliet",
       "tag": "#QUV9Q9VC",
       "ath": 18,
-      "dth": null,
+      "dth": 17,
       "amap": 3,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 3,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 2,
       "name": "zaman777",
       "tag": "#GC28UJL8L",
       "ath": 17,
-      "dth": null,
+      "dth": 15,
       "amap": 6,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 6,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 2,
       "name": "immortal soul",
       "tag": "#8R2GYC09J",
       "ath": 14,
-      "dth": null,
+      "dth": 9,
       "amap": 16,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 16,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 2,
@@ -736,13 +736,13 @@
       "name": "Diego",
       "tag": "#P02U2U9GC",
       "ath": 13,
-      "dth": null,
+      "dth": 8,
       "amap": 19,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 19,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 2,
@@ -775,52 +775,52 @@
       "name": "Sekhon",
       "tag": "#2L2LGVR0Y",
       "ath": 18,
-      "dth": null,
+      "dth": 18,
       "amap": 1,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 1,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 2,
       "name": "LegitN00b98",
       "tag": "#R8GPLGRVQ",
       "ath": 12,
-      "dth": null,
+      "dth": 7,
       "amap": 29,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 29,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 2,
       "name": "Toslim",
       "tag": "#GRGL2UUUJ",
       "ath": 13,
-      "dth": null,
+      "dth": 7,
       "amap": 24,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 24,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 2,
       "name": "jude",
       "tag": "#GGRR02GLG",
       "ath": 14,
-      "dth": null,
+      "dth": 12,
       "amap": 15,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 9,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     }
   ]
 }
