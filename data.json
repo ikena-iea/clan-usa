@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-11-01",
-  "fetchedAt": "2026-11-04T17:03:12.586Z",
+  "fetchedAt": "2026-11-04T23:31:42.053Z",
   "totalRounds": 7,
   "rounds": [
     {
@@ -22,10 +22,10 @@
       "teamSize": 30,
       "opponent": "PUROS 502",
       "opponentTag": "#2Y8C8YY9Q",
-      "ourStars": 71,
-      "theirStars": 16,
-      "ourDestruction": 79.16666666666667,
-      "theirDestruction": 22.533333333333335,
+      "ourStars": 74,
+      "theirStars": 20,
+      "ourDestruction": 82.5,
+      "theirDestruction": 28.433333333333334,
       "endTime": "20261105T002606.000Z"
     },
     {
@@ -606,13 +606,13 @@
       "name": "Ikena",
       "tag": "#R292L228Q",
       "ath": 14,
-      "dth": null,
+      "dth": 11,
       "amap": 14,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 14,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 2,

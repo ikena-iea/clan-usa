@@ -1,6 +1,6 @@
 {
   "date": "2026-11-04",
-  "capturedAt": "2026-11-04T17:03:13.049Z",
+  "capturedAt": "2026-11-04T23:31:42.501Z",
   "clanLevel": 9,
   "memberCount": 50,
   "members": [
@@ -32,7 +32,7 @@
       "role": "admin",
       "th": 18,
       "expLevel": 203,
-      "trophies": 193,
+      "trophies": 244,
       "donations": 235,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -45,7 +45,7 @@
       "expLevel": 169,
       "trophies": 82,
       "donations": 1,
-      "donationsReceived": 191,
+      "donationsReceived": 246,
       "capitalContributions": 0
     },
     {
@@ -54,8 +54,8 @@
       "role": "member",
       "th": 17,
       "expLevel": 217,
-      "trophies": 106,
-      "donations": 337,
+      "trophies": 181,
+      "donations": 375,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -66,7 +66,7 @@
       "th": 17,
       "expLevel": 218,
       "trophies": 0,
-      "donations": 15,
+      "donations": 16,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -76,9 +76,9 @@
       "role": "admin",
       "th": 16,
       "expLevel": 178,
-      "trophies": 66,
+      "trophies": 196,
       "donations": 0,
-      "donationsReceived": 249,
+      "donationsReceived": 352,
       "capitalContributions": 0
     },
     {
@@ -88,7 +88,7 @@
       "th": 14,
       "expLevel": 133,
       "trophies": 16,
-      "donations": 0,
+      "donations": 1,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -97,9 +97,9 @@
       "name": "DROGBA",
       "role": "member",
       "th": 16,
-      "expLevel": 143,
+      "expLevel": 144,
       "trophies": 398,
-      "donations": 503,
+      "donations": 550,
       "donationsReceived": 226,
       "capitalContributions": 0
     },
@@ -111,7 +111,7 @@
       "expLevel": 133,
       "trophies": 330,
       "donations": 381,
-      "donationsReceived": 203,
+      "donationsReceived": 250,
       "capitalContributions": 0
     },
     {
@@ -131,8 +131,8 @@
       "role": "admin",
       "th": 15,
       "expLevel": 162,
-      "trophies": 109,
-      "donations": 4,
+      "trophies": 136,
+      "donations": 12,
       "donationsReceived": 365,
       "capitalContributions": 0
     },
@@ -154,7 +154,7 @@
       "th": 15,
       "expLevel": 87,
       "trophies": 0,
-      "donations": 0,
+      "donations": 55,
       "donationsReceived": 248,
       "capitalContributions": 0
     },
@@ -166,7 +166,7 @@
       "expLevel": 155,
       "trophies": 364,
       "donations": 55,
-      "donationsReceived": 94,
+      "donationsReceived": 141,
       "capitalContributions": 0
     },
     {
@@ -219,7 +219,7 @@
       "role": "member",
       "th": 13,
       "expLevel": 114,
-      "trophies": 470,
+      "trophies": 497,
       "donations": 166,
       "donationsReceived": 257,
       "capitalContributions": 0
@@ -229,8 +229,8 @@
       "name": "thegodlynoob",
       "role": "admin",
       "th": 13,
-      "expLevel": 104,
-      "trophies": 404,
+      "expLevel": 105,
+      "trophies": 419,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -251,9 +251,9 @@
       "name": "CupOfJoe",
       "role": "member",
       "th": 13,
-      "expLevel": 170,
+      "expLevel": 171,
       "trophies": 353,
-      "donations": 403,
+      "donations": 404,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -263,7 +263,7 @@
       "role": "member",
       "th": 13,
       "expLevel": 112,
-      "trophies": 4,
+      "trophies": 33,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -286,7 +286,7 @@
       "th": 13,
       "expLevel": 108,
       "trophies": 0,
-      "donations": 0,
+      "donations": 101,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -305,7 +305,7 @@
       "tag": "#GVR9JY0VU",
       "name": "Lion",
       "role": "member",
-      "th": 12,
+      "th": 13,
       "expLevel": 91,
       "trophies": 221,
       "donations": 0,
