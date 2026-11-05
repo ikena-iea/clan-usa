@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-11-01",
-  "fetchedAt": "2026-11-05T15:21:11.742Z",
+  "fetchedAt": "2026-11-05T21:54:00.664Z",
   "totalRounds": 7,
   "rounds": [
     {
@@ -34,10 +34,10 @@
       "teamSize": 30,
       "opponent": "GOLU KI SENA",
       "opponentTag": "#2RV9QJ0LP",
-      "ourStars": 51,
-      "theirStars": 27,
-      "ourDestruction": 56.666666666666664,
-      "theirDestruction": 40,
+      "ourStars": 72,
+      "theirStars": 30,
+      "ourDestruction": 80,
+      "theirDestruction": 43.333333333333336,
       "endTime": "20261106T003655.000Z"
     },
     {
@@ -839,13 +839,13 @@
       "name": "FHM",
       "tag": "#RYLL90GG",
       "ath": 15,
-      "dth": null,
+      "dth": 12,
       "amap": 11,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 11,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
@@ -904,13 +904,13 @@
       "name": "stranger08",
       "tag": "#2PQLQG9RU",
       "ath": 14,
-      "dth": null,
+      "dth": 11,
       "amap": 18,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 18,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
@@ -930,26 +930,26 @@
       "name": "Kickass",
       "tag": "#28UUJQGVC",
       "ath": 17,
-      "dth": null,
+      "dth": 13,
       "amap": 7,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 7,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
       "name": "thegodlynoob",
       "tag": "#PJ22QYY22",
       "ath": 13,
-      "dth": null,
+      "dth": 10,
       "amap": 25,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 25,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
@@ -1008,13 +1008,13 @@
       "name": "Ikena",
       "tag": "#R292L228Q",
       "ath": 14,
-      "dth": null,
+      "dth": 12,
       "amap": 14,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 14,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
@@ -1073,13 +1073,13 @@
       "name": "zaman777",
       "tag": "#GC28UJL8L",
       "ath": 17,
-      "dth": null,
+      "dth": 13,
       "amap": 6,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 6,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
@@ -1177,13 +1177,13 @@
       "name": "Sekhon",
       "tag": "#2L2LGVR0Y",
       "ath": 18,
-      "dth": null,
+      "dth": 15,
       "amap": 1,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 1,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,

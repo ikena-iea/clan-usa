@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T15:21:16.382Z",
+  "generatedAt": "2026-11-05T21:54:04.006Z",
   "snapshotDate": "2026-11-05",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -979,6 +979,40 @@
       }
     },
     {
+      "tag": "#LCVCL0LU0",
+      "name": "Limeranch",
+      "role": "coLeader",
+      "th": 18,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 100,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 21,
+      "warsTotal": 34,
+      "clan": {
+        "total": 38.7,
+        "pillars": {
+          "donations": 97,
+          "raids": 0,
+          "loot": 0
+        },
+        "tier": "Common"
+      },
+      "war": {
+        "total": 68.4,
+        "status": null,
+        "cap": "Rare",
+        "pillars": {
+          "reliability": 90,
+          "performance": 36
+        },
+        "available": 10,
+        "used": 9,
+        "misses": 1,
+        "tier": "Rare"
+      }
+    },
+    {
       "tag": "#GGJY8JJQ0",
       "name": "Hazkie",
       "role": "admin",
@@ -1043,40 +1077,6 @@
         "used": 0,
         "misses": 0,
         "tier": null
-      }
-    },
-    {
-      "tag": "#LCVCL0LU0",
-      "name": "Limeranch",
-      "role": "coLeader",
-      "th": 18,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 100,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 21,
-      "warsTotal": 34,
-      "clan": {
-        "total": 33.4,
-        "pillars": {
-          "donations": 84,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": "Common"
-      },
-      "war": {
-        "total": 68.4,
-        "status": null,
-        "cap": "Rare",
-        "pillars": {
-          "reliability": 90,
-          "performance": 36
-        },
-        "available": 10,
-        "used": 9,
-        "misses": 1,
-        "tier": "Rare"
       }
     },
     {
