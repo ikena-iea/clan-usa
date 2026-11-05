@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-11-01",
-  "fetchedAt": "2026-11-05T06:23:36.281Z",
+  "fetchedAt": "2026-11-05T15:21:11.742Z",
   "totalRounds": 7,
   "rounds": [
     {
@@ -34,10 +34,10 @@
       "teamSize": 30,
       "opponent": "GOLU KI SENA",
       "opponentTag": "#2RV9QJ0LP",
-      "ourStars": 33,
-      "theirStars": 23,
-      "ourDestruction": 36.666666666666664,
-      "theirDestruction": 32.56666666666667,
+      "ourStars": 51,
+      "theirStars": 27,
+      "ourDestruction": 56.666666666666664,
+      "theirDestruction": 40,
       "endTime": "20261106T003655.000Z"
     },
     {
@@ -852,13 +852,13 @@
       "name": "Limeranch",
       "tag": "#LCVCL0LU0",
       "ath": 18,
-      "dth": null,
+      "dth": 12,
       "amap": 9,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 9,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
@@ -878,13 +878,13 @@
       "name": "THE ROCK",
       "tag": "#QLV80QQCY",
       "ath": 15,
-      "dth": null,
+      "dth": 11,
       "amap": 13,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 13,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
@@ -917,13 +917,13 @@
       "name": "Checheng.",
       "tag": "#8YCVGRC08",
       "ath": 17,
-      "dth": null,
+      "dth": 14,
       "amap": 4,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 4,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
@@ -1047,26 +1047,26 @@
       "name": "Schlitz",
       "tag": "#CVLPRGYY",
       "ath": 15,
-      "dth": null,
+      "dth": 11,
       "amap": 12,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 12,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
       "name": "L Lawliet",
       "tag": "#QUV9Q9VC",
       "ath": 18,
-      "dth": null,
+      "dth": 14,
       "amap": 3,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 3,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
@@ -1203,13 +1203,13 @@
       "name": "Toslim",
       "tag": "#GRGL2UUUJ",
       "ath": 13,
-      "dth": null,
+      "dth": 11,
       "amap": 24,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 24,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
