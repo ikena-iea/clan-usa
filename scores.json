@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T17:52:57.640Z",
+  "generatedAt": "2026-11-06T22:58:24.162Z",
   "snapshotDate": "2026-11-06",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1080,40 +1080,6 @@
       }
     },
     {
-      "tag": "#2V8JYR20J",
-      "name": "-=PREDATOR=-",
-      "role": "member",
-      "th": 14,
-      "firstSeen": "2026-10-14",
-      "daysPresent": 23,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 2,
-      "warsTotal": 35,
-      "clan": {
-        "total": 32.6,
-        "pillars": {
-          "donations": 0,
-          "raids": 63,
-          "loot": 43
-        },
-        "tier": "Common"
-      },
-      "war": {
-        "total": 40.7,
-        "status": null,
-        "cap": "Uncommon",
-        "pillars": {
-          "reliability": 38,
-          "performance": 45
-        },
-        "available": 4,
-        "used": 1,
-        "misses": 3,
-        "tier": "Uncommon"
-      }
-    },
-    {
       "tag": "#8J0UU8GPQ",
       "name": "cnt",
       "role": "member",
@@ -1212,40 +1178,6 @@
         "available": 4,
         "used": 0,
         "misses": 4,
-        "tier": "Common"
-      }
-    },
-    {
-      "tag": "#GRG2PPL22",
-      "name": "pheak",
-      "role": "member",
-      "th": 12,
-      "firstSeen": "2026-09-20",
-      "daysPresent": 47,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 5,
-      "warsTotal": 35,
-      "clan": {
-        "total": 0,
-        "pillars": {
-          "donations": 0,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": "Common"
-      },
-      "war": {
-        "total": 33.7,
-        "status": null,
-        "cap": "Uncommon",
-        "pillars": {
-          "reliability": 40,
-          "performance": 24
-        },
-        "available": 10,
-        "used": 4,
-        "misses": 6,
         "tier": "Common"
       }
     },

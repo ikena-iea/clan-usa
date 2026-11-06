@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-11-01",
-  "fetchedAt": "2026-11-06T17:52:54.609Z",
+  "fetchedAt": "2026-11-06T22:58:20.843Z",
   "totalRounds": 7,
   "rounds": [
     {
@@ -46,9 +46,9 @@
       "teamSize": 30,
       "opponent": "NOKEMONO",
       "opponentTag": "#2CJ0U0YG2",
-      "ourStars": 67,
+      "ourStars": 73,
       "theirStars": 14,
-      "ourDestruction": 76.33333333333333,
+      "ourDestruction": 83,
       "theirDestruction": 19.733333333333334,
       "endTime": "20261107T004257.000Z"
     },
@@ -1332,13 +1332,13 @@
       "name": "Kickass",
       "tag": "#28UUJQGVC",
       "ath": 17,
-      "dth": null,
+      "dth": 14,
       "amap": 7,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 7,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 4,
@@ -1566,13 +1566,13 @@
       "name": "Hazkie",
       "tag": "#GGJY8JJQ0",
       "ath": 13,
-      "dth": null,
+      "dth": 13,
       "amap": 22,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 11,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 4,
