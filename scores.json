@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T10:41:38.750Z",
+  "generatedAt": "2026-11-06T17:52:57.640Z",
   "snapshotDate": "2026-11-06",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1013,6 +1013,40 @@
       }
     },
     {
+      "tag": "#LCVCL0LU0",
+      "name": "Limeranch",
+      "role": "coLeader",
+      "th": 18,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 101,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 22,
+      "warsTotal": 35,
+      "clan": {
+        "total": 36.8,
+        "pillars": {
+          "donations": 92,
+          "raids": 0,
+          "loot": 0
+        },
+        "tier": "Common"
+      },
+      "war": {
+        "total": 68.4,
+        "status": null,
+        "cap": "Rare",
+        "pillars": {
+          "reliability": 90,
+          "performance": 36
+        },
+        "available": 10,
+        "used": 9,
+        "misses": 1,
+        "tier": "Rare"
+      }
+    },
+    {
       "tag": "#G8VGPGY8J",
       "name": "asap",
       "role": "admin",
@@ -1077,40 +1111,6 @@
         "used": 1,
         "misses": 3,
         "tier": "Uncommon"
-      }
-    },
-    {
-      "tag": "#LCVCL0LU0",
-      "name": "Limeranch",
-      "role": "coLeader",
-      "th": 18,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 101,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 22,
-      "warsTotal": 35,
-      "clan": {
-        "total": 31.5,
-        "pillars": {
-          "donations": 79,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": "Common"
-      },
-      "war": {
-        "total": 68.4,
-        "status": null,
-        "cap": "Rare",
-        "pillars": {
-          "reliability": 90,
-          "performance": 36
-        },
-        "available": 10,
-        "used": 9,
-        "misses": 1,
-        "tier": "Rare"
       }
     },
     {
@@ -1302,39 +1302,6 @@
           "loot": 0
         },
         "tier": "Common"
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#GPYU8P9YR",
-      "name": "࿐☯☃️DIPAYAN☃️☯",
-      "role": "member",
-      "th": 18,
-      "firstSeen": "2026-11-06",
-      "daysPresent": 1,
-      "inGrace": true,
-      "gracePeriodEndsIn": 13,
-      "warsJoined": 0,
-      "warsTotal": 35,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "loot": null
-        },
-        "tier": null
       },
       "war": {
         "total": null,

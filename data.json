@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-11-01",
-  "fetchedAt": "2026-11-06T10:41:32.975Z",
+  "fetchedAt": "2026-11-06T17:52:54.609Z",
   "totalRounds": 7,
   "rounds": [
     {
@@ -46,10 +46,10 @@
       "teamSize": 30,
       "opponent": "NOKEMONO",
       "opponentTag": "#2CJ0U0YG2",
-      "ourStars": 55,
-      "theirStars": 4,
-      "ourDestruction": 63,
-      "theirDestruction": 5.133333333333334,
+      "ourStars": 67,
+      "theirStars": 14,
+      "ourDestruction": 76.33333333333333,
+      "theirDestruction": 19.733333333333334,
       "endTime": "20261107T004257.000Z"
     },
     {
@@ -1254,13 +1254,13 @@
       "name": "Limeranch",
       "tag": "#LCVCL0LU0",
       "ath": 18,
-      "dth": null,
+      "dth": 13,
       "amap": 9,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 9,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 4,
@@ -1319,13 +1319,13 @@
       "name": "Checheng.",
       "tag": "#8YCVGRC08",
       "ath": 17,
-      "dth": null,
+      "dth": 15,
       "amap": 4,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 4,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 4,
@@ -1384,13 +1384,13 @@
       "name": "JoAaKeR",
       "tag": "#YJCYRGRU",
       "ath": 18,
-      "dth": null,
+      "dth": 15,
       "amap": 5,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 5,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 4,
@@ -1553,13 +1553,13 @@
       "name": "DaHairyVeer2",
       "tag": "#GYVPLJRRL",
       "ath": 14,
-      "dth": null,
+      "dth": 11,
       "amap": 17,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 17,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 4,

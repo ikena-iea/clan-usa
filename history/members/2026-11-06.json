@@ -1,20 +1,9 @@
 {
   "date": "2026-11-06",
-  "capturedAt": "2026-11-06T10:41:36.181Z",
+  "capturedAt": "2026-11-06T17:52:54.927Z",
   "clanLevel": 9,
-  "memberCount": 49,
+  "memberCount": 48,
   "members": [
-    {
-      "tag": "#GPYU8P9YR",
-      "name": "࿐☯☃️DIPAYAN☃️☯",
-      "role": "member",
-      "th": 18,
-      "expLevel": 214,
-      "trophies": 429,
-      "donations": 0,
-      "donationsReceived": 56,
-      "capitalContributions": 0
-    },
     {
       "tag": "#QUV9Q9VC",
       "name": "L Lawliet",
@@ -33,8 +22,8 @@
       "th": 17,
       "expLevel": 271,
       "trophies": 0,
-      "donations": 224,
-      "donationsReceived": 465,
+      "donations": 260,
+      "donationsReceived": 564,
       "capitalContributions": 0
     },
     {
@@ -44,7 +33,7 @@
       "th": 18,
       "expLevel": 203,
       "trophies": 252,
-      "donations": 273,
+      "donations": 375,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -64,9 +53,9 @@
       "name": "Limeranch",
       "role": "coLeader",
       "th": 18,
-      "expLevel": 154,
+      "expLevel": 155,
       "trophies": 235,
-      "donations": 214,
+      "donations": 267,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -76,7 +65,7 @@
       "role": "member",
       "th": 17,
       "expLevel": 217,
-      "trophies": 181,
+      "trophies": 210,
       "donations": 411,
       "donationsReceived": 2,
       "capitalContributions": 0
@@ -88,7 +77,7 @@
       "th": 17,
       "expLevel": 218,
       "trophies": 0,
-      "donations": 301,
+      "donations": 345,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -121,7 +110,7 @@
       "th": 16,
       "expLevel": 144,
       "trophies": 455,
-      "donations": 809,
+      "donations": 819,
       "donationsReceived": 308,
       "capitalContributions": 0
     },
@@ -132,8 +121,8 @@
       "th": 14,
       "expLevel": 134,
       "trophies": 343,
-      "donations": 688,
-      "donationsReceived": 325,
+      "donations": 691,
+      "donationsReceived": 372,
       "capitalContributions": 0
     },
     {
@@ -153,9 +142,9 @@
       "role": "admin",
       "th": 15,
       "expLevel": 162,
-      "trophies": 166,
-      "donations": 13,
-      "donationsReceived": 445,
+      "trophies": 206,
+      "donations": 48,
+      "donationsReceived": 551,
       "capitalContributions": 0
     },
     {
@@ -174,10 +163,10 @@
       "name": "HongSar",
       "role": "member",
       "th": 15,
-      "expLevel": 87,
+      "expLevel": 88,
       "trophies": 20,
       "donations": 55,
-      "donationsReceived": 550,
+      "donationsReceived": 585,
       "capitalContributions": 0
     },
     {
@@ -208,7 +197,7 @@
       "role": "member",
       "th": 14,
       "expLevel": 164,
-      "trophies": 339,
+      "trophies": 366,
       "donations": 86,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -274,7 +263,7 @@
       "role": "coLeader",
       "th": 12,
       "expLevel": 97,
-      "trophies": 198,
+      "trophies": 225,
       "donations": 72,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -295,7 +284,7 @@
       "name": "thenerve",
       "role": "member",
       "th": 13,
-      "expLevel": 112,
+      "expLevel": 113,
       "trophies": 120,
       "donations": 0,
       "donationsReceived": 0,
@@ -407,7 +396,7 @@
       "th": 17,
       "expLevel": 199,
       "trophies": 0,
-      "donations": 242,
+      "donations": 243,
       "donationsReceived": 113,
       "capitalContributions": 0
     },
@@ -418,7 +407,7 @@
       "th": 15,
       "expLevel": 176,
       "trophies": 0,
-      "donations": 173,
+      "donations": 176,
       "donationsReceived": 211,
       "capitalContributions": 0
     },
