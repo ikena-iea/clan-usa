@@ -1,29 +1,29 @@
 {
   "date": "2026-11-07",
-  "capturedAt": "2026-11-07T02:42:09.739Z",
+  "capturedAt": "2026-11-07T09:53:23.888Z",
   "clanLevel": 9,
-  "memberCount": 46,
+  "memberCount": 47,
   "members": [
     {
       "tag": "#QUV9Q9VC",
       "name": "L Lawliet",
-      "role": "member",
+      "role": "admin",
       "th": 18,
       "expLevel": 236,
-      "trophies": 482,
-      "donations": 30,
+      "trophies": 497,
+      "donations": 84,
       "donationsReceived": 118,
       "capitalContributions": 0
     },
     {
       "tag": "#8YCVGRC08",
       "name": "Checheng.",
-      "role": "member",
+      "role": "admin",
       "th": 17,
       "expLevel": 271,
       "trophies": 0,
-      "donations": 260,
-      "donationsReceived": 564,
+      "donations": 270,
+      "donationsReceived": 619,
       "capitalContributions": 0
     },
     {
@@ -40,21 +40,21 @@
     {
       "tag": "#GC28UJL8L",
       "name": "zaman777",
-      "role": "member",
+      "role": "admin",
       "th": 17,
       "expLevel": 169,
       "trophies": 93,
-      "donations": 86,
-      "donationsReceived": 356,
+      "donations": 87,
+      "donationsReceived": 414,
       "capitalContributions": 0
     },
     {
       "tag": "#28UUJQGVC",
       "name": "Kickass",
-      "role": "member",
+      "role": "admin",
       "th": 17,
       "expLevel": 217,
-      "trophies": 243,
+      "trophies": 265,
       "donations": 411,
       "donationsReceived": 120,
       "capitalContributions": 0
@@ -73,7 +73,7 @@
     {
       "tag": "#92L2Y2JG",
       "name": "Seth",
-      "role": "member",
+      "role": "admin",
       "th": 17,
       "expLevel": 218,
       "trophies": 0,
@@ -99,14 +99,14 @@
       "th": 14,
       "expLevel": 134,
       "trophies": 16,
-      "donations": 91,
+      "donations": 157,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
       "tag": "#YCUPQPCY2",
       "name": "DROGBA",
-      "role": "member",
+      "role": "admin",
       "th": 16,
       "expLevel": 144,
       "trophies": 455,
@@ -119,9 +119,9 @@
       "name": "DaHairyVeer2",
       "role": "coLeader",
       "th": 14,
-      "expLevel": 134,
+      "expLevel": 135,
       "trophies": 343,
-      "donations": 1072,
+      "donations": 1172,
       "donationsReceived": 372,
       "capitalContributions": 0
     },
@@ -142,7 +142,7 @@
       "role": "admin",
       "th": 15,
       "expLevel": 162,
-      "trophies": 206,
+      "trophies": 234,
       "donations": 48,
       "donationsReceived": 551,
       "capitalContributions": 0
@@ -150,7 +150,7 @@
     {
       "tag": "#8R2GYC09J",
       "name": "immortal soul",
-      "role": "member",
+      "role": "admin",
       "th": 14,
       "expLevel": 156,
       "trophies": 96,
@@ -161,12 +161,12 @@
     {
       "tag": "#R2UGP0U8P",
       "name": "HongSar",
-      "role": "member",
+      "role": "admin",
       "th": 15,
       "expLevel": 88,
       "trophies": 20,
       "donations": 55,
-      "donationsReceived": 651,
+      "donationsReceived": 717,
       "capitalContributions": 0
     },
     {
@@ -194,7 +194,7 @@
     {
       "tag": "#2PQLQG9RU",
       "name": "stranger08",
-      "role": "member",
+      "role": "admin",
       "th": 14,
       "expLevel": 164,
       "trophies": 366,
@@ -205,9 +205,9 @@
     {
       "tag": "#2299L899V",
       "name": "Dr.B00m",
-      "role": "member",
+      "role": "admin",
       "th": 13,
-      "expLevel": 144,
+      "expLevel": 145,
       "trophies": 273,
       "donations": 59,
       "donationsReceived": 0,
@@ -216,7 +216,7 @@
     {
       "tag": "#9LVVLCYQC",
       "name": "Shapoor H",
-      "role": "member",
+      "role": "admin",
       "th": 14,
       "expLevel": 200,
       "trophies": 28,
@@ -227,7 +227,7 @@
     {
       "tag": "#Q0PGRCQLQ",
       "name": "KING TBA",
-      "role": "member",
+      "role": "admin",
       "th": 13,
       "expLevel": 121,
       "trophies": 0,
@@ -238,7 +238,7 @@
     {
       "tag": "#GRGL2UUUJ",
       "name": "Toslim",
-      "role": "member",
+      "role": "admin",
       "th": 13,
       "expLevel": 115,
       "trophies": 540,
@@ -252,7 +252,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 105,
-      "trophies": 449,
+      "trophies": 475,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -264,14 +264,14 @@
       "th": 12,
       "expLevel": 97,
       "trophies": 225,
-      "donations": 72,
+      "donations": 132,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
       "tag": "#20YVV9Q99",
       "name": "CupOfJoe",
-      "role": "member",
+      "role": "admin",
       "th": 13,
       "expLevel": 172,
       "trophies": 372,
@@ -282,10 +282,10 @@
     {
       "tag": "#Y9P09C9LR",
       "name": "thenerve",
-      "role": "member",
+      "role": "admin",
       "th": 13,
       "expLevel": 113,
-      "trophies": 120,
+      "trophies": 131,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -293,7 +293,7 @@
     {
       "tag": "#8J0UU8GPQ",
       "name": "cnt",
-      "role": "member",
+      "role": "admin",
       "th": 13,
       "expLevel": 110,
       "trophies": 0,
@@ -309,7 +309,7 @@
       "expLevel": 109,
       "trophies": 0,
       "donations": 101,
-      "donationsReceived": 0,
+      "donationsReceived": 1,
       "capitalContributions": 0
     },
     {
@@ -326,7 +326,7 @@
     {
       "tag": "#GVR9JY0VU",
       "name": "Lion",
-      "role": "member",
+      "role": "admin",
       "th": 13,
       "expLevel": 92,
       "trophies": 221,
@@ -341,8 +341,19 @@
       "th": 10,
       "expLevel": 64,
       "trophies": 280,
-      "donations": 20,
-      "donationsReceived": 485,
+      "donations": 48,
+      "donationsReceived": 615,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#RYYYPC9UQ",
+      "name": "Clasher",
+      "role": "admin",
+      "th": 8,
+      "expLevel": 15,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -359,7 +370,7 @@
     {
       "tag": "#LVCJPGLQC",
       "name": "KhanSher",
-      "role": "member",
+      "role": "admin",
       "th": 17,
       "expLevel": 168,
       "trophies": 0,
@@ -381,18 +392,18 @@
     {
       "tag": "#YJCYRGRU",
       "name": "JoAaKeR",
-      "role": "member",
+      "role": "admin",
       "th": 18,
       "expLevel": 207,
       "trophies": 0,
-      "donations": 30,
-      "donationsReceived": 118,
+      "donations": 80,
+      "donationsReceived": 177,
       "capitalContributions": 0
     },
     {
       "tag": "#L0RL88QUU",
       "name": "mofateh",
-      "role": "member",
+      "role": "admin",
       "th": 17,
       "expLevel": 199,
       "trophies": 0,
@@ -408,7 +419,7 @@
       "expLevel": 176,
       "trophies": 0,
       "donations": 176,
-      "donationsReceived": 249,
+      "donationsReceived": 294,
       "capitalContributions": 0
     },
     {
@@ -447,7 +458,7 @@
     {
       "tag": "#9JV8R2QJC",
       "name": "Shimanto",
-      "role": "member",
+      "role": "admin",
       "th": 14,
       "expLevel": 214,
       "trophies": 0,
@@ -469,7 +480,7 @@
     {
       "tag": "#YR28ULURU",
       "name": "King Bappy...",
-      "role": "member",
+      "role": "admin",
       "th": 17,
       "expLevel": 146,
       "trophies": 0,
@@ -502,7 +513,7 @@
     {
       "tag": "#YP2YRYGG9",
       "name": "AR Bappy...",
-      "role": "member",
+      "role": "admin",
       "th": 15,
       "expLevel": 155,
       "trophies": 0,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T02:42:12.625Z",
+  "generatedAt": "2026-11-07T09:53:28.056Z",
   "snapshotDate": "2026-11-07",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -168,7 +168,7 @@
     {
       "tag": "#GRGL2UUUJ",
       "name": "Toslim",
-      "role": "member",
+      "role": "admin",
       "th": 13,
       "firstSeen": "2026-10-20",
       "daysPresent": 18,
@@ -202,7 +202,7 @@
     {
       "tag": "#R2UGP0U8P",
       "name": "HongSar",
-      "role": "member",
+      "role": "admin",
       "th": 15,
       "firstSeen": "2026-10-05",
       "daysPresent": 33,
@@ -372,7 +372,7 @@
     {
       "tag": "#GC28UJL8L",
       "name": "zaman777",
-      "role": "member",
+      "role": "admin",
       "th": 17,
       "firstSeen": "2026-10-13",
       "daysPresent": 25,
@@ -440,7 +440,7 @@
     {
       "tag": "#2299L899V",
       "name": "Dr.B00m",
-      "role": "member",
+      "role": "admin",
       "th": 13,
       "firstSeen": "2026-10-12",
       "daysPresent": 26,
@@ -474,7 +474,7 @@
     {
       "tag": "#28UUJQGVC",
       "name": "Kickass",
-      "role": "member",
+      "role": "admin",
       "th": 17,
       "firstSeen": "2026-10-10",
       "daysPresent": 28,
@@ -585,9 +585,9 @@
       "warsJoined": 11,
       "warsTotal": 36,
       "clan": {
-        "total": 74.7,
+        "total": 77.5,
         "pillars": {
-          "donations": 50,
+          "donations": 56,
           "raids": 100,
           "loot": 79
         },
@@ -610,7 +610,7 @@
     {
       "tag": "#8R2GYC09J",
       "name": "immortal soul",
-      "role": "member",
+      "role": "admin",
       "th": 14,
       "firstSeen": "2026-10-14",
       "daysPresent": 24,
@@ -712,7 +712,7 @@
     {
       "tag": "#8YCVGRC08",
       "name": "Checheng.",
-      "role": "member",
+      "role": "admin",
       "th": 17,
       "firstSeen": "2026-09-23",
       "daysPresent": 45,
@@ -814,7 +814,7 @@
     {
       "tag": "#92L2Y2JG",
       "name": "Seth",
-      "role": "member",
+      "role": "admin",
       "th": 17,
       "firstSeen": "2026-10-06",
       "daysPresent": 32,
@@ -881,7 +881,7 @@
     {
       "tag": "#YCUPQPCY2",
       "name": "DROGBA",
-      "role": "member",
+      "role": "admin",
       "th": 16,
       "firstSeen": "2026-10-14",
       "daysPresent": 24,
@@ -915,7 +915,7 @@
     {
       "tag": "#YJCYRGRU",
       "name": "JoAaKeR",
-      "role": "member",
+      "role": "admin",
       "th": 18,
       "firstSeen": "2026-09-21",
       "daysPresent": 47,
@@ -949,7 +949,7 @@
     {
       "tag": "#L0RL88QUU",
       "name": "mofateh",
-      "role": "member",
+      "role": "admin",
       "th": 17,
       "firstSeen": "2026-10-22",
       "daysPresent": 16,
@@ -1082,7 +1082,7 @@
     {
       "tag": "#8J0UU8GPQ",
       "name": "cnt",
-      "role": "member",
+      "role": "admin",
       "th": 13,
       "firstSeen": "2026-10-14",
       "daysPresent": 24,
@@ -1150,7 +1150,7 @@
     {
       "tag": "#LVCJPGLQC",
       "name": "KhanSher",
-      "role": "member",
+      "role": "admin",
       "th": 17,
       "firstSeen": "2026-10-23",
       "daysPresent": 15,
@@ -1251,7 +1251,7 @@
     {
       "tag": "#QUV9Q9VC",
       "name": "L Lawliet",
-      "role": "member",
+      "role": "admin",
       "th": 18,
       "firstSeen": "2026-10-27",
       "daysPresent": 11,
@@ -1285,7 +1285,7 @@
     {
       "tag": "#2PQLQG9RU",
       "name": "stranger08",
-      "role": "member",
+      "role": "admin",
       "th": 14,
       "firstSeen": "2026-11-01",
       "daysPresent": 6,
@@ -1319,7 +1319,7 @@
     {
       "tag": "#9LVVLCYQC",
       "name": "Shapoor H",
-      "role": "member",
+      "role": "admin",
       "th": 14,
       "firstSeen": "2026-11-04",
       "daysPresent": 3,
@@ -1352,7 +1352,7 @@
     {
       "tag": "#Q0PGRCQLQ",
       "name": "KING TBA",
-      "role": "member",
+      "role": "admin",
       "th": 13,
       "firstSeen": "2026-10-26",
       "daysPresent": 12,
@@ -1386,7 +1386,7 @@
     {
       "tag": "#20YVV9Q99",
       "name": "CupOfJoe",
-      "role": "member",
+      "role": "admin",
       "th": 13,
       "firstSeen": "2026-11-01",
       "daysPresent": 6,
@@ -1420,7 +1420,7 @@
     {
       "tag": "#Y9P09C9LR",
       "name": "thenerve",
-      "role": "member",
+      "role": "admin",
       "th": 13,
       "firstSeen": "2026-11-04",
       "daysPresent": 3,
@@ -1453,7 +1453,7 @@
     {
       "tag": "#GVR9JY0VU",
       "name": "Lion",
-      "role": "member",
+      "role": "admin",
       "th": 13,
       "firstSeen": "2026-11-02",
       "daysPresent": 5,
@@ -1484,9 +1484,42 @@
       }
     },
     {
+      "tag": "#RYYYPC9UQ",
+      "name": "Clasher",
+      "role": "admin",
+      "th": 8,
+      "firstSeen": "2026-11-07",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 36,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#9JV8R2QJC",
       "name": "Shimanto",
-      "role": "member",
+      "role": "admin",
       "th": 14,
       "firstSeen": "2026-10-30",
       "daysPresent": 8,
@@ -1519,7 +1552,7 @@
     {
       "tag": "#YR28ULURU",
       "name": "King Bappy...",
-      "role": "member",
+      "role": "admin",
       "th": 17,
       "firstSeen": "2026-11-04",
       "daysPresent": 3,
@@ -1552,7 +1585,7 @@
     {
       "tag": "#YP2YRYGG9",
       "name": "AR Bappy...",
-      "role": "member",
+      "role": "admin",
       "th": 15,
       "firstSeen": "2026-11-04",
       "daysPresent": 3,

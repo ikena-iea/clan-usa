@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-11-01",
-  "fetchedAt": "2026-11-07T02:42:09.480Z",
+  "fetchedAt": "2026-11-07T09:53:23.579Z",
   "totalRounds": 7,
   "rounds": [
     {
@@ -58,10 +58,10 @@
       "teamSize": 30,
       "opponent": "XShadow",
       "opponentTag": "#2JVGU8J29",
-      "ourStars": 21,
-      "theirStars": 0,
-      "ourDestruction": 23.333333333333332,
-      "theirDestruction": 0,
+      "ourStars": 53,
+      "theirStars": 6,
+      "ourDestruction": 59.93333333333333,
+      "theirDestruction": 10.5,
       "endTime": "20261108T004746.000Z"
     },
     {
@@ -1708,13 +1708,13 @@
       "name": "Checheng.",
       "tag": "#8YCVGRC08",
       "ath": 17,
-      "dth": null,
+      "dth": 13,
       "amap": 4,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 4,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
@@ -1747,13 +1747,13 @@
       "name": "HongSar",
       "tag": "#R2UGP0U8P",
       "ath": 15,
-      "dth": null,
+      "dth": 12,
       "amap": 26,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 26,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
@@ -1773,39 +1773,39 @@
       "name": "JoAaKeR",
       "tag": "#YJCYRGRU",
       "ath": 18,
-      "dth": null,
+      "dth": 12,
       "amap": 5,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 5,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
       "name": "lucky",
       "tag": "#GYC8Q2R20",
       "ath": 13,
-      "dth": null,
+      "dth": 12,
       "amap": 25,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 25,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
       "name": "Ikena",
       "tag": "#R292L228Q",
       "ath": 14,
-      "dth": null,
+      "dth": 12,
       "amap": 13,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 13,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
@@ -1864,26 +1864,26 @@
       "name": "zaman777",
       "tag": "#GC28UJL8L",
       "ath": 17,
-      "dth": null,
+      "dth": 12,
       "amap": 6,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 6,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
       "name": "immortal soul",
       "tag": "#8R2GYC09J",
       "ath": 14,
-      "dth": null,
+      "dth": 12,
       "amap": 15,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 15,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
@@ -1916,13 +1916,13 @@
       "name": "Dr.B00m",
       "tag": "#2299L899V",
       "ath": 13,
-      "dth": null,
+      "dth": 12,
       "amap": 19,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 19,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
@@ -1968,26 +1968,26 @@
       "name": "Sekhon",
       "tag": "#2L2LGVR0Y",
       "ath": 18,
-      "dth": null,
+      "dth": 15,
       "amap": 1,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 1,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
       "name": "LegitN00b98",
       "tag": "#R8GPLGRVQ",
       "ath": 12,
-      "dth": null,
+      "dth": 12,
       "amap": 28,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 28,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
@@ -2020,13 +2020,13 @@
       "name": "allis",
       "tag": "#GLUJVJGGV",
       "ath": 11,
-      "dth": null,
+      "dth": 12,
       "amap": 29,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 27,
+      "stars": 2,
+      "dest": 98,
       "missed": false,
-      "pending": true
+      "pending": false
     }
   ]
 }
