@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-11-01",
-  "fetchedAt": "2026-11-07T16:16:34.737Z",
+  "fetchedAt": "2026-11-07T20:46:22.060Z",
   "totalRounds": 7,
   "rounds": [
     {
@@ -58,10 +58,10 @@
       "teamSize": 30,
       "opponent": "XShadow",
       "opponentTag": "#2JVGU8J29",
-      "ourStars": 71,
-      "theirStars": 13,
-      "ourDestruction": 79.93333333333334,
-      "theirDestruction": 22.066666666666666,
+      "ourStars": 77,
+      "theirStars": 16,
+      "ourDestruction": 86.6,
+      "theirDestruction": 25.4,
       "endTime": "20261108T004746.000Z"
     },
     {
@@ -1682,13 +1682,13 @@
       "name": "THE ROCK",
       "tag": "#QLV80QQCY",
       "ath": 15,
-      "dth": null,
+      "dth": 12,
       "amap": 12,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 14,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
@@ -1721,13 +1721,13 @@
       "name": "Kickass",
       "tag": "#28UUJQGVC",
       "ath": 17,
-      "dth": null,
+      "dth": 12,
       "amap": 7,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 12,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,

@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "capturedAt": "2026-11-07T16:16:35.174Z",
+  "capturedAt": "2026-11-07T20:46:22.332Z",
   "clanLevel": 9,
   "memberCount": 48,
   "members": [
@@ -88,8 +88,19 @@
       "th": 17,
       "expLevel": 218,
       "trophies": 0,
-      "donations": 345,
+      "donations": 346,
       "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#R292L228Q",
+      "name": "Ikena",
+      "role": "coLeader",
+      "th": 14,
+      "expLevel": 134,
+      "trophies": 299,
+      "donations": 157,
+      "donationsReceived": 78,
       "capitalContributions": 0
     },
     {
@@ -101,17 +112,6 @@
       "trophies": 278,
       "donations": 0,
       "donationsReceived": 435,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#R292L228Q",
-      "name": "Ikena",
-      "role": "coLeader",
-      "th": 14,
-      "expLevel": 134,
-      "trophies": 16,
-      "donations": 157,
-      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -131,7 +131,7 @@
       "role": "coLeader",
       "th": 14,
       "expLevel": 135,
-      "trophies": 343,
+      "trophies": 362,
       "donations": 1172,
       "donationsReceived": 372,
       "capitalContributions": 0
@@ -152,9 +152,9 @@
       "name": "THE ROCK",
       "role": "admin",
       "th": 15,
-      "expLevel": 162,
-      "trophies": 234,
-      "donations": 48,
+      "expLevel": 163,
+      "trophies": 339,
+      "donations": 166,
       "donationsReceived": 551,
       "capitalContributions": 0
     },
@@ -253,7 +253,7 @@
       "th": 13,
       "expLevel": 115,
       "trophies": 540,
-      "donations": 224,
+      "donations": 248,
       "donationsReceived": 262,
       "capitalContributions": 0
     },
@@ -353,7 +353,7 @@
       "expLevel": 64,
       "trophies": 280,
       "donations": 48,
-      "donationsReceived": 615,
+      "donationsReceived": 680,
       "capitalContributions": 0
     },
     {
