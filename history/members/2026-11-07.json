@@ -1,8 +1,8 @@
 {
   "date": "2026-11-07",
-  "capturedAt": "2026-11-07T09:53:23.888Z",
+  "capturedAt": "2026-11-07T16:16:35.174Z",
   "clanLevel": 9,
-  "memberCount": 47,
+  "memberCount": 48,
   "members": [
     {
       "tag": "#QUV9Q9VC",
@@ -12,7 +12,18 @@
       "expLevel": 236,
       "trophies": 497,
       "donations": 84,
-      "donationsReceived": 118,
+      "donationsReceived": 236,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#LQY80QL8Y",
+      "name": "ᴰᵃʳᵏ★ɴɪɢʜᴛ",
+      "role": "member",
+      "th": 18,
+      "expLevel": 228,
+      "trophies": 661,
+      "donations": 0,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -23,7 +34,7 @@
       "expLevel": 271,
       "trophies": 0,
       "donations": 270,
-      "donationsReceived": 619,
+      "donationsReceived": 701,
       "capitalContributions": 0
     },
     {
@@ -32,7 +43,7 @@
       "role": "admin",
       "th": 18,
       "expLevel": 203,
-      "trophies": 252,
+      "trophies": 292,
       "donations": 375,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -131,7 +142,7 @@
       "role": "admin",
       "th": 14,
       "expLevel": 124,
-      "trophies": 0,
+      "trophies": 321,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -153,7 +164,7 @@
       "role": "admin",
       "th": 14,
       "expLevel": 156,
-      "trophies": 96,
+      "trophies": 106,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -242,7 +253,7 @@
       "th": 13,
       "expLevel": 115,
       "trophies": 540,
-      "donations": 169,
+      "donations": 224,
       "donationsReceived": 262,
       "capitalContributions": 0
     },
@@ -251,7 +262,7 @@
       "name": "thegodlynoob",
       "role": "admin",
       "th": 13,
-      "expLevel": 105,
+      "expLevel": 106,
       "trophies": 475,
       "donations": 0,
       "donationsReceived": 0,
@@ -276,7 +287,7 @@
       "expLevel": 172,
       "trophies": 372,
       "donations": 610,
-      "donationsReceived": 231,
+      "donationsReceived": 278,
       "capitalContributions": 0
     },
     {
@@ -308,7 +319,7 @@
       "th": 13,
       "expLevel": 109,
       "trophies": 0,
-      "donations": 101,
+      "donations": 103,
       "donationsReceived": 1,
       "capitalContributions": 0
     },
@@ -350,7 +361,7 @@
       "name": "Clasher",
       "role": "admin",
       "th": 8,
-      "expLevel": 15,
+      "expLevel": 16,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -361,10 +372,10 @@
       "name": "FHM",
       "role": "admin",
       "th": 15,
-      "expLevel": 222,
+      "expLevel": 223,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 159,
+      "donationsReceived": 212,
       "capitalContributions": 0
     },
     {
@@ -385,8 +396,8 @@
       "th": 18,
       "expLevel": 256,
       "trophies": 0,
-      "donations": 379,
-      "donationsReceived": 284,
+      "donations": 461,
+      "donationsReceived": 339,
       "capitalContributions": 0
     },
     {
@@ -418,7 +429,7 @@
       "th": 15,
       "expLevel": 176,
       "trophies": 0,
-      "donations": 176,
+      "donations": 229,
       "donationsReceived": 294,
       "capitalContributions": 0
     },
@@ -506,7 +517,7 @@
       "th": 18,
       "expLevel": 242,
       "trophies": 0,
-      "donations": 330,
+      "donations": 493,
       "donationsReceived": 287,
       "capitalContributions": 0
     },

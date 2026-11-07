@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T09:53:28.056Z",
+  "generatedAt": "2026-11-07T16:16:39.460Z",
   "snapshotDate": "2026-11-07",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1278,6 +1278,39 @@
         },
         "available": 6,
         "used": 6,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#LQY80QL8Y",
+      "name": "ᴰᵃʳᵏ★ɴɪɢʜᴛ",
+      "role": "member",
+      "th": 18,
+      "firstSeen": "2026-11-07",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 36,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
         "misses": 0,
         "tier": null
       }
