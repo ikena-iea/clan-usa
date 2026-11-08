@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-11-01",
-  "fetchedAt": "2026-11-08T07:08:48.254Z",
+  "fetchedAt": "2026-11-08T14:58:37.244Z",
   "totalRounds": 7,
   "rounds": [
     {
@@ -70,10 +70,10 @@
       "teamSize": 30,
       "opponent": "Yearners",
       "opponentTag": "#2C2L82VGJ",
-      "ourStars": 42,
-      "theirStars": 0,
-      "ourDestruction": 46.666666666666664,
-      "theirDestruction": 0.6666666666666666,
+      "ourStars": 51,
+      "theirStars": 10,
+      "ourDestruction": 56.666666666666664,
+      "theirDestruction": 14.266666666666667,
       "endTime": "20261109T004756.000Z"
     },
     {
@@ -2071,26 +2071,26 @@
       "name": "DROGBA",
       "tag": "#YCUPQPCY2",
       "ath": 16,
-      "dth": null,
+      "dth": 13,
       "amap": 9,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 9,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,
       "name": "THE ROCK",
       "tag": "#QLV80QQCY",
       "ath": 15,
-      "dth": null,
+      "dth": 12,
       "amap": 12,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 12,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,
@@ -2201,13 +2201,13 @@
       "name": "Ikena",
       "tag": "#R292L228Q",
       "ath": 14,
-      "dth": null,
+      "dth": 13,
       "amap": 13,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 13,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,
