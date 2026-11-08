@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "capturedAt": "2026-11-08T00:22:50.338Z",
+  "capturedAt": "2026-11-08T07:08:48.543Z",
   "clanLevel": 9,
   "memberCount": 48,
   "members": [
@@ -11,8 +11,8 @@
       "th": 18,
       "expLevel": 236,
       "trophies": 497,
-      "donations": 84,
-      "donationsReceived": 236,
+      "donations": 139,
+      "donationsReceived": 354,
       "capitalContributions": 0
     },
     {
@@ -55,8 +55,8 @@
       "th": 17,
       "expLevel": 169,
       "trophies": 93,
-      "donations": 87,
-      "donationsReceived": 414,
+      "donations": 205,
+      "donationsReceived": 469,
       "capitalContributions": 0
     },
     {
@@ -77,7 +77,7 @@
       "th": 18,
       "expLevel": 155,
       "trophies": 235,
-      "donations": 575,
+      "donations": 611,
       "donationsReceived": 206,
       "capitalContributions": 0
     },
@@ -88,7 +88,7 @@
       "th": 17,
       "expLevel": 218,
       "trophies": 0,
-      "donations": 346,
+      "donations": 377,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -111,7 +111,7 @@
       "expLevel": 179,
       "trophies": 278,
       "donations": 0,
-      "donationsReceived": 435,
+      "donationsReceived": 485,
       "capitalContributions": 0
     },
     {
@@ -122,7 +122,7 @@
       "expLevel": 144,
       "trophies": 455,
       "donations": 873,
-      "donationsReceived": 418,
+      "donationsReceived": 499,
       "capitalContributions": 0
     },
     {
@@ -132,8 +132,8 @@
       "th": 14,
       "expLevel": 135,
       "trophies": 362,
-      "donations": 1172,
-      "donationsReceived": 447,
+      "donations": 1253,
+      "donationsReceived": 448,
       "capitalContributions": 0
     },
     {
@@ -143,7 +143,7 @@
       "th": 14,
       "expLevel": 124,
       "trophies": 321,
-      "donations": 0,
+      "donations": 47,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -163,7 +163,7 @@
       "name": "immortal soul",
       "role": "admin",
       "th": 14,
-      "expLevel": 156,
+      "expLevel": 157,
       "trophies": 106,
       "donations": 0,
       "donationsReceived": 0,
@@ -177,7 +177,7 @@
       "expLevel": 88,
       "trophies": 20,
       "donations": 55,
-      "donationsReceived": 717,
+      "donationsReceived": 818,
       "capitalContributions": 0
     },
     {
@@ -187,7 +187,7 @@
       "th": 13,
       "expLevel": 155,
       "trophies": 397,
-      "donations": 55,
+      "donations": 112,
       "donationsReceived": 329,
       "capitalContributions": 0
     },
@@ -253,7 +253,7 @@
       "th": 13,
       "expLevel": 115,
       "trophies": 540,
-      "donations": 248,
+      "donations": 306,
       "donationsReceived": 262,
       "capitalContributions": 0
     },
@@ -274,8 +274,8 @@
       "role": "coLeader",
       "th": 12,
       "expLevel": 97,
-      "trophies": 225,
-      "donations": 132,
+      "trophies": 370,
+      "donations": 134,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -285,9 +285,9 @@
       "role": "admin",
       "th": 14,
       "expLevel": 172,
-      "trophies": 372,
-      "donations": 720,
-      "donationsReceived": 278,
+      "trophies": 400,
+      "donations": 770,
+      "donationsReceived": 325,
       "capitalContributions": 0
     },
     {
@@ -339,7 +339,7 @@
       "name": "Lion",
       "role": "admin",
       "th": 13,
-      "expLevel": 92,
+      "expLevel": 93,
       "trophies": 221,
       "donations": 0,
       "donationsReceived": 0,
@@ -396,8 +396,8 @@
       "th": 18,
       "expLevel": 256,
       "trophies": 0,
-      "donations": 461,
-      "donationsReceived": 339,
+      "donations": 496,
+      "donationsReceived": 397,
       "capitalContributions": 0
     },
     {
@@ -407,8 +407,8 @@
       "th": 18,
       "expLevel": 207,
       "trophies": 0,
-      "donations": 80,
-      "donationsReceived": 177,
+      "donations": 171,
+      "donationsReceived": 187,
       "capitalContributions": 0
     },
     {
@@ -427,10 +427,10 @@
       "name": "Schlitz",
       "role": "admin",
       "th": 15,
-      "expLevel": 176,
+      "expLevel": 177,
       "trophies": 0,
       "donations": 229,
-      "donationsReceived": 294,
+      "donationsReceived": 377,
       "capitalContributions": 0
     },
     {
@@ -518,7 +518,7 @@
       "expLevel": 242,
       "trophies": 0,
       "donations": 523,
-      "donationsReceived": 287,
+      "donationsReceived": 344,
       "capitalContributions": 0
     },
     {
