@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-11-01",
-  "fetchedAt": "2026-11-08T14:58:37.244Z",
+  "fetchedAt": "2026-11-08T19:31:36.410Z",
   "totalRounds": 7,
   "rounds": [
     {
@@ -70,9 +70,9 @@
       "teamSize": 30,
       "opponent": "Yearners",
       "opponentTag": "#2C2L82VGJ",
-      "ourStars": 51,
+      "ourStars": 62,
       "theirStars": 10,
-      "ourDestruction": 56.666666666666664,
+      "ourDestruction": 69.53333333333333,
       "theirDestruction": 14.266666666666667,
       "endTime": "20261109T004756.000Z"
     },
@@ -2058,13 +2058,13 @@
       "name": "Limeranch",
       "tag": "#LCVCL0LU0",
       "ath": 18,
-      "dth": null,
+      "dth": 13,
       "amap": 8,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 8,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,
@@ -2110,26 +2110,26 @@
       "name": "Checheng.",
       "tag": "#8YCVGRC08",
       "ath": 17,
-      "dth": null,
+      "dth": 14,
       "amap": 4,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 4,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,
       "name": "Kickass",
       "tag": "#28UUJQGVC",
       "ath": 17,
-      "dth": null,
+      "dth": 14,
       "amap": 7,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 7,
+      "stars": 2,
+      "dest": 86,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,
@@ -2331,13 +2331,13 @@
       "name": "Diego",
       "tag": "#P02U2U9GC",
       "ath": 13,
-      "dth": null,
+      "dth": 11,
       "amap": 18,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 18,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,

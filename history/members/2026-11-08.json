@@ -1,8 +1,8 @@
 {
   "date": "2026-11-08",
-  "capturedAt": "2026-11-08T14:58:37.955Z",
+  "capturedAt": "2026-11-08T19:31:36.650Z",
   "clanLevel": 9,
-  "memberCount": 48,
+  "memberCount": 50,
   "members": [
     {
       "tag": "#QUV9Q9VC",
@@ -22,8 +22,8 @@
       "th": 17,
       "expLevel": 271,
       "trophies": 0,
-      "donations": 270,
-      "donationsReceived": 751,
+      "donations": 327,
+      "donationsReceived": 761,
       "capitalContributions": 0
     },
     {
@@ -49,14 +49,25 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GLGCGP8U8",
+      "name": "mj_21",
+      "role": "member",
+      "th": 18,
+      "expLevel": 186,
+      "trophies": 196,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#GC28UJL8L",
       "name": "zaman777",
       "role": "admin",
       "th": 17,
       "expLevel": 169,
-      "trophies": 93,
-      "donations": 205,
-      "donationsReceived": 469,
+      "trophies": 113,
+      "donations": 215,
+      "donationsReceived": 472,
       "capitalContributions": 0
     },
     {
@@ -65,9 +76,9 @@
       "role": "admin",
       "th": 17,
       "expLevel": 217,
-      "trophies": 265,
-      "donations": 461,
-      "donationsReceived": 120,
+      "trophies": 323,
+      "donations": 466,
+      "donationsReceived": 177,
       "capitalContributions": 0
     },
     {
@@ -77,7 +88,7 @@
       "th": 18,
       "expLevel": 155,
       "trophies": 235,
-      "donations": 611,
+      "donations": 662,
       "donationsReceived": 206,
       "capitalContributions": 0
     },
@@ -148,6 +159,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#2YY8PRLP8",
+      "name": "C-JapsGravySock",
+      "role": "member",
+      "th": 15,
+      "expLevel": 226,
+      "trophies": 466,
+      "donations": 47,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#QLV80QQCY",
       "name": "THE ROCK",
       "role": "admin",
@@ -164,7 +186,7 @@
       "role": "admin",
       "th": 14,
       "expLevel": 157,
-      "trophies": 106,
+      "trophies": 338,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -188,7 +210,7 @@
       "expLevel": 155,
       "trophies": 397,
       "donations": 112,
-      "donationsReceived": 329,
+      "donationsReceived": 423,
       "capitalContributions": 0
     },
     {
@@ -220,8 +242,8 @@
       "th": 13,
       "expLevel": 145,
       "trophies": 321,
-      "donations": 59,
-      "donationsReceived": 0,
+      "donations": 106,
+      "donationsReceived": 51,
       "capitalContributions": 0
     },
     {
@@ -241,6 +263,17 @@
       "role": "admin",
       "th": 13,
       "expLevel": 121,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#GPPYL90YQ",
+      "name": "Mohammad0108",
+      "role": "member",
+      "th": 14,
+      "expLevel": 145,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -286,7 +319,7 @@
       "th": 14,
       "expLevel": 172,
       "trophies": 400,
-      "donations": 810,
+      "donations": 813,
       "donationsReceived": 325,
       "capitalContributions": 0
     },
@@ -351,7 +384,7 @@
       "role": "coLeader",
       "th": 10,
       "expLevel": 64,
-      "trophies": 280,
+      "trophies": 311,
       "donations": 48,
       "donationsReceived": 745,
       "capitalContributions": 0
@@ -412,17 +445,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#L0RL88QUU",
-      "name": "mofateh",
-      "role": "admin",
-      "th": 17,
-      "expLevel": 199,
-      "trophies": 0,
-      "donations": 243,
-      "donationsReceived": 196,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#CVLPRGYY",
       "name": "Schlitz",
       "role": "admin",
@@ -430,7 +452,7 @@
       "expLevel": 177,
       "trophies": 0,
       "donations": 229,
-      "donationsReceived": 377,
+      "donationsReceived": 422,
       "capitalContributions": 0
     },
     {

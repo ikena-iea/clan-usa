@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T14:58:45.331Z",
+  "generatedAt": "2026-11-08T19:31:40.424Z",
   "snapshotDate": "2026-11-08",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -947,39 +947,6 @@
       }
     },
     {
-      "tag": "#L0RL88QUU",
-      "name": "mofateh",
-      "role": "admin",
-      "th": 17,
-      "firstSeen": "2026-10-22",
-      "daysPresent": 17,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 1,
-      "warsTotal": 37,
-      "clan": {
-        "total": 40,
-        "pillars": {
-          "donations": 100,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": "Uncommon"
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 1,
-        "used": 1,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
       "tag": "#LJLLP2GR8",
       "name": "surje",
       "role": "admin",
@@ -1316,6 +1283,72 @@
       }
     },
     {
+      "tag": "#GLGCGP8U8",
+      "name": "mj_21",
+      "role": "member",
+      "th": 18,
+      "firstSeen": "2026-11-08",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 37,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#2YY8PRLP8",
+      "name": "C-JapsGravySock",
+      "role": "member",
+      "th": 15,
+      "firstSeen": "2026-11-08",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 37,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#2PQLQG9RU",
       "name": "stranger08",
       "role": "admin",
@@ -1413,6 +1446,39 @@
         "available": 9,
         "used": 5,
         "misses": 4,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#GPPYL90YQ",
+      "name": "Mohammad0108",
+      "role": "member",
+      "th": 14,
+      "firstSeen": "2026-11-08",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 37,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
         "tier": null
       }
     },
