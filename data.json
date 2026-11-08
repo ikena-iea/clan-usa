@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-11-01",
-  "fetchedAt": "2026-11-08T19:31:36.410Z",
+  "fetchedAt": "2026-11-08T23:36:24.734Z",
   "totalRounds": 7,
   "rounds": [
     {
@@ -70,9 +70,9 @@
       "teamSize": 30,
       "opponent": "Yearners",
       "opponentTag": "#2C2L82VGJ",
-      "ourStars": 62,
+      "ourStars": 68,
       "theirStars": 10,
-      "ourDestruction": 69.53333333333333,
+      "ourDestruction": 76.2,
       "theirDestruction": 14.266666666666667,
       "endTime": "20261109T004756.000Z"
     },
@@ -2240,13 +2240,13 @@
       "name": "Schlitz",
       "tag": "#CVLPRGYY",
       "ath": 15,
-      "dth": null,
+      "dth": 13,
       "amap": 11,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 11,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,
@@ -2409,13 +2409,13 @@
       "name": "jude",
       "tag": "#GGRR02GLG",
       "ath": 14,
-      "dth": null,
+      "dth": 13,
       "amap": 14,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 10,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,
