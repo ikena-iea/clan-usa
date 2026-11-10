@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-11-01",
-  "fetchedAt": "2026-11-09T15:59:50.943Z",
+  "fetchedAt": "2026-11-10T00:10:49.003Z",
   "totalRounds": 7,
   "rounds": [
     {
@@ -82,10 +82,10 @@
       "teamSize": 30,
       "opponent": "BUHAY OFW CLAN",
       "opponentTag": "#2JY2RQ82C",
-      "ourStars": 58,
-      "theirStars": 66,
-      "ourDestruction": 69.36666666666666,
-      "theirDestruction": 79.9,
+      "ourStars": 66,
+      "theirStars": 68,
+      "ourDestruction": 78.06666666666666,
+      "theirDestruction": 82.66666666666667,
       "endTime": "20261110T004958.000Z"
     }
   ],
@@ -2500,13 +2500,13 @@
       "name": "Checheng.",
       "tag": "#8YCVGRC08",
       "ath": 17,
-      "dth": null,
+      "dth": 18,
       "amap": 4,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 4,
+      "stars": 2,
+      "dest": 61,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 7,
@@ -2630,13 +2630,13 @@
       "name": "Schlitz",
       "tag": "#CVLPRGYY",
       "ath": 15,
-      "dth": null,
+      "dth": 15,
       "amap": 11,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 11,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 7,
@@ -2799,13 +2799,13 @@
       "name": "jude",
       "tag": "#GGRR02GLG",
       "ath": 14,
-      "dth": null,
+      "dth": 12,
       "amap": 14,
-      "dmap": null,
-      "stars": 0,
-      "dest": 0,
+      "dmap": 18,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 7,
