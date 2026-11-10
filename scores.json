@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T08:14:46.703Z",
+  "generatedAt": "2026-11-10T16:57:22.851Z",
   "snapshotDate": "2026-11-10",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1563,6 +1563,39 @@
           "donations": 56,
           "raids": 0,
           "loot": 0
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#LQV9Q00R2",
+      "name": "Electro Dragon",
+      "role": "member",
+      "th": 15,
+      "firstSeen": "2026-11-10",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 39,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
         },
         "tier": null
       },
