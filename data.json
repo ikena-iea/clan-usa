@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-11-01",
-  "fetchedAt": "2026-11-10T00:10:49.003Z",
+  "fetchedAt": "2026-11-10T08:14:39.177Z",
   "totalRounds": 7,
   "rounds": [
     {
@@ -78,7 +78,7 @@
     },
     {
       "round": 7,
-      "state": "inWar",
+      "state": "warEnded",
       "teamSize": 30,
       "opponent": "BUHAY OFW CLAN",
       "opponentTag": "#2JY2RQ82C",
@@ -2492,8 +2492,8 @@
       "dmap": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 7,
@@ -2570,8 +2570,8 @@
       "dmap": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 7,
@@ -2687,8 +2687,8 @@
       "dmap": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 7,
@@ -2700,8 +2700,8 @@
       "dmap": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 7,
@@ -2817,8 +2817,8 @@
       "dmap": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     }
   ]
 }
