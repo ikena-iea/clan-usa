@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T16:57:22.851Z",
+  "generatedAt": "2026-11-10T22:17:11.473Z",
   "snapshotDate": "2026-11-10",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -992,9 +992,9 @@
       "warsJoined": 1,
       "warsTotal": 39,
       "clan": {
-        "total": 32.7,
+        "total": 35.3,
         "pillars": {
-          "donations": 82,
+          "donations": 88,
           "raids": 0,
           "loot": 0
         },
@@ -1451,7 +1451,7 @@
       "tag": "#GVR9JY0VU",
       "name": "Lion",
       "role": "admin",
-      "th": 13,
+      "th": 14,
       "firstSeen": "2026-11-02",
       "daysPresent": 8,
       "inGrace": true,

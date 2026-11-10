@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "capturedAt": "2026-11-10T16:57:20.485Z",
+  "capturedAt": "2026-11-10T22:17:10.119Z",
   "clanLevel": 9,
   "memberCount": 48,
   "members": [
@@ -11,7 +11,7 @@
       "th": 18,
       "expLevel": 236,
       "trophies": 423,
-      "donations": 331,
+      "donations": 381,
       "donationsReceived": 354,
       "capitalContributions": 0
     },
@@ -21,9 +21,9 @@
       "role": "admin",
       "th": 17,
       "expLevel": 271,
-      "trophies": 74,
+      "trophies": 85,
       "donations": 521,
-      "donationsReceived": 1131,
+      "donationsReceived": 1186,
       "capitalContributions": 0
     },
     {
@@ -49,25 +49,25 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#9Y8JCVPGL",
+      "name": ",,,",
+      "role": "admin",
+      "th": 18,
+      "expLevel": 203,
+      "trophies": 140,
+      "donations": 490,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#28UUJQGVC",
       "name": "Kickass",
       "role": "admin",
       "th": 18,
       "expLevel": 218,
       "trophies": 132,
-      "donations": 807,
+      "donations": 860,
       "donationsReceived": 177,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#9Y8JCVPGL",
-      "name": ",,,",
-      "role": "admin",
-      "th": 18,
-      "expLevel": 203,
-      "trophies": 90,
-      "donations": 440,
-      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -98,9 +98,9 @@
       "role": "admin",
       "th": 16,
       "expLevel": 179,
-      "trophies": 68,
-      "donations": 0,
-      "donationsReceived": 568,
+      "trophies": 131,
+      "donations": 26,
+      "donationsReceived": 621,
       "capitalContributions": 0
     },
     {
@@ -131,8 +131,8 @@
       "role": "coLeader",
       "th": 14,
       "expLevel": 137,
-      "trophies": 399,
-      "donations": 1570,
+      "trophies": 461,
+      "donations": 1689,
       "donationsReceived": 683,
       "capitalContributions": 0
     },
@@ -142,7 +142,7 @@
       "role": "member",
       "th": 15,
       "expLevel": 226,
-      "trophies": 18,
+      "trophies": 35,
       "donations": 94,
       "donationsReceived": 83,
       "capitalContributions": 0
@@ -164,9 +164,9 @@
       "role": "admin",
       "th": 15,
       "expLevel": 163,
-      "trophies": 58,
+      "trophies": 91,
       "donations": 349,
-      "donationsReceived": 807,
+      "donationsReceived": 860,
       "capitalContributions": 0
     },
     {
@@ -221,7 +221,7 @@
       "expLevel": 146,
       "trophies": 22,
       "donations": 296,
-      "donationsReceived": 128,
+      "donationsReceived": 173,
       "capitalContributions": 0
     },
     {
@@ -241,7 +241,7 @@
       "role": "member",
       "th": 13,
       "expLevel": 132,
-      "trophies": 271,
+      "trophies": 285,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -252,9 +252,9 @@
       "role": "admin",
       "th": 14,
       "expLevel": 173,
-      "trophies": 145,
-      "donations": 1041,
-      "donationsReceived": 372,
+      "trophies": 225,
+      "donations": 1113,
+      "donationsReceived": 419,
       "capitalContributions": 0
     },
     {
@@ -263,7 +263,7 @@
       "role": "member",
       "th": 14,
       "expLevel": 146,
-      "trophies": 40,
+      "trophies": 69,
       "donations": 30,
       "donationsReceived": 156,
       "capitalContributions": 0
@@ -316,8 +316,8 @@
       "tag": "#GVR9JY0VU",
       "name": "Lion",
       "role": "admin",
-      "th": 13,
-      "expLevel": 94,
+      "th": 14,
+      "expLevel": 95,
       "trophies": 81,
       "donations": 0,
       "donationsReceived": 0,
@@ -351,9 +351,9 @@
       "role": "coLeader",
       "th": 10,
       "expLevel": 66,
-      "trophies": 314,
+      "trophies": 354,
       "donations": 48,
-      "donationsReceived": 1202,
+      "donationsReceived": 1268,
       "capitalContributions": 0
     },
     {
