@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T10:40:11.163Z",
+  "generatedAt": "2026-11-11T18:33:31.095Z",
   "snapshotDate": "2026-11-11",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1216,39 +1216,6 @@
       }
     },
     {
-      "tag": "#G8JY2QGPL",
-      "name": "گلادیاتورایرانی",
-      "role": "member",
-      "th": 17,
-      "firstSeen": "2026-11-08",
-      "daysPresent": 3,
-      "inGrace": true,
-      "gracePeriodEndsIn": 11,
-      "warsJoined": 0,
-      "warsTotal": 39,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
       "tag": "#2YY8PRLP8",
       "name": "C-JapsGravySock",
       "role": "member",
@@ -1415,39 +1382,6 @@
       }
     },
     {
-      "tag": "#P9JRU9GY2",
-      "name": "yuwen",
-      "role": "member",
-      "th": 13,
-      "firstSeen": "2026-11-11",
-      "daysPresent": 1,
-      "inGrace": true,
-      "gracePeriodEndsIn": 13,
-      "warsJoined": 0,
-      "warsTotal": 39,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "loot": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
       "tag": "#GVR9JY0VU",
       "name": "Lion",
       "role": "admin",
@@ -1481,22 +1415,22 @@
       }
     },
     {
-      "tag": "#RYYYPC9UQ",
-      "name": "Clasher",
-      "role": "admin",
-      "th": 9,
-      "firstSeen": "2026-11-07",
-      "daysPresent": 4,
+      "tag": "#P9JRU9GY2",
+      "name": "yuwen",
+      "role": "member",
+      "th": 13,
+      "firstSeen": "2026-11-11",
+      "daysPresent": 1,
       "inGrace": true,
-      "gracePeriodEndsIn": 10,
+      "gracePeriodEndsIn": 13,
       "warsJoined": 0,
       "warsTotal": 39,
       "clan": {
         "total": null,
         "pillars": {
           "donations": 0,
-          "raids": 0,
-          "loot": 0
+          "raids": null,
+          "loot": null
         },
         "tier": null
       },
