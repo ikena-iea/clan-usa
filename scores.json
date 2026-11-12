@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T01:27:05.432Z",
+  "generatedAt": "2026-11-12T09:40:09.122Z",
   "snapshotDate": "2026-11-12",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -574,6 +574,40 @@
       }
     },
     {
+      "tag": "#QU0VVP8RJ",
+      "name": "DaHairyVeer",
+      "role": "coLeader",
+      "th": 10,
+      "firstSeen": "2026-09-30",
+      "daysPresent": 43,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 14,
+      "warsTotal": 39,
+      "clan": {
+        "total": 81.9,
+        "pillars": {
+          "donations": 62,
+          "raids": 100,
+          "loot": 88
+        },
+        "tier": "Epic"
+      },
+      "war": {
+        "total": 84.2,
+        "status": null,
+        "cap": null,
+        "pillars": {
+          "reliability": 90,
+          "performance": 76
+        },
+        "available": 10,
+        "used": 9,
+        "misses": 1,
+        "tier": "Epic"
+      }
+    },
+    {
       "tag": "#RYLL90GG",
       "name": "FHM",
       "role": "admin",
@@ -639,40 +673,6 @@
         "used": 7,
         "misses": 3,
         "tier": "Uncommon"
-      }
-    },
-    {
-      "tag": "#QU0VVP8RJ",
-      "name": "DaHairyVeer",
-      "role": "coLeader",
-      "th": 10,
-      "firstSeen": "2026-09-30",
-      "daysPresent": 43,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 14,
-      "warsTotal": 39,
-      "clan": {
-        "total": 76.4,
-        "pillars": {
-          "donations": 48,
-          "raids": 100,
-          "loot": 88
-        },
-        "tier": "Epic"
-      },
-      "war": {
-        "total": 84.2,
-        "status": null,
-        "cap": null,
-        "pillars": {
-          "reliability": 90,
-          "performance": 76
-        },
-        "available": 10,
-        "used": 9,
-        "misses": 1,
-        "tier": "Epic"
       }
     },
     {
@@ -755,9 +755,9 @@
       "warsJoined": 26,
       "warsTotal": 39,
       "clan": {
-        "total": 51.1,
+        "total": 51.4,
         "pillars": {
-          "donations": 3,
+          "donations": 4,
           "raids": 100,
           "loot": 60
         },
@@ -1382,22 +1382,22 @@
       }
     },
     {
-      "tag": "#GVR9JY0VU",
-      "name": "Lion",
-      "role": "admin",
-      "th": 14,
-      "firstSeen": "2026-11-02",
-      "daysPresent": 10,
+      "tag": "#P9JRU9GY2",
+      "name": "yuwen",
+      "role": "member",
+      "th": 13,
+      "firstSeen": "2026-11-11",
+      "daysPresent": 1,
       "inGrace": true,
-      "gracePeriodEndsIn": 4,
+      "gracePeriodEndsIn": 13,
       "warsJoined": 0,
       "warsTotal": 39,
       "clan": {
         "total": null,
         "pillars": {
           "donations": 0,
-          "raids": 0,
-          "loot": 0
+          "raids": null,
+          "loot": null
         },
         "tier": null
       },
@@ -1415,22 +1415,22 @@
       }
     },
     {
-      "tag": "#P9JRU9GY2",
-      "name": "yuwen",
-      "role": "member",
-      "th": 13,
-      "firstSeen": "2026-11-11",
-      "daysPresent": 1,
+      "tag": "#GVR9JY0VU",
+      "name": "Lion",
+      "role": "admin",
+      "th": 14,
+      "firstSeen": "2026-11-02",
+      "daysPresent": 10,
       "inGrace": true,
-      "gracePeriodEndsIn": 13,
+      "gracePeriodEndsIn": 4,
       "warsJoined": 0,
       "warsTotal": 39,
       "clan": {
         "total": null,
         "pillars": {
           "donations": 0,
-          "raids": null,
-          "loot": null
+          "raids": 0,
+          "loot": 0
         },
         "tier": null
       },
