@@ -1,0 +1,183 @@
+{
+  "id": "20261110120006000_2CGG82GUJ_vs_2LJR2P8G0",
+  "source": "regular",
+  "state": "warEnded",
+  "endTime": "20261112T110006.000Z",
+  "teamSize": 5,
+  "attacksPerMember": 2,
+  "opponent": {
+    "tag": "#2LJR2P8G0",
+    "name": "ملوك اضلام"
+  },
+  "result": {
+    "ourStars": 10,
+    "theirStars": 3,
+    "ourDestruction": 88.2,
+    "theirDestruction": 22.4
+  },
+  "roster": [
+    {
+      "tag": "#8YCVGRC08",
+      "name": "Checheng.",
+      "th": 17,
+      "mapPosition": 3
+    },
+    {
+      "tag": "#28UUJQGVC",
+      "name": "Kickass",
+      "th": 18,
+      "mapPosition": 4
+    },
+    {
+      "tag": "#QUV9Q9VC",
+      "name": "L Lawliet",
+      "th": 18,
+      "mapPosition": 2
+    },
+    {
+      "tag": "#2L2LGVR0Y",
+      "name": "Sekhon",
+      "th": 18,
+      "mapPosition": 1
+    },
+    {
+      "tag": "#9Y8JCVPGL",
+      "name": ",,,",
+      "th": 18,
+      "mapPosition": 5
+    }
+  ],
+  "attacks": [
+    {
+      "attackerTag": "#QUV9Q9VC",
+      "attackerName": "L Lawliet",
+      "attackerTH": 18,
+      "defenderTH": 18,
+      "stars": 1,
+      "dest": 97,
+      "starsGained": 1,
+      "destGained": 97,
+      "order": 1,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#9Y8JCVPGL",
+      "attackerName": ",,,",
+      "attackerTH": 18,
+      "defenderTH": 16,
+      "stars": 2,
+      "dest": 76,
+      "starsGained": 2,
+      "destGained": 76,
+      "order": 3,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#9Y8JCVPGL",
+      "attackerName": ",,,",
+      "attackerTH": 18,
+      "defenderTH": 18,
+      "stars": 2,
+      "dest": 80,
+      "starsGained": 2,
+      "destGained": 80,
+      "order": 4,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#QUV9Q9VC",
+      "attackerName": "L Lawliet",
+      "attackerTH": 18,
+      "defenderTH": 18,
+      "stars": 2,
+      "dest": 95,
+      "starsGained": 2,
+      "destGained": 95,
+      "order": 5,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#28UUJQGVC",
+      "attackerName": "Kickass",
+      "attackerTH": 18,
+      "defenderTH": 18,
+      "stars": 2,
+      "dest": 69,
+      "starsGained": 2,
+      "destGained": 69,
+      "order": 6,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#28UUJQGVC",
+      "attackerName": "Kickass",
+      "attackerTH": 18,
+      "defenderTH": 16,
+      "stars": 1,
+      "dest": 73,
+      "starsGained": 0,
+      "destGained": 0,
+      "order": 7,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#8YCVGRC08",
+      "attackerName": "Checheng.",
+      "attackerTH": 17,
+      "defenderTH": 16,
+      "stars": 3,
+      "dest": 100,
+      "starsGained": 1,
+      "destGained": 24,
+      "order": 9,
+      "missed": false,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#8YCVGRC08",
+      "attackerName": "Checheng.",
+      "attackerTH": 17,
+      "defenderTH": null,
+      "stars": 0,
+      "dest": 0,
+      "starsGained": 0,
+      "destGained": 0,
+      "order": null,
+      "missed": true,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#2L2LGVR0Y",
+      "attackerName": "Sekhon",
+      "attackerTH": 18,
+      "defenderTH": null,
+      "stars": 0,
+      "dest": 0,
+      "starsGained": 0,
+      "destGained": 0,
+      "order": null,
+      "missed": true,
+      "source": "regular"
+    },
+    {
+      "attackerTag": "#2L2LGVR0Y",
+      "attackerName": "Sekhon",
+      "attackerTH": 18,
+      "defenderTH": null,
+      "stars": 0,
+      "dest": 0,
+      "starsGained": 0,
+      "destGained": 0,
+      "order": null,
+      "missed": true,
+      "source": "regular"
+    }
+  ],
+  "archivedAt": "2026-11-12T18:06:25.376Z"
+}
