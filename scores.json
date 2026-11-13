@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T00:04:30.160Z",
+  "generatedAt": "2026-11-13T07:45:52.318Z",
   "snapshotDate": "2026-11-13",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1282,6 +1282,39 @@
       }
     },
     {
+      "tag": "#Q889YC28U",
+      "name": "0pium",
+      "role": "member",
+      "th": 15,
+      "firstSeen": "2026-11-13",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 40,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#20YVV9Q99",
       "name": "CupOfJoe",
       "role": "admin",
@@ -1362,7 +1395,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 0,
+          "donations": 48,
           "raids": 0,
           "loot": 0
         },
@@ -1527,7 +1560,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 0,
+          "donations": 8,
           "raids": null,
           "loot": null
         },
