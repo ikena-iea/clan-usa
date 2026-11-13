@@ -1,8 +1,8 @@
 {
   "date": "2026-11-13",
-  "capturedAt": "2026-11-13T07:45:51.765Z",
+  "capturedAt": "2026-11-13T16:05:57.115Z",
   "clanLevel": 9,
-  "memberCount": 49,
+  "memberCount": 46,
   "members": [
     {
       "tag": "#QUV9Q9VC",
@@ -20,10 +20,10 @@
       "name": "Checheng.",
       "role": "admin",
       "th": 17,
-      "expLevel": 271,
+      "expLevel": 272,
       "trophies": 417,
-      "donations": 818,
-      "donationsReceived": 1505,
+      "donations": 934,
+      "donationsReceived": 1530,
       "capitalContributions": 0
     },
     {
@@ -33,7 +33,7 @@
       "th": 18,
       "expLevel": 218,
       "trophies": 308,
-      "donations": 1127,
+      "donations": 1157,
       "donationsReceived": 177,
       "capitalContributions": 0
     },
@@ -44,7 +44,7 @@
       "th": 18,
       "expLevel": 203,
       "trophies": 232,
-      "donations": 543,
+      "donations": 593,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -53,7 +53,7 @@
       "name": "Limeranch",
       "role": "coLeader",
       "th": 18,
-      "expLevel": 155,
+      "expLevel": 156,
       "trophies": 159,
       "donations": 807,
       "donationsReceived": 206,
@@ -65,7 +65,7 @@
       "role": "admin",
       "th": 17,
       "expLevel": 170,
-      "trophies": 147,
+      "trophies": 177,
       "donations": 318,
       "donationsReceived": 640,
       "capitalContributions": 0
@@ -97,7 +97,7 @@
       "name": "Ikena",
       "role": "coLeader",
       "th": 14,
-      "expLevel": 135,
+      "expLevel": 136,
       "trophies": 72,
       "donations": 162,
       "donationsReceived": 78,
@@ -108,9 +108,9 @@
       "name": "DROGBA",
       "role": "admin",
       "th": 16,
-      "expLevel": 145,
+      "expLevel": 146,
       "trophies": 136,
-      "donations": 1112,
+      "donations": 1177,
       "donationsReceived": 818,
       "capitalContributions": 0
     },
@@ -122,7 +122,7 @@
       "expLevel": 138,
       "trophies": 474,
       "donations": 1958,
-      "donationsReceived": 884,
+      "donationsReceived": 961,
       "capitalContributions": 0
     },
     {
@@ -148,25 +148,14 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#Q889YC28U",
-      "name": "0pium",
-      "role": "member",
-      "th": 15,
-      "expLevel": 161,
-      "trophies": 52,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#QLV80QQCY",
       "name": "THE ROCK",
       "role": "admin",
       "th": 15,
       "expLevel": 164,
-      "trophies": 377,
-      "donations": 354,
-      "donationsReceived": 1099,
+      "trophies": 431,
+      "donations": 428,
+      "donationsReceived": 1202,
       "capitalContributions": 0
     },
     {
@@ -188,7 +177,18 @@
       "expLevel": 94,
       "trophies": 27,
       "donations": 100,
-      "donationsReceived": 1485,
+      "donationsReceived": 1617,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#GVJ9URYJC",
+      "name": "OIL TANKER",
+      "role": "member",
+      "th": 14,
+      "expLevel": 132,
+      "trophies": 170,
+      "donations": 0,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -230,7 +230,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 117,
-      "trophies": 435,
+      "trophies": 445,
       "donations": 499,
       "donationsReceived": 385,
       "capitalContributions": 0
@@ -241,7 +241,7 @@
       "role": "admin",
       "th": 14,
       "expLevel": 174,
-      "trophies": 415,
+      "trophies": 427,
       "donations": 1253,
       "donationsReceived": 467,
       "capitalContributions": 0
@@ -251,7 +251,7 @@
       "name": "Hilkeröderjunge",
       "role": "member",
       "th": 14,
-      "expLevel": 136,
+      "expLevel": 137,
       "trophies": 276,
       "donations": 0,
       "donationsReceived": 0,
@@ -274,7 +274,7 @@
       "role": "coLeader",
       "th": 13,
       "expLevel": 98,
-      "trophies": 76,
+      "trophies": 101,
       "donations": 257,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -287,17 +287,6 @@
       "expLevel": 107,
       "trophies": 22,
       "donations": 3,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#9LVVLCYQC",
-      "name": "Shapoor H",
-      "role": "admin",
-      "th": 14,
-      "expLevel": 200,
-      "trophies": 0,
-      "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -319,7 +308,7 @@
       "th": 13,
       "expLevel": 109,
       "trophies": 362,
-      "donations": 105,
+      "donations": 106,
       "donationsReceived": 1,
       "capitalContributions": 0
     },
@@ -375,7 +364,7 @@
       "expLevel": 67,
       "trophies": 364,
       "donations": 103,
-      "donationsReceived": 1334,
+      "donationsReceived": 1399,
       "capitalContributions": 0
     },
     {
@@ -489,17 +478,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#YR28ULURU",
-      "name": "King Bappy...",
-      "role": "admin",
-      "th": 17,
-      "expLevel": 146,
-      "trophies": 0,
-      "donations": 45,
-      "donationsReceived": 50,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#R8PJY0U0J",
       "name": "Didetz",
       "role": "leader",
@@ -530,17 +508,6 @@
       "trophies": 0,
       "donations": 654,
       "donationsReceived": 516,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#YP2YRYGG9",
-      "name": "AR Bappy...",
-      "role": "admin",
-      "th": 15,
-      "expLevel": 155,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 126,
       "capitalContributions": 0
     }
   ]

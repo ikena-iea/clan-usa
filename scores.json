@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T07:45:52.318Z",
+  "generatedAt": "2026-11-13T16:05:58.569Z",
   "snapshotDate": "2026-11-13",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1282,10 +1282,10 @@
       }
     },
     {
-      "tag": "#Q889YC28U",
-      "name": "0pium",
+      "tag": "#GVJ9URYJC",
+      "name": "OIL TANKER",
       "role": "member",
-      "th": 15,
+      "th": 14,
       "firstSeen": "2026-11-13",
       "daysPresent": 1,
       "inGrace": true,
@@ -1396,39 +1396,6 @@
         "total": null,
         "pillars": {
           "donations": 48,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#9LVVLCYQC",
-      "name": "Shapoor H",
-      "role": "admin",
-      "th": 14,
-      "firstSeen": "2026-11-04",
-      "daysPresent": 9,
-      "inGrace": true,
-      "gracePeriodEndsIn": 5,
-      "warsJoined": 0,
-      "warsTotal": 40,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
           "raids": 0,
           "loot": 0
         },
@@ -1580,39 +1547,6 @@
       }
     },
     {
-      "tag": "#YR28ULURU",
-      "name": "King Bappy...",
-      "role": "admin",
-      "th": 17,
-      "firstSeen": "2026-11-04",
-      "daysPresent": 9,
-      "inGrace": true,
-      "gracePeriodEndsIn": 5,
-      "warsJoined": 0,
-      "warsTotal": 40,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 38,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
       "tag": "#LQV9Q00R2",
       "name": "Electro Dragon",
       "role": "member",
@@ -1629,39 +1563,6 @@
           "donations": 25,
           "raids": null,
           "loot": null
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#YP2YRYGG9",
-      "name": "AR Bappy...",
-      "role": "admin",
-      "th": 15,
-      "firstSeen": "2026-11-04",
-      "daysPresent": 9,
-      "inGrace": true,
-      "gracePeriodEndsIn": 5,
-      "warsJoined": 0,
-      "warsTotal": 40,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": 0,
-          "loot": 0
         },
         "tier": null
       },
