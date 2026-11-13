@@ -1,8 +1,8 @@
 {
   "date": "2026-11-13",
-  "capturedAt": "2026-11-13T16:05:57.115Z",
+  "capturedAt": "2026-11-13T22:28:23.916Z",
   "clanLevel": 9,
-  "memberCount": 46,
+  "memberCount": 47,
   "members": [
     {
       "tag": "#QUV9Q9VC",
@@ -21,7 +21,7 @@
       "role": "admin",
       "th": 17,
       "expLevel": 272,
-      "trophies": 417,
+      "trophies": 431,
       "donations": 934,
       "donationsReceived": 1530,
       "capitalContributions": 0
@@ -33,7 +33,7 @@
       "th": 18,
       "expLevel": 218,
       "trophies": 308,
-      "donations": 1157,
+      "donations": 1207,
       "donationsReceived": 177,
       "capitalContributions": 0
     },
@@ -43,7 +43,7 @@
       "role": "admin",
       "th": 18,
       "expLevel": 203,
-      "trophies": 232,
+      "trophies": 251,
       "donations": 593,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -109,7 +109,7 @@
       "role": "admin",
       "th": 16,
       "expLevel": 146,
-      "trophies": 136,
+      "trophies": 149,
       "donations": 1177,
       "donationsReceived": 818,
       "capitalContributions": 0
@@ -131,7 +131,7 @@
       "role": "admin",
       "th": 14,
       "expLevel": 124,
-      "trophies": 82,
+      "trophies": 108,
       "donations": 47,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -142,7 +142,7 @@
       "role": "member",
       "th": 15,
       "expLevel": 226,
-      "trophies": 74,
+      "trophies": 104,
       "donations": 94,
       "donationsReceived": 83,
       "capitalContributions": 0
@@ -155,7 +155,7 @@
       "expLevel": 164,
       "trophies": 431,
       "donations": 428,
-      "donationsReceived": 1202,
+      "donationsReceived": 1252,
       "capitalContributions": 0
     },
     {
@@ -181,6 +181,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#P02U2U9GC",
+      "name": "Diego",
+      "role": "admin",
+      "th": 13,
+      "expLevel": 155,
+      "trophies": 269,
+      "donations": 112,
+      "donationsReceived": 564,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#GVJ9URYJC",
       "name": "OIL TANKER",
       "role": "member",
@@ -189,17 +200,6 @@
       "trophies": 170,
       "donations": 0,
       "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#P02U2U9GC",
-      "name": "Diego",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 155,
-      "trophies": 30,
-      "donations": 112,
-      "donationsReceived": 517,
       "capitalContributions": 0
     },
     {
@@ -242,7 +242,7 @@
       "th": 14,
       "expLevel": 174,
       "trophies": 427,
-      "donations": 1253,
+      "donations": 1300,
       "donationsReceived": 467,
       "capitalContributions": 0
     },
@@ -291,11 +291,22 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#R0JJ0UP90",
+      "name": "MK01",
+      "role": "member",
+      "th": 13,
+      "expLevel": 115,
+      "trophies": 206,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#Y9P09C9LR",
       "name": "thenerve",
       "role": "admin",
       "th": 13,
-      "expLevel": 113,
+      "expLevel": 114,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -309,7 +320,7 @@
       "expLevel": 109,
       "trophies": 362,
       "donations": 106,
-      "donationsReceived": 1,
+      "donationsReceived": 2,
       "capitalContributions": 0
     },
     {
@@ -328,7 +339,7 @@
       "name": "Lion",
       "role": "admin",
       "th": 14,
-      "expLevel": 95,
+      "expLevel": 96,
       "trophies": 111,
       "donations": 0,
       "donationsReceived": 0,
