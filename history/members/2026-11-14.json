@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "capturedAt": "2026-11-14T17:54:11.791Z",
+  "capturedAt": "2026-11-14T22:14:54.326Z",
   "clanLevel": 9,
   "memberCount": 46,
   "members": [
@@ -21,9 +21,9 @@
       "role": "admin",
       "th": 17,
       "expLevel": 272,
-      "trophies": 440,
+      "trophies": 457,
       "donations": 934,
-      "donationsReceived": 1588,
+      "donationsReceived": 1638,
       "capitalContributions": 0
     },
     {
@@ -33,7 +33,7 @@
       "th": 18,
       "expLevel": 218,
       "trophies": 308,
-      "donations": 1279,
+      "donations": 1329,
       "donationsReceived": 177,
       "capitalContributions": 0
     },
@@ -65,7 +65,7 @@
       "role": "admin",
       "th": 17,
       "expLevel": 170,
-      "trophies": 177,
+      "trophies": 204,
       "donations": 368,
       "donationsReceived": 695,
       "capitalContributions": 0
@@ -351,7 +351,7 @@
       "role": "coLeader",
       "th": 10,
       "expLevel": 68,
-      "trophies": 364,
+      "trophies": 385,
       "donations": 103,
       "donationsReceived": 1399,
       "capitalContributions": 0
@@ -493,7 +493,7 @@
       "name": "Electro Dragon",
       "role": "member",
       "th": 15,
-      "expLevel": 183,
+      "expLevel": 184,
       "trophies": 0,
       "donations": 10,
       "donationsReceived": 0,
