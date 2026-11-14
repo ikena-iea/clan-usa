@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "capturedAt": "2026-11-14T03:01:21.662Z",
+  "capturedAt": "2026-11-14T11:21:02.544Z",
   "clanLevel": 9,
   "memberCount": 46,
   "members": [
@@ -10,7 +10,7 @@
       "role": "admin",
       "th": 18,
       "expLevel": 237,
-      "trophies": 471,
+      "trophies": 499,
       "donations": 587,
       "donationsReceived": 354,
       "capitalContributions": 0
@@ -21,9 +21,9 @@
       "role": "admin",
       "th": 17,
       "expLevel": 272,
-      "trophies": 431,
+      "trophies": 440,
       "donations": 934,
-      "donationsReceived": 1530,
+      "donationsReceived": 1583,
       "capitalContributions": 0
     },
     {
@@ -33,7 +33,7 @@
       "th": 18,
       "expLevel": 218,
       "trophies": 308,
-      "donations": 1207,
+      "donations": 1279,
       "donationsReceived": 177,
       "capitalContributions": 0
     },
@@ -42,9 +42,9 @@
       "name": ",,,",
       "role": "admin",
       "th": 18,
-      "expLevel": 203,
-      "trophies": 251,
-      "donations": 593,
+      "expLevel": 204,
+      "trophies": 267,
+      "donations": 643,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -66,8 +66,8 @@
       "th": 17,
       "expLevel": 170,
       "trophies": 177,
-      "donations": 318,
-      "donationsReceived": 640,
+      "donations": 368,
+      "donationsReceived": 695,
       "capitalContributions": 0
     },
     {
@@ -86,10 +86,10 @@
       "name": "gangster1000000",
       "role": "admin",
       "th": 16,
-      "expLevel": 179,
-      "trophies": 190,
+      "expLevel": 180,
+      "trophies": 289,
       "donations": 26,
-      "donationsReceived": 704,
+      "donationsReceived": 837,
       "capitalContributions": 0
     },
     {
@@ -109,8 +109,8 @@
       "role": "admin",
       "th": 16,
       "expLevel": 146,
-      "trophies": 149,
-      "donations": 1177,
+      "trophies": 338,
+      "donations": 1260,
       "donationsReceived": 818,
       "capitalContributions": 0
     },
@@ -130,7 +130,7 @@
       "name": "jude",
       "role": "admin",
       "th": 14,
-      "expLevel": 124,
+      "expLevel": 125,
       "trophies": 108,
       "donations": 47,
       "donationsReceived": 0,
@@ -206,10 +206,10 @@
       "tag": "#2299L899V",
       "name": "Dr.B00m",
       "role": "admin",
-      "th": 13,
+      "th": 14,
       "expLevel": 146,
-      "trophies": 51,
-      "donations": 364,
+      "trophies": 77,
+      "donations": 419,
       "donationsReceived": 173,
       "capitalContributions": 0
     },
@@ -242,7 +242,7 @@
       "th": 14,
       "expLevel": 137,
       "trophies": 276,
-      "donations": 0,
+      "donations": 45,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -263,8 +263,8 @@
       "role": "coLeader",
       "th": 13,
       "expLevel": 98,
-      "trophies": 101,
-      "donations": 257,
+      "trophies": 127,
+      "donations": 307,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -276,17 +276,6 @@
       "expLevel": 107,
       "trophies": 22,
       "donations": 3,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#R0JJ0UP90",
-      "name": "MK01",
-      "role": "member",
-      "th": 13,
-      "expLevel": 115,
-      "trophies": 206,
-      "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -320,7 +309,7 @@
       "expLevel": 187,
       "trophies": 119,
       "donations": 0,
-      "donationsReceived": 174,
+      "donationsReceived": 264,
       "capitalContributions": 0
     },
     {
@@ -353,7 +342,7 @@
       "expLevel": 98,
       "trophies": 0,
       "donations": 1,
-      "donationsReceived": 72,
+      "donationsReceived": 144,
       "capitalContributions": 0
     },
     {
@@ -390,6 +379,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#Q9LGUQG8J",
+      "name": "aji",
+      "role": "member",
+      "th": 17,
+      "expLevel": 213,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#Q8QPY2L2",
       "name": "Aaron",
       "role": "admin",
@@ -397,7 +397,7 @@
       "expLevel": 256,
       "trophies": 0,
       "donations": 808,
-      "donationsReceived": 513,
+      "donationsReceived": 515,
       "capitalContributions": 0
     },
     {

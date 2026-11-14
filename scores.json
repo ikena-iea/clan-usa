@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T03:01:35.294Z",
+  "generatedAt": "2026-11-14T11:21:03.118Z",
   "snapshotDate": "2026-11-14",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -101,7 +101,7 @@
       "tag": "#2299L899V",
       "name": "Dr.B00m",
       "role": "admin",
-      "th": 13,
+      "th": 14,
       "firstSeen": "2026-10-12",
       "daysPresent": 33,
       "inGrace": false,
@@ -1328,7 +1328,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 0,
+          "donations": 100,
           "raids": null,
           "loot": null
         },
@@ -1364,39 +1364,6 @@
           "donations": 40,
           "raids": 0,
           "loot": 0
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#R0JJ0UP90",
-      "name": "MK01",
-      "role": "member",
-      "th": 13,
-      "firstSeen": "2026-11-13",
-      "daysPresent": 1,
-      "inGrace": true,
-      "gracePeriodEndsIn": 13,
-      "warsJoined": 0,
-      "warsTotal": 40,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": null,
-          "loot": null
         },
         "tier": null
       },
@@ -1527,6 +1494,39 @@
         "total": null,
         "pillars": {
           "donations": 4,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#Q9LGUQG8J",
+      "name": "aji",
+      "role": "member",
+      "th": 17,
+      "firstSeen": "2026-11-14",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 40,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
           "raids": null,
           "loot": null
         },
