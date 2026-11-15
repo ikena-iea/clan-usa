@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T17:38:44.090Z",
+  "generatedAt": "2026-11-15T22:43:06.499Z",
   "snapshotDate": "2026-11-15",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -642,6 +642,40 @@
       }
     },
     {
+      "tag": "#GGRR02GLG",
+      "name": "jude",
+      "role": "admin",
+      "th": 14,
+      "firstSeen": "2026-08-07",
+      "daysPresent": 100,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 25,
+      "warsTotal": 40,
+      "clan": {
+        "total": 72.2,
+        "pillars": {
+          "donations": 89,
+          "raids": 77,
+          "loot": 38
+        },
+        "tier": "Epic"
+      },
+      "war": {
+        "total": 66.8,
+        "status": null,
+        "cap": "Uncommon",
+        "pillars": {
+          "reliability": 70,
+          "performance": 62
+        },
+        "available": 10,
+        "used": 7,
+        "misses": 3,
+        "tier": "Uncommon"
+      }
+    },
+    {
       "tag": "#8R2GYC09J",
       "name": "immortal soul",
       "role": "admin",
@@ -707,40 +741,6 @@
         "used": 9,
         "misses": 1,
         "tier": "Rare"
-      }
-    },
-    {
-      "tag": "#GGRR02GLG",
-      "name": "jude",
-      "role": "admin",
-      "th": 14,
-      "firstSeen": "2026-08-07",
-      "daysPresent": 100,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 25,
-      "warsTotal": 40,
-      "clan": {
-        "total": 61.9,
-        "pillars": {
-          "donations": 64,
-          "raids": 77,
-          "loot": 38
-        },
-        "tier": "Rare"
-      },
-      "war": {
-        "total": 66.8,
-        "status": null,
-        "cap": "Uncommon",
-        "pillars": {
-          "reliability": 70,
-          "performance": 62
-        },
-        "available": 10,
-        "used": 7,
-        "misses": 3,
-        "tier": "Uncommon"
       }
     },
     {
@@ -1592,7 +1592,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 15,
+          "donations": 86,
           "raids": null,
           "loot": null
         },

@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "capturedAt": "2026-11-15T17:38:42.999Z",
+  "capturedAt": "2026-11-15T22:43:05.681Z",
   "clanLevel": 9,
   "memberCount": 47,
   "members": [
@@ -34,7 +34,7 @@
       "expLevel": 272,
       "trophies": 457,
       "donations": 1051,
-      "donationsReceived": 1688,
+      "donationsReceived": 1693,
       "capitalContributions": 0
     },
     {
@@ -43,7 +43,7 @@
       "role": "admin",
       "th": 18,
       "expLevel": 218,
-      "trophies": 337,
+      "trophies": 350,
       "donations": 1379,
       "donationsReceived": 177,
       "capitalContributions": 0
@@ -88,7 +88,7 @@
       "th": 17,
       "expLevel": 218,
       "trophies": 0,
-      "donations": 615,
+      "donations": 620,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -111,7 +111,7 @@
       "expLevel": 180,
       "trophies": 289,
       "donations": 26,
-      "donationsReceived": 890,
+      "donationsReceived": 993,
       "capitalContributions": 0
     },
     {
@@ -132,8 +132,19 @@
       "th": 15,
       "expLevel": 139,
       "trophies": 482,
-      "donations": 2073,
-      "donationsReceived": 992,
+      "donations": 2150,
+      "donationsReceived": 1001,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#GGRR02GLG",
+      "name": "jude",
+      "role": "admin",
+      "th": 14,
+      "expLevel": 125,
+      "trophies": 416,
+      "donations": 205,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -148,24 +159,13 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#GGRR02GLG",
-      "name": "jude",
-      "role": "admin",
-      "th": 14,
-      "expLevel": 125,
-      "trophies": 116,
-      "donations": 102,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#QLV80QQCY",
       "name": "THE ROCK",
       "role": "admin",
       "th": 15,
       "expLevel": 164,
       "trophies": 474,
-      "donations": 428,
+      "donations": 511,
       "donationsReceived": 1355,
       "capitalContributions": 0
     },
@@ -188,7 +188,7 @@
       "expLevel": 155,
       "trophies": 306,
       "donations": 112,
-      "donationsReceived": 564,
+      "donationsReceived": 611,
       "capitalContributions": 0
     },
     {
@@ -232,7 +232,7 @@
       "expLevel": 117,
       "trophies": 445,
       "donations": 499,
-      "donationsReceived": 385,
+      "donationsReceived": 462,
       "capitalContributions": 0
     },
     {
@@ -242,7 +242,7 @@
       "th": 14,
       "expLevel": 174,
       "trophies": 427,
-      "donations": 1478,
+      "donations": 1479,
       "donationsReceived": 467,
       "capitalContributions": 0
     },
@@ -273,9 +273,9 @@
       "name": "Hilkeröderjunge",
       "role": "member",
       "th": 14,
-      "expLevel": 137,
+      "expLevel": 138,
       "trophies": 276,
-      "donations": 188,
+      "donations": 198,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -430,7 +430,7 @@
       "expLevel": 177,
       "trophies": 0,
       "donations": 573,
-      "donationsReceived": 510,
+      "donationsReceived": 512,
       "capitalContributions": 0
     },
     {
@@ -506,8 +506,8 @@
       "th": 15,
       "expLevel": 184,
       "trophies": 0,
-      "donations": 10,
-      "donationsReceived": 0,
+      "donations": 57,
+      "donationsReceived": 83,
       "capitalContributions": 0
     },
     {
