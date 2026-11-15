@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T10:39:18.191Z",
+  "generatedAt": "2026-11-15T17:38:44.090Z",
   "snapshotDate": "2026-11-15",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -67,7 +67,7 @@
       "tag": "#GYVPLJRRL",
       "name": "DaHairyVeer2",
       "role": "coLeader",
-      "th": 14,
+      "th": 15,
       "firstSeen": "2026-07-28",
       "daysPresent": 110,
       "inGrace": false,
@@ -509,7 +509,7 @@
       "tag": "#QU0VVP8RJ",
       "name": "DaHairyVeer",
       "role": "coLeader",
-      "th": 10,
+      "th": 11,
       "firstSeen": "2026-09-30",
       "daysPresent": 46,
       "inGrace": false,
@@ -517,9 +517,9 @@
       "warsJoined": 14,
       "warsTotal": 40,
       "clan": {
-        "total": 81.7,
+        "total": 82.2,
         "pillars": {
-          "donations": 62,
+          "donations": 63,
           "raids": 100,
           "loot": 88
         },
@@ -992,9 +992,9 @@
       "warsJoined": 5,
       "warsTotal": 40,
       "clan": {
-        "total": 30.9,
+        "total": 36.4,
         "pillars": {
-          "donations": 0,
+          "donations": 14,
           "raids": 33,
           "loot": 77
         },
@@ -1234,6 +1234,39 @@
           "loot": 0
         },
         "tier": "Common"
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#PG8RC8L99",
+      "name": "lucky boy",
+      "role": "member",
+      "th": 18,
+      "firstSeen": "2026-11-15",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 40,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
       },
       "war": {
         "total": null,

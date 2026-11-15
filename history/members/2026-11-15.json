@@ -1,8 +1,8 @@
 {
   "date": "2026-11-15",
-  "capturedAt": "2026-11-15T10:39:17.321Z",
+  "capturedAt": "2026-11-15T17:38:42.999Z",
   "clanLevel": 9,
-  "memberCount": 46,
+  "memberCount": 47,
   "members": [
     {
       "tag": "#QUV9Q9VC",
@@ -16,14 +16,25 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#PG8RC8L99",
+      "name": "lucky boy",
+      "role": "member",
+      "th": 18,
+      "expLevel": 251,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#8YCVGRC08",
       "name": "Checheng.",
       "role": "admin",
       "th": 17,
       "expLevel": 272,
       "trophies": 457,
-      "donations": 934,
-      "donationsReceived": 1638,
+      "donations": 1051,
+      "donationsReceived": 1688,
       "capitalContributions": 0
     },
     {
@@ -32,8 +43,8 @@
       "role": "admin",
       "th": 18,
       "expLevel": 218,
-      "trophies": 308,
-      "donations": 1329,
+      "trophies": 337,
+      "donations": 1379,
       "donationsReceived": 177,
       "capitalContributions": 0
     },
@@ -65,9 +76,9 @@
       "role": "admin",
       "th": 17,
       "expLevel": 170,
-      "trophies": 216,
+      "trophies": 245,
       "donations": 368,
-      "donationsReceived": 750,
+      "donationsReceived": 805,
       "capitalContributions": 0
     },
     {
@@ -109,19 +120,19 @@
       "role": "admin",
       "th": 16,
       "expLevel": 147,
-      "trophies": 338,
-      "donations": 1260,
-      "donationsReceived": 818,
+      "trophies": 363,
+      "donations": 1380,
+      "donationsReceived": 1015,
       "capitalContributions": 0
     },
     {
       "tag": "#GYVPLJRRL",
       "name": "DaHairyVeer2",
       "role": "coLeader",
-      "th": 14,
-      "expLevel": 138,
+      "th": 15,
+      "expLevel": 139,
       "trophies": 482,
-      "donations": 2011,
+      "donations": 2073,
       "donationsReceived": 992,
       "capitalContributions": 0
     },
@@ -142,7 +153,7 @@
       "role": "admin",
       "th": 14,
       "expLevel": 125,
-      "trophies": 108,
+      "trophies": 116,
       "donations": 102,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -155,7 +166,7 @@
       "expLevel": 164,
       "trophies": 474,
       "donations": 428,
-      "donationsReceived": 1305,
+      "donationsReceived": 1355,
       "capitalContributions": 0
     },
     {
@@ -186,7 +197,7 @@
       "role": "member",
       "th": 14,
       "expLevel": 132,
-      "trophies": 200,
+      "trophies": 239,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -197,7 +208,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 142,
-      "trophies": 96,
+      "trophies": 104,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -231,8 +242,19 @@
       "th": 14,
       "expLevel": 174,
       "trophies": 427,
-      "donations": 1335,
+      "donations": 1478,
       "donationsReceived": 467,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#PJ22QYY22",
+      "name": "thegodlynoob",
+      "role": "admin",
+      "th": 13,
+      "expLevel": 108,
+      "trophies": 413,
+      "donations": 3,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -241,9 +263,9 @@
       "role": "member",
       "th": 14,
       "expLevel": 147,
-      "trophies": 287,
+      "trophies": 297,
       "donations": 62,
-      "donationsReceived": 390,
+      "donationsReceived": 468,
       "capitalContributions": 0
     },
     {
@@ -253,7 +275,7 @@
       "th": 14,
       "expLevel": 137,
       "trophies": 276,
-      "donations": 45,
+      "donations": 188,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -263,19 +285,8 @@
       "role": "coLeader",
       "th": 13,
       "expLevel": 99,
-      "trophies": 177,
+      "trophies": 207,
       "donations": 354,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#PJ22QYY22",
-      "name": "thegodlynoob",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 107,
-      "trophies": 62,
-      "donations": 3,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -296,7 +307,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 109,
-      "trophies": 379,
+      "trophies": 401,
       "donations": 106,
       "donationsReceived": 2,
       "capitalContributions": 0
@@ -307,9 +318,9 @@
       "role": "member",
       "th": 13,
       "expLevel": 187,
-      "trophies": 119,
+      "trophies": 159,
       "donations": 0,
-      "donationsReceived": 311,
+      "donationsReceived": 358,
       "capitalContributions": 0
     },
     {
@@ -317,7 +328,7 @@
       "name": "Lion",
       "role": "admin",
       "th": 14,
-      "expLevel": 96,
+      "expLevel": 97,
       "trophies": 111,
       "donations": 0,
       "donationsReceived": 0,
@@ -330,7 +341,7 @@
       "th": 13,
       "expLevel": 111,
       "trophies": 0,
-      "donations": 0,
+      "donations": 55,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -349,11 +360,11 @@
       "tag": "#QU0VVP8RJ",
       "name": "DaHairyVeer",
       "role": "coLeader",
-      "th": 10,
-      "expLevel": 68,
+      "th": 11,
+      "expLevel": 69,
       "trophies": 385,
-      "donations": 103,
-      "donationsReceived": 1399,
+      "donations": 108,
+      "donationsReceived": 1559,
       "capitalContributions": 0
     },
     {
@@ -396,8 +407,8 @@
       "th": 18,
       "expLevel": 256,
       "trophies": 0,
-      "donations": 814,
-      "donationsReceived": 515,
+      "donations": 815,
+      "donationsReceived": 574,
       "capitalContributions": 0
     },
     {
