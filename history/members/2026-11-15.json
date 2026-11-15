@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "capturedAt": "2026-11-15T02:30:41.187Z",
+  "capturedAt": "2026-11-15T10:39:17.321Z",
   "clanLevel": 9,
   "memberCount": 46,
   "members": [
@@ -65,9 +65,9 @@
       "role": "admin",
       "th": 17,
       "expLevel": 170,
-      "trophies": 204,
+      "trophies": 216,
       "donations": 368,
-      "donationsReceived": 695,
+      "donationsReceived": 750,
       "capitalContributions": 0
     },
     {
@@ -82,6 +82,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#R292L228Q",
+      "name": "Ikena",
+      "role": "coLeader",
+      "th": 14,
+      "expLevel": 136,
+      "trophies": 446,
+      "donations": 215,
+      "donationsReceived": 78,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#G2G8R9RPC",
       "name": "gangster1000000",
       "role": "admin",
@@ -93,22 +104,11 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#R292L228Q",
-      "name": "Ikena",
-      "role": "coLeader",
-      "th": 14,
-      "expLevel": 136,
-      "trophies": 72,
-      "donations": 215,
-      "donationsReceived": 78,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#YCUPQPCY2",
       "name": "DROGBA",
       "role": "admin",
       "th": 16,
-      "expLevel": 146,
+      "expLevel": 147,
       "trophies": 338,
       "donations": 1260,
       "donationsReceived": 818,
@@ -120,7 +120,7 @@
       "role": "coLeader",
       "th": 14,
       "expLevel": 138,
-      "trophies": 474,
+      "trophies": 482,
       "donations": 2011,
       "donationsReceived": 992,
       "capitalContributions": 0
@@ -143,7 +143,7 @@
       "th": 14,
       "expLevel": 125,
       "trophies": 108,
-      "donations": 47,
+      "donations": 102,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -175,7 +175,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 155,
-      "trophies": 291,
+      "trophies": 306,
       "donations": 112,
       "donationsReceived": 564,
       "capitalContributions": 0
@@ -236,6 +236,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GPPYL90YQ",
+      "name": "Mohammad0108",
+      "role": "member",
+      "th": 14,
+      "expLevel": 147,
+      "trophies": 287,
+      "donations": 62,
+      "donationsReceived": 390,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#LUV2VPQ0P",
       "name": "Hilkeröderjunge",
       "role": "member",
@@ -247,24 +258,13 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#GPPYL90YQ",
-      "name": "Mohammad0108",
-      "role": "member",
-      "th": 14,
-      "expLevel": 146,
-      "trophies": 275,
-      "donations": 62,
-      "donationsReceived": 390,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#R8GPLGRVQ",
       "name": "LegitN00b98",
       "role": "coLeader",
       "th": 13,
       "expLevel": 99,
-      "trophies": 127,
-      "donations": 307,
+      "trophies": 177,
+      "donations": 354,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -296,7 +296,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 109,
-      "trophies": 362,
+      "trophies": 379,
       "donations": 106,
       "donationsReceived": 2,
       "capitalContributions": 0
@@ -309,7 +309,7 @@
       "expLevel": 187,
       "trophies": 119,
       "donations": 0,
-      "donationsReceived": 264,
+      "donationsReceived": 311,
       "capitalContributions": 0
     },
     {
@@ -364,7 +364,7 @@
       "expLevel": 223,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 318,
+      "donationsReceived": 371,
       "capitalContributions": 0
     },
     {
@@ -418,7 +418,7 @@
       "th": 15,
       "expLevel": 177,
       "trophies": 0,
-      "donations": 520,
+      "donations": 573,
       "donationsReceived": 510,
       "capitalContributions": 0
     },
