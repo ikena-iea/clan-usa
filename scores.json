@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T10:56:20.543Z",
+  "generatedAt": "2026-11-16T20:55:04.767Z",
   "snapshotDate": "2026-11-16",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -41,9 +41,9 @@
       "warsJoined": 36,
       "warsTotal": 40,
       "clan": {
-        "total": 94.9,
+        "total": 97.2,
         "pillars": {
-          "donations": 94,
+          "donations": 100,
           "raids": 100,
           "loot": 89
         },
@@ -917,7 +917,7 @@
       "tag": "#LJLLP2GR8",
       "name": "surje",
       "role": "admin",
-      "th": 18,
+      "th": 19,
       "firstSeen": "2026-07-28",
       "daysPresent": 111,
       "inGrace": false,
@@ -1282,39 +1282,6 @@
       }
     },
     {
-      "tag": "#2YY8PRLP8",
-      "name": "C-JapsGravySock",
-      "role": "member",
-      "th": 15,
-      "firstSeen": "2026-11-08",
-      "daysPresent": 8,
-      "inGrace": true,
-      "gracePeriodEndsIn": 6,
-      "warsJoined": 0,
-      "warsTotal": 40,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 44,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
       "tag": "#8R0L0L02Y",
       "name": "NAJI☺",
       "role": "member",
@@ -1348,20 +1315,20 @@
       }
     },
     {
-      "tag": "#8VGL2YQQL",
-      "name": "shekarchi",
+      "tag": "#2YY8PRLP8",
+      "name": "C-JapsGravySock",
       "role": "member",
       "th": 15,
-      "firstSeen": "2026-11-16",
-      "daysPresent": 1,
+      "firstSeen": "2026-11-08",
+      "daysPresent": 8,
       "inGrace": true,
-      "gracePeriodEndsIn": 13,
+      "gracePeriodEndsIn": 6,
       "warsJoined": 0,
       "warsTotal": 40,
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 0,
+          "donations": 44,
           "raids": 0,
           "loot": 0
         },
@@ -1381,20 +1348,20 @@
       }
     },
     {
-      "tag": "#GVJ9URYJC",
-      "name": "OIL TANKER",
+      "tag": "#GV8P2GCJL",
+      "name": "Aryak",
       "role": "member",
-      "th": 14,
-      "firstSeen": "2026-11-13",
-      "daysPresent": 3,
+      "th": 15,
+      "firstSeen": "2026-11-16",
+      "daysPresent": 1,
       "inGrace": true,
-      "gracePeriodEndsIn": 11,
+      "gracePeriodEndsIn": 13,
       "warsJoined": 0,
       "warsTotal": 40,
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 100,
+          "donations": 0,
           "raids": 0,
           "loot": 0
         },
@@ -1447,22 +1414,22 @@
       }
     },
     {
-      "tag": "#Y9P09C9LR",
-      "name": "thenerve",
-      "role": "admin",
+      "tag": "#P9JRU9GY2",
+      "name": "yuwen",
+      "role": "member",
       "th": 13,
-      "firstSeen": "2026-11-04",
-      "daysPresent": 12,
+      "firstSeen": "2026-11-11",
+      "daysPresent": 5,
       "inGrace": true,
-      "gracePeriodEndsIn": 2,
+      "gracePeriodEndsIn": 9,
       "warsJoined": 0,
       "warsTotal": 40,
       "clan": {
         "total": null,
         "pillars": {
           "donations": 0,
-          "raids": 75,
-          "loot": 54
+          "raids": 0,
+          "loot": 0
         },
         "tier": null
       },
@@ -1480,22 +1447,22 @@
       }
     },
     {
-      "tag": "#P9JRU9GY2",
-      "name": "yuwen",
-      "role": "member",
+      "tag": "#Y9P09C9LR",
+      "name": "thenerve",
+      "role": "admin",
       "th": 13,
-      "firstSeen": "2026-11-11",
-      "daysPresent": 5,
+      "firstSeen": "2026-11-04",
+      "daysPresent": 12,
       "inGrace": true,
-      "gracePeriodEndsIn": 9,
+      "gracePeriodEndsIn": 2,
       "warsJoined": 0,
       "warsTotal": 40,
       "clan": {
         "total": null,
         "pillars": {
           "donations": 0,
-          "raids": 0,
-          "loot": 0
+          "raids": 75,
+          "loot": 54
         },
         "tier": null
       },
