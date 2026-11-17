@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T13:03:03.828Z",
+  "generatedAt": "2026-11-17T22:09:29.808Z",
   "snapshotDate": "2026-11-17",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -710,40 +710,6 @@
       }
     },
     {
-      "tag": "#8R2GYC09J",
-      "name": "immortal soul",
-      "role": "admin",
-      "th": 14,
-      "firstSeen": "2026-10-14",
-      "daysPresent": 34,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 11,
-      "warsTotal": 40,
-      "clan": {
-        "total": 63.1,
-        "pillars": {
-          "donations": 41,
-          "raids": 78,
-          "loot": 77
-        },
-        "tier": "Rare"
-      },
-      "war": {
-        "total": 59.7,
-        "status": null,
-        "cap": "Uncommon",
-        "pillars": {
-          "reliability": 70,
-          "performance": 44
-        },
-        "available": 10,
-        "used": 7,
-        "misses": 3,
-        "tier": "Uncommon"
-      }
-    },
-    {
       "tag": "#PJ22QYY22",
       "name": "thegodlynoob",
       "role": "admin",
@@ -981,6 +947,39 @@
       }
     },
     {
+      "tag": "#G2G8R9RPC",
+      "name": "gangster1000000",
+      "role": "admin",
+      "th": 16,
+      "firstSeen": "2026-08-07",
+      "daysPresent": 102,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 1,
+      "warsTotal": 40,
+      "clan": {
+        "total": 32.3,
+        "pillars": {
+          "donations": 81,
+          "raids": 0,
+          "loot": 0
+        },
+        "tier": "Common"
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 2,
+        "used": 2,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#GGJY8JJQ0",
       "name": "Hazkie",
       "role": "admin",
@@ -1012,39 +1011,6 @@
         "used": 6,
         "misses": 4,
         "tier": "Uncommon"
-      }
-    },
-    {
-      "tag": "#G2G8R9RPC",
-      "name": "gangster1000000",
-      "role": "admin",
-      "th": 16,
-      "firstSeen": "2026-08-07",
-      "daysPresent": 102,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 1,
-      "warsTotal": 40,
-      "clan": {
-        "total": 29.3,
-        "pillars": {
-          "donations": 73,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": "Common"
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 2,
-        "used": 2,
-        "misses": 0,
-        "tier": null
       }
     },
     {
@@ -1282,39 +1248,6 @@
       }
     },
     {
-      "tag": "#2YY8PRLP8",
-      "name": "C-JapsGravySock",
-      "role": "member",
-      "th": 15,
-      "firstSeen": "2026-11-08",
-      "daysPresent": 9,
-      "inGrace": true,
-      "gracePeriodEndsIn": 5,
-      "warsJoined": 0,
-      "warsTotal": 40,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 39,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
       "tag": "#GV8P2GCJL",
       "name": "Aryak",
       "role": "member",
@@ -1381,22 +1314,22 @@
       }
     },
     {
-      "tag": "#P9JRU9GY2",
-      "name": "yuwen",
-      "role": "member",
+      "tag": "#Y9P09C9LR",
+      "name": "thenerve",
+      "role": "admin",
       "th": 13,
-      "firstSeen": "2026-11-11",
-      "daysPresent": 6,
+      "firstSeen": "2026-11-04",
+      "daysPresent": 13,
       "inGrace": true,
-      "gracePeriodEndsIn": 8,
+      "gracePeriodEndsIn": 1,
       "warsJoined": 0,
       "warsTotal": 40,
       "clan": {
         "total": null,
         "pillars": {
           "donations": 0,
-          "raids": 0,
-          "loot": 0
+          "raids": 75,
+          "loot": 54
         },
         "tier": null
       },
@@ -1414,22 +1347,22 @@
       }
     },
     {
-      "tag": "#Y9P09C9LR",
-      "name": "thenerve",
-      "role": "admin",
+      "tag": "#P9JRU9GY2",
+      "name": "yuwen",
+      "role": "member",
       "th": 13,
-      "firstSeen": "2026-11-04",
-      "daysPresent": 13,
+      "firstSeen": "2026-11-11",
+      "daysPresent": 6,
       "inGrace": true,
-      "gracePeriodEndsIn": 1,
+      "gracePeriodEndsIn": 8,
       "warsJoined": 0,
       "warsTotal": 40,
       "clan": {
         "total": null,
         "pillars": {
           "donations": 0,
-          "raids": 75,
-          "loot": 54
+          "raids": 0,
+          "loot": 0
         },
         "tier": null
       },
@@ -1513,6 +1446,39 @@
       }
     },
     {
+      "tag": "#Q2ULJP9R9",
+      "name": "ali,ma999",
+      "role": "member",
+      "th": 14,
+      "firstSeen": "2026-11-17",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 40,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#LQV9Q00R2",
       "name": "Electro Dragon",
       "role": "member",
@@ -1526,7 +1492,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 61,
+          "donations": 100,
           "raids": 0,
           "loot": 0
         },
