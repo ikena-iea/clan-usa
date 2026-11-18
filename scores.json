@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T13:46:20.560Z",
+  "generatedAt": "2026-11-18T21:47:06.580Z",
   "snapshotDate": "2026-11-18",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1013,40 +1013,6 @@
       }
     },
     {
-      "tag": "#GGJY8JJQ0",
-      "name": "Hazkie",
-      "role": "admin",
-      "th": 13,
-      "firstSeen": "2026-09-11",
-      "daysPresent": 68,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 12,
-      "warsTotal": 40,
-      "clan": {
-        "total": 29.4,
-        "pillars": {
-          "donations": 0,
-          "raids": 29,
-          "loot": 78
-        },
-        "tier": "Common"
-      },
-      "war": {
-        "total": 53.7,
-        "status": null,
-        "cap": "Uncommon",
-        "pillars": {
-          "reliability": 60,
-          "performance": 44
-        },
-        "available": 10,
-        "used": 6,
-        "misses": 4,
-        "tier": "Uncommon"
-      }
-    },
-    {
       "tag": "#GVR9JY0VU",
       "name": "Lion",
       "role": "admin",
@@ -1281,6 +1247,39 @@
       }
     },
     {
+      "tag": "#QYC9L882P",
+      "name": "ANDREWS BOAMAH",
+      "role": "member",
+      "th": 15,
+      "firstSeen": "2026-11-18",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 40,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#GV8P2GCJL",
       "name": "Aryak",
       "role": "member",
@@ -1349,6 +1348,39 @@
     {
       "tag": "#QVJ0G9UR2",
       "name": "lion, J 46",
+      "role": "member",
+      "th": 14,
+      "firstSeen": "2026-11-18",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 40,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#LCLVYJYGC",
+      "name": "turjo",
       "role": "member",
       "th": 14,
       "firstSeen": "2026-11-18",
@@ -1594,6 +1626,39 @@
           "donations": 100,
           "raids": 0,
           "loot": 0
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#G8UYRYCQQ",
+      "name": "tobito",
+      "role": "member",
+      "th": 14,
+      "firstSeen": "2026-11-18",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 40,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
         },
         "tier": null
       },
