@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T03:07:47.693Z",
+  "generatedAt": "2026-11-19T12:47:07.576Z",
   "snapshotDate": "2026-11-19",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1244,6 +1244,39 @@
         "used": 8,
         "misses": 2,
         "tier": "Rare"
+      }
+    },
+    {
+      "tag": "#GU9JU0V2L",
+      "name": "wali alham 1",
+      "role": "member",
+      "th": 14,
+      "firstSeen": "2026-11-19",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 40,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
       }
     },
     {
