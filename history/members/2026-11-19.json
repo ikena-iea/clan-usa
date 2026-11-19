@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "capturedAt": "2026-11-19T12:47:06.953Z",
+  "capturedAt": "2026-11-19T21:20:00.234Z",
   "clanLevel": 9,
   "memberCount": 50,
   "members": [
@@ -32,7 +32,7 @@
       "role": "admin",
       "th": 18,
       "expLevel": 204,
-      "trophies": 231,
+      "trophies": 242,
       "donations": 706,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -55,7 +55,7 @@
       "th": 18,
       "expLevel": 218,
       "trophies": 196,
-      "donations": 1571,
+      "donations": 1618,
       "donationsReceived": 177,
       "capitalContributions": 0
     },
@@ -131,7 +131,7 @@
       "role": "admin",
       "th": 14,
       "expLevel": 126,
-      "trophies": 412,
+      "trophies": 432,
       "donations": 260,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -175,9 +175,20 @@
       "role": "admin",
       "th": 13,
       "expLevel": 155,
-      "trophies": 210,
+      "trophies": 222,
       "donations": 115,
       "donationsReceived": 799,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#LQV9Q00R2",
+      "name": "Electro Dragon",
+      "role": "member",
+      "th": 15,
+      "expLevel": 184,
+      "trophies": 15,
+      "donations": 140,
+      "donationsReceived": 332,
       "capitalContributions": 0
     },
     {
@@ -196,10 +207,21 @@
       "name": "Toslim",
       "role": "admin",
       "th": 13,
-      "expLevel": 118,
+      "expLevel": 119,
       "trophies": 405,
       "donations": 562,
       "donationsReceived": 740,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#20YVV9Q99",
+      "name": "CupOfJoe",
+      "role": "admin",
+      "th": 14,
+      "expLevel": 175,
+      "trophies": 386,
+      "donations": 1897,
+      "donationsReceived": 467,
       "capitalContributions": 0
     },
     {
@@ -211,17 +233,6 @@
       "trophies": 371,
       "donations": 3,
       "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#20YVV9Q99",
-      "name": "CupOfJoe",
-      "role": "admin",
-      "th": 14,
-      "expLevel": 175,
-      "trophies": 365,
-      "donations": 1897,
-      "donationsReceived": 467,
       "capitalContributions": 0
     },
     {
@@ -241,7 +252,7 @@
       "role": "coLeader",
       "th": 13,
       "expLevel": 100,
-      "trophies": 145,
+      "trophies": 165,
       "donations": 356,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -276,7 +287,7 @@
       "expLevel": 151,
       "trophies": 0,
       "donations": 0,
-      "donationsReceived": 0,
+      "donationsReceived": 47,
       "capitalContributions": 0
     },
     {
@@ -362,7 +373,7 @@
       "role": "coLeader",
       "th": 11,
       "expLevel": 71,
-      "trophies": 254,
+      "trophies": 294,
       "donations": 108,
       "donationsReceived": 1624,
       "capitalContributions": 0
@@ -519,17 +530,6 @@
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#LQV9Q00R2",
-      "name": "Electro Dragon",
-      "role": "member",
-      "th": 15,
-      "expLevel": 184,
-      "trophies": 0,
-      "donations": 140,
-      "donationsReceived": 332,
       "capitalContributions": 0
     },
     {
