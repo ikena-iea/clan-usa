@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T11:20:53.592Z",
+  "generatedAt": "2026-11-20T19:56:42.082Z",
   "snapshotDate": "2026-11-20",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1557,7 +1557,7 @@
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 1,
+          "donations": 3,
           "raids": 0,
           "loot": 0
         },
