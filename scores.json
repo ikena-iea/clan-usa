@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T09:33:34.649Z",
+  "generatedAt": "2026-11-21T17:18:03.723Z",
   "snapshotDate": "2026-11-21",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -129,6 +129,40 @@
         "used": 10,
         "misses": 0,
         "tier": "Epic"
+      }
+    },
+    {
+      "tag": "#GYC8Q2R20",
+      "name": "lucky",
+      "role": "admin",
+      "th": 13,
+      "firstSeen": "2026-07-28",
+      "daysPresent": 116,
+      "inGrace": false,
+      "gracePeriodEndsIn": 0,
+      "warsJoined": 28,
+      "warsTotal": 41,
+      "clan": {
+        "total": 94.2,
+        "pillars": {
+          "donations": 94,
+          "raids": 100,
+          "loot": 86
+        },
+        "tier": "Legendary"
+      },
+      "war": {
+        "total": 79.1,
+        "status": null,
+        "cap": "Rare",
+        "pillars": {
+          "reliability": 100,
+          "performance": 48
+        },
+        "available": 10,
+        "used": 10,
+        "misses": 0,
+        "tier": "Rare"
       }
     },
     {
@@ -435,40 +469,6 @@
         "used": 10,
         "misses": 0,
         "tier": "Epic"
-      }
-    },
-    {
-      "tag": "#GYC8Q2R20",
-      "name": "lucky",
-      "role": "admin",
-      "th": 13,
-      "firstSeen": "2026-07-28",
-      "daysPresent": 116,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 28,
-      "warsTotal": 41,
-      "clan": {
-        "total": 89.1,
-        "pillars": {
-          "donations": 81,
-          "raids": 100,
-          "loot": 86
-        },
-        "tier": "Legendary"
-      },
-      "war": {
-        "total": 79.1,
-        "status": null,
-        "cap": "Rare",
-        "pillars": {
-          "reliability": 100,
-          "performance": 48
-        },
-        "available": 10,
-        "used": 10,
-        "misses": 0,
-        "tier": "Rare"
       }
     },
     {
@@ -1247,22 +1247,22 @@
       }
     },
     {
-      "tag": "#GU9JU0V2L",
-      "name": "wali alham 1",
+      "tag": "#LQV9Q00R2",
+      "name": "Electro Dragon",
       "role": "member",
-      "th": 14,
-      "firstSeen": "2026-11-19",
-      "daysPresent": 2,
+      "th": 15,
+      "firstSeen": "2026-11-10",
+      "daysPresent": 11,
       "inGrace": true,
-      "gracePeriodEndsIn": 12,
-      "warsJoined": 0,
+      "gracePeriodEndsIn": 3,
+      "warsJoined": 1,
       "warsTotal": 41,
       "clan": {
         "total": null,
         "pillars": {
-          "donations": 100,
-          "raids": null,
-          "loot": null
+          "donations": 95,
+          "raids": 0,
+          "loot": 0
         },
         "tier": null
       },
@@ -1273,8 +1273,8 @@
           "reliability": null,
           "performance": null
         },
-        "available": 0,
-        "used": 0,
+        "available": 2,
+        "used": 2,
         "misses": 0,
         "tier": null
       }
@@ -1309,39 +1309,6 @@
         "available": 2,
         "used": 0,
         "misses": 2,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#LQV9Q00R2",
-      "name": "Electro Dragon",
-      "role": "member",
-      "th": 15,
-      "firstSeen": "2026-11-10",
-      "daysPresent": 11,
-      "inGrace": true,
-      "gracePeriodEndsIn": 3,
-      "warsJoined": 1,
-      "warsTotal": 41,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 95,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 2,
-        "used": 2,
-        "misses": 0,
         "tier": null
       }
     },

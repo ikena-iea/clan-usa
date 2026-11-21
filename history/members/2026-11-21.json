@@ -1,8 +1,8 @@
 {
   "date": "2026-11-21",
-  "capturedAt": "2026-11-21T09:33:34.089Z",
+  "capturedAt": "2026-11-21T17:18:02.540Z",
   "clanLevel": 9,
-  "memberCount": 50,
+  "memberCount": 49,
   "members": [
     {
       "tag": "#QUV9Q9VC",
@@ -32,7 +32,7 @@
       "role": "admin",
       "th": 17,
       "expLevel": 171,
-      "trophies": 273,
+      "trophies": 288,
       "donations": 368,
       "donationsReceived": 860,
       "capitalContributions": 0
@@ -43,8 +43,8 @@
       "role": "admin",
       "th": 18,
       "expLevel": 218,
-      "trophies": 267,
-      "donations": 1655,
+      "trophies": 287,
+      "donations": 1715,
       "donationsReceived": 177,
       "capitalContributions": 0
     },
@@ -111,7 +111,7 @@
       "expLevel": 148,
       "trophies": 285,
       "donations": 1975,
-      "donationsReceived": 1541,
+      "donationsReceived": 1733,
       "capitalContributions": 0
     },
     {
@@ -141,21 +141,21 @@
       "name": "THE ROCK",
       "role": "admin",
       "th": 15,
-      "expLevel": 164,
-      "trophies": 522,
+      "expLevel": 165,
+      "trophies": 550,
       "donations": 639,
-      "donationsReceived": 1581,
+      "donationsReceived": 1634,
       "capitalContributions": 0
     },
     {
-      "tag": "#GU9JU0V2L",
-      "name": "wali alham 1",
+      "tag": "#LQV9Q00R2",
+      "name": "Electro Dragon",
       "role": "member",
-      "th": 14,
-      "expLevel": 141,
-      "trophies": 141,
-      "donations": 63,
-      "donationsReceived": 0,
+      "th": 15,
+      "expLevel": 184,
+      "trophies": 322,
+      "donations": 140,
+      "donationsReceived": 332,
       "capitalContributions": 0
     },
     {
@@ -181,17 +181,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#LQV9Q00R2",
-      "name": "Electro Dragon",
-      "role": "member",
-      "th": 15,
-      "expLevel": 184,
-      "trophies": 88,
-      "donations": 140,
-      "donationsReceived": 332,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#GV8P2GCJL",
       "name": "Aryak",
       "role": "member",
@@ -209,7 +198,7 @@
       "th": 13,
       "expLevel": 119,
       "trophies": 417,
-      "donations": 563,
+      "donations": 614,
       "donationsReceived": 740,
       "capitalContributions": 0
     },
@@ -229,7 +218,7 @@
       "name": "CupOfJoe",
       "role": "admin",
       "th": 14,
-      "expLevel": 175,
+      "expLevel": 176,
       "trophies": 386,
       "donations": 1905,
       "donationsReceived": 467,
@@ -297,7 +286,7 @@
       "th": 14,
       "expLevel": 147,
       "trophies": 0,
-      "donations": 555,
+      "donations": 585,
       "donationsReceived": 220,
       "capitalContributions": 0
     },
@@ -317,9 +306,9 @@
       "name": "lucky",
       "role": "admin",
       "th": 13,
-      "expLevel": 110,
+      "expLevel": 111,
       "trophies": 0,
-      "donations": 106,
+      "donations": 157,
       "donationsReceived": 3,
       "capitalContributions": 0
     },
@@ -438,7 +427,7 @@
       "name": "jalisco3530",
       "role": "member",
       "th": 14,
-      "expLevel": 102,
+      "expLevel": 103,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -539,7 +528,7 @@
       "th": 19,
       "expLevel": 242,
       "trophies": 0,
-      "donations": 928,
+      "donations": 981,
       "donationsReceived": 634,
       "capitalContributions": 0
     },
