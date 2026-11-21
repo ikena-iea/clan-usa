@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "capturedAt": "2026-11-21T01:21:06.161Z",
+  "capturedAt": "2026-11-21T09:33:34.089Z",
   "clanLevel": 9,
   "memberCount": 50,
   "members": [
@@ -27,6 +27,28 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GC28UJL8L",
+      "name": "zaman777",
+      "role": "admin",
+      "th": 17,
+      "expLevel": 171,
+      "trophies": 273,
+      "donations": 368,
+      "donationsReceived": 860,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#28UUJQGVC",
+      "name": "Kickass",
+      "role": "admin",
+      "th": 18,
+      "expLevel": 218,
+      "trophies": 267,
+      "donations": 1655,
+      "donationsReceived": 177,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#9Y8JCVPGL",
       "name": ",,,",
       "role": "admin",
@@ -38,34 +60,12 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#28UUJQGVC",
-      "name": "Kickass",
-      "role": "admin",
-      "th": 18,
-      "expLevel": 218,
-      "trophies": 252,
-      "donations": 1655,
-      "donationsReceived": 177,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GC28UJL8L",
-      "name": "zaman777",
-      "role": "admin",
-      "th": 17,
-      "expLevel": 171,
-      "trophies": 200,
-      "donations": 368,
-      "donationsReceived": 860,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#92L2Y2JG",
       "name": "Seth",
       "role": "admin",
       "th": 17,
       "expLevel": 219,
-      "trophies": 393,
+      "trophies": 401,
       "donations": 819,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -87,20 +87,9 @@
       "role": "admin",
       "th": 16,
       "expLevel": 181,
-      "trophies": 282,
+      "trophies": 300,
       "donations": 56,
-      "donationsReceived": 1179,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#YCUPQPCY2",
-      "name": "DROGBA",
-      "role": "admin",
-      "th": 16,
-      "expLevel": 148,
-      "trophies": 274,
-      "donations": 1925,
-      "donationsReceived": 1541,
+      "donationsReceived": 1229,
       "capitalContributions": 0
     },
     {
@@ -109,9 +98,20 @@
       "role": "coLeader",
       "th": 14,
       "expLevel": 136,
-      "trophies": 3,
+      "trophies": 292,
       "donations": 269,
       "donationsReceived": 78,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#YCUPQPCY2",
+      "name": "DROGBA",
+      "role": "admin",
+      "th": 16,
+      "expLevel": 148,
+      "trophies": 285,
+      "donations": 1975,
+      "donationsReceived": 1541,
       "capitalContributions": 0
     },
     {
@@ -153,7 +153,7 @@
       "role": "member",
       "th": 14,
       "expLevel": 141,
-      "trophies": 114,
+      "trophies": 141,
       "donations": 63,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -214,6 +214,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#LUV2VPQ0P",
+      "name": "Hilkeröderjunge",
+      "role": "member",
+      "th": 14,
+      "expLevel": 139,
+      "trophies": 399,
+      "donations": 198,
+      "donationsReceived": 77,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#20YVV9Q99",
       "name": "CupOfJoe",
       "role": "admin",
@@ -230,20 +241,9 @@
       "role": "admin",
       "th": 13,
       "expLevel": 109,
-      "trophies": 371,
+      "trophies": 381,
       "donations": 3,
       "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#LUV2VPQ0P",
-      "name": "Hilkeröderjunge",
-      "role": "member",
-      "th": 14,
-      "expLevel": 139,
-      "trophies": 370,
-      "donations": 198,
-      "donationsReceived": 77,
       "capitalContributions": 0
     },
     {
