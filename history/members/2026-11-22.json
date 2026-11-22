@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "capturedAt": "2026-11-22T03:01:28.349Z",
+  "capturedAt": "2026-11-22T12:26:52.461Z",
   "clanLevel": 9,
   "memberCount": 49,
   "members": [
@@ -10,7 +10,7 @@
       "role": "admin",
       "th": 18,
       "expLevel": 237,
-      "trophies": 577,
+      "trophies": 604,
       "donations": 587,
       "donationsReceived": 354,
       "capitalContributions": 0
@@ -21,7 +21,7 @@
       "role": "admin",
       "th": 17,
       "expLevel": 272,
-      "trophies": 177,
+      "trophies": 189,
       "donations": 1219,
       "donationsReceived": 2183,
       "capitalContributions": 0
@@ -108,9 +108,9 @@
       "name": "DROGBA",
       "role": "admin",
       "th": 16,
-      "expLevel": 148,
+      "expLevel": 149,
       "trophies": 285,
-      "donations": 1975,
+      "donations": 2020,
       "donationsReceived": 1733,
       "capitalContributions": 0
     },
@@ -153,7 +153,7 @@
       "role": "member",
       "th": 15,
       "expLevel": 184,
-      "trophies": 322,
+      "trophies": 351,
       "donations": 140,
       "donationsReceived": 332,
       "capitalContributions": 0
@@ -198,7 +198,7 @@
       "th": 13,
       "expLevel": 119,
       "trophies": 417,
-      "donations": 614,
+      "donations": 616,
       "donationsReceived": 740,
       "capitalContributions": 0
     },
@@ -241,7 +241,7 @@
       "role": "coLeader",
       "th": 13,
       "expLevel": 100,
-      "trophies": 165,
+      "trophies": 182,
       "donations": 356,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -262,7 +262,7 @@
       "name": "Lion",
       "role": "admin",
       "th": 14,
-      "expLevel": 99,
+      "expLevel": 100,
       "trophies": 160,
       "donations": 0,
       "donationsReceived": 0,
@@ -309,7 +309,7 @@
       "expLevel": 111,
       "trophies": 0,
       "donations": 157,
-      "donationsReceived": 3,
+      "donationsReceived": 80,
       "capitalContributions": 0
     },
     {
@@ -528,7 +528,7 @@
       "th": 19,
       "expLevel": 242,
       "trophies": 0,
-      "donations": 981,
+      "donations": 1011,
       "donationsReceived": 634,
       "capitalContributions": 0
     },
