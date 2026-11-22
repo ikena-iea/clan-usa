@@ -1,8 +1,8 @@
 {
   "date": "2026-11-22",
-  "capturedAt": "2026-11-22T12:26:52.461Z",
+  "capturedAt": "2026-11-22T20:16:28.651Z",
   "clanLevel": 9,
-  "memberCount": 49,
+  "memberCount": 50,
   "members": [
     {
       "tag": "#QUV9Q9VC",
@@ -21,9 +21,20 @@
       "role": "admin",
       "th": 17,
       "expLevel": 272,
-      "trophies": 189,
+      "trophies": 242,
       "donations": 1219,
       "donationsReceived": 2183,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#28UUJQGVC",
+      "name": "Kickass",
+      "role": "admin",
+      "th": 18,
+      "expLevel": 218,
+      "trophies": 326,
+      "donations": 1715,
+      "donationsReceived": 177,
       "capitalContributions": 0
     },
     {
@@ -35,17 +46,6 @@
       "trophies": 288,
       "donations": 368,
       "donationsReceived": 860,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#28UUJQGVC",
-      "name": "Kickass",
-      "role": "admin",
-      "th": 18,
-      "expLevel": 218,
-      "trophies": 287,
-      "donations": 1715,
-      "donationsReceived": 177,
       "capitalContributions": 0
     },
     {
@@ -87,9 +87,20 @@
       "role": "admin",
       "th": 16,
       "expLevel": 181,
-      "trophies": 300,
+      "trophies": 318,
       "donations": 56,
       "donationsReceived": 1229,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#YCUPQPCY2",
+      "name": "DROGBA",
+      "role": "admin",
+      "th": 16,
+      "expLevel": 149,
+      "trophies": 294,
+      "donations": 2020,
+      "donationsReceived": 1733,
       "capitalContributions": 0
     },
     {
@@ -101,17 +112,6 @@
       "trophies": 292,
       "donations": 269,
       "donationsReceived": 78,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#YCUPQPCY2",
-      "name": "DROGBA",
-      "role": "admin",
-      "th": 16,
-      "expLevel": 149,
-      "trophies": 285,
-      "donations": 2020,
-      "donationsReceived": 1733,
       "capitalContributions": 0
     },
     {
@@ -159,6 +159,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#P02U2U9GC",
+      "name": "Diego",
+      "role": "admin",
+      "th": 13,
+      "expLevel": 155,
+      "trophies": 313,
+      "donations": 115,
+      "donationsReceived": 799,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#QYC9L882P",
       "name": "ANDREWS BOAMAH",
       "role": "member",
@@ -167,17 +178,6 @@
       "trophies": 270,
       "donations": 0,
       "donationsReceived": 77,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#P02U2U9GC",
-      "name": "Diego",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 155,
-      "trophies": 222,
-      "donations": 115,
-      "donationsReceived": 799,
       "capitalContributions": 0
     },
     {
@@ -350,7 +350,7 @@
       "name": "lemonyakult",
       "role": "member",
       "th": 12,
-      "expLevel": 100,
+      "expLevel": 101,
       "trophies": 0,
       "donations": 3,
       "donationsReceived": 216,
@@ -365,6 +365,17 @@
       "trophies": 294,
       "donations": 108,
       "donationsReceived": 1624,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#R0U9URRJQ",
+      "name": "samia",
+      "role": "member",
+      "th": 8,
+      "expLevel": 42,
+      "trophies": 301,
+      "donations": 0,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {

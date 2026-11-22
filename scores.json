@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T12:26:54.244Z",
+  "generatedAt": "2026-11-22T20:16:29.181Z",
   "snapshotDate": "2026-11-22",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1527,6 +1527,39 @@
           "donations": 2,
           "raids": 0,
           "loot": 0
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#R0U9URRJQ",
+      "name": "samia",
+      "role": "member",
+      "th": 8,
+      "firstSeen": "2026-11-22",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 41,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
         },
         "tier": null
       },
