@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T10:37:08.756Z",
+  "generatedAt": "2026-11-23T22:31:38.979Z",
   "snapshotDate": "2026-11-23",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -890,9 +890,9 @@
       "warsJoined": 5,
       "warsTotal": 41,
       "clan": {
-        "total": 37.6,
+        "total": 38.2,
         "pillars": {
-          "donations": 14,
+          "donations": 15,
           "raids": 52,
           "loot": 55
         },
@@ -1573,6 +1573,39 @@
         "available": 2,
         "used": 0,
         "misses": 2,
+        "tier": null
+      }
+    },
+    {
+      "tag": "#92QR2YRG8",
+      "name": "uwonk2",
+      "role": "member",
+      "th": 17,
+      "firstSeen": "2026-11-23",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 41,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": 0,
+          "loot": 0
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
         "tier": null
       }
     },
