@@ -1,8 +1,8 @@
 {
   "date": "2026-11-23",
-  "capturedAt": "2026-11-23T01:30:29.569Z",
+  "capturedAt": "2026-11-23T10:37:08.095Z",
   "clanLevel": 9,
-  "memberCount": 50,
+  "memberCount": 49,
   "members": [
     {
       "tag": "#QUV9Q9VC",
@@ -10,7 +10,7 @@
       "role": "admin",
       "th": 18,
       "expLevel": 237,
-      "trophies": 604,
+      "trophies": 0,
       "donations": 587,
       "donationsReceived": 354,
       "capitalContributions": 0
@@ -21,9 +21,20 @@
       "role": "admin",
       "th": 17,
       "expLevel": 272,
-      "trophies": 434,
+      "trophies": 0,
       "donations": 1219,
-      "donationsReceived": 2216,
+      "donationsReceived": 2271,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#92L2Y2JG",
+      "name": "Seth",
+      "role": "admin",
+      "th": 17,
+      "expLevel": 219,
+      "trophies": 0,
+      "donations": 850,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -32,7 +43,7 @@
       "role": "admin",
       "th": 18,
       "expLevel": 218,
-      "trophies": 326,
+      "trophies": 0,
       "donations": 1715,
       "donationsReceived": 177,
       "capitalContributions": 0
@@ -43,7 +54,7 @@
       "role": "admin",
       "th": 17,
       "expLevel": 171,
-      "trophies": 288,
+      "trophies": 0,
       "donations": 368,
       "donationsReceived": 860,
       "capitalContributions": 0
@@ -54,19 +65,8 @@
       "role": "admin",
       "th": 18,
       "expLevel": 204,
-      "trophies": 268,
+      "trophies": 0,
       "donations": 793,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#92L2Y2JG",
-      "name": "Seth",
-      "role": "admin",
-      "th": 17,
-      "expLevel": 219,
-      "trophies": 401,
-      "donations": 850,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -76,20 +76,9 @@
       "role": "coLeader",
       "th": 18,
       "expLevel": 156,
-      "trophies": 93,
+      "trophies": 0,
       "donations": 807,
       "donationsReceived": 206,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#G2G8R9RPC",
-      "name": "gangster1000000",
-      "role": "admin",
-      "th": 16,
-      "expLevel": 181,
-      "trophies": 318,
-      "donations": 56,
-      "donationsReceived": 1229,
       "capitalContributions": 0
     },
     {
@@ -98,9 +87,20 @@
       "role": "admin",
       "th": 16,
       "expLevel": 149,
-      "trophies": 294,
+      "trophies": 0,
       "donations": 2020,
       "donationsReceived": 1733,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#G2G8R9RPC",
+      "name": "gangster1000000",
+      "role": "admin",
+      "th": 16,
+      "expLevel": 181,
+      "trophies": 0,
+      "donations": 56,
+      "donationsReceived": 1229,
       "capitalContributions": 0
     },
     {
@@ -109,7 +109,7 @@
       "role": "coLeader",
       "th": 14,
       "expLevel": 136,
-      "trophies": 292,
+      "trophies": 0,
       "donations": 269,
       "donationsReceived": 78,
       "capitalContributions": 0
@@ -120,7 +120,7 @@
       "role": "coLeader",
       "th": 15,
       "expLevel": 140,
-      "trophies": 425,
+      "trophies": 0,
       "donations": 2434,
       "donationsReceived": 1434,
       "capitalContributions": 0
@@ -131,7 +131,7 @@
       "role": "admin",
       "th": 14,
       "expLevel": 126,
-      "trophies": 432,
+      "trophies": 0,
       "donations": 260,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -142,9 +142,9 @@
       "role": "admin",
       "th": 15,
       "expLevel": 165,
-      "trophies": 577,
+      "trophies": 0,
       "donations": 639,
-      "donationsReceived": 1687,
+      "donationsReceived": 1717,
       "capitalContributions": 0
     },
     {
@@ -153,7 +153,7 @@
       "role": "member",
       "th": 15,
       "expLevel": 185,
-      "trophies": 351,
+      "trophies": 0,
       "donations": 140,
       "donationsReceived": 332,
       "capitalContributions": 0
@@ -164,7 +164,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 155,
-      "trophies": 313,
+      "trophies": 0,
       "donations": 115,
       "donationsReceived": 799,
       "capitalContributions": 0
@@ -175,7 +175,7 @@
       "role": "member",
       "th": 15,
       "expLevel": 134,
-      "trophies": 270,
+      "trophies": 0,
       "donations": 0,
       "donationsReceived": 77,
       "capitalContributions": 0
@@ -192,25 +192,14 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#GRGL2UUUJ",
-      "name": "Toslim",
+      "tag": "#PJ22QYY22",
+      "name": "thegodlynoob",
       "role": "admin",
       "th": 13,
-      "expLevel": 119,
-      "trophies": 417,
-      "donations": 616,
-      "donationsReceived": 740,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#LUV2VPQ0P",
-      "name": "Hilkeröderjunge",
-      "role": "member",
-      "th": 14,
-      "expLevel": 139,
-      "trophies": 399,
-      "donations": 198,
-      "donationsReceived": 77,
+      "expLevel": 109,
+      "trophies": 0,
+      "donations": 3,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -219,20 +208,31 @@
       "role": "admin",
       "th": 14,
       "expLevel": 176,
-      "trophies": 386,
+      "trophies": 0,
       "donations": 1905,
       "donationsReceived": 467,
       "capitalContributions": 0
     },
     {
-      "tag": "#PJ22QYY22",
-      "name": "thegodlynoob",
+      "tag": "#LUV2VPQ0P",
+      "name": "Hilkeröderjunge",
+      "role": "member",
+      "th": 14,
+      "expLevel": 139,
+      "trophies": 0,
+      "donations": 198,
+      "donationsReceived": 77,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#GRGL2UUUJ",
+      "name": "Toslim",
       "role": "admin",
       "th": 13,
-      "expLevel": 109,
-      "trophies": 381,
-      "donations": 3,
-      "donationsReceived": 0,
+      "expLevel": 119,
+      "trophies": 0,
+      "donations": 616,
+      "donationsReceived": 740,
       "capitalContributions": 0
     },
     {
@@ -240,31 +240,9 @@
       "name": "LegitN00b98",
       "role": "coLeader",
       "th": 13,
-      "expLevel": 100,
-      "trophies": 182,
+      "expLevel": 101,
+      "trophies": 0,
       "donations": 356,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#QVJ0G9UR2",
-      "name": "lion, J 46",
-      "role": "member",
-      "th": 14,
-      "expLevel": 89,
-      "trophies": 264,
-      "donations": 0,
-      "donationsReceived": 109,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#GVR9JY0VU",
-      "name": "Lion",
-      "role": "admin",
-      "th": 14,
-      "expLevel": 100,
-      "trophies": 160,
-      "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -280,6 +258,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GC0LJ988L",
+      "name": "gurney halleck",
+      "role": "member",
+      "th": 13,
+      "expLevel": 73,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#2299L899V",
       "name": "Dr.B00m",
       "role": "admin",
@@ -291,14 +280,14 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#Y9P09C9LR",
-      "name": "thenerve",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 116,
-      "trophies": 60,
+      "tag": "#QVJ0G9UR2",
+      "name": "lion, J 46",
+      "role": "member",
+      "th": 14,
+      "expLevel": 90,
+      "trophies": 0,
       "donations": 0,
-      "donationsReceived": 0,
+      "donationsReceived": 109,
       "capitalContributions": 0
     },
     {
@@ -324,17 +313,6 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#GC0LJ988L",
-      "name": "gurney halleck",
-      "role": "member",
-      "th": 13,
-      "expLevel": 72,
-      "trophies": 178,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#8J0UU8GPQ",
       "name": "cnt",
       "role": "admin",
@@ -342,6 +320,17 @@
       "expLevel": 112,
       "trophies": 0,
       "donations": 55,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#Y9P09C9LR",
+      "name": "thenerve",
+      "role": "admin",
+      "th": 13,
+      "expLevel": 116,
+      "trophies": 0,
+      "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -362,7 +351,7 @@
       "role": "coLeader",
       "th": 11,
       "expLevel": 72,
-      "trophies": 294,
+      "trophies": 0,
       "donations": 108,
       "donationsReceived": 1624,
       "capitalContributions": 0
@@ -373,7 +362,7 @@
       "role": "member",
       "th": 8,
       "expLevel": 42,
-      "trophies": 301,
+      "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -418,7 +407,7 @@
       "th": 19,
       "expLevel": 257,
       "trophies": 0,
-      "donations": 1290,
+      "donations": 1375,
       "donationsReceived": 629,
       "capitalContributions": 0
     },
