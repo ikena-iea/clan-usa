@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T12:39:32.578Z",
+  "generatedAt": "2026-11-25T22:21:25.494Z",
   "snapshotDate": "2026-11-25",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -879,40 +879,6 @@
       }
     },
     {
-      "tag": "#8J0UU8GPQ",
-      "name": "cnt",
-      "role": "admin",
-      "th": 13,
-      "firstSeen": "2026-10-14",
-      "daysPresent": 42,
-      "inGrace": false,
-      "gracePeriodEndsIn": 0,
-      "warsJoined": 6,
-      "warsTotal": 42,
-      "clan": {
-        "total": 38.2,
-        "pillars": {
-          "donations": 15,
-          "raids": 52,
-          "loot": 55
-        },
-        "tier": "Common"
-      },
-      "war": {
-        "total": 44.5,
-        "status": null,
-        "cap": "Uncommon",
-        "pillars": {
-          "reliability": 50,
-          "performance": 36
-        },
-        "available": 10,
-        "used": 5,
-        "misses": 5,
-        "tier": "Uncommon"
-      }
-    },
-    {
       "tag": "#Y9P09C9LR",
       "name": "thenerve",
       "role": "admin",
@@ -1281,6 +1247,39 @@
       }
     },
     {
+      "tag": "#QV9LVYCUR",
+      "name": "Oso",
+      "role": "member",
+      "th": 15,
+      "firstSeen": "2026-11-25",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 42,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#QYC9L882P",
       "name": "ANDREWS BOAMAH",
       "role": "member",
@@ -1414,39 +1413,6 @@
       }
     },
     {
-      "tag": "#GC0LJ988L",
-      "name": "gurney halleck",
-      "role": "member",
-      "th": 13,
-      "firstSeen": "2026-11-17",
-      "daysPresent": 8,
-      "inGrace": true,
-      "gracePeriodEndsIn": 6,
-      "warsJoined": 1,
-      "warsTotal": 42,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 2,
-        "used": 0,
-        "misses": 2,
-        "tier": null
-      }
-    },
-    {
       "tag": "#QVJ0G9UR2",
       "name": "lion, J 46",
       "role": "member",
@@ -1521,106 +1487,6 @@
       "daysPresent": 3,
       "inGrace": true,
       "gracePeriodEndsIn": 11,
-      "warsJoined": 0,
-      "warsTotal": 42,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 0,
-        "used": 0,
-        "misses": 0,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#Q2ULJP9R9",
-      "name": "ali,ma999",
-      "role": "member",
-      "th": 14,
-      "firstSeen": "2026-11-17",
-      "daysPresent": 8,
-      "inGrace": true,
-      "gracePeriodEndsIn": 6,
-      "warsJoined": 1,
-      "warsTotal": 42,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 2,
-        "used": 0,
-        "misses": 2,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#GYUPU092G",
-      "name": "jalisco3530",
-      "role": "member",
-      "th": 14,
-      "firstSeen": "2026-11-18",
-      "daysPresent": 7,
-      "inGrace": true,
-      "gracePeriodEndsIn": 7,
-      "warsJoined": 2,
-      "warsTotal": 42,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": null,
-        "cap": "Uncommon",
-        "pillars": {
-          "reliability": 25,
-          "performance": null
-        },
-        "available": 4,
-        "used": 0,
-        "misses": 4,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#88JYUVP82",
-      "name": "Elizabeth",
-      "role": "member",
-      "th": 14,
-      "firstSeen": "2026-11-18",
-      "daysPresent": 7,
-      "inGrace": true,
-      "gracePeriodEndsIn": 7,
       "warsJoined": 0,
       "warsTotal": 42,
       "clan": {
