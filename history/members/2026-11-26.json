@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "capturedAt": "2026-11-26T04:52:43.214Z",
+  "capturedAt": "2026-11-26T14:56:26.316Z",
   "clanLevel": 9,
   "memberCount": 45,
   "members": [
@@ -10,8 +10,8 @@
       "role": "admin",
       "th": 18,
       "expLevel": 237,
-      "trophies": 310,
-      "donations": 639,
+      "trophies": 424,
+      "donations": 689,
       "donationsReceived": 354,
       "capitalContributions": 0
     },
@@ -27,25 +27,25 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#9Y8JCVPGL",
-      "name": ",,,",
-      "role": "admin",
-      "th": 18,
-      "expLevel": 204,
-      "trophies": 184,
-      "donations": 929,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#28UUJQGVC",
       "name": "Kickass",
       "role": "admin",
       "th": 18,
       "expLevel": 218,
-      "trophies": 149,
+      "trophies": 213,
       "donations": 1910,
       "donationsReceived": 177,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#9Y8JCVPGL",
+      "name": ",,,",
+      "role": "admin",
+      "th": 18,
+      "expLevel": 204,
+      "trophies": 212,
+      "donations": 929,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -54,7 +54,7 @@
       "role": "admin",
       "th": 17,
       "expLevel": 171,
-      "trophies": 48,
+      "trophies": 62,
       "donations": 368,
       "donationsReceived": 860,
       "capitalContributions": 0
@@ -88,8 +88,8 @@
       "th": 16,
       "expLevel": 149,
       "trophies": 311,
-      "donations": 2301,
-      "donationsReceived": 2461,
+      "donations": 2337,
+      "donationsReceived": 2491,
       "capitalContributions": 0
     },
     {
@@ -104,25 +104,25 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#R292L228Q",
+      "name": "Ikena",
+      "role": "coLeader",
+      "th": 14,
+      "expLevel": 137,
+      "trophies": 369,
+      "donations": 429,
+      "donationsReceived": 78,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#GYVPLJRRL",
       "name": "DaHairyVeer2",
       "role": "coLeader",
       "th": 15,
       "expLevel": 141,
       "trophies": 254,
-      "donations": 2515,
+      "donations": 2527,
       "donationsReceived": 1516,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#R292L228Q",
-      "name": "Ikena",
-      "role": "coLeader",
-      "th": 14,
-      "expLevel": 137,
-      "trophies": 227,
-      "donations": 429,
-      "donationsReceived": 78,
       "capitalContributions": 0
     },
     {
@@ -144,7 +144,7 @@
       "expLevel": 165,
       "trophies": 0,
       "donations": 690,
-      "donationsReceived": 1923,
+      "donationsReceived": 1973,
       "capitalContributions": 0
     },
     {
@@ -153,7 +153,7 @@
       "role": "member",
       "th": 15,
       "expLevel": 185,
-      "trophies": 338,
+      "trophies": 368,
       "donations": 143,
       "donationsReceived": 415,
       "capitalContributions": 0
@@ -175,7 +175,7 @@
       "role": "member",
       "th": 15,
       "expLevel": 134,
-      "trophies": 35,
+      "trophies": 189,
       "donations": 0,
       "donationsReceived": 154,
       "capitalContributions": 0
@@ -230,7 +230,7 @@
       "role": "member",
       "th": 14,
       "expLevel": 140,
-      "trophies": 85,
+      "trophies": 154,
       "donations": 275,
       "donationsReceived": 77,
       "capitalContributions": 0
@@ -276,7 +276,7 @@
       "expLevel": 148,
       "trophies": 0,
       "donations": 585,
-      "donationsReceived": 220,
+      "donationsReceived": 268,
       "capitalContributions": 0
     },
     {
@@ -318,7 +318,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 117,
-      "trophies": 29,
+      "trophies": 41,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -350,7 +350,7 @@
       "name": "samia",
       "role": "member",
       "th": 8,
-      "expLevel": 44,
+      "expLevel": 45,
       "trophies": 233,
       "donations": 0,
       "donationsReceived": 0,
@@ -372,7 +372,7 @@
       "name": "KhanSher",
       "role": "admin",
       "th": 17,
-      "expLevel": 168,
+      "expLevel": 169,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
@@ -407,7 +407,7 @@
       "th": 15,
       "expLevel": 178,
       "trophies": 0,
-      "donations": 577,
+      "donations": 607,
       "donationsReceived": 595,
       "capitalContributions": 0
     },
