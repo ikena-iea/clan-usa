@@ -1,8 +1,8 @@
 {
   "date": "2026-11-26",
-  "capturedAt": "2026-11-26T14:56:26.316Z",
+  "capturedAt": "2026-11-26T23:42:17.627Z",
   "clanLevel": 9,
-  "memberCount": 45,
+  "memberCount": 44,
   "members": [
     {
       "tag": "#QUV9Q9VC",
@@ -66,7 +66,7 @@
       "th": 17,
       "expLevel": 219,
       "trophies": 0,
-      "donations": 850,
+      "donations": 880,
       "donationsReceived": 0,
       "capitalContributions": 0
     },
@@ -87,8 +87,8 @@
       "role": "admin",
       "th": 16,
       "expLevel": 149,
-      "trophies": 311,
-      "donations": 2337,
+      "trophies": 323,
+      "donations": 2342,
       "donationsReceived": 2491,
       "capitalContributions": 0
     },
@@ -98,9 +98,9 @@
       "role": "admin",
       "th": 16,
       "expLevel": 181,
-      "trophies": 211,
+      "trophies": 305,
       "donations": 109,
-      "donationsReceived": 1312,
+      "donationsReceived": 1395,
       "capitalContributions": 0
     },
     {
@@ -122,7 +122,7 @@
       "expLevel": 141,
       "trophies": 254,
       "donations": 2527,
-      "donationsReceived": 1516,
+      "donationsReceived": 1523,
       "capitalContributions": 0
     },
     {
@@ -143,7 +143,7 @@
       "th": 15,
       "expLevel": 165,
       "trophies": 0,
-      "donations": 690,
+      "donations": 783,
       "donationsReceived": 1973,
       "capitalContributions": 0
     },
@@ -155,7 +155,7 @@
       "expLevel": 185,
       "trophies": 368,
       "donations": 143,
-      "donationsReceived": 415,
+      "donationsReceived": 498,
       "capitalContributions": 0
     },
     {
@@ -207,9 +207,9 @@
       "name": "Toslim",
       "role": "admin",
       "th": 13,
-      "expLevel": 120,
+      "expLevel": 121,
       "trophies": 382,
-      "donations": 772,
+      "donations": 825,
       "donationsReceived": 740,
       "capitalContributions": 0
     },
@@ -219,9 +219,20 @@
       "role": "admin",
       "th": 14,
       "expLevel": 176,
-      "trophies": 339,
+      "trophies": 359,
       "donations": 1905,
       "donationsReceived": 467,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#PJ22QYY22",
+      "name": "thegodlynoob",
+      "role": "admin",
+      "th": 13,
+      "expLevel": 110,
+      "trophies": 298,
+      "donations": 3,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -233,17 +244,6 @@
       "trophies": 154,
       "donations": 275,
       "donationsReceived": 77,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#PJ22QYY22",
-      "name": "thegodlynoob",
-      "role": "admin",
-      "th": 13,
-      "expLevel": 110,
-      "trophies": 48,
-      "donations": 3,
-      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -318,7 +318,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 117,
-      "trophies": 41,
+      "trophies": 44,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -396,8 +396,8 @@
       "th": 18,
       "expLevel": 208,
       "trophies": 0,
-      "donations": 196,
-      "donationsReceived": 256,
+      "donations": 198,
+      "donationsReceived": 266,
       "capitalContributions": 0
     },
     {
@@ -438,18 +438,7 @@
       "name": "asap",
       "role": "admin",
       "th": 14,
-      "expLevel": 151,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#9JV8R2QJC",
-      "name": "Shimanto",
-      "role": "admin",
-      "th": 14,
-      "expLevel": 214,
+      "expLevel": 152,
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
