@@ -1,8 +1,8 @@
 {
   "date": "2026-11-27",
-  "capturedAt": "2026-11-27T08:01:10.390Z",
+  "capturedAt": "2026-11-27T18:49:07.341Z",
   "clanLevel": 9,
-  "memberCount": 45,
+  "memberCount": 46,
   "members": [
     {
       "tag": "#QUV9Q9VC",
@@ -21,9 +21,9 @@
       "role": "admin",
       "th": 17,
       "expLevel": 272,
-      "trophies": 58,
-      "donations": 1269,
-      "donationsReceived": 2414,
+      "trophies": 74,
+      "donations": 1344,
+      "donationsReceived": 2472,
       "capitalContributions": 0
     },
     {
@@ -88,8 +88,8 @@
       "th": 16,
       "expLevel": 150,
       "trophies": 393,
-      "donations": 2391,
-      "donationsReceived": 2597,
+      "donations": 2555,
+      "donationsReceived": 2703,
       "capitalContributions": 0
     },
     {
@@ -104,6 +104,17 @@
       "capitalContributions": 0
     },
     {
+      "tag": "#GYVPLJRRL",
+      "name": "DaHairyVeer2",
+      "role": "coLeader",
+      "th": 15,
+      "expLevel": 142,
+      "trophies": 403,
+      "donations": 2565,
+      "donationsReceived": 1634,
+      "capitalContributions": 0
+    },
+    {
       "tag": "#R292L228Q",
       "name": "Ikena",
       "role": "coLeader",
@@ -115,23 +126,12 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#GYVPLJRRL",
-      "name": "DaHairyVeer2",
-      "role": "coLeader",
-      "th": 15,
-      "expLevel": 141,
-      "trophies": 263,
-      "donations": 2527,
-      "donationsReceived": 1604,
-      "capitalContributions": 0
-    },
-    {
       "tag": "#GGRR02GLG",
       "name": "jude",
       "role": "admin",
       "th": 14,
       "expLevel": 126,
-      "trophies": 359,
+      "trophies": 387,
       "donations": 260,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -141,10 +141,10 @@
       "name": "THE ROCK",
       "role": "admin",
       "th": 15,
-      "expLevel": 165,
+      "expLevel": 166,
       "trophies": 0,
       "donations": 783,
-      "donationsReceived": 1973,
+      "donationsReceived": 2071,
       "capitalContributions": 0
     },
     {
@@ -165,6 +165,17 @@
       "th": 15,
       "expLevel": 182,
       "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#PL9J2JC22",
+      "name": "simon",
+      "role": "member",
+      "th": 15,
+      "expLevel": 178,
+      "trophies": 235,
       "donations": 0,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -208,7 +219,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 121,
-      "trophies": 382,
+      "trophies": 422,
       "donations": 825,
       "donationsReceived": 740,
       "capitalContributions": 0
@@ -230,7 +241,7 @@
       "role": "member",
       "th": 14,
       "expLevel": 140,
-      "trophies": 154,
+      "trophies": 166,
       "donations": 275,
       "donationsReceived": 77,
       "capitalContributions": 0
@@ -297,8 +308,8 @@
       "th": 13,
       "expLevel": 189,
       "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 715,
+      "donations": 53,
+      "donationsReceived": 792,
       "capitalContributions": 0
     },
     {
@@ -329,9 +340,9 @@
       "role": "coLeader",
       "th": 11,
       "expLevel": 74,
-      "trophies": 28,
+      "trophies": 321,
       "donations": 118,
-      "donationsReceived": 1624,
+      "donationsReceived": 1723,
       "capitalContributions": 0
     },
     {
@@ -350,7 +361,7 @@
       "name": "samia",
       "role": "member",
       "th": 8,
-      "expLevel": 45,
+      "expLevel": 46,
       "trophies": 233,
       "donations": 0,
       "donationsReceived": 0,
@@ -404,10 +415,10 @@
       "tag": "#CVLPRGYY",
       "name": "Schlitz",
       "role": "admin",
-      "th": 15,
+      "th": 16,
       "expLevel": 178,
       "trophies": 0,
-      "donations": 607,
+      "donations": 647,
       "donationsReceived": 605,
       "capitalContributions": 0
     },
@@ -484,8 +495,8 @@
       "th": 19,
       "expLevel": 242,
       "trophies": 0,
-      "donations": 1198,
-      "donationsReceived": 778,
+      "donations": 1351,
+      "donationsReceived": 833,
       "capitalContributions": 0
     },
     {
