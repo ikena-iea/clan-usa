@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T01:51:24.907Z",
+  "generatedAt": "2026-11-28T10:08:27.532Z",
   "snapshotDate": "2026-11-28",
   "snapshotsAvailable": 31,
   "raidWeekendsAvailable": 4,
@@ -1282,6 +1282,39 @@
       }
     },
     {
+      "tag": "#8Y0G8L8CU",
+      "name": "assyahardy_06",
+      "role": "member",
+      "th": 15,
+      "firstSeen": "2026-11-28",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 43,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#PL9J2JC22",
       "name": "simon",
       "role": "member",
@@ -1383,22 +1416,22 @@
       }
     },
     {
-      "tag": "#LCLVYJYGC",
-      "name": "turjo",
+      "tag": "#GV2LCQPYC",
+      "name": "ريتاج احمد",
       "role": "member",
-      "th": 14,
-      "firstSeen": "2026-11-18",
-      "daysPresent": 10,
+      "th": 13,
+      "firstSeen": "2026-11-28",
+      "daysPresent": 1,
       "inGrace": true,
-      "gracePeriodEndsIn": 4,
-      "warsJoined": 1,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
       "warsTotal": 43,
       "clan": {
         "total": null,
         "pillars": {
           "donations": 0,
-          "raids": 0,
-          "loot": 0
+          "raids": null,
+          "loot": null
         },
         "tier": null
       },
@@ -1409,41 +1442,8 @@
           "reliability": null,
           "performance": null
         },
-        "available": 2,
+        "available": 0,
         "used": 0,
-        "misses": 2,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#QVJ0G9UR2",
-      "name": "lion, J 46",
-      "role": "member",
-      "th": 14,
-      "firstSeen": "2026-11-18",
-      "daysPresent": 10,
-      "inGrace": true,
-      "gracePeriodEndsIn": 4,
-      "warsJoined": 1,
-      "warsTotal": 43,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 2,
-        "used": 2,
         "misses": 0,
         "tier": null
       }
@@ -1515,6 +1515,39 @@
       }
     },
     {
+      "tag": "#GYVCGJJG2",
+      "name": "Meitei",
+      "role": "member",
+      "th": 18,
+      "firstSeen": "2026-11-28",
+      "daysPresent": 1,
+      "inGrace": true,
+      "gracePeriodEndsIn": 13,
+      "warsJoined": 0,
+      "warsTotal": 43,
+      "clan": {
+        "total": null,
+        "pillars": {
+          "donations": 0,
+          "raids": null,
+          "loot": null
+        },
+        "tier": null
+      },
+      "war": {
+        "total": null,
+        "status": "New",
+        "pillars": {
+          "reliability": null,
+          "performance": null
+        },
+        "available": 0,
+        "used": 0,
+        "misses": 0,
+        "tier": null
+      }
+    },
+    {
       "tag": "#GQLRC8P8",
       "name": "cristian franco",
       "role": "member",
@@ -1544,39 +1577,6 @@
         "available": 0,
         "used": 0,
         "misses": 0,
-        "tier": null
-      }
-    },
-    {
-      "tag": "#G8UYRYCQQ",
-      "name": "tobito",
-      "role": "member",
-      "th": 14,
-      "firstSeen": "2026-11-18",
-      "daysPresent": 10,
-      "inGrace": true,
-      "gracePeriodEndsIn": 4,
-      "warsJoined": 1,
-      "warsTotal": 43,
-      "clan": {
-        "total": null,
-        "pillars": {
-          "donations": 0,
-          "raids": 0,
-          "loot": 0
-        },
-        "tier": null
-      },
-      "war": {
-        "total": null,
-        "status": "New",
-        "pillars": {
-          "reliability": null,
-          "performance": null
-        },
-        "available": 2,
-        "used": 0,
-        "misses": 2,
         "tier": null
       }
     }

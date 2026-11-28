@@ -1,7 +1,7 @@
 {
   "date": "2026-11-28",
-  "capturedAt": "2026-11-28T01:51:24.331Z",
-  "clanLevel": 9,
+  "capturedAt": "2026-11-28T10:08:26.974Z",
+  "clanLevel": 10,
   "memberCount": 46,
   "members": [
     {
@@ -33,7 +33,7 @@
       "th": 18,
       "expLevel": 218,
       "trophies": 333,
-      "donations": 2024,
+      "donations": 2074,
       "donationsReceived": 177,
       "capitalContributions": 0
     },
@@ -88,7 +88,7 @@
       "th": 16,
       "expLevel": 150,
       "trophies": 393,
-      "donations": 2585,
+      "donations": 2588,
       "donationsReceived": 2703,
       "capitalContributions": 0
     },
@@ -109,9 +109,9 @@
       "role": "coLeader",
       "th": 15,
       "expLevel": 142,
-      "trophies": 458,
-      "donations": 2565,
-      "donationsReceived": 1667,
+      "trophies": 466,
+      "donations": 2574,
+      "donationsReceived": 1750,
       "capitalContributions": 0
     },
     {
@@ -131,7 +131,7 @@
       "role": "admin",
       "th": 14,
       "expLevel": 126,
-      "trophies": 387,
+      "trophies": 400,
       "donations": 260,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -167,6 +167,17 @@
       "trophies": 0,
       "donations": 0,
       "donationsReceived": 0,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#8Y0G8L8CU",
+      "name": "assyahardy_06",
+      "role": "member",
+      "th": 15,
+      "expLevel": 214,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 53,
       "capitalContributions": 0
     },
     {
@@ -220,7 +231,7 @@
       "th": 13,
       "expLevel": 121,
       "trophies": 422,
-      "donations": 825,
+      "donations": 898,
       "donationsReceived": 740,
       "capitalContributions": 0
     },
@@ -230,7 +241,7 @@
       "role": "admin",
       "th": 13,
       "expLevel": 110,
-      "trophies": 298,
+      "trophies": 308,
       "donations": 3,
       "donationsReceived": 0,
       "capitalContributions": 0
@@ -241,7 +252,7 @@
       "role": "member",
       "th": 14,
       "expLevel": 140,
-      "trophies": 166,
+      "trophies": 192,
       "donations": 275,
       "donationsReceived": 77,
       "capitalContributions": 0
@@ -253,19 +264,8 @@
       "th": 13,
       "expLevel": 101,
       "trophies": 0,
-      "donations": 356,
+      "donations": 409,
       "donationsReceived": 0,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#LCLVYJYGC",
-      "name": "turjo",
-      "role": "member",
-      "th": 14,
-      "expLevel": 151,
-      "trophies": 0,
-      "donations": 0,
-      "donationsReceived": 47,
       "capitalContributions": 0
     },
     {
@@ -280,14 +280,14 @@
       "capitalContributions": 0
     },
     {
-      "tag": "#QVJ0G9UR2",
-      "name": "lion, J 46",
+      "tag": "#GV2LCQPYC",
+      "name": "ريتاج احمد",
       "role": "member",
-      "th": 14,
-      "expLevel": 90,
-      "trophies": 0,
+      "th": 13,
+      "expLevel": 111,
+      "trophies": 152,
       "donations": 0,
-      "donationsReceived": 109,
+      "donationsReceived": 77,
       "capitalContributions": 0
     },
     {
@@ -340,7 +340,7 @@
       "role": "coLeader",
       "th": 11,
       "expLevel": 74,
-      "trophies": 321,
+      "trophies": 361,
       "donations": 118,
       "donationsReceived": 1723,
       "capitalContributions": 0
@@ -396,7 +396,7 @@
       "th": 19,
       "expLevel": 257,
       "trophies": 0,
-      "donations": 1650,
+      "donations": 1654,
       "donationsReceived": 629,
       "capitalContributions": 0
     },
@@ -416,10 +416,21 @@
       "name": "Schlitz",
       "role": "admin",
       "th": 16,
-      "expLevel": 178,
+      "expLevel": 179,
       "trophies": 0,
       "donations": 647,
       "donationsReceived": 605,
+      "capitalContributions": 0
+    },
+    {
+      "tag": "#GYVCGJJG2",
+      "name": "Meitei",
+      "role": "member",
+      "th": 18,
+      "expLevel": 186,
+      "trophies": 0,
+      "donations": 0,
+      "donationsReceived": 0,
       "capitalContributions": 0
     },
     {
@@ -495,19 +506,8 @@
       "th": 19,
       "expLevel": 242,
       "trophies": 0,
-      "donations": 1411,
-      "donationsReceived": 888,
-      "capitalContributions": 0
-    },
-    {
-      "tag": "#G8UYRYCQQ",
-      "name": "tobito",
-      "role": "member",
-      "th": 14,
-      "expLevel": 102,
-      "trophies": 0,
-      "donations": 48,
-      "donationsReceived": 0,
+      "donations": 1441,
+      "donationsReceived": 897,
       "capitalContributions": 0
     }
   ]
